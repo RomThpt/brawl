@@ -59,9 +59,12 @@ nw4r::g3d::ResFileData* emExternalValueAccesser::getFaceTexPtr(Enemy* em, u32 ta
     if (taskId == -1 || taskId == em->m_taskId) {
         return em->getFaceTexPtr();
     }
-
     const wnemSimple* wn = emWeaponManager::getInstance()->GetManagedWeaponFromTaskID(taskId);
-    return (!wn) ? em->getFaceTexPtr() : em->getFaceTexPtr(wn->unk21EC);
+    if (!wn) {
+        return em->getFaceTexPtr();
+    }
+    const u32& v = wn->unk21EC;
+    return em->getFaceTexPtr(v);
 }
 
 float emExternalValueAccesser::getScore(Enemy* em) {
