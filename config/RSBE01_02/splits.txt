@@ -27,11 +27,26 @@ sora/sr/sr_revision.cpp:
 sora/main.cpp:
 	.text       start:0x8000C8E8 end:0x8000C960
 
+stub/fn_8000E1F4.c:
+	.text       start:0x8000E1F4 end:0x8000E1F8
+
+stub/fn_8000E7AC.c:
+	.text       start:0x8000E7AC end:0x8000E7B0
+
 sora/gf/gf_3d_scene_event.cpp:
 	.text       start:0x80010C9C end:0x80010D38
 
 sora/gf/gf_3d_scene_light_resource.cpp:
 	.text       start:0x80010D38 end:0x80010D5C
+
+stub/fn_80011148.c:
+	.text       start:0x80011148 end:0x80011150
+
+stub/fn_80011C2C.c:
+	.text       start:0x80011C2C end:0x80011C30
+
+stub/fn_80011C70.c:
+	.text       start:0x80011C70 end:0x80011C74
 
 sora/gf/gf_archive_load_thread.cpp:
 	.text       start:0x800134C0 end:0x800134C4
@@ -62,6 +77,9 @@ sora/gf/gf_error_check.cpp:
 	.bss        start:0x804948E8 end:0x80494900
 	.sdata      start:0x8059C508 end:0x8059C520
 
+stub/fn_8001B9E8.c:
+	.text       start:0x8001B9E8 end:0x8001B9EC
+
 sora/gf/gf_file_io_handle.cpp:
 	.text       start:0x80020B38 end:0x80022054
 
@@ -73,6 +91,9 @@ sora/gf/gf_gameframe_counter.cpp:
 
 sora/gf/gf_keep_fb.cpp:
 	.text       start:0x80024D6C end:0x80024E50
+
+stub/fn_800259A0.c:
+	.text       start:0x800259A0 end:0x800259A4
 
 sora/gf/gf_memory_util.cpp:
 	.text       start:0x80026474 end:0x80026478
@@ -108,6 +129,15 @@ sora/gf/gf_slow_manager.cpp:
 	.sdata      start:0x8059C690 end:0x8059C698
 	.sbss       start:0x805A0080 end:0x805A0088
 	.sdata2     start:0x805A15E0 end:0x805A15F0
+
+stub/fn_80033B44.c:
+	.text       start:0x80033B44 end:0x80033B48
+
+stub/fn_8003626C.c:
+	.text       start:0x8003626C end:0x80036270
+
+stub/fn_80036754.c:
+	.text       start:0x80036754 end:0x8003675C
 
 sora/gf/gf_system_callback.cpp:
 	.text       start:0x80038684 end:0x800387AC
@@ -157,6 +187,15 @@ sora/ut/ut_relocate.cpp:
 sora/ut/ut_list.cpp:
 	.text       start:0x800448F8 end:0x80044AD0
 
+stub/fn_80046A24.c:
+	.text       start:0x80046A24 end:0x80046A28
+
+stub/fn_8004755C.c:
+	.text       start:0x8004755C end:0x80047560
+
+stub/fn_80047FC8.c:
+	.text       start:0x80047FC8 end:0x80047FCC
+
 sora/ip/ip_human.cpp:
 	.text       start:0x80048118 end:0x80048548
 	.data       start:0x8042B810 end:0x8042B858
@@ -167,12 +206,42 @@ sora/ip/ip_network_producer.cpp:
 	.text       start:0x8004AE14 end:0x8004AFB4
 	.sbss       start:0x805A00D8 end:0x805A00E0
 
+stub/fn_8004EFA0.c:
+	.text       start:0x8004EFA0 end:0x8004EFA8
+
+stub/fn_800569F8.c:
+	.text       start:0x800569F8 end:0x800569FC
+
+stub/fn_8005A988.c:
+	.text       start:0x8005A988 end:0x8005A98C
+
+stub/fn_8005A9BC.c:
+	.text       start:0x8005A9BC end:0x8005A9C0
+
+stub/fn_8005B830.c:
+	.text       start:0x8005B830 end:0x8005B834
+
 sora/ef/ef_screen_handle.cpp:
 	.text       start:0x8005E5C8 end:0x8005E5E8
+
+stub/fn_8005F660.c:
+	.text       start:0x8005F660 end:0x8005F668
 
 sora/ec/ec_trace_mgr.cpp:
 	.text       start:0x80065458 end:0x80065B60
 	.sdata2     start:0x805A1988 end:0x805A1990
+
+stub/fn_80065BF8.c:
+	.text       start:0x80065BF8 end:0x80065BFC
+
+stub/fn_80065E60.c:
+	.text       start:0x80065E60 end:0x80065E64
+
+stub/fn_8006EBC4.c:
+	.text       start:0x8006EBC4 end:0x8006EBCC
+
+stub/fn_8007748C.c:
+	.text       start:0x8007748C end:0x80077490
 
 sora/snd/snd_init_thread.cpp:
 	.text       start:0x800797AC end:0x800798E8
@@ -183,19 +252,58 @@ sora/mv/mv_THPAudioDecode.cpp:
 	.text       start:0x8007B0B4 end:0x8007B4A4
 	.sbss       start:0x805A01E0 end:0x805A01E4
 
+stub/fn_8007BC98.c:
+	.text       start:0x8007BC98 end:0x8007BCA0
+
 sora/mv/mv_THPRead.cpp:
 	.text       start:0x8007E0EC end:0x8007E3A4
 	.sbss       start:0x805A0200 end:0x805A0204
 
+stub/fn_8007E3A4.c:
+	.text       start:0x8007E3A4 end:0x8007E3AC
+
+stub/fn_80080A64.c:
+	.text       start:0x80080A64 end:0x80080A68
+
+stub/fn_80095F70.c:
+	.text       start:0x80095F70 end:0x80095F78
+
+stub/fn_80096690.c:
+	.text       start:0x80096690 end:0x80096694
+
+stub/fn_800986A8.c:
+	.text       start:0x800986A8 end:0x800986AC
+
+stub/fn_8009A040.c:
+	.text       start:0x8009A040 end:0x8009A048
+
+stub/fn_8009BA28.c:
+	.text       start:0x8009BA28 end:0x8009BA2C
+
+stub/fn_8009C618.c:
+	.text       start:0x8009C618 end:0x8009C61C
+
+stub/fn_8009CC20.c:
+	.text       start:0x8009CC20 end:0x8009CC2C
+
 sora/cm/cm_controller_default.cpp:
 	.text       start:0x8009F560 end:0x8009F564
 	.data       start:0x80454CC0 end:0x80454CD0
+
+stub/fn_800A5F6C.c:
+	.text       start:0x800A5F6C end:0x800A5F70
 
 sora/cm/cm_controller_menu_fixed.cpp:
 	.text       start:0x800A68C0 end:0x800A6A78
 	.data       start:0x80454ED8 end:0x80454F10
 	.sdata      start:0x8059DEB8 end:0x8059DEC0
 	.sdata2     start:0x805A2048 end:0x805A2058
+
+stub/fn_800A6CF4.c:
+	.text       start:0x800A6CF4 end:0x800A6CF8
+
+stub/fn_800A7D5C.c:
+	.text       start:0x800A7D5C end:0x800A7D60
 
 sora/cm/cm_controller_melee_fixed.cpp:
 	.text       start:0x800AA998 end:0x800AA9F8
@@ -210,15 +318,78 @@ sora/ty/ty_fig_listmng.cpp:
 	.text       start:0x800AC9DC end:0x800AD808
 	.data       start:0x80455120 end:0x80455180
 
+stub/fn_800B0790.c:
+	.text       start:0x800B0790 end:0x800B0794
+
+stub/fn_800B0854.c:
+	.text       start:0x800B0854 end:0x800B0858
+
+stub/fn_800B08A0.c:
+	.text       start:0x800B08A0 end:0x800B08A8
+
+stub/fn_800B85AC.c:
+	.text       start:0x800B85AC end:0x800B85B0
+
+stub/fn_800C11F0.c:
+	.text       start:0x800C11F0 end:0x800C11F4
+
+stub/fn_800C137C.c:
+	.text       start:0x800C137C end:0x800C1380
+
+stub/fn_800C9B3C.c:
+	.text       start:0x800C9B3C end:0x800C9B44
+
+stub/fn_800DA6E8.c:
+	.text       start:0x800DA6E8 end:0x800DA6EC
+
+stub/fn_800E3384.c:
+	.text       start:0x800E3384 end:0x800E3388
+
+stub/fn_800E60E0.c:
+	.text       start:0x800E60E0 end:0x800E60E4
+
+stub/fn_800F1010.c:
+	.text       start:0x800F1010 end:0x800F1014
+
+stub/fn_800F28EC.c:
+	.text       start:0x800F28EC end:0x800F28F0
+
+stub/fn_800F59A4.c:
+	.text       start:0x800F59A4 end:0x800F59A8
+
+stub/fn_800F5EC8.c:
+	.text       start:0x800F5EC8 end:0x800F5ED8
+
+stub/fn_800F6D0C.c:
+	.text       start:0x800F6D0C end:0x800F6D10
+
+stub/fn_800FB3A4.c:
+	.text       start:0x800FB3A4 end:0x800FB3B4
+
 sora/if/if_wifipr_task.cpp:
 	.text       start:0x800FD110 end:0x800FD1F8
 	.data       start:0x8045C678 end:0x8045C708
 	.sdata      start:0x8059E4E8 end:0x8059E4F0
 
+stub/fn_800FD448.c:
+	.text       start:0x800FD448 end:0x800FD44C
+
+stub/fn_80103C40.c:
+	.text       start:0x80103C40 end:0x80103C44
+
+stub/fn_801056DC.c:
+	.text       start:0x801056DC end:0x801056E0
+
+stub/fn_80106E40.c:
+	.text       start:0x80106E40 end:0x80106E48
+
 sora/if/if_adv_task.cpp:
 	.text       start:0x80107EC4 end:0x80108014
 	.data       start:0x8045D070 end:0x8045D0F8
 	.sdata      start:0x8059E5F0 end:0x8059E5F8
+
+stub/fn_80108544.c:
+	.text       start:0x80108544 end:0x80108548
 
 sora/if/if_stgedit.cpp:
 	.text       start:0x8010EFD4 end:0x8010F310
@@ -234,6 +405,21 @@ sora/gr/collision/gr_collision_data.cpp:
 
 sora/gr/collision/gr_collision_handle.cpp:
 	.text       start:0x801122E4 end:0x8011234C
+
+stub/fn_80112C90.c:
+	.text       start:0x80112C90 end:0x80112C98
+
+stub/fn_8012407C.c:
+	.text       start:0x8012407C end:0x80124080
+
+stub/fn_80132224.c:
+	.text       start:0x80132224 end:0x80132228
+
+stub/fn_80132228.c:
+	.text       start:0x80132228 end:0x80132230
+
+stub/fn_80132230.c:
+	.text       start:0x80132230 end:0x80132240
 
 sora/gr/collision/gr_collision_shape_rhombus.cpp:
 	.text       start:0x80132B64 end:0x801330B8
@@ -274,19 +460,43 @@ sora/ft/ft_system.cpp:
 	.bss        start:0x8049EA20 end:0x8049EA30
 	.sbss       start:0x805A0380 end:0x805A0388
 
+stub/fn_8013D09C.c:
+	.text       start:0x8013D09C end:0x8013D0A0
+
+stub/fn_8013D118.c:
+	.text       start:0x8013D118 end:0x8013D11C
+
+stub/fn_80143C44.c:
+	.text       start:0x80143C44 end:0x80143C48
+
 sora/nt/nt_offline.cpp:
 	.text       start:0x8014C004 end:0x8014C180
 	.data       start:0x80460D40 end:0x80460D4C
 
+stub/fn_8014C754.c:
+	.text       start:0x8014C754 end:0x8014C75C
+
+stub/fn_8014C960.c:
+	.text       start:0x8014C960 end:0x8014C964
+
 sora/nt/d_net_connect.cpp:
 	.text       start:0x8014CC40 end:0x8014CD5C
 	.data       start:0x80460DC8 end:0x80460E00
+
+stub/fn_8014CD5C.c:
+	.text       start:0x8014CD5C end:0x8014CD60
 
 sora/nt/nt_etc_dwc.cpp:
 	.text       start:0x80150614 end:0x80150CE4
 	.data       start:0x80461070 end:0x804610F8
 	.bss        start:0x8049ECE0 end:0x8049ECF8
 	.sdata      start:0x8059E7E8 end:0x8059E7F0
+
+stub/fn_801593CC.c:
+	.text       start:0x801593CC end:0x801593D0
+
+stub/fn_80159B28.c:
+	.text       start:0x80159B28 end:0x80159B2C
 
 sora/ad/ad_static_data.cpp:
 	.text       start:0x8015B09C end:0x8015B0E0
