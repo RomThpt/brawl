@@ -122,6 +122,9 @@ mo_stub/st_halberd/fn_57_AC80.c:
 mo_stub/st_halberd/fn_57_AC8C.c:
 	.text       start:0x0000AC8C end:0x0000ACA0
 
+mo_stub/st_halberd/fn_57_ACA0.c:
+	.text       start:0x0000ACA0 end:0x0000ACC0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
 	.data       start:0x00003348 end:0x00003355
