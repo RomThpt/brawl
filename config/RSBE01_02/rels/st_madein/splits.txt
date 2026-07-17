@@ -20,6 +20,9 @@ mo_stub/st_madein/fn_65_68CC.c:
 mo_stub/st_madein/fn_65_68E4.c:
 	.text       start:0x000068E4 end:0x000068F0
 
+mo_stub/st_madein/fn_65_68F0.c:
+	.text       start:0x000068F0 end:0x00006914
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00006B24 end:0x00006BC0
 	.data       start:0x00000840 end:0x0000084D
