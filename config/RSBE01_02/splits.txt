@@ -227,6 +227,9 @@ sora/ef/ef_screen_handle.cpp:
 stub/fn_8005F660.c:
 	.text       start:0x8005F660 end:0x8005F668
 
+stub/fn_80065454.c:
+	.text       start:0x80065454 end:0x80065458
+
 sora/ec/ec_trace_mgr.cpp:
 	.text       start:0x80065458 end:0x80065B60
 	.sdata2     start:0x805A1988 end:0x805A1990
@@ -506,6 +509,105 @@ sora/st/st_data_container.cpp:
 	.text       start:0x8015BAB0 end:0x8015BBF4
 	.data       start:0x80462C08 end:0x80462C78
 	.sdata      start:0x8059E848 end:0x8059E858
+
+stub/fn_8015CBF8.c:
+	.text       start:0x8015CBF8 end:0x8015CC1C
+
+stub/fn_8015CC1C.c:
+	.text       start:0x8015CC1C end:0x8015CC2C
+
+stub/fn_8015CC38.c:
+	.text       start:0x8015CC38 end:0x8015CC44
+
+stub/fn_8015D300.c:
+	.text       start:0x8015D300 end:0x8015D308
+
+stub/fn_8015D308.c:
+	.text       start:0x8015D308 end:0x8015D330
+
+stub/fn_8015D330.c:
+	.text       start:0x8015D330 end:0x8015D340
+
+stub/fn_8015D700.c:
+	.text       start:0x8015D700 end:0x8015D718
+
+stub/fn_8015DB08.c:
+	.text       start:0x8015DB08 end:0x8015DB18
+
+stub/fn_8015E0C0.c:
+	.text       start:0x8015E0C0 end:0x8015E0C8
+
+stub/fn_8016B6DC.c:
+	.text       start:0x8016B6DC end:0x8016B6E0
+
+stub/fn_8016C47C.c:
+	.text       start:0x8016C47C end:0x8016C480
+
+stub/fn_8016E0C0.c:
+	.text       start:0x8016E0C0 end:0x8016E0C4
+
+stub/fn_8017941C.c:
+	.text       start:0x8017941C end:0x80179420
+
+stub/fn_8017BC34.c:
+	.text       start:0x8017BC34 end:0x8017BC38
+
+stub/fn_8017F894.c:
+	.text       start:0x8017F894 end:0x8017F898
+
+stub/fn_8017FBFC.c:
+	.text       start:0x8017FBFC end:0x8017FC00
+
+stub/fn_80182AE0.c:
+	.text       start:0x80182AE0 end:0x80182AE4
+
+stub/fn_80182B3C.c:
+	.text       start:0x80182B3C end:0x80182B40
+
+stub/fn_80183020.c:
+	.text       start:0x80183020 end:0x80183024
+
+stub/fn_80187D94.c:
+	.text       start:0x80187D94 end:0x80187D98
+
+stub/fn_8018BD00.c:
+	.text       start:0x8018BD00 end:0x8018BD08
+
+stub/fn_80197628.c:
+	.text       start:0x80197628 end:0x80197638
+
+stub/fn_80197D54.c:
+	.text       start:0x80197D54 end:0x80197D68
+
+stub/fn_80198A1C.c:
+	.text       start:0x80198A1C end:0x80198A30
+
+stub/fn_8019938C.c:
+	.text       start:0x8019938C end:0x8019939C
+
+stub/fn_8019939C.c:
+	.text       start:0x8019939C end:0x801993A0
+
+stub/fn_80199D34.c:
+	.text       start:0x80199D34 end:0x80199D48
+
+stub/fn_80199D50.c:
+	.text       start:0x80199D50 end:0x80199D54
+
+stub/fn_8019BBA4.c:
+	.text       start:0x8019BBA4 end:0x8019BBB8
+
+stub/fn_8019BBC0.c:
+	.text       start:0x8019BBC0 end:0x8019BBC4
+
+stub/fn_8019C97C.c:
+	.text       start:0x8019C97C end:0x8019C984
+
+stub/fn_8019C984.c:
+	.text       start:0x8019C984 end:0x8019C98C
+
+stub/fn_801B4A3C.c:
+	.text       start:0x801B4A3C end:0x801B4A48
 
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
