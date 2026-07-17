@@ -1003,6 +1003,8 @@ config.libs = [
             Object(NonMatching, "mo_fighter/ft_marth/ft_marth_status_uniq_process_special_lw.cpp"),
             Object(NonMatching, "mo_fighter/ft_marth/ft_marth_status_uniq_process_special_final.cpp"),
             Object(NonMatching, "mo_fighter/ft_marth/if_marth_final.cpp"),
+            Object(Matching, "mo_stub/ft_dedede/fn_117_A2B4.c"),
+            Object(Matching, "mo_stub/ft_dedede/fn_117_A300.c"),
         ],
     },
     {
