@@ -218,6 +218,21 @@ mo_stub/st_gw/fn_63_B15C.c:
 mo_stub/st_gw/fn_63_B224.c:
 	.text       start:0x0000B224 end:0x0000B22C
 
+mo_stub/st_gw/fn_63_BED0.c:
+	.text       start:0x0000BED0 end:0x0000BED8
+
+mo_stub/st_gw/fn_63_C944.c:
+	.text       start:0x0000C944 end:0x0000C94C
+
+mo_stub/st_gw/fn_63_D57C.c:
+	.text       start:0x0000D57C end:0x0000D584
+
+mo_stub/st_gw/fn_63_E220.c:
+	.text       start:0x0000E220 end:0x0000E228
+
+mo_stub/st_gw/fn_63_EF70.c:
+	.text       start:0x0000EF70 end:0x0000EF78
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
