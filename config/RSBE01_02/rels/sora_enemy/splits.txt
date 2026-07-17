@@ -337,6 +337,9 @@ mo_enemy/sora_enemy/killer/em_killer_param_accesser.cpp:
 	.data       start:0x000084B8 end:0x00008518
 	.bss        start:0x000002F0 end:0x00000308
 
+mo_stub/sora_enemy/fn_41_38BA4.c:
+	.text       start:0x00038BA4 end:0x00038BB4
+
 mo_enemy/sora_enemy/popperam/em_popperam_param_accesser.cpp:
 	.text       start:0x00038C68 end:0x00038F7C
 	.ctors      start:0x00000040 end:0x00000044
@@ -372,6 +375,9 @@ mo_enemy/sora_enemy/cymal/em_cymal_param_accesser.cpp:
 	.data       start:0x00009A18 end:0x00009A78
 	.bss        start:0x00000388 end:0x000003A0
 
+mo_stub/sora_enemy/fn_41_3B938.c:
+	.text       start:0x0003B938 end:0x0003B948
+
 mo_enemy/sora_enemy/deathpod/em_deathpod_param_accesser.cpp:
 	.text       start:0x0003B9C8 end:0x0003BC58
 	.ctors      start:0x00000058 end:0x0000005C
@@ -392,6 +398,9 @@ mo_enemy/sora_enemy/bucyulus/em_bucyulus_param_accesser.cpp:
 	.rodata     start:0x00000EF8 end:0x00000F00
 	.data       start:0x0000AA88 end:0x0000AB08
 	.bss        start:0x000003D0 end:0x000003E8
+
+mo_stub/sora_enemy/fn_41_3DBA8.c:
+	.text       start:0x0003DBA8 end:0x0003DBB0
 
 mo_enemy/sora_enemy/botron/em_botron_param_accesser.cpp:
 	.text       start:0x0003DC08 end:0x0003DEF8
