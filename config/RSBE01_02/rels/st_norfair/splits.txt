@@ -74,6 +74,9 @@ mo_stub/st_norfair/fn_54_2A80.c:
 mo_stub/st_norfair/fn_54_2AB0.c:
 	.text       start:0x00002AB0 end:0x00002AB8
 
+mo_stub/st_norfair/fn_54_2AB8.c:
+	.text       start:0x00002AB8 end:0x00002AC0
+
 mo_stub/st_norfair/fn_54_2AC0.c:
 	.text       start:0x00002AC0 end:0x00002AC8
 
@@ -97,6 +100,12 @@ mo_stub/st_norfair/fn_54_33A8.c:
 
 mo_stub/st_norfair/fn_54_51E8.c:
 	.text       start:0x000051E8 end:0x000051F0
+
+mo_stub/st_norfair/fn_54_51F0.c:
+	.text       start:0x000051F0 end:0x00005204
+
+mo_stub/st_norfair/fn_54_5308.c:
+	.text       start:0x00005308 end:0x0000530C
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010210 end:0x000102AC
