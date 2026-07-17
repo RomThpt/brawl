@@ -56,6 +56,21 @@ mo_stub/ft_robot/fn_120_98C0.c:
 mo_stub/ft_robot/fn_120_9980.c:
 	.text       start:0x00009980 end:0x00009988
 
+mo_stub/ft_robot/fn_120_9A5C.c:
+	.text       start:0x00009A5C end:0x00009A64
+
+mo_stub/ft_robot/fn_120_9AF4.c:
+	.text       start:0x00009AF4 end:0x00009AFC
+
+mo_stub/ft_robot/fn_120_9BB4.c:
+	.text       start:0x00009BB4 end:0x00009BBC
+
+mo_stub/ft_robot/fn_120_AF30.c:
+	.text       start:0x0000AF30 end:0x0000AF38
+
+mo_stub/ft_robot/fn_120_BD80.c:
+	.text       start:0x0000BD80 end:0x0000BD84
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000184C8 end:0x00018564
 	.data       start:0x00008690 end:0x0000869F
