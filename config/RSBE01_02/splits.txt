@@ -834,8 +834,20 @@ stub/fn_801CF32C.c:
 stub/fn_801CF62C.c:
 	.text       start:0x801CF62C end:0x801CF634
 
+stub/fn_801CF634.c:
+	.text       start:0x801CF634 end:0x801CF644
+
+stub/fn_801CF980.c:
+	.text       start:0x801CF980 end:0x801CF988
+
 stub/fn_801D2ACC.c:
 	.text       start:0x801D2ACC end:0x801D2AD0
+
+stub/fn_801D36BC.c:
+	.text       start:0x801D36BC end:0x801D36C4
+
+stub/fn_801D3C38.c:
+	.text       start:0x801D3C38 end:0x801D3C40
 
 stub/fn_801D4F6C.c:
 	.text       start:0x801D4F6C end:0x801D4F70
