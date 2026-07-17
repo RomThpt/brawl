@@ -107,6 +107,15 @@ mo_stub/ft_dedede/fn_117_151C8.c:
 mo_stub/ft_dedede/fn_117_152DC.c:
 	.text       start:0x000152DC end:0x000152E4
 
+mo_stub/ft_dedede/fn_117_152E4.c:
+	.text       start:0x000152E4 end:0x000152F4
+
+mo_stub/ft_dedede/fn_117_15300.c:
+	.text       start:0x00015300 end:0x00015308
+
+mo_stub/ft_dedede/fn_117_15314.c:
+	.text       start:0x00015314 end:0x0001531C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04
 	.data       start:0x0000C608 end:0x0000C617
