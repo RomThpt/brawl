@@ -1814,6 +1814,9 @@ config.libs = [
             Object(Matching, "mo_stage/st_crayon/gr_crayon_yakumono.cpp"),
             Object(Matching, "mo_stub/st_battle/fn_43_1E4.c"),
             Object(Matching, "mo_stub/st_battle/fn_43_8C0.c"),
+            Object(Matching, "mo_stub/st_battle/fn_43_8E0.c"),
+            Object(Matching, "mo_stub/st_battle/fn_43_8F4.c"),
+            Object(Matching, "mo_stub/st_battle/fn_43_938.c"),
         ],
     },
     {
