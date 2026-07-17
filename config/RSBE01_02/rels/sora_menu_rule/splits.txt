@@ -21,6 +21,9 @@ mo_stub/sora_menu_rule/fn_18_1194.c:
 mo_stub/sora_menu_rule/fn_18_1198.c:
 	.text       start:0x00001198 end:0x000011AC
 
+mo_stub/sora_menu_rule/fn_18_12D8.c:
+	.text       start:0x000012D8 end:0x000012E0
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x00009638 end:0x000096D4
 	.data       start:0x00001938 end:0x00001944
