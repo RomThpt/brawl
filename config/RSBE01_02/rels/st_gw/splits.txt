@@ -185,6 +185,18 @@ mo_stub/st_gw/fn_63_97B0.c:
 mo_stub/st_gw/fn_63_97E0.c:
 	.text       start:0x000097E0 end:0x000097E8
 
+mo_stub/st_gw/fn_63_9830.c:
+	.text       start:0x00009830 end:0x00009834
+
+mo_stub/st_gw/fn_63_9BDC.c:
+	.text       start:0x00009BDC end:0x00009BE4
+
+mo_stub/st_gw/fn_63_9D68.c:
+	.text       start:0x00009D68 end:0x00009D70
+
+mo_stub/st_gw/fn_63_AD1C.c:
+	.text       start:0x0000AD1C end:0x0000AD28
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
