@@ -1134,6 +1134,9 @@ config.libs = [
         "host": False,
         "objects": [
             Object(NonMatching, "mo_fighter/ft_purin/ft_purin.cpp"),
+            Object(Matching, "mo_stub/ft_ness/fn_101_92E8.c"),
+            Object(Matching, "mo_stub/ft_ness/fn_101_CF94.c"),
+            Object(Matching, "mo_stub/ft_ness/fn_101_CFDC.c"),
         ],
     },
     {
