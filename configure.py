@@ -2809,6 +2809,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_oldin/fn_53_4188.c"),
             Object(Matching, "mo_stub/st_oldin/fn_53_4250.c"),
             Object(Matching, "mo_stub/st_oldin/fn_53_42B0.c"),
+            Object(Matching, "mo_stub/st_oldin/fn_53_42FC.c"),
+            Object(Matching, "mo_stub/st_oldin/fn_53_4324.c"),
         ],
     },
     {
