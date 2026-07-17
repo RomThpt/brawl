@@ -1865,6 +1865,10 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stage/st_dxbigblue/gr_dxbigblue.cpp"),
+            Object(Matching, "mo_stub/st_croll/fn_90_404.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_1C94.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_4C38.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_7A34.c"),
         ],
     },
     {
