@@ -71,6 +71,21 @@ mo_stub/ft_wolf/fn_125_B188.c:
 mo_stub/ft_wolf/fn_125_B270.c:
 	.text       start:0x0000B270 end:0x0000B278
 
+mo_stub/ft_wolf/fn_125_B308.c:
+	.text       start:0x0000B308 end:0x0000B310
+
+mo_stub/ft_wolf/fn_125_B3C8.c:
+	.text       start:0x0000B3C8 end:0x0000B3D0
+
+mo_stub/ft_wolf/fn_125_C808.c:
+	.text       start:0x0000C808 end:0x0000C810
+
+mo_stub/ft_wolf/fn_125_D69C.c:
+	.text       start:0x0000D69C end:0x0000D6A0
+
+mo_stub/ft_wolf/fn_125_DDAC.c:
+	.text       start:0x0000DDAC end:0x0000DDB0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010F04 end:0x00010FA0
 	.data       start:0x00007BA8 end:0x00007BB7
