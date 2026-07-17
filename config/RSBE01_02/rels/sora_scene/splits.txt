@@ -50,6 +50,15 @@ mo_scene/sora_scene/sc_seal_disp.cpp:
 	.rodata     start:0x00000018 end:0x00000020
 	.data       start:0x000018D8 end:0x00001920
 
+mo_stub/sora_scene/fn_1_7F9C.c:
+	.text       start:0x00007F9C end:0x00007FA4
+
+mo_stub/sora_scene/fn_1_8148.c:
+	.text       start:0x00008148 end:0x00008150
+
+mo_stub/sora_scene/fn_1_8A80.c:
+	.text       start:0x00008A80 end:0x00008A94
+
 mo_scene/sora_scene/sc_net_time_result.cpp:
 	.text       start:0x0000C824 end:0x0000C9C4
 	.data       start:0x000040D0 end:0x00004140
