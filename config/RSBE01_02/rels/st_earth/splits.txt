@@ -170,6 +170,21 @@ mo_stub/st_earth/fn_66_A734.c:
 mo_stub/st_earth/fn_66_B3E0.c:
 	.text       start:0x0000B3E0 end:0x0000B3E8
 
+mo_stub/st_earth/fn_66_BE54.c:
+	.text       start:0x0000BE54 end:0x0000BE5C
+
+mo_stub/st_earth/fn_66_CA8C.c:
+	.text       start:0x0000CA8C end:0x0000CA94
+
+mo_stub/st_earth/fn_66_D8D4.c:
+	.text       start:0x0000D8D4 end:0x0000D8DC
+
+mo_stub/st_earth/fn_66_E5B0.c:
+	.text       start:0x0000E5B0 end:0x0000E5B8
+
+mo_stub/st_earth/fn_66_ED9C.c:
+	.text       start:0x0000ED9C end:0x0000EDA4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000139C4 end:0x00013A60
 	.data       start:0x00003FE0 end:0x00003FED
