@@ -915,6 +915,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_captain/fn_100_95BC.c"),
+            Object(Matching, "mo_stub/ft_captain/fn_100_95D0.c"),
         ],
     },
     {
