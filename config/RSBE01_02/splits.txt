@@ -528,6 +528,18 @@ stub/fn_8015D330.c:
 stub/fn_8015D700.c:
 	.text       start:0x8015D700 end:0x8015D718
 
+stub/fn_8015DB08.c:
+	.text       start:0x8015DB08 end:0x8015DB18
+
+stub/fn_8015E0C0.c:
+	.text       start:0x8015E0C0 end:0x8015E0C8
+
+stub/fn_8016B6DC.c:
+	.text       start:0x8016B6DC end:0x8016B6E0
+
+stub/fn_8016C47C.c:
+	.text       start:0x8016C47C end:0x8016C480
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
