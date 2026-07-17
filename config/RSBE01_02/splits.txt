@@ -1191,6 +1191,12 @@ stub/fn_80295104.c:
 stub/fn_80295108.c:
 	.text       start:0x80295108 end:0x80295120
 
+stub/fn_80295120.c:
+	.text       start:0x80295120 end:0x80295128
+
+stub/fn_80295130.c:
+	.text       start:0x80295130 end:0x80295148
+
 stub/fn_80296734.c:
 	.text       start:0x80296734 end:0x8029673C
 
@@ -1202,6 +1208,9 @@ stub/fn_80297494.c:
 
 stub/fn_80297754.c:
 	.text       start:0x80297754 end:0x80297758
+
+stub/fn_80298190.c:
+	.text       start:0x80298190 end:0x80298198
 
 stub/fn_80298EA8.c:
 	.text       start:0x80298EA8 end:0x80298EAC
