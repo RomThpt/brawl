@@ -1229,6 +1229,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_donkey/fn_92_C698.c"),
             Object(Matching, "mo_stub/ft_donkey/fn_92_C780.c"),
             Object(Matching, "mo_stub/ft_donkey/fn_92_C868.c"),
+            Object(Matching, "mo_stub/ft_donkey/fn_92_CEE8.c"),
         ],
     },
     {
