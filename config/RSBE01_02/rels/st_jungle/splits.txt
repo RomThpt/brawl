@@ -86,6 +86,18 @@ mo_stub/st_jungle/fn_51_335C.c:
 mo_stub/st_jungle/fn_51_33A8.c:
 	.text       start:0x000033A8 end:0x000033AC
 
+mo_stub/st_jungle/fn_51_33AC.c:
+	.text       start:0x000033AC end:0x000033B4
+
+mo_stub/st_jungle/fn_51_33D0.c:
+	.text       start:0x000033D0 end:0x000033E0
+
+mo_stub/st_jungle/fn_51_3D54.c:
+	.text       start:0x00003D54 end:0x00003D58
+
+mo_stub/st_jungle/fn_51_3E5C.c:
+	.text       start:0x00003E5C end:0x00003E60
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
 	.data       start:0x00009A00 end:0x00009A0D
