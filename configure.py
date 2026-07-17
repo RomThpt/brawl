@@ -2166,6 +2166,8 @@ config.libs = [
             Object(Matching, "mo_enemy/sora_enemy/masterhand/em_masterhand_param_accesser.cpp"),
             Object(Matching, "mo_enemy/sora_enemy/crazyhand/em_crazyhand_param_accesser.cpp"),
             Object(Matching, "mo_enemy/mo_enemy.cpp"),
+            Object(Matching, "mo_stub/sora_enemy/fn_41_A874.c"),
+            Object(Matching, "mo_stub/sora_enemy/fn_41_A8F4.c"),
         ],
     },
     {

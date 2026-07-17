@@ -11,6 +11,12 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/sora_enemy/fn_41_A874.c:
+	.text       start:0x0000A874 end:0x0000A88C
+
+mo_stub/sora_enemy/fn_41_A8F4.c:
+	.text       start:0x0000A8F4 end:0x0000A8FC
+
 mo_enemy/sora_enemy/em_info.cpp:
 	.text       start:0x0000DB8C end:0x0000F8B8
 	.ctors      start:0x00000004 end:0x00000008
