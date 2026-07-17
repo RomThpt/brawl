@@ -33,6 +33,9 @@ sora/gf/gf_3d_scene_event.cpp:
 sora/gf/gf_3d_scene_light_resource.cpp:
 	.text       start:0x80010D38 end:0x80010D5C
 
+stub/fn_80011148.c:
+	.text       start:0x80011148 end:0x80011150
+
 sora/gf/gf_archive_load_thread.cpp:
 	.text       start:0x800134C0 end:0x800134C4
 	.data       start:0x804208B0 end:0x804208F0
@@ -210,6 +213,12 @@ sora/ty/ty_fig_listmng.cpp:
 	.text       start:0x800AC9DC end:0x800AD808
 	.data       start:0x80455120 end:0x80455180
 
+stub/fn_800F5EC8.c:
+	.text       start:0x800F5EC8 end:0x800F5ED8
+
+stub/fn_800FB3A4.c:
+	.text       start:0x800FB3A4 end:0x800FB3B4
+
 sora/if/if_wifipr_task.cpp:
 	.text       start:0x800FD110 end:0x800FD1F8
 	.data       start:0x8045C678 end:0x8045C708
@@ -234,6 +243,9 @@ sora/gr/collision/gr_collision_data.cpp:
 
 sora/gr/collision/gr_collision_handle.cpp:
 	.text       start:0x801122E4 end:0x8011234C
+
+stub/fn_80132230.c:
+	.text       start:0x80132230 end:0x80132240
 
 sora/gr/collision/gr_collision_shape_rhombus.cpp:
 	.text       start:0x80132B64 end:0x801330B8
