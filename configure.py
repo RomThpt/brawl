@@ -1005,6 +1005,8 @@ config.libs = [
             Object(NonMatching, "mo_fighter/ft_marth/if_marth_final.cpp"),
             Object(Matching, "mo_stub/ft_dedede/fn_117_A2B4.c"),
             Object(Matching, "mo_stub/ft_dedede/fn_117_A300.c"),
+            Object(Matching, "mo_stub/ft_dedede/fn_117_A394.c"),
+            Object(Matching, "mo_stub/ft_dedede/fn_117_A3C0.c"),
         ],
     },
     {
