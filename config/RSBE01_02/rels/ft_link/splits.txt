@@ -32,6 +32,12 @@ mo_stub/ft_link/fn_93_AF58.c:
 mo_stub/ft_link/fn_93_AF6C.c:
 	.text       start:0x0000AF6C end:0x0000AF84
 
+mo_stub/ft_link/fn_93_AF84.c:
+	.text       start:0x0000AF84 end:0x0000AF94
+
+mo_stub/ft_link/fn_93_AFBC.c:
+	.text       start:0x0000AFBC end:0x0000AFC0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018638 end:0x000186D4
 	.data       start:0x00009AC0 end:0x00009ACF
