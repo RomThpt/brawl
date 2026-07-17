@@ -182,6 +182,18 @@ mo_stub/ft_ness/fn_101_1615C.c:
 mo_stub/ft_ness/fn_101_16174.c:
 	.text       start:0x00016174 end:0x00016188
 
+mo_stub/ft_ness/fn_101_16188.c:
+	.text       start:0x00016188 end:0x00016190
+
+mo_stub/ft_ness/fn_101_161AC.c:
+	.text       start:0x000161AC end:0x000161B4
+
+mo_stub/ft_ness/fn_101_161FC.c:
+	.text       start:0x000161FC end:0x00016200
+
+mo_stub/ft_ness/fn_101_19F48.c:
+	.text       start:0x00019F48 end:0x00019F50
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00024B28 end:0x00024BC4
 	.data       start:0x0000C378 end:0x0000C387
