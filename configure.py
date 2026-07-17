@@ -3451,7 +3451,12 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_pictchat/fn_73_2B04.c"),
+            Object(Matching, "mo_stub/st_pictchat/fn_73_3F04.c"),
+            Object(Matching, "mo_stub/st_pictchat/fn_73_3FF4.c"),
+            Object(Matching, "mo_stub/st_pictchat/fn_73_41D4.c"),
+        ],
     },
     {
         "lib": "st_pirates",

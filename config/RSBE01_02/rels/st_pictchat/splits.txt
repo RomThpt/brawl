@@ -80,6 +80,9 @@ mo_stub/st_pictchat/fn_73_2ACC.c:
 mo_stub/st_pictchat/fn_73_2AFC.c:
 	.text       start:0x00002AFC end:0x00002B04
 
+mo_stub/st_pictchat/fn_73_2B04.c:
+	.text       start:0x00002B04 end:0x00002B0C
+
 mo_stub/st_pictchat/fn_73_2B0C.c:
 	.text       start:0x00002B0C end:0x00002B14
 
@@ -106,6 +109,15 @@ mo_stub/st_pictchat/fn_73_33C4.c:
 
 mo_stub/st_pictchat/fn_73_33EC.c:
 	.text       start:0x000033EC end:0x000033F4
+
+mo_stub/st_pictchat/fn_73_3F04.c:
+	.text       start:0x00003F04 end:0x00003F0C
+
+mo_stub/st_pictchat/fn_73_3FF4.c:
+	.text       start:0x00003FF4 end:0x00003FF8
+
+mo_stub/st_pictchat/fn_73_41D4.c:
+	.text       start:0x000041D4 end:0x000041D8
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000F378 end:0x0000F414
