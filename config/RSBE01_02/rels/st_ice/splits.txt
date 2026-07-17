@@ -101,6 +101,15 @@ mo_stub/st_ice/fn_62_3130.c:
 mo_stub/st_ice/fn_62_501C.c:
 	.text       start:0x0000501C end:0x00005028
 
+mo_stub/st_ice/fn_62_5028.c:
+	.text       start:0x00005028 end:0x00005038
+
+mo_stub/st_ice/fn_62_513C.c:
+	.text       start:0x0000513C end:0x00005140
+
+mo_stub/st_ice/fn_62_537C.c:
+	.text       start:0x0000537C end:0x0000538C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001184C end:0x000118E8
 	.data       start:0x00005AB0 end:0x00005ABD
