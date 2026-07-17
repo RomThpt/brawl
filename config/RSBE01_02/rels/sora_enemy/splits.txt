@@ -303,12 +303,18 @@ mo_stub/sora_enemy/fn_41_35108.c:
 mo_stub/sora_enemy/fn_41_3512C.c:
 	.text       start:0x0003512C end:0x00035130
 
+mo_stub/sora_enemy/fn_41_35154.c:
+	.text       start:0x00035154 end:0x0003516C
+
 mo_enemy/sora_enemy/boobas/em_boobas_param_accesser.cpp:
 	.text       start:0x00035410 end:0x00035688
 	.ctors      start:0x0000002C end:0x00000030
 	.rodata     start:0x00000E88 end:0x00000E90
 	.data       start:0x00007170 end:0x000071D0
 	.bss        start:0x000002A8 end:0x000002C0
+
+mo_stub/sora_enemy/fn_41_36AB8.c:
+	.text       start:0x00036AB8 end:0x00036AC8
 
 mo_enemy/sora_enemy/siralamos/em_siralamos_param_accesser.cpp:
 	.text       start:0x00036B40 end:0x00036DD8
