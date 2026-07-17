@@ -11,6 +11,15 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_pikachu/fn_98_744C.c:
+	.text       start:0x0000744C end:0x00007454
+
+mo_stub/ft_pikachu/fn_98_9C28.c:
+	.text       start:0x00009C28 end:0x00009C34
+
+mo_stub/ft_pikachu/fn_98_9C70.c:
+	.text       start:0x00009C70 end:0x00009C78
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390
 	.data       start:0x000099C8 end:0x000099D7
