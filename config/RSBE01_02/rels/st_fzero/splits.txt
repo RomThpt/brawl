@@ -125,6 +125,18 @@ mo_stub/st_fzero/fn_61_998C.c:
 mo_stub/st_fzero/fn_61_999C.c:
 	.text       start:0x0000999C end:0x000099B4
 
+mo_stub/st_fzero/fn_61_99B4.c:
+	.text       start:0x000099B4 end:0x000099BC
+
+mo_stub/st_fzero/fn_61_99DC.c:
+	.text       start:0x000099DC end:0x000099E4
+
+mo_stub/st_fzero/fn_61_9A2C.c:
+	.text       start:0x00009A2C end:0x00009A30
+
+mo_stub/st_fzero/fn_61_9D1C.c:
+	.text       start:0x00009D1C end:0x00009D24
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000E800 end:0x0000E89C
 	.data       start:0x00003C48 end:0x00003C55
