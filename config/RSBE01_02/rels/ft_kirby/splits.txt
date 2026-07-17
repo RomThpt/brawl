@@ -200,6 +200,21 @@ mo_stub/ft_kirby/fn_96_23D5C.c:
 mo_stub/ft_kirby/fn_96_23D94.c:
 	.text       start:0x00023D94 end:0x00023DAC
 
+mo_stub/ft_kirby/fn_96_23DAC.c:
+	.text       start:0x00023DAC end:0x00023DB0
+
+mo_stub/ft_kirby/fn_96_23DCC.c:
+	.text       start:0x00023DCC end:0x00023DD4
+
+mo_stub/ft_kirby/fn_96_23E1C.c:
+	.text       start:0x00023E1C end:0x00023E20
+
+mo_stub/ft_kirby/fn_96_2408C.c:
+	.text       start:0x0002408C end:0x00024090
+
+mo_stub/ft_kirby/fn_96_2439C.c:
+	.text       start:0x0002439C end:0x000243A0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7
