@@ -32,6 +32,9 @@ mo_stub/st_dxgreens/fn_79_9F0.c:
 mo_stub/st_dxgreens/fn_79_176C.c:
 	.text       start:0x0000176C end:0x00001778
 
+mo_stub/st_dxgreens/fn_79_1778.c:
+	.text       start:0x00001778 end:0x0000179C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C1DC end:0x0000C278
 	.data       start:0x00003098 end:0x000030A5
