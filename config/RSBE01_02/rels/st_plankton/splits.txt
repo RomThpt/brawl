@@ -38,6 +38,12 @@ mo_stub/st_plankton/fn_74_240C.c:
 mo_stub/st_plankton/fn_74_2418.c:
 	.text       start:0x00002418 end:0x0000243C
 
+mo_stub/st_plankton/fn_74_244C.c:
+	.text       start:0x0000244C end:0x00002454
+
+mo_stub/st_plankton/fn_74_2490.c:
+	.text       start:0x00002490 end:0x000024B0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000D78C end:0x0000D828
 	.data       start:0x00003108 end:0x00003115
