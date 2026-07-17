@@ -38,6 +38,12 @@ mo_stub/ft_lucas/fn_114_CAFC.c:
 mo_stub/ft_lucas/fn_114_CB10.c:
 	.text       start:0x0000CB10 end:0x0000CB28
 
+mo_stub/ft_lucas/fn_114_CB28.c:
+	.text       start:0x0000CB28 end:0x0000CB2C
+
+mo_stub/ft_lucas/fn_114_CB54.c:
+	.text       start:0x0000CB54 end:0x0000CB64
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00020EA4 end:0x00020F40
 	.data       start:0x0000B538 end:0x0000B547
