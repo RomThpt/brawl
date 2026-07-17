@@ -86,6 +86,12 @@ mo_stub/st_dxyorster/fn_76_2F10.c:
 mo_stub/st_dxyorster/fn_76_2F30.c:
 	.text       start:0x00002F30 end:0x00002F4C
 
+mo_stub/st_dxyorster/fn_76_2F4C.c:
+	.text       start:0x00002F4C end:0x00002F54
+
+mo_stub/st_dxyorster/fn_76_2F60.c:
+	.text       start:0x00002F60 end:0x00002F80
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007AC8 end:0x00007B64
 	.data       start:0x00002518 end:0x00002525
