@@ -176,6 +176,12 @@ mo_stub/st_kart/fn_49_A00C.c:
 mo_stub/st_kart/fn_49_AD5C.c:
 	.text       start:0x0000AD5C end:0x0000AD64
 
+mo_stub/st_kart/fn_49_B678.c:
+	.text       start:0x0000B678 end:0x0000B680
+
+mo_stub/st_kart/fn_49_C07C.c:
+	.text       start:0x0000C07C end:0x0000C084
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CA58 end:0x0000CAF4
 	.data       start:0x000027F8 end:0x00002805
