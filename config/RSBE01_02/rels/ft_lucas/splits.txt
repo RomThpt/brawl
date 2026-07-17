@@ -104,6 +104,9 @@ mo_stub/ft_lucas/fn_114_15828.c:
 mo_stub/ft_lucas/fn_114_1593C.c:
 	.text       start:0x0001593C end:0x00015940
 
+mo_stub/ft_lucas/fn_114_15940.c:
+	.text       start:0x00015940 end:0x0001595C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00020EA4 end:0x00020F40
 	.data       start:0x0000B538 end:0x0000B547
