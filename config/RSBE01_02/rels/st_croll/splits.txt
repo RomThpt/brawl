@@ -23,6 +23,9 @@ mo_stub/st_croll/fn_90_4C38.c:
 mo_stub/st_croll/fn_90_7A34.c:
 	.text       start:0x00007A34 end:0x00007A3C
 
+mo_stub/st_croll/fn_90_830C.c:
+	.text       start:0x0000830C end:0x00008330
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00008530 end:0x000085CC
 	.data       start:0x00002E80 end:0x00002E8D
