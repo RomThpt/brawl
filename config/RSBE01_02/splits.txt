@@ -402,8 +402,14 @@ stub/fn_800E60E0.c:
 stub/fn_800F00A4.c:
 	.text       start:0x800F00A4 end:0x800F00AC
 
+stub/fn_800F01B8.c:
+	.text       start:0x800F01B8 end:0x800F01C0
+
 stub/fn_800F1010.c:
 	.text       start:0x800F1010 end:0x800F1014
+
+stub/fn_800F1750.c:
+	.text       start:0x800F1750 end:0x800F1758
 
 stub/fn_800F28EC.c:
 	.text       start:0x800F28EC end:0x800F28F0
@@ -420,6 +426,9 @@ stub/fn_800F6D0C.c:
 stub/fn_800FB3A4.c:
 	.text       start:0x800FB3A4 end:0x800FB3B4
 
+stub/fn_800FBDEC.c:
+	.text       start:0x800FBDEC end:0x800FBDF4
+
 sora/if/if_wifipr_task.cpp:
 	.text       start:0x800FD110 end:0x800FD1F8
 	.data       start:0x8045C678 end:0x8045C708
@@ -427,6 +436,12 @@ sora/if/if_wifipr_task.cpp:
 
 stub/fn_800FD448.c:
 	.text       start:0x800FD448 end:0x800FD44C
+
+stub/fn_800FD648.c:
+	.text       start:0x800FD648 end:0x800FD650
+
+stub/fn_800FF2BC.c:
+	.text       start:0x800FF2BC end:0x800FF2C4
 
 stub/fn_80103C40.c:
 	.text       start:0x80103C40 end:0x80103C44
