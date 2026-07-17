@@ -95,6 +95,72 @@ mo_stub/st_metalgear/fn_71_2BA8.c:
 mo_stub/st_metalgear/fn_71_2D8C.c:
 	.text       start:0x00002D8C end:0x00002D90
 
+mo_stub/st_metalgear/fn_71_8CD8.c:
+	.text       start:0x00008CD8 end:0x00008CF4
+
+mo_stub/st_metalgear/fn_71_8DF8.c:
+	.text       start:0x00008DF8 end:0x00008DFC
+
+mo_stub/st_metalgear/fn_71_9038.c:
+	.text       start:0x00009038 end:0x00009054
+
+mo_stub/st_metalgear/fn_71_9060.c:
+	.text       start:0x00009060 end:0x00009080
+
+mo_stub/st_metalgear/fn_71_90A4.c:
+	.text       start:0x000090A4 end:0x000090B8
+
+mo_stub/st_metalgear/fn_71_90B8.c:
+	.text       start:0x000090B8 end:0x000090D8
+
+mo_stub/st_metalgear/fn_71_90D8.c:
+	.text       start:0x000090D8 end:0x000090F4
+
+mo_stub/st_metalgear/fn_71_90F4.c:
+	.text       start:0x000090F4 end:0x000090FC
+
+mo_stub/st_metalgear/fn_71_9108.c:
+	.text       start:0x00009108 end:0x00009128
+
+mo_stub/st_metalgear/fn_71_9128.c:
+	.text       start:0x00009128 end:0x0000914C
+
+mo_stub/st_metalgear/fn_71_914C.c:
+	.text       start:0x0000914C end:0x0000915C
+
+mo_stub/st_metalgear/fn_71_917C.c:
+	.text       start:0x0000917C end:0x00009184
+
+mo_stub/st_metalgear/fn_71_91CC.c:
+	.text       start:0x000091CC end:0x000091D0
+
+mo_stub/st_metalgear/fn_71_954C.c:
+	.text       start:0x0000954C end:0x00009554
+
+mo_stub/st_metalgear/fn_71_9F00.c:
+	.text       start:0x00009F00 end:0x00009F08
+
+mo_stub/st_metalgear/fn_71_9FC8.c:
+	.text       start:0x00009FC8 end:0x00009FD0
+
+mo_stub/st_metalgear/fn_71_A090.c:
+	.text       start:0x0000A090 end:0x0000A098
+
+mo_stub/st_metalgear/fn_71_A1F0.c:
+	.text       start:0x0000A1F0 end:0x0000A1F8
+
+mo_stub/st_metalgear/fn_71_AE9C.c:
+	.text       start:0x0000AE9C end:0x0000AEA4
+
+mo_stub/st_metalgear/fn_71_B910.c:
+	.text       start:0x0000B910 end:0x0000B918
+
+mo_stub/st_metalgear/fn_71_C44C.c:
+	.text       start:0x0000C44C end:0x0000C454
+
+mo_stub/st_metalgear/fn_71_D0F4.c:
+	.text       start:0x0000D0F4 end:0x0000D0FC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD
