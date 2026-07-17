@@ -1289,7 +1289,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_lucas/fn_114_CAFC.c"),
+        ],
     },
     {
         "lib": "ft_luigi",
