@@ -98,6 +98,15 @@ mo_stub/st_pictchat/fn_73_2C58.c:
 mo_stub/st_pictchat/fn_73_3378.c:
 	.text       start:0x00003378 end:0x00003388
 
+mo_stub/st_pictchat/fn_73_3388.c:
+	.text       start:0x00003388 end:0x00003390
+
+mo_stub/st_pictchat/fn_73_33C4.c:
+	.text       start:0x000033C4 end:0x000033D0
+
+mo_stub/st_pictchat/fn_73_33EC.c:
+	.text       start:0x000033EC end:0x000033F4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000F378 end:0x0000F414
 	.data       start:0x00005E48 end:0x00005E55
