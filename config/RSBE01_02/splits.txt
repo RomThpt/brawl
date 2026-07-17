@@ -795,6 +795,12 @@ stub/fn_8027FAC8.c:
 stub/fn_80280CB4.c:
 	.text       start:0x80280CB4 end:0x80280CCC
 
+stub/fn_80280CCC.c:
+	.text       start:0x80280CCC end:0x80280CEC
+
+stub/fn_80289BFC.c:
+	.text       start:0x80289BFC end:0x80289C04
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
