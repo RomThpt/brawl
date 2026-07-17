@@ -280,6 +280,7 @@ config.libs = [
             Object(NonMatching, "Runtime.PPCEABI.H/__init_cpp_exceptions.cpp"),
             Object(Matching, "TRK_MINNOW_DOLPHIN/dispatch.c"),
             Object(Matching, "TRK_MINNOW_DOLPHIN/udp_cc.c"),
+            Object(Matching, "stub/fn_80298784.c"),
             Object(Matching, "stub/fn_8029875C.c"),
             Object(Matching, "stub/fn_80298744.c"),
             Object(Matching, "stub/fn_80298734.c"),
