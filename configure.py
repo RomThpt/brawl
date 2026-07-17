@@ -2010,6 +2010,10 @@ config.libs = [
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_4020.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_4030.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_404C.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_4060.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_4174.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_49F4.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_5058.c"),
         ],
     },
     {
