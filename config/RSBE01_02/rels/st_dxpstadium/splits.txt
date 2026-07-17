@@ -38,6 +38,12 @@ mo_stub/st_dxpstadium/fn_83_2CCC.c:
 mo_stub/st_dxpstadium/fn_83_2CE8.c:
 	.text       start:0x00002CE8 end:0x00002CF4
 
+mo_stub/st_dxpstadium/fn_83_2CF4.c:
+	.text       start:0x00002CF4 end:0x00002D0C
+
+mo_stub/st_dxpstadium/fn_83_2E24.c:
+	.text       start:0x00002E24 end:0x00002E28
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00002E28 end:0x00002EC4
 	.data       start:0x00000410 end:0x0000041D
