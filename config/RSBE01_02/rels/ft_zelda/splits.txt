@@ -104,6 +104,9 @@ mo_stub/ft_zelda/fn_104_12828.c:
 mo_stub/ft_zelda/fn_104_12880.c:
 	.text       start:0x00012880 end:0x00012888
 
+mo_stub/ft_zelda/fn_104_12888.c:
+	.text       start:0x00012888 end:0x0001289C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00024D10 end:0x00024DAC
 	.data       start:0x0000D380 end:0x0000D38F
