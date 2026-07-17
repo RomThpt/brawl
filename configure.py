@@ -2003,6 +2003,9 @@ config.libs = [
             Object(Matching, "mo_stub/st_donkey/fn_50_57A8.c"),
             Object(Matching, "mo_stub/st_donkey/fn_50_59E8.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_3F54.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_3F78.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_3F94.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_3FD8.c"),
         ],
     },
     {
