@@ -173,6 +173,18 @@ mo_stub/st_ice/fn_62_9D20.c:
 mo_stub/st_ice/fn_62_9D4C.c:
 	.text       start:0x00009D4C end:0x00009D74
 
+mo_stub/st_ice/fn_62_9D74.c:
+	.text       start:0x00009D74 end:0x00009D84
+
+mo_stub/st_ice/fn_62_A058.c:
+	.text       start:0x0000A058 end:0x0000A060
+
+mo_stub/st_ice/fn_62_A4BC.c:
+	.text       start:0x0000A4BC end:0x0000A4C4
+
+mo_stub/st_ice/fn_62_A584.c:
+	.text       start:0x0000A584 end:0x0000A58C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001184C end:0x000118E8
 	.data       start:0x00005AB0 end:0x00005ABD
