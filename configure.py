@@ -2332,7 +2332,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_halberd/fn_57_381C.c"),
+            Object(Matching, "mo_stub/st_halberd/fn_57_A0C0.c"),
+        ],
     },
     {
         "lib": "st_heal",

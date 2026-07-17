@@ -71,6 +71,9 @@ mo_stub/st_halberd/fn_57_37D4.c:
 mo_stub/st_halberd/fn_57_3814.c:
 	.text       start:0x00003814 end:0x0000381C
 
+mo_stub/st_halberd/fn_57_381C.c:
+	.text       start:0x0000381C end:0x00003824
+
 mo_stub/st_halberd/fn_57_3824.c:
 	.text       start:0x00003824 end:0x00003834
 
@@ -91,6 +94,9 @@ mo_stub/st_halberd/fn_57_3A4C.c:
 
 mo_stub/st_halberd/fn_57_3A90.c:
 	.text       start:0x00003A90 end:0x00003A9C
+
+mo_stub/st_halberd/fn_57_A0C0.c:
+	.text       start:0x0000A0C0 end:0x0000A0DC
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
