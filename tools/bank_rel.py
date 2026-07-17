@@ -81,6 +81,12 @@ def kind(a, sz):
             return ("binop", "|")
         if xop == 0x7C0000F8 and f2 == 3 and f1 == 3 and f3 == 3:  # nor => not
             return ("unop", "~")
+        if xop == 0x7C000030 and f2 == 3 and f1 == 3 and f3 == 4:  # slw rA,rS,rB => a0<<a1
+            return ("shl", None)
+        if xop == 0x7C000430 and f2 == 3 and f1 == 3 and f3 == 4:  # srw => (unsigned)a0>>a1
+            return ("shr", None)
+        if xop == 0x7C000050 and f1 == 3 and f2 == 4 and f3 == 3:  # subf rD,rA,rB=rB-rA => a0-a1
+            return ("sub2", None)
     return None
 
 
@@ -146,6 +152,12 @@ def gen(n, kk, v):
         return f"int {n}(int a0, int a1) {{\n    return a0 {v} a1;\n}}\n"
     if kk == "unop":
         return f"int {n}(int a0) {{\n    return {v}a0;\n}}\n"
+    if kk == "shl":
+        return f"int {n}(int a0, int a1) {{\n    return a0 << a1;\n}}\n"
+    if kk == "shr":
+        return f"unsigned int {n}(unsigned int a0, int a1) {{\n    return a0 >> a1;\n}}\n"
+    if kk == "sub2":
+        return f"int {n}(int a0, int a1) {{\n    return a0 - a1;\n}}\n"
     t, off = v
     return f"void {n}(void* p, int q) {{\n    *({t}*)((char*)p + {off}) = q;\n}}\n"
 
