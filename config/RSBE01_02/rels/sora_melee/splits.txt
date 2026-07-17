@@ -11,6 +11,33 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/sora_melee/fn_27_E54.c:
+	.text       start:0x00000E54 end:0x00000E58
+
+mo_stub/sora_melee/fn_27_3624.c:
+	.text       start:0x00003624 end:0x0000362C
+
+mo_stub/sora_melee/fn_27_53B8.c:
+	.text       start:0x000053B8 end:0x000053BC
+
+mo_stub/sora_melee/fn_27_5538.c:
+	.text       start:0x00005538 end:0x0000553C
+
+mo_stub/sora_melee/fn_27_60C8.c:
+	.text       start:0x000060C8 end:0x000060CC
+
+mo_stub/sora_melee/fn_27_60CC.c:
+	.text       start:0x000060CC end:0x000060D4
+
+mo_stub/sora_melee/fn_27_6650.c:
+	.text       start:0x00006650 end:0x00006654
+
+mo_stub/sora_melee/fn_27_6BF4.c:
+	.text       start:0x00006BF4 end:0x00006C00
+
+mo_stub/sora_melee/fn_27_6C00.c:
+	.text       start:0x00006C00 end:0x00006C20
+
 mo_melee/sora_melee/so/model/so_model_module_simple.cpp:
 	.text       start:0x0000E268 end:0x0000EEAC
 	.rodata     start:0x00000318 end:0x00000320
