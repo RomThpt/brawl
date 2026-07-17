@@ -1692,6 +1692,15 @@ stub/fn_803889B8.c:
 stub/fn_80389178.c:
 	.text       start:0x80389178 end:0x80389180
 
+stub/fn_8038918C.c:
+	.text       start:0x8038918C end:0x803891A4
+
+stub/fn_803899C4.c:
+	.text       start:0x803899C4 end:0x803899CC
+
+stub/fn_8038D4C8.c:
+	.text       start:0x8038D4C8 end:0x8038D4D0
+
 stub/fn_8038FD6C.c:
 	.text       start:0x8038FD6C end:0x8038FD70
 
