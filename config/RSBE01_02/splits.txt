@@ -1023,6 +1023,18 @@ stub/fn_802D5F20.c:
 stub/fn_802D65D8.c:
 	.text       start:0x802D65D8 end:0x802D65E0
 
+stub/fn_802D67FC.c:
+	.text       start:0x802D67FC end:0x802D6804
+
+stub/fn_802D766C.c:
+	.text       start:0x802D766C end:0x802D7674
+
+stub/fn_802D7704.c:
+	.text       start:0x802D7704 end:0x802D7708
+
+stub/fn_802D7FC0.c:
+	.text       start:0x802D7FC0 end:0x802D7FCC
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
