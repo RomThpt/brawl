@@ -122,6 +122,18 @@ mo_stub/ft_iceclimber/fn_105_181C0.c:
 mo_stub/ft_iceclimber/fn_105_182CC.c:
 	.text       start:0x000182CC end:0x000182DC
 
+mo_stub/ft_iceclimber/fn_105_182DC.c:
+	.text       start:0x000182DC end:0x000182EC
+
+mo_stub/ft_iceclimber/fn_105_182F8.c:
+	.text       start:0x000182F8 end:0x00018300
+
+mo_stub/ft_iceclimber/fn_105_1830C.c:
+	.text       start:0x0001830C end:0x00018314
+
+mo_stub/ft_iceclimber/fn_105_1832C.c:
+	.text       start:0x0001832C end:0x00018334
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000210B0 end:0x0002114C
 	.data       start:0x0000A548 end:0x0000A557
