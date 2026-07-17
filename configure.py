@@ -2792,6 +2792,9 @@ config.libs = [
             Object(Matching, "mo_stub/st_norfair/fn_54_29AC.c"),
             Object(Matching, "mo_stub/st_norfair/fn_54_29EC.c"),
             Object(Matching, "mo_stub/st_norfair/fn_54_29F0.c"),
+            Object(Matching, "mo_stub/st_norfair/fn_54_2A18.c"),
+            Object(Matching, "mo_stub/st_norfair/fn_54_2A24.c"),
+            Object(Matching, "mo_stub/st_norfair/fn_54_2A68.c"),
         ],
     },
     {
