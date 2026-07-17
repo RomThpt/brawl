@@ -236,6 +236,9 @@ mo_stub/ft_dedede/fn_117_21B38.c:
 mo_stub/ft_dedede/fn_117_21C80.c:
 	.text       start:0x00021C80 end:0x00021C88
 
+mo_stub/ft_dedede/fn_117_21D68.c:
+	.text       start:0x00021D68 end:0x00021D70
+
 mo_stub/ft_dedede/fn_117_23D1C.c:
 	.text       start:0x00023D1C end:0x00023D2C
 
