@@ -38,6 +38,12 @@ mo_stub/ft_koopa/fn_102_8EA4.c:
 mo_stub/ft_koopa/fn_102_8EB8.c:
 	.text       start:0x00008EB8 end:0x00008ED0
 
+mo_stub/ft_koopa/fn_102_8ED0.c:
+	.text       start:0x00008ED0 end:0x00008ED4
+
+mo_stub/ft_koopa/fn_102_8EFC.c:
+	.text       start:0x00008EFC end:0x00008F0C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C238 end:0x0001C2D4
 	.data       start:0x00008490 end:0x0000849F
