@@ -161,6 +161,9 @@ mo_stub/ft_diddy/fn_115_10BA8.c:
 mo_stub/ft_diddy/fn_115_10BAC.c:
 	.text       start:0x00010BAC end:0x00010BB0
 
+mo_stub/ft_diddy/fn_115_1107C.c:
+	.text       start:0x0001107C end:0x00011080
+
 mo_stub/ft_diddy/fn_115_11080.c:
 	.text       start:0x00011080 end:0x00011084
 
