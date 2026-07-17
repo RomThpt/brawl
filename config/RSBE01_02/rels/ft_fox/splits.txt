@@ -11,6 +11,15 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_fox/fn_97_8138.c:
+	.text       start:0x00008138 end:0x00008140
+
+mo_stub/ft_fox/fn_97_AEEC.c:
+	.text       start:0x0000AEEC end:0x0000AEF8
+
+mo_stub/ft_fox/fn_97_AF34.c:
+	.text       start:0x0000AF34 end:0x0000AF3C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
 	.data       start:0x00007B60 end:0x00007B6F
