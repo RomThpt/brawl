@@ -1476,6 +1476,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_ness/fn_101_D0C4.c"),
+            Object(Matching, "mo_stub/ft_ness/fn_101_D0D8.c"),
         ],
     },
     {
