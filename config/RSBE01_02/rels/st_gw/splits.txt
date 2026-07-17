@@ -80,6 +80,12 @@ mo_stub/st_gw/fn_63_1AB8.c:
 mo_stub/st_gw/fn_63_1CB4.c:
 	.text       start:0x00001CB4 end:0x00001CCC
 
+mo_stub/st_gw/fn_63_1CCC.c:
+	.text       start:0x00001CCC end:0x00001CD4
+
+mo_stub/st_gw/fn_63_1F28.c:
+	.text       start:0x00001F28 end:0x00001F48
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
