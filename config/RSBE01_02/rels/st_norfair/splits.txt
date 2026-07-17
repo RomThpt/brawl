@@ -29,6 +29,12 @@ mo_stub/st_norfair/fn_54_1518.c:
 mo_stub/st_norfair/fn_54_163C.c:
 	.text       start:0x0000163C end:0x0000164C
 
+mo_stub/st_norfair/fn_54_164C.c:
+	.text       start:0x0000164C end:0x0000165C
+
+mo_stub/st_norfair/fn_54_1798.c:
+	.text       start:0x00001798 end:0x000017B0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010210 end:0x000102AC
 	.data       start:0x00004930 end:0x0000493D
