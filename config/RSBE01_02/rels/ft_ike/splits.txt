@@ -47,6 +47,12 @@ mo_stub/ft_ike/fn_119_9714.c:
 mo_stub/ft_ike/fn_119_9730.c:
 	.text       start:0x00009730 end:0x00009748
 
+mo_stub/ft_ike/fn_119_9748.c:
+	.text       start:0x00009748 end:0x00009750
+
+mo_stub/ft_ike/fn_119_9810.c:
+	.text       start:0x00009810 end:0x00009828
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00013DE8 end:0x00013E84
 	.data       start:0x000068B8 end:0x000068C7
