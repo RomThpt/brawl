@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/st_dxgarden/fn_77_16C.c:
 	.text       start:0x0000016C end:0x00000174
 
+mo_stub/st_dxgarden/fn_77_478.c:
+	.text       start:0x00000478 end:0x00000480
+
 mo_stub/st_dxgarden/fn_77_B94.c:
 	.text       start:0x00000B94 end:0x00000BB0
 
@@ -28,6 +31,75 @@ mo_stub/st_dxgarden/fn_77_C18.c:
 
 mo_stub/st_dxgarden/fn_77_C20.c:
 	.text       start:0x00000C20 end:0x00000C44
+
+mo_stub/st_dxgarden/fn_77_C68.c:
+	.text       start:0x00000C68 end:0x00000C80
+
+mo_stub/st_dxgarden/fn_77_C8C.c:
+	.text       start:0x00000C8C end:0x00000C90
+
+mo_stub/st_dxgarden/fn_77_C90.c:
+	.text       start:0x00000C90 end:0x00000CB0
+
+mo_stub/st_dxgarden/fn_77_E0C.c:
+	.text       start:0x00000E0C end:0x00000E10
+
+mo_stub/st_dxgarden/fn_77_EE8.c:
+	.text       start:0x00000EE8 end:0x00000EF0
+
+mo_stub/st_dxgarden/fn_77_FAC.c:
+	.text       start:0x00000FAC end:0x00000FC4
+
+mo_stub/st_dxgarden/fn_77_FF8.c:
+	.text       start:0x00000FF8 end:0x00001004
+
+mo_stub/st_dxgarden/fn_77_1020.c:
+	.text       start:0x00001020 end:0x00001038
+
+mo_stub/st_dxgarden/fn_77_2FB0.c:
+	.text       start:0x00002FB0 end:0x00002FCC
+
+mo_stub/st_dxgarden/fn_77_30D0.c:
+	.text       start:0x000030D0 end:0x000030D4
+
+mo_stub/st_dxgarden/fn_77_3310.c:
+	.text       start:0x00003310 end:0x00003330
+
+mo_stub/st_dxgarden/fn_77_3330.c:
+	.text       start:0x00003330 end:0x00003340
+
+mo_stub/st_dxgarden/fn_77_3360.c:
+	.text       start:0x00003360 end:0x00003368
+
+mo_stub/st_dxgarden/fn_77_33B0.c:
+	.text       start:0x000033B0 end:0x000033B4
+
+mo_stub/st_dxgarden/fn_77_3660.c:
+	.text       start:0x00003660 end:0x00003668
+
+mo_stub/st_dxgarden/fn_77_3B70.c:
+	.text       start:0x00003B70 end:0x00003B80
+
+mo_stub/st_dxgarden/fn_77_3B80.c:
+	.text       start:0x00003B80 end:0x00003B94
+
+mo_stub/st_dxgarden/fn_77_3B94.c:
+	.text       start:0x00003B94 end:0x00003BB0
+
+mo_stub/st_dxgarden/fn_77_3C28.c:
+	.text       start:0x00003C28 end:0x00003C30
+
+mo_stub/st_dxgarden/fn_77_3D88.c:
+	.text       start:0x00003D88 end:0x00003D90
+
+mo_stub/st_dxgarden/fn_77_4814.c:
+	.text       start:0x00004814 end:0x0000481C
+
+mo_stub/st_dxgarden/fn_77_5564.c:
+	.text       start:0x00005564 end:0x0000556C
+
+mo_stub/st_dxgarden/fn_77_5E80.c:
+	.text       start:0x00005E80 end:0x00005E88
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x000065E8 end:0x00006684

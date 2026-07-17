@@ -20,6 +20,42 @@ mo_stub/st_village/fn_70_78C.c:
 mo_stub/st_village/fn_70_13AC.c:
 	.text       start:0x000013AC end:0x000013D4
 
+mo_stub/st_village/fn_70_15BC.c:
+	.text       start:0x000015BC end:0x000015C4
+
+mo_stub/st_village/fn_70_1D50.c:
+	.text       start:0x00001D50 end:0x00001D6C
+
+mo_stub/st_village/fn_70_1D6C.c:
+	.text       start:0x00001D6C end:0x00001D80
+
+mo_stub/st_village/fn_70_1D90.c:
+	.text       start:0x00001D90 end:0x00001D98
+
+mo_stub/st_village/fn_70_1DD4.c:
+	.text       start:0x00001DD4 end:0x00001DDC
+
+mo_stub/st_village/fn_70_1DDC.c:
+	.text       start:0x00001DDC end:0x00001E00
+
+mo_stub/st_village/fn_70_1E1C.c:
+	.text       start:0x00001E1C end:0x00001E3C
+
+mo_stub/st_village/fn_70_1E48.c:
+	.text       start:0x00001E48 end:0x00001E4C
+
+mo_stub/st_village/fn_70_1E4C.c:
+	.text       start:0x00001E4C end:0x00001E74
+
+mo_stub/st_village/fn_70_1E74.c:
+	.text       start:0x00001E74 end:0x00001E7C
+
+mo_stub/st_village/fn_70_2258.c:
+	.text       start:0x00002258 end:0x00002268
+
+mo_stub/st_village/fn_70_229C.c:
+	.text       start:0x0000229C end:0x000022A0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000DA54 end:0x0000DAF0
 	.data       start:0x00004500 end:0x0000450D

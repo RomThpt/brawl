@@ -74,6 +74,9 @@ mo_stub/st_norfair/fn_54_2A80.c:
 mo_stub/st_norfair/fn_54_2AB0.c:
 	.text       start:0x00002AB0 end:0x00002AB8
 
+mo_stub/st_norfair/fn_54_2AB8.c:
+	.text       start:0x00002AB8 end:0x00002AC0
+
 mo_stub/st_norfair/fn_54_2AC0.c:
 	.text       start:0x00002AC0 end:0x00002AC8
 
@@ -97,6 +100,90 @@ mo_stub/st_norfair/fn_54_33A8.c:
 
 mo_stub/st_norfair/fn_54_51E8.c:
 	.text       start:0x000051E8 end:0x000051F0
+
+mo_stub/st_norfair/fn_54_51F0.c:
+	.text       start:0x000051F0 end:0x00005204
+
+mo_stub/st_norfair/fn_54_5308.c:
+	.text       start:0x00005308 end:0x0000530C
+
+mo_stub/st_norfair/fn_54_5548.c:
+	.text       start:0x00005548 end:0x00005564
+
+mo_stub/st_norfair/fn_54_5570.c:
+	.text       start:0x00005570 end:0x00005590
+
+mo_stub/st_norfair/fn_54_55B4.c:
+	.text       start:0x000055B4 end:0x000055C8
+
+mo_stub/st_norfair/fn_54_55C8.c:
+	.text       start:0x000055C8 end:0x000055E8
+
+mo_stub/st_norfair/fn_54_55E8.c:
+	.text       start:0x000055E8 end:0x00005604
+
+mo_stub/st_norfair/fn_54_5604.c:
+	.text       start:0x00005604 end:0x0000560C
+
+mo_stub/st_norfair/fn_54_5618.c:
+	.text       start:0x00005618 end:0x00005638
+
+mo_stub/st_norfair/fn_54_5638.c:
+	.text       start:0x00005638 end:0x0000565C
+
+mo_stub/st_norfair/fn_54_565C.c:
+	.text       start:0x0000565C end:0x0000566C
+
+mo_stub/st_norfair/fn_54_568C.c:
+	.text       start:0x0000568C end:0x00005694
+
+mo_stub/st_norfair/fn_54_56DC.c:
+	.text       start:0x000056DC end:0x000056E0
+
+mo_stub/st_norfair/fn_54_5A48.c:
+	.text       start:0x00005A48 end:0x00005A50
+
+mo_stub/st_norfair/fn_54_5BD4.c:
+	.text       start:0x00005BD4 end:0x00005BDC
+
+mo_stub/st_norfair/fn_54_64C8.c:
+	.text       start:0x000064C8 end:0x000064D4
+
+mo_stub/st_norfair/fn_54_64D4.c:
+	.text       start:0x000064D4 end:0x000064E8
+
+mo_stub/st_norfair/fn_54_64E8.c:
+	.text       start:0x000064E8 end:0x00006508
+
+mo_stub/st_norfair/fn_54_6580.c:
+	.text       start:0x00006580 end:0x00006588
+
+mo_stub/st_norfair/fn_54_6648.c:
+	.text       start:0x00006648 end:0x00006650
+
+mo_stub/st_norfair/fn_54_67A8.c:
+	.text       start:0x000067A8 end:0x000067B0
+
+mo_stub/st_norfair/fn_54_6908.c:
+	.text       start:0x00006908 end:0x00006910
+
+mo_stub/st_norfair/fn_54_69D0.c:
+	.text       start:0x000069D0 end:0x000069D8
+
+mo_stub/st_norfair/fn_54_767C.c:
+	.text       start:0x0000767C end:0x00007684
+
+mo_stub/st_norfair/fn_54_80F0.c:
+	.text       start:0x000080F0 end:0x000080F8
+
+mo_stub/st_norfair/fn_54_8D28.c:
+	.text       start:0x00008D28 end:0x00008D30
+
+mo_stub/st_norfair/fn_54_99CC.c:
+	.text       start:0x000099CC end:0x000099D4
+
+mo_stub/st_norfair/fn_54_A71C.c:
+	.text       start:0x0000A71C end:0x0000A724
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010210 end:0x000102AC

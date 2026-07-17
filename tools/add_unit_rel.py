@@ -28,10 +28,17 @@ def add(module, unit_path, start, end, csource):
         raise SystemExit(f"module group '{module}' not found in configure.py")
     # find the closing '],' of this group's objects (first '],' after 'objects': [ ... )
     obj_idx = c.find('"objects": [', idx)
-    close_idx = c.find('\n        ],', obj_idx)
-    if obj_idx < 0 or close_idx < 0:
+    if obj_idx < 0:
         raise SystemExit(f"objects list for '{module}' not found")
-    c = c[:close_idx] + "\n" + line.rstrip("\n") + c[close_idx:]
+    empty = '"objects": [],'
+    if c.startswith(empty, obj_idx):  # empty single-line list => expand to multi-line
+        repl = '"objects": [\n' + line.rstrip("\n") + '\n        ],'
+        c = c[:obj_idx] + repl + c[obj_idx + len(empty):]
+    else:
+        close_idx = c.find('\n        ],', obj_idx)
+        if close_idx < 0:
+            raise SystemExit(f"objects list close for '{module}' not found")
+        c = c[:close_idx] + "\n" + line.rstrip("\n") + c[close_idx:]
     open(CONFIG, "w").write(c)
 
 

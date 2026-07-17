@@ -20,6 +20,39 @@ mo_stub/st_tbreak/fn_89_F88.c:
 mo_stub/st_tbreak/fn_89_17A8.c:
 	.text       start:0x000017A8 end:0x000017BC
 
+mo_stub/st_tbreak/fn_89_17F0.c:
+	.text       start:0x000017F0 end:0x000017FC
+
+mo_stub/st_tbreak/fn_89_1818.c:
+	.text       start:0x00001818 end:0x00001828
+
+mo_stub/st_tbreak/fn_89_191C.c:
+	.text       start:0x0000191C end:0x00001930
+
+mo_stub/st_tbreak/fn_89_1930.c:
+	.text       start:0x00001930 end:0x0000194C
+
+mo_stub/st_tbreak/fn_89_195C.c:
+	.text       start:0x0000195C end:0x00001964
+
+mo_stub/st_tbreak/fn_89_19A0.c:
+	.text       start:0x000019A0 end:0x000019C4
+
+mo_stub/st_tbreak/fn_89_19E0.c:
+	.text       start:0x000019E0 end:0x00001A00
+
+mo_stub/st_tbreak/fn_89_1A0C.c:
+	.text       start:0x00001A0C end:0x00001A10
+
+mo_stub/st_tbreak/fn_89_1A10.c:
+	.text       start:0x00001A10 end:0x00001A30
+
+mo_stub/st_tbreak/fn_89_1B60.c:
+	.text       start:0x00001B60 end:0x00001B64
+
+mo_stub/st_tbreak/fn_89_1D7C.c:
+	.text       start:0x00001D7C end:0x00001D80
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00001D80 end:0x00001E1C
 	.data       start:0x00000F80 end:0x00000F8D

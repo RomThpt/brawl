@@ -29,6 +29,54 @@ mo_stub/ft_captain/fn_100_9594.c:
 mo_stub/ft_captain/fn_100_95A4.c:
 	.text       start:0x000095A4 end:0x000095B8
 
+mo_stub/ft_captain/fn_100_95BC.c:
+	.text       start:0x000095BC end:0x000095D0
+
+mo_stub/ft_captain/fn_100_95D0.c:
+	.text       start:0x000095D0 end:0x000095E8
+
+mo_stub/ft_captain/fn_100_9610.c:
+	.text       start:0x00009610 end:0x00009624
+
+mo_stub/ft_captain/fn_100_9624.c:
+	.text       start:0x00009624 end:0x0000962C
+
+mo_stub/ft_captain/fn_100_963C.c:
+	.text       start:0x0000963C end:0x00009654
+
+mo_stub/ft_captain/fn_100_9654.c:
+	.text       start:0x00009654 end:0x0000966C
+
+mo_stub/ft_captain/fn_100_966C.c:
+	.text       start:0x0000966C end:0x00009678
+
+mo_stub/ft_captain/fn_100_9738.c:
+	.text       start:0x00009738 end:0x00009748
+
+mo_stub/ft_captain/fn_100_9748.c:
+	.text       start:0x00009748 end:0x00009770
+
+mo_stub/ft_captain/fn_100_9770.c:
+	.text       start:0x00009770 end:0x00009788
+
+mo_stub/ft_captain/fn_100_97E8.c:
+	.text       start:0x000097E8 end:0x000097F0
+
+mo_stub/ft_captain/fn_100_98C4.c:
+	.text       start:0x000098C4 end:0x000098CC
+
+mo_stub/ft_captain/fn_100_995C.c:
+	.text       start:0x0000995C end:0x00009964
+
+mo_stub/ft_captain/fn_100_9A1C.c:
+	.text       start:0x00009A1C end:0x00009A24
+
+mo_stub/ft_captain/fn_100_A9D0.c:
+	.text       start:0x0000A9D0 end:0x0000A9E0
+
+mo_stub/ft_captain/fn_100_B7DC.c:
+	.text       start:0x0000B7DC end:0x0000B7E0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001589C end:0x00015938
 	.data       start:0x00007800 end:0x0000780F

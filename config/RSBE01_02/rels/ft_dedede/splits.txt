@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_dedede/fn_117_67D4.c:
+	.text       start:0x000067D4 end:0x000067DC
+
 mo_stub/ft_dedede/fn_117_A2B4.c:
 	.text       start:0x0000A2B4 end:0x0000A2C4
 
@@ -22,6 +25,54 @@ mo_stub/ft_dedede/fn_117_A394.c:
 
 mo_stub/ft_dedede/fn_117_A3C0.c:
 	.text       start:0x0000A3C0 end:0x0000A3D0
+
+mo_stub/ft_dedede/fn_117_A3D0.c:
+	.text       start:0x0000A3D0 end:0x0000A3E0
+
+mo_stub/ft_dedede/fn_117_A3E0.c:
+	.text       start:0x0000A3E0 end:0x0000A3F4
+
+mo_stub/ft_dedede/fn_117_A3F4.c:
+	.text       start:0x0000A3F4 end:0x0000A40C
+
+mo_stub/ft_dedede/fn_117_A40C.c:
+	.text       start:0x0000A40C end:0x0000A414
+
+mo_stub/ft_dedede/fn_117_A43C.c:
+	.text       start:0x0000A43C end:0x0000A448
+
+mo_stub/ft_dedede/fn_117_A448.c:
+	.text       start:0x0000A448 end:0x0000A458
+
+mo_stub/ft_dedede/fn_117_A468.c:
+	.text       start:0x0000A468 end:0x0000A474
+
+mo_stub/ft_dedede/fn_117_A474.c:
+	.text       start:0x0000A474 end:0x0000A490
+
+mo_stub/ft_dedede/fn_117_A490.c:
+	.text       start:0x0000A490 end:0x0000A4A4
+
+mo_stub/ft_dedede/fn_117_A564.c:
+	.text       start:0x0000A564 end:0x0000A58C
+
+mo_stub/ft_dedede/fn_117_A58C.c:
+	.text       start:0x0000A58C end:0x0000A5B4
+
+mo_stub/ft_dedede/fn_117_A654.c:
+	.text       start:0x0000A654 end:0x0000A65C
+
+mo_stub/ft_dedede/fn_117_A730.c:
+	.text       start:0x0000A730 end:0x0000A738
+
+mo_stub/ft_dedede/fn_117_A7C8.c:
+	.text       start:0x0000A7C8 end:0x0000A7D0
+
+mo_stub/ft_dedede/fn_117_A888.c:
+	.text       start:0x0000A888 end:0x0000A890
+
+mo_stub/ft_dedede/fn_117_C104.c:
+	.text       start:0x0000C104 end:0x0000C10C
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04

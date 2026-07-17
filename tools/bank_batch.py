@@ -78,6 +78,20 @@ def kind(a, sz):
                 rD, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
                 if rD == 3 and {rA, rB} == {3, 4}:
                     return ("add2", None)
+            xop = w0 & 0xFC0007FE  # f1=bits25-21, f2=bits20-16, f3=bits15-11
+            f1, f2, f3 = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
+            if xop == 0x7C0001D6 and f1 == 3 and {f2, f3} == {3, 4}:  # mullw
+                return ("binop", "*")
+            if xop == 0x7C0000D0 and f1 == 3 and f2 == 3:  # neg
+                return ("unop", "-")
+            if xop == 0x7C000038 and f2 == 3 and {f1, f3} == {3, 4}:  # and
+                return ("binop", "&")
+            if xop == 0x7C000278 and f2 == 3 and {f1, f3} == {3, 4}:  # xor
+                return ("binop", "^")
+            if xop == 0x7C000378 and f2 == 3 and {f1, f3} == {3, 4} and f1 != f3:  # or
+                return ("binop", "|")
+            if xop == 0x7C0000F8 and f2 == 3 and f1 == 3 and f3 == 3:  # nor => not
+                return ("unop", "~")
     return None
 
 
@@ -138,6 +152,10 @@ for g in groups:
             body.append(f"int {n}(int a0) {{\n    return a0 + {v};\n}}\n")
         elif kk == "add2":
             body.append(f"int {n}(int a0, int a1) {{\n    return a0 + a1;\n}}\n")
+        elif kk == "binop":
+            body.append(f"int {n}(int a0, int a1) {{\n    return a0 {v} a1;\n}}\n")
+        elif kk == "unop":
+            body.append(f"int {n}(int a0) {{\n    return {v}a0;\n}}\n")
     src = "\n".join(body)
     path = f"stub/{g[0][2]}.c"
     add_unit.add(path, start, end, src)

@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/st_battle/fn_43_1E4.c:
 	.text       start:0x000001E4 end:0x000001EC
 
+mo_stub/st_battle/fn_43_680.c:
+	.text       start:0x00000680 end:0x00000688
+
 mo_stub/st_battle/fn_43_8C0.c:
 	.text       start:0x000008C0 end:0x000008E0
 
@@ -34,6 +37,27 @@ mo_stub/st_battle/fn_43_980.c:
 
 mo_stub/st_battle/fn_43_990.c:
 	.text       start:0x00000990 end:0x00000998
+
+mo_stub/st_battle/fn_43_998.c:
+	.text       start:0x00000998 end:0x000009A0
+
+mo_stub/st_battle/fn_43_9AC.c:
+	.text       start:0x000009AC end:0x000009C0
+
+mo_stub/st_battle/fn_43_9C0.c:
+	.text       start:0x000009C0 end:0x000009D0
+
+mo_stub/st_battle/fn_43_ADC.c:
+	.text       start:0x00000ADC end:0x00000AF0
+
+mo_stub/st_battle/fn_43_AF0.c:
+	.text       start:0x00000AF0 end:0x00000AF8
+
+mo_stub/st_battle/fn_43_B2C.c:
+	.text       start:0x00000B2C end:0x00000B40
+
+mo_stub/st_battle/fn_43_F6C.c:
+	.text       start:0x00000F6C end:0x00000F84
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x00000F84 end:0x00001020

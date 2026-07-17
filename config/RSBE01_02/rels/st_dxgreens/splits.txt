@@ -47,6 +47,9 @@ mo_stub/st_dxgreens/fn_79_1810.c:
 mo_stub/st_dxgreens/fn_79_1838.c:
 	.text       start:0x00001838 end:0x00001840
 
+mo_stub/st_dxgreens/fn_79_1840.c:
+	.text       start:0x00001840 end:0x00001848
+
 mo_stub/st_dxgreens/fn_79_1848.c:
 	.text       start:0x00001848 end:0x00001858
 

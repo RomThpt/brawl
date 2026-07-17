@@ -104,6 +104,9 @@ mo_stub/st_gw/fn_63_2924.c:
 mo_stub/st_gw/fn_63_295C.c:
 	.text       start:0x0000295C end:0x00002964
 
+mo_stub/st_gw/fn_63_2964.c:
+	.text       start:0x00002964 end:0x0000296C
+
 mo_stub/st_gw/fn_63_296C.c:
 	.text       start:0x0000296C end:0x0000297C
 
@@ -154,6 +157,81 @@ mo_stub/st_gw/fn_63_96A0.c:
 
 mo_stub/st_gw/fn_63_96C4.c:
 	.text       start:0x000096C4 end:0x000096CC
+
+mo_stub/st_gw/fn_63_96CC.c:
+	.text       start:0x000096CC end:0x000096E4
+
+mo_stub/st_gw/fn_63_9708.c:
+	.text       start:0x00009708 end:0x0000971C
+
+mo_stub/st_gw/fn_63_971C.c:
+	.text       start:0x0000971C end:0x0000973C
+
+mo_stub/st_gw/fn_63_973C.c:
+	.text       start:0x0000973C end:0x00009758
+
+mo_stub/st_gw/fn_63_9758.c:
+	.text       start:0x00009758 end:0x00009760
+
+mo_stub/st_gw/fn_63_976C.c:
+	.text       start:0x0000976C end:0x0000978C
+
+mo_stub/st_gw/fn_63_978C.c:
+	.text       start:0x0000978C end:0x000097B0
+
+mo_stub/st_gw/fn_63_97B0.c:
+	.text       start:0x000097B0 end:0x000097C0
+
+mo_stub/st_gw/fn_63_97E0.c:
+	.text       start:0x000097E0 end:0x000097E8
+
+mo_stub/st_gw/fn_63_9830.c:
+	.text       start:0x00009830 end:0x00009834
+
+mo_stub/st_gw/fn_63_9BDC.c:
+	.text       start:0x00009BDC end:0x00009BE4
+
+mo_stub/st_gw/fn_63_9D68.c:
+	.text       start:0x00009D68 end:0x00009D70
+
+mo_stub/st_gw/fn_63_AD1C.c:
+	.text       start:0x0000AD1C end:0x0000AD28
+
+mo_stub/st_gw/fn_63_AD28.c:
+	.text       start:0x0000AD28 end:0x0000AD3C
+
+mo_stub/st_gw/fn_63_AD3C.c:
+	.text       start:0x0000AD3C end:0x0000AD5C
+
+mo_stub/st_gw/fn_63_ADD4.c:
+	.text       start:0x0000ADD4 end:0x0000ADDC
+
+mo_stub/st_gw/fn_63_AE9C.c:
+	.text       start:0x0000AE9C end:0x0000AEA4
+
+mo_stub/st_gw/fn_63_AFFC.c:
+	.text       start:0x0000AFFC end:0x0000B004
+
+mo_stub/st_gw/fn_63_B15C.c:
+	.text       start:0x0000B15C end:0x0000B164
+
+mo_stub/st_gw/fn_63_B224.c:
+	.text       start:0x0000B224 end:0x0000B22C
+
+mo_stub/st_gw/fn_63_BED0.c:
+	.text       start:0x0000BED0 end:0x0000BED8
+
+mo_stub/st_gw/fn_63_C944.c:
+	.text       start:0x0000C944 end:0x0000C94C
+
+mo_stub/st_gw/fn_63_D57C.c:
+	.text       start:0x0000D57C end:0x0000D584
+
+mo_stub/st_gw/fn_63_E220.c:
+	.text       start:0x0000E220 end:0x0000E228
+
+mo_stub/st_gw/fn_63_EF70.c:
+	.text       start:0x0000EF70 end:0x0000EF78
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
