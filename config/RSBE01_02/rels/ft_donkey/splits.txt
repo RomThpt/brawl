@@ -137,6 +137,12 @@ mo_stub/ft_donkey/fn_92_12A80.c:
 mo_stub/ft_donkey/fn_92_12A98.c:
 	.text       start:0x00012A98 end:0x00012AC0
 
+mo_stub/ft_donkey/fn_92_12AC0.c:
+	.text       start:0x00012AC0 end:0x00012AE0
+
+mo_stub/ft_donkey/fn_92_12AF0.c:
+	.text       start:0x00012AF0 end:0x00012AF8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000154E4 end:0x00015580
 	.data       start:0x00007A38 end:0x00007A47
