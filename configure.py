@@ -1756,6 +1756,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_sonic/fn_123_A118.c"),
             Object(Matching, "mo_stub/ft_sonic/fn_123_A12C.c"),
             Object(Matching, "mo_stub/ft_sonic/fn_123_A140.c"),
+            Object(Matching, "mo_stub/ft_sonic/fn_123_A158.c"),
+            Object(Matching, "mo_stub/ft_sonic/fn_123_A184.c"),
         ],
     },
     {
