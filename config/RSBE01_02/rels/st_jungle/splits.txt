@@ -20,6 +20,12 @@ mo_stub/st_jungle/fn_51_994.c:
 mo_stub/st_jungle/fn_51_F7C.c:
 	.text       start:0x00000F7C end:0x00000FA4
 
+mo_stub/st_jungle/fn_51_FA4.c:
+	.text       start:0x00000FA4 end:0x00000FB0
+
+mo_stub/st_jungle/fn_51_111C.c:
+	.text       start:0x0000111C end:0x00001134
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
 	.data       start:0x00009A00 end:0x00009A0D
