@@ -107,6 +107,18 @@ mo_stub/st_halberd/fn_57_A420.c:
 mo_stub/st_halberd/fn_57_A43C.c:
 	.text       start:0x0000A43C end:0x0000A450
 
+mo_stub/st_halberd/fn_57_A470.c:
+	.text       start:0x0000A470 end:0x0000A478
+
+mo_stub/st_halberd/fn_57_A4C0.c:
+	.text       start:0x0000A4C0 end:0x0000A4C4
+
+mo_stub/st_halberd/fn_57_A770.c:
+	.text       start:0x0000A770 end:0x0000A778
+
+mo_stub/st_halberd/fn_57_AC80.c:
+	.text       start:0x0000AC80 end:0x0000AC8C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
 	.data       start:0x00003348 end:0x00003355
