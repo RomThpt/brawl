@@ -122,6 +122,30 @@ mo_stub/ft_toonlink/fn_121_14798.c:
 mo_stub/ft_toonlink/fn_121_147E0.c:
 	.text       start:0x000147E0 end:0x000147F0
 
+mo_stub/ft_toonlink/fn_121_147F0.c:
+	.text       start:0x000147F0 end:0x00014818
+
+mo_stub/ft_toonlink/fn_121_14818.c:
+	.text       start:0x00014818 end:0x00014840
+
+mo_stub/ft_toonlink/fn_121_14850.c:
+	.text       start:0x00014850 end:0x00014868
+
+mo_stub/ft_toonlink/fn_121_14868.c:
+	.text       start:0x00014868 end:0x0001486C
+
+mo_stub/ft_toonlink/fn_121_14888.c:
+	.text       start:0x00014888 end:0x00014890
+
+mo_stub/ft_toonlink/fn_121_148D8.c:
+	.text       start:0x000148D8 end:0x000148E8
+
+mo_stub/ft_toonlink/fn_121_148E8.c:
+	.text       start:0x000148E8 end:0x0001490C
+
+mo_stub/ft_toonlink/fn_121_185AC.c:
+	.text       start:0x000185AC end:0x000185BC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018684 end:0x00018720
 	.data       start:0x00009BF0 end:0x00009BFF

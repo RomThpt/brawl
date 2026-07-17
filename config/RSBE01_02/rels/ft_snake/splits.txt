@@ -116,6 +116,81 @@ mo_stub/ft_snake/fn_122_18E44.c:
 mo_stub/ft_snake/fn_122_18E58.c:
 	.text       start:0x00018E58 end:0x00018E70
 
+mo_stub/ft_snake/fn_122_18E70.c:
+	.text       start:0x00018E70 end:0x00018E94
+
+mo_stub/ft_snake/fn_122_18EA4.c:
+	.text       start:0x00018EA4 end:0x00018EAC
+
+mo_stub/ft_snake/fn_122_18EEC.c:
+	.text       start:0x00018EEC end:0x00018F0C
+
+mo_stub/ft_snake/fn_122_18F0C.c:
+	.text       start:0x00018F0C end:0x00018F34
+
+mo_stub/ft_snake/fn_122_18F34.c:
+	.text       start:0x00018F34 end:0x00018F4C
+
+mo_stub/ft_snake/fn_122_18F5C.c:
+	.text       start:0x00018F5C end:0x00018F68
+
+mo_stub/ft_snake/fn_122_18F68.c:
+	.text       start:0x00018F68 end:0x00018F78
+
+mo_stub/ft_snake/fn_122_18F94.c:
+	.text       start:0x00018F94 end:0x00018F9C
+
+mo_stub/ft_snake/fn_122_18FE4.c:
+	.text       start:0x00018FE4 end:0x00018FE8
+
+mo_stub/ft_snake/fn_122_1D610.c:
+	.text       start:0x0001D610 end:0x0001D618
+
+mo_stub/ft_snake/fn_122_20438.c:
+	.text       start:0x00020438 end:0x00020440
+
+mo_stub/ft_snake/fn_122_20440.c:
+	.text       start:0x00020440 end:0x00020454
+
+mo_stub/ft_snake/fn_122_20454.c:
+	.text       start:0x00020454 end:0x0002045C
+
+mo_stub/ft_snake/fn_122_20468.c:
+	.text       start:0x00020468 end:0x00020480
+
+mo_stub/ft_snake/fn_122_20480.c:
+	.text       start:0x00020480 end:0x00020488
+
+mo_stub/ft_snake/fn_122_204AC.c:
+	.text       start:0x000204AC end:0x000204B8
+
+mo_stub/ft_snake/fn_122_204B8.c:
+	.text       start:0x000204B8 end:0x000204D4
+
+mo_stub/ft_snake/fn_122_204D4.c:
+	.text       start:0x000204D4 end:0x000204EC
+
+mo_stub/ft_snake/fn_122_204EC.c:
+	.text       start:0x000204EC end:0x00020504
+
+mo_stub/ft_snake/fn_122_20510.c:
+	.text       start:0x00020510 end:0x00020520
+
+mo_stub/ft_snake/fn_122_20520.c:
+	.text       start:0x00020520 end:0x00020548
+
+mo_stub/ft_snake/fn_122_23AA8.c:
+	.text       start:0x00023AA8 end:0x00023AB8
+
+mo_stub/ft_snake/fn_122_23F40.c:
+	.text       start:0x00023F40 end:0x00023F48
+
+mo_stub/ft_snake/fn_122_24410.c:
+	.text       start:0x00024410 end:0x00024418
+
+mo_stub/ft_snake/fn_122_245E8.c:
+	.text       start:0x000245E8 end:0x000245F0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00027B24 end:0x00027BC0
 	.data       start:0x000107D8 end:0x000107E7

@@ -170,6 +170,42 @@ mo_stub/ft_sonic/fn_123_14078.c:
 mo_stub/ft_sonic/fn_123_140C0.c:
 	.text       start:0x000140C0 end:0x000140D8
 
+mo_stub/ft_sonic/fn_123_140D8.c:
+	.text       start:0x000140D8 end:0x00014100
+
+mo_stub/ft_sonic/fn_123_14100.c:
+	.text       start:0x00014100 end:0x00014120
+
+mo_stub/ft_sonic/fn_123_14130.c:
+	.text       start:0x00014130 end:0x00014138
+
+mo_stub/ft_sonic/fn_123_14138.c:
+	.text       start:0x00014138 end:0x0001414C
+
+mo_stub/ft_sonic/fn_123_14168.c:
+	.text       start:0x00014168 end:0x00014170
+
+mo_stub/ft_sonic/fn_123_141B8.c:
+	.text       start:0x000141B8 end:0x000141BC
+
+mo_stub/ft_sonic/fn_123_145B8.c:
+	.text       start:0x000145B8 end:0x000145C0
+
+mo_stub/ft_sonic/fn_123_15030.c:
+	.text       start:0x00015030 end:0x00015038
+
+mo_stub/ft_sonic/fn_123_1794C.c:
+	.text       start:0x0001794C end:0x00017950
+
+mo_stub/ft_sonic/fn_123_17974.c:
+	.text       start:0x00017974 end:0x00017980
+
+mo_stub/ft_sonic/fn_123_17A34.c:
+	.text       start:0x00017A34 end:0x00017A3C
+
+mo_stub/ft_sonic/fn_123_17AE4.c:
+	.text       start:0x00017AE4 end:0x00017AEC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000185A0 end:0x0001863C
 	.data       start:0x000081B0 end:0x000081BF

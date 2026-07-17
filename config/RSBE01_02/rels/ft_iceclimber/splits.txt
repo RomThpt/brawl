@@ -149,6 +149,69 @@ mo_stub/ft_iceclimber/fn_105_1841C.c:
 mo_stub/ft_iceclimber/fn_105_18434.c:
 	.text       start:0x00018434 end:0x00018448
 
+mo_stub/ft_iceclimber/fn_105_18448.c:
+	.text       start:0x00018448 end:0x0001846C
+
+mo_stub/ft_iceclimber/fn_105_1846C.c:
+	.text       start:0x0001846C end:0x00018474
+
+mo_stub/ft_iceclimber/fn_105_18484.c:
+	.text       start:0x00018484 end:0x0001848C
+
+mo_stub/ft_iceclimber/fn_105_184CC.c:
+	.text       start:0x000184CC end:0x000184E4
+
+mo_stub/ft_iceclimber/fn_105_184E4.c:
+	.text       start:0x000184E4 end:0x0001850C
+
+mo_stub/ft_iceclimber/fn_105_1850C.c:
+	.text       start:0x0001850C end:0x0001852C
+
+mo_stub/ft_iceclimber/fn_105_1853C.c:
+	.text       start:0x0001853C end:0x00018544
+
+mo_stub/ft_iceclimber/fn_105_18544.c:
+	.text       start:0x00018544 end:0x00018558
+
+mo_stub/ft_iceclimber/fn_105_1BD94.c:
+	.text       start:0x0001BD94 end:0x0001BDA8
+
+mo_stub/ft_iceclimber/fn_105_1BDA8.c:
+	.text       start:0x0001BDA8 end:0x0001BDB4
+
+mo_stub/ft_iceclimber/fn_105_1BDC0.c:
+	.text       start:0x0001BDC0 end:0x0001BDD0
+
+mo_stub/ft_iceclimber/fn_105_1BDD0.c:
+	.text       start:0x0001BDD0 end:0x0001BDE0
+
+mo_stub/ft_iceclimber/fn_105_1BE04.c:
+	.text       start:0x0001BE04 end:0x0001BE0C
+
+mo_stub/ft_iceclimber/fn_105_1BE0C.c:
+	.text       start:0x0001BE0C end:0x0001BE28
+
+mo_stub/ft_iceclimber/fn_105_1BE28.c:
+	.text       start:0x0001BE28 end:0x0001BE40
+
+mo_stub/ft_iceclimber/fn_105_1BE40.c:
+	.text       start:0x0001BE40 end:0x0001BE5C
+
+mo_stub/ft_iceclimber/fn_105_1BE68.c:
+	.text       start:0x0001BE68 end:0x0001BE70
+
+mo_stub/ft_iceclimber/fn_105_1BE70.c:
+	.text       start:0x0001BE70 end:0x0001BE98
+
+mo_stub/ft_iceclimber/fn_105_1BE98.c:
+	.text       start:0x0001BE98 end:0x0001BEA4
+
+mo_stub/ft_iceclimber/fn_105_1C320.c:
+	.text       start:0x0001C320 end:0x0001C324
+
+mo_stub/ft_iceclimber/fn_105_1C348.c:
+	.text       start:0x0001C348 end:0x0001C354
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000210B0 end:0x0002114C
 	.data       start:0x0000A548 end:0x0000A557

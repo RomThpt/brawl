@@ -125,6 +125,36 @@ mo_stub/ft_link/fn_93_1474C.c:
 mo_stub/ft_link/fn_93_14794.c:
 	.text       start:0x00014794 end:0x0001479C
 
+mo_stub/ft_link/fn_93_1479C.c:
+	.text       start:0x0001479C end:0x000147C4
+
+mo_stub/ft_link/fn_93_147C4.c:
+	.text       start:0x000147C4 end:0x000147EC
+
+mo_stub/ft_link/fn_93_147EC.c:
+	.text       start:0x000147EC end:0x000147F4
+
+mo_stub/ft_link/fn_93_14804.c:
+	.text       start:0x00014804 end:0x00014818
+
+mo_stub/ft_link/fn_93_14818.c:
+	.text       start:0x00014818 end:0x00014820
+
+mo_stub/ft_link/fn_93_1483C.c:
+	.text       start:0x0001483C end:0x00014844
+
+mo_stub/ft_link/fn_93_1488C.c:
+	.text       start:0x0001488C end:0x00014894
+
+mo_stub/ft_link/fn_93_14894.c:
+	.text       start:0x00014894 end:0x000148B8
+
+mo_stub/ft_link/fn_93_148B8.c:
+	.text       start:0x000148B8 end:0x000148C0
+
+mo_stub/ft_link/fn_93_18560.c:
+	.text       start:0x00018560 end:0x00018570
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018638 end:0x000186D4
 	.data       start:0x00009AC0 end:0x00009ACF

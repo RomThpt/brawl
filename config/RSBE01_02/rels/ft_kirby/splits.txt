@@ -149,6 +149,78 @@ mo_stub/ft_kirby/fn_96_20B48.c:
 mo_stub/ft_kirby/fn_96_23B1C.c:
 	.text       start:0x00023B1C end:0x00023B34
 
+mo_stub/ft_kirby/fn_96_23B34.c:
+	.text       start:0x00023B34 end:0x00023B3C
+
+mo_stub/ft_kirby/fn_96_23B48.c:
+	.text       start:0x00023B48 end:0x00023B50
+
+mo_stub/ft_kirby/fn_96_23B5C.c:
+	.text       start:0x00023B5C end:0x00023B64
+
+mo_stub/ft_kirby/fn_96_23B7C.c:
+	.text       start:0x00023B7C end:0x00023B88
+
+mo_stub/ft_kirby/fn_96_23B88.c:
+	.text       start:0x00023B88 end:0x00023B90
+
+mo_stub/ft_kirby/fn_96_23C30.c:
+	.text       start:0x00023C30 end:0x00023C44
+
+mo_stub/ft_kirby/fn_96_23C44.c:
+	.text       start:0x00023C44 end:0x00023C60
+
+mo_stub/ft_kirby/fn_96_23C6C.c:
+	.text       start:0x00023C6C end:0x00023C74
+
+mo_stub/ft_kirby/fn_96_23C74.c:
+	.text       start:0x00023C74 end:0x00023C88
+
+mo_stub/ft_kirby/fn_96_23C88.c:
+	.text       start:0x00023C88 end:0x00023C9C
+
+mo_stub/ft_kirby/fn_96_23C9C.c:
+	.text       start:0x00023C9C end:0x00023CBC
+
+mo_stub/ft_kirby/fn_96_23CBC.c:
+	.text       start:0x00023CBC end:0x00023CCC
+
+mo_stub/ft_kirby/fn_96_23CDC.c:
+	.text       start:0x00023CDC end:0x00023CE4
+
+mo_stub/ft_kirby/fn_96_23D24.c:
+	.text       start:0x00023D24 end:0x00023D34
+
+mo_stub/ft_kirby/fn_96_23D34.c:
+	.text       start:0x00023D34 end:0x00023D5C
+
+mo_stub/ft_kirby/fn_96_23D5C.c:
+	.text       start:0x00023D5C end:0x00023D84
+
+mo_stub/ft_kirby/fn_96_23D94.c:
+	.text       start:0x00023D94 end:0x00023DAC
+
+mo_stub/ft_kirby/fn_96_23DAC.c:
+	.text       start:0x00023DAC end:0x00023DB0
+
+mo_stub/ft_kirby/fn_96_23DCC.c:
+	.text       start:0x00023DCC end:0x00023DD4
+
+mo_stub/ft_kirby/fn_96_23E1C.c:
+	.text       start:0x00023E1C end:0x00023E20
+
+mo_stub/ft_kirby/fn_96_2408C.c:
+	.text       start:0x0002408C end:0x00024090
+
+mo_stub/ft_kirby/fn_96_2439C.c:
+	.text       start:0x0002439C end:0x000243A0
+
+mo_stub/ft_kirby/fn_96_28230.c:
+	.text       start:0x00028230 end:0x0002823C
+
+mo_stub/ft_kirby/fn_96_2D124.c:
+	.text       start:0x0002D124 end:0x0002D12C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7

@@ -140,6 +140,27 @@ mo_stub/ft_yoshi/fn_95_17604.c:
 mo_stub/ft_yoshi/fn_95_17624.c:
 	.text       start:0x00017624 end:0x0001764C
 
+mo_stub/ft_yoshi/fn_95_1764C.c:
+	.text       start:0x0001764C end:0x00017664
+
+mo_stub/ft_yoshi/fn_95_17674.c:
+	.text       start:0x00017674 end:0x00017680
+
+mo_stub/ft_yoshi/fn_95_17680.c:
+	.text       start:0x00017680 end:0x00017690
+
+mo_stub/ft_yoshi/fn_95_176AC.c:
+	.text       start:0x000176AC end:0x000176B4
+
+mo_stub/ft_yoshi/fn_95_176FC.c:
+	.text       start:0x000176FC end:0x00017700
+
+mo_stub/ft_yoshi/fn_95_1B7EC.c:
+	.text       start:0x0001B7EC end:0x0001B7F4
+
+mo_stub/ft_yoshi/fn_95_1D884.c:
+	.text       start:0x0001D884 end:0x0001D88C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001D9D0 end:0x0001DA6C
 	.data       start:0x0000A040 end:0x0000A04F
