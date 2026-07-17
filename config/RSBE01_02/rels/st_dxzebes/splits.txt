@@ -26,6 +26,9 @@ mo_stub/st_dxzebes/fn_84_3E04.c:
 mo_stub/st_dxzebes/fn_84_3E48.c:
 	.text       start:0x00003E48 end:0x00003E50
 
+mo_stub/st_dxzebes/fn_84_3E50.c:
+	.text       start:0x00003E50 end:0x00003E74
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00003FFC end:0x00004098
 	.data       start:0x00000518 end:0x00000525
