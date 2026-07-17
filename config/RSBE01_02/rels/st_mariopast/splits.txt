@@ -11,6 +11,12 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_mariopast/fn_48_304.c:
+	.text       start:0x00000304 end:0x0000030C
+
+mo_stub/st_mariopast/fn_48_7BC.c:
+	.text       start:0x000007BC end:0x000007DC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C758 end:0x0000C7F4
 	.data       start:0x00003440 end:0x0000344D
