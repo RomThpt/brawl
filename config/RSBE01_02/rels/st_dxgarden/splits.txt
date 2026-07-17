@@ -71,6 +71,15 @@ mo_stub/st_dxgarden/fn_77_3330.c:
 mo_stub/st_dxgarden/fn_77_3360.c:
 	.text       start:0x00003360 end:0x00003368
 
+mo_stub/st_dxgarden/fn_77_33B0.c:
+	.text       start:0x000033B0 end:0x000033B4
+
+mo_stub/st_dxgarden/fn_77_3660.c:
+	.text       start:0x00003660 end:0x00003668
+
+mo_stub/st_dxgarden/fn_77_3B70.c:
+	.text       start:0x00003B70 end:0x00003B80
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000065E8 end:0x00006684
 	.data       start:0x00002098 end:0x000020A5
