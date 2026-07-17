@@ -1873,6 +1873,9 @@ config.libs = [
             Object(Matching, "mo_stub/st_croll/fn_90_8330.c"),
             Object(Matching, "mo_stub/st_croll/fn_90_834C.c"),
             Object(Matching, "mo_stub/st_croll/fn_90_8390.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_83A0.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_83D0.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_83E0.c"),
         ],
     },
     {
