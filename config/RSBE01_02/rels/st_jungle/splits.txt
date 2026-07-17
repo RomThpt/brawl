@@ -122,6 +122,12 @@ mo_stub/st_jungle/fn_51_5440.c:
 mo_stub/st_jungle/fn_51_5460.c:
 	.text       start:0x00005460 end:0x00005470
 
+mo_stub/st_jungle/fn_51_5470.c:
+	.text       start:0x00005470 end:0x00005480
+
+mo_stub/st_jungle/fn_51_54A4.c:
+	.text       start:0x000054A4 end:0x000054AC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
 	.data       start:0x00009A00 end:0x00009A0D
