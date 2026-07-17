@@ -1002,7 +1002,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_diddy/fn_115_9F24.c"),
+            Object(Matching, "mo_stub/ft_diddy/fn_115_9FDC.c"),
+        ],
     },
     {
         "lib": "ft_donkey",
