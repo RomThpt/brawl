@@ -149,6 +149,12 @@ mo_stub/ft_luigi/fn_99_10A24.c:
 mo_stub/ft_luigi/fn_99_10A4C.c:
 	.text       start:0x00010A4C end:0x00010A74
 
+mo_stub/ft_luigi/fn_99_10A74.c:
+	.text       start:0x00010A74 end:0x00010A7C
+
+mo_stub/ft_luigi/fn_99_10A8C.c:
+	.text       start:0x00010A8C end:0x00010AA0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010EAC end:0x00010F48
 	.data       start:0x00006ED8 end:0x00006EE7
