@@ -17,6 +17,15 @@ mo_stub/st_dolpic/fn_46_34C.c:
 mo_stub/st_dolpic/fn_46_8D0.c:
 	.text       start:0x000008D0 end:0x000008F0
 
+mo_stub/st_dolpic/fn_46_9B4.c:
+	.text       start:0x000009B4 end:0x000009BC
+
+mo_stub/st_dolpic/fn_46_C28.c:
+	.text       start:0x00000C28 end:0x00000C40
+
+mo_stub/st_dolpic/fn_46_CF0.c:
+	.text       start:0x00000CF0 end:0x00000CF8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007088 end:0x00007124
 	.data       start:0x00002440 end:0x0000244D
