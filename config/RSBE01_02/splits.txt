@@ -849,8 +849,17 @@ stub/fn_801D36BC.c:
 stub/fn_801D3C38.c:
 	.text       start:0x801D3C38 end:0x801D3C40
 
+stub/fn_801D44D0.c:
+	.text       start:0x801D44D0 end:0x801D44E0
+
 stub/fn_801D4F6C.c:
 	.text       start:0x801D4F6C end:0x801D4F70
+
+stub/fn_801D6D80.c:
+	.text       start:0x801D6D80 end:0x801D6D88
+
+stub/fn_801D6E14.c:
+	.text       start:0x801D6E14 end:0x801D6E24
 
 stub/fn_801DD694.c:
 	.text       start:0x801DD694 end:0x801DD6A4
