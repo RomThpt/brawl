@@ -23,6 +23,12 @@ mo_stub/st_metalgear/fn_71_B2C.c:
 mo_stub/st_metalgear/fn_71_C58.c:
 	.text       start:0x00000C58 end:0x00000C60
 
+mo_stub/st_metalgear/fn_71_C60.c:
+	.text       start:0x00000C60 end:0x00000C78
+
+mo_stub/st_metalgear/fn_71_EDC.c:
+	.text       start:0x00000EDC end:0x00000EEC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD

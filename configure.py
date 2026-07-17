@@ -2332,6 +2332,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_metalgear/fn_71_85C.c"),
             Object(Matching, "mo_stub/st_metalgear/fn_71_B2C.c"),
             Object(Matching, "mo_stub/st_metalgear/fn_71_C58.c"),
+            Object(Matching, "mo_stub/st_metalgear/fn_71_C60.c"),
+            Object(Matching, "mo_stub/st_metalgear/fn_71_EDC.c"),
         ],
     },
     {
