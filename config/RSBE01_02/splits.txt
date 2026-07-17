@@ -1611,6 +1611,15 @@ stub/fn_8032C2B0.c:
 stub/fn_8032D974.c:
 	.text       start:0x8032D974 end:0x8032D978
 
+stub/fn_8032FCAC.c:
+	.text       start:0x8032FCAC end:0x8032FCB4
+
+stub/fn_803318E4.c:
+	.text       start:0x803318E4 end:0x803318EC
+
+stub/fn_803328BC.c:
+	.text       start:0x803328BC end:0x803328D4
+
 stub/fn_8034C4DC.c:
 	.text       start:0x8034C4DC end:0x8034C4E4
 
