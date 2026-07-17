@@ -23,6 +23,9 @@ mo_stub/ft_diddy/fn_115_9FEC.c:
 mo_stub/ft_diddy/fn_115_A000.c:
 	.text       start:0x0000A000 end:0x0000A014
 
+mo_stub/ft_diddy/fn_115_A014.c:
+	.text       start:0x0000A014 end:0x0000A02C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001B99C end:0x0001BA38
 	.data       start:0x0000A958 end:0x0000A967
