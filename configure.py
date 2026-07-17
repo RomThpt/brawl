@@ -1942,6 +1942,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_crayon/fn_56_9994.c"),
             Object(Matching, "mo_stub/st_crayon/fn_56_A670.c"),
             Object(Matching, "mo_stub/st_crayon/fn_56_AE5C.c"),
+            Object(Matching, "mo_stub/st_battles/fn_42_498.c"),
         ],
     },
     {
