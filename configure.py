@@ -2298,7 +2298,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_gw/fn_63_2964.c"),
+            Object(Matching, "mo_stub/st_gw/fn_63_96CC.c"),
+        ],
     },
     {
         "lib": "st_halberd",

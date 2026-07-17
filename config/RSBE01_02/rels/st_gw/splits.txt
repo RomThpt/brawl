@@ -104,6 +104,9 @@ mo_stub/st_gw/fn_63_2924.c:
 mo_stub/st_gw/fn_63_295C.c:
 	.text       start:0x0000295C end:0x00002964
 
+mo_stub/st_gw/fn_63_2964.c:
+	.text       start:0x00002964 end:0x0000296C
+
 mo_stub/st_gw/fn_63_296C.c:
 	.text       start:0x0000296C end:0x0000297C
 
@@ -154,6 +157,9 @@ mo_stub/st_gw/fn_63_96A0.c:
 
 mo_stub/st_gw/fn_63_96C4.c:
 	.text       start:0x000096C4 end:0x000096CC
+
+mo_stub/st_gw/fn_63_96CC.c:
+	.text       start:0x000096CC end:0x000096E4
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
