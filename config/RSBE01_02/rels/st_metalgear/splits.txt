@@ -80,6 +80,12 @@ mo_stub/st_metalgear/fn_71_2700.c:
 mo_stub/st_metalgear/fn_71_2B44.c:
 	.text       start:0x00002B44 end:0x00002B4C
 
+mo_stub/st_metalgear/fn_71_2B4C.c:
+	.text       start:0x00002B4C end:0x00002B5C
+
+mo_stub/st_metalgear/fn_71_2B80.c:
+	.text       start:0x00002B80 end:0x00002B8C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD
