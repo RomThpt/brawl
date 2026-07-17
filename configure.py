@@ -1028,6 +1028,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_fox/fn_97_8138.c"),
             Object(Matching, "mo_stub/ft_fox/fn_97_AEEC.c"),
             Object(Matching, "mo_stub/ft_fox/fn_97_AF34.c"),
+            Object(Matching, "mo_stub/ft_fox/fn_97_AFC8.c"),
+            Object(Matching, "mo_stub/ft_fox/fn_97_AFF4.c"),
         ],
     },
     {
