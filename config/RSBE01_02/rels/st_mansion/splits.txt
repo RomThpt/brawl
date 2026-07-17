@@ -137,6 +137,21 @@ mo_stub/st_mansion/fn_47_3C94.c:
 mo_stub/st_mansion/fn_47_3CBC.c:
 	.text       start:0x00003CBC end:0x00003CD4
 
+mo_stub/st_mansion/fn_47_3CD4.c:
+	.text       start:0x00003CD4 end:0x00003CD8
+
+mo_stub/st_mansion/fn_47_3CF8.c:
+	.text       start:0x00003CF8 end:0x00003D00
+
+mo_stub/st_mansion/fn_47_3D48.c:
+	.text       start:0x00003D48 end:0x00003D4C
+
+mo_stub/st_mansion/fn_47_40B4.c:
+	.text       start:0x000040B4 end:0x000040BC
+
+mo_stub/st_mansion/fn_47_4240.c:
+	.text       start:0x00004240 end:0x00004248
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CC28 end:0x0000CCC4
 	.data       start:0x00003060 end:0x0000306D
