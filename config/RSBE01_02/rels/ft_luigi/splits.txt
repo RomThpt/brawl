@@ -53,6 +53,9 @@ mo_stub/ft_luigi/fn_99_8870.c:
 mo_stub/ft_luigi/fn_99_893C.c:
 	.text       start:0x0000893C end:0x0000894C
 
+mo_stub/ft_luigi/fn_99_894C.c:
+	.text       start:0x0000894C end:0x00008974
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010EAC end:0x00010F48
 	.data       start:0x00006ED8 end:0x00006EE7
