@@ -20,6 +20,12 @@ mo_stub/st_oldin/fn_53_1214.c:
 mo_stub/st_oldin/fn_53_3F54.c:
 	.text       start:0x00003F54 end:0x00003F68
 
+mo_stub/st_oldin/fn_53_3F68.c:
+	.text       start:0x00003F68 end:0x00003F84
+
+mo_stub/st_oldin/fn_53_3F94.c:
+	.text       start:0x00003F94 end:0x00003F9C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000433C end:0x000043D8
 	.data       start:0x000009C8 end:0x000009D5
