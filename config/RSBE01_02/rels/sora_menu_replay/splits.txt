@@ -9,6 +9,9 @@ Sections:
 mo_stub/sora_menu_replay/fn_7_1474.c:
 	.text       start:0x00001474 end:0x0000148C
 
+mo_stub/sora_menu_replay/fn_7_148C.c:
+	.text       start:0x0000148C end:0x000014A0
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x000015B8 end:0x00001654
 	.data       start:0x000006D0 end:0x000006DC
