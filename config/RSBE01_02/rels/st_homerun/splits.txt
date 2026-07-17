@@ -71,6 +71,9 @@ mo_stub/st_homerun/fn_88_417C.c:
 mo_stub/st_homerun/fn_88_41B4.c:
 	.text       start:0x000041B4 end:0x000041BC
 
+mo_stub/st_homerun/fn_88_41BC.c:
+	.text       start:0x000041BC end:0x000041C4
+
 mo_stub/st_homerun/fn_88_41C4.c:
 	.text       start:0x000041C4 end:0x000041D4
 
