@@ -187,6 +187,15 @@ sora/ut/ut_relocate.cpp:
 sora/ut/ut_list.cpp:
 	.text       start:0x800448F8 end:0x80044AD0
 
+stub/fn_80046A24.c:
+	.text       start:0x80046A24 end:0x80046A28
+
+stub/fn_8004755C.c:
+	.text       start:0x8004755C end:0x80047560
+
+stub/fn_80047FC8.c:
+	.text       start:0x80047FC8 end:0x80047FCC
+
 sora/ip/ip_human.cpp:
 	.text       start:0x80048118 end:0x80048548
 	.data       start:0x8042B810 end:0x8042B858
@@ -196,6 +205,12 @@ sora/ip/ip_human.cpp:
 sora/ip/ip_network_producer.cpp:
 	.text       start:0x8004AE14 end:0x8004AFB4
 	.sbss       start:0x805A00D8 end:0x805A00E0
+
+stub/fn_8004EFA0.c:
+	.text       start:0x8004EFA0 end:0x8004EFA8
+
+stub/fn_800569F8.c:
+	.text       start:0x800569F8 end:0x800569FC
 
 sora/ef/ef_screen_handle.cpp:
 	.text       start:0x8005E5C8 end:0x8005E5E8
