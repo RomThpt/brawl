@@ -306,3 +306,6 @@ Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
 
 TRK_MINNOW_DOLPHIN/dispatch.c:
 	.text       start:0x80401E1C end:0x80401E24
+
+TRK_MINNOW_DOLPHIN/udp_cc.c:
+	.text       start:0x80405F08 end:0x80405F50
