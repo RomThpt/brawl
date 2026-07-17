@@ -119,6 +119,33 @@ mo_stub/st_village/fn_70_8808.c:
 mo_stub/st_village/fn_70_8AE0.c:
 	.text       start:0x00008AE0 end:0x00008AE8
 
+mo_stub/st_village/fn_70_8FFC.c:
+	.text       start:0x00008FFC end:0x00009004
+
+mo_stub/st_village/fn_70_90C4.c:
+	.text       start:0x000090C4 end:0x000090CC
+
+mo_stub/st_village/fn_70_9224.c:
+	.text       start:0x00009224 end:0x0000922C
+
+mo_stub/st_village/fn_70_92EC.c:
+	.text       start:0x000092EC end:0x000092F4
+
+mo_stub/st_village/fn_70_9F98.c:
+	.text       start:0x00009F98 end:0x00009FA0
+
+mo_stub/st_village/fn_70_AA0C.c:
+	.text       start:0x0000AA0C end:0x0000AA14
+
+mo_stub/st_village/fn_70_B644.c:
+	.text       start:0x0000B644 end:0x0000B64C
+
+mo_stub/st_village/fn_70_C2E8.c:
+	.text       start:0x0000C2E8 end:0x0000C2F0
+
+mo_stub/st_village/fn_70_CAD4.c:
+	.text       start:0x0000CAD4 end:0x0000CADC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000DA54 end:0x0000DAF0
 	.data       start:0x00004500 end:0x0000450D

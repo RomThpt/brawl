@@ -191,6 +191,12 @@ mo_stub/ft_dedede/fn_117_23D68.c:
 mo_stub/ft_dedede/fn_117_23D84.c:
 	.text       start:0x00023D84 end:0x00023D94
 
+mo_stub/ft_dedede/fn_117_23D94.c:
+	.text       start:0x00023D94 end:0x00023DA4
+
+mo_stub/ft_dedede/fn_117_23DC8.c:
+	.text       start:0x00023DC8 end:0x00023DD0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04
 	.data       start:0x0000C608 end:0x0000C617
