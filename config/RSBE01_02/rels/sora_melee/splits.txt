@@ -165,6 +165,18 @@ mo_stub/sora_melee/fn_27_4139C.c:
 mo_stub/sora_melee/fn_27_413B0.c:
 	.text       start:0x000413B0 end:0x000413C8
 
+mo_stub/sora_melee/fn_27_413C8.c:
+	.text       start:0x000413C8 end:0x000413D0
+
+mo_stub/sora_melee/fn_27_41A68.c:
+	.text       start:0x00041A68 end:0x00041A70
+
+mo_stub/sora_melee/fn_27_422B4.c:
+	.text       start:0x000422B4 end:0x000422C4
+
+mo_stub/sora_melee/fn_27_42898.c:
+	.text       start:0x00042898 end:0x000428A0
+
 mo_melee/sora_melee/so/so_controller_module_link_ref.cpp:
 	.text       start:0x000598CC end:0x00059FD4
 	.rodata     start:0x00000748 end:0x0000075C
