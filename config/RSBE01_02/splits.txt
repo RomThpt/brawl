@@ -765,11 +765,26 @@ stub/fn_801B4A48.c:
 stub/fn_801B5DC0.c:
 	.text       start:0x801B5DC0 end:0x801B5DC8
 
+stub/fn_801B7EE0.c:
+	.text       start:0x801B7EE0 end:0x801B7EE8
+
+stub/fn_801B802C.c:
+	.text       start:0x801B802C end:0x801B8034
+
+stub/fn_801BCBF4.c:
+	.text       start:0x801BCBF4 end:0x801BCBFC
+
 stub/fn_801BEF38.c:
 	.text       start:0x801BEF38 end:0x801BEF40
 
+stub/fn_801BF07C.c:
+	.text       start:0x801BF07C end:0x801BF084
+
 stub/fn_801BF094.c:
 	.text       start:0x801BF094 end:0x801BF0A4
+
+stub/fn_801BF398.c:
+	.text       start:0x801BF398 end:0x801BF3A0
 
 stub/fn_801C0F88.c:
 	.text       start:0x801C0F88 end:0x801C0F90
