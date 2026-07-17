@@ -44,6 +44,111 @@ mo_stub/ft_iceclimber/fn_105_DAD0.c:
 mo_stub/ft_iceclimber/fn_105_DAEC.c:
 	.text       start:0x0000DAEC end:0x0000DB00
 
+mo_stub/ft_iceclimber/fn_105_DB00.c:
+	.text       start:0x0000DB00 end:0x0000DB08
+
+mo_stub/ft_iceclimber/fn_105_DBC8.c:
+	.text       start:0x0000DBC8 end:0x0000DBE8
+
+mo_stub/ft_iceclimber/fn_105_DBE8.c:
+	.text       start:0x0000DBE8 end:0x0000DC10
+
+mo_stub/ft_iceclimber/fn_105_DC10.c:
+	.text       start:0x0000DC10 end:0x0000DC20
+
+mo_stub/ft_iceclimber/fn_105_DCF4.c:
+	.text       start:0x0000DCF4 end:0x0000DCFC
+
+mo_stub/ft_iceclimber/fn_105_DD8C.c:
+	.text       start:0x0000DD8C end:0x0000DD94
+
+mo_stub/ft_iceclimber/fn_105_DE4C.c:
+	.text       start:0x0000DE4C end:0x0000DE54
+
+mo_stub/ft_iceclimber/fn_105_F458.c:
+	.text       start:0x0000F458 end:0x0000F460
+
+mo_stub/ft_iceclimber/fn_105_1038C.c:
+	.text       start:0x0001038C end:0x00010390
+
+mo_stub/ft_iceclimber/fn_105_10D70.c:
+	.text       start:0x00010D70 end:0x00010D74
+
+mo_stub/ft_iceclimber/fn_105_10DAC.c:
+	.text       start:0x00010DAC end:0x00010DB4
+
+mo_stub/ft_iceclimber/fn_105_11194.c:
+	.text       start:0x00011194 end:0x0001119C
+
+mo_stub/ft_iceclimber/fn_105_11564.c:
+	.text       start:0x00011564 end:0x0001156C
+
+mo_stub/ft_iceclimber/fn_105_11930.c:
+	.text       start:0x00011930 end:0x00011938
+
+mo_stub/ft_iceclimber/fn_105_11CF4.c:
+	.text       start:0x00011CF4 end:0x00011CFC
+
+mo_stub/ft_iceclimber/fn_105_120D0.c:
+	.text       start:0x000120D0 end:0x000120D8
+
+mo_stub/ft_iceclimber/fn_105_124AC.c:
+	.text       start:0x000124AC end:0x000124B4
+
+mo_stub/ft_iceclimber/fn_105_13000.c:
+	.text       start:0x00013000 end:0x0001301C
+
+mo_stub/ft_iceclimber/fn_105_1301C.c:
+	.text       start:0x0001301C end:0x00013024
+
+mo_stub/ft_iceclimber/fn_105_13064.c:
+	.text       start:0x00013064 end:0x00013070
+
+mo_stub/ft_iceclimber/fn_105_13070.c:
+	.text       start:0x00013070 end:0x00013074
+
+mo_stub/ft_iceclimber/fn_105_13E78.c:
+	.text       start:0x00013E78 end:0x00013E7C
+
+mo_stub/ft_iceclimber/fn_105_18158.c:
+	.text       start:0x00018158 end:0x00018168
+
+mo_stub/ft_iceclimber/fn_105_181B8.c:
+	.text       start:0x000181B8 end:0x000181C0
+
+mo_stub/ft_iceclimber/fn_105_181C0.c:
+	.text       start:0x000181C0 end:0x000181C8
+
+mo_stub/ft_iceclimber/fn_105_182CC.c:
+	.text       start:0x000182CC end:0x000182DC
+
+mo_stub/ft_iceclimber/fn_105_182DC.c:
+	.text       start:0x000182DC end:0x000182EC
+
+mo_stub/ft_iceclimber/fn_105_182F8.c:
+	.text       start:0x000182F8 end:0x00018300
+
+mo_stub/ft_iceclimber/fn_105_1830C.c:
+	.text       start:0x0001830C end:0x00018314
+
+mo_stub/ft_iceclimber/fn_105_1832C.c:
+	.text       start:0x0001832C end:0x00018334
+
+mo_stub/ft_iceclimber/fn_105_18334.c:
+	.text       start:0x00018334 end:0x00018340
+
+mo_stub/ft_iceclimber/fn_105_183E0.c:
+	.text       start:0x000183E0 end:0x000183EC
+
+mo_stub/ft_iceclimber/fn_105_183EC.c:
+	.text       start:0x000183EC end:0x00018410
+
+mo_stub/ft_iceclimber/fn_105_1841C.c:
+	.text       start:0x0001841C end:0x00018434
+
+mo_stub/ft_iceclimber/fn_105_18434.c:
+	.text       start:0x00018434 end:0x00018448
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000210B0 end:0x0002114C
 	.data       start:0x0000A548 end:0x0000A557

@@ -146,6 +146,21 @@ mo_stub/ft_captain/fn_100_1342C.c:
 mo_stub/ft_captain/fn_100_13454.c:
 	.text       start:0x00013454 end:0x0001347C
 
+mo_stub/ft_captain/fn_100_1347C.c:
+	.text       start:0x0001347C end:0x0001348C
+
+mo_stub/ft_captain/fn_100_1349C.c:
+	.text       start:0x0001349C end:0x000134AC
+
+mo_stub/ft_captain/fn_100_134AC.c:
+	.text       start:0x000134AC end:0x000134B8
+
+mo_stub/ft_captain/fn_100_134D4.c:
+	.text       start:0x000134D4 end:0x000134DC
+
+mo_stub/ft_captain/fn_100_13524.c:
+	.text       start:0x00013524 end:0x00013528
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001589C end:0x00015938
 	.data       start:0x00007800 end:0x0000780F

@@ -53,6 +53,78 @@ mo_stub/ft_poke/fn_116_A6B0.c:
 mo_stub/ft_poke/fn_116_A6D8.c:
 	.text       start:0x0000A6D8 end:0x0000A700
 
+mo_stub/ft_poke/fn_116_A760.c:
+	.text       start:0x0000A760 end:0x0000A768
+
+mo_stub/ft_poke/fn_116_A83C.c:
+	.text       start:0x0000A83C end:0x0000A844
+
+mo_stub/ft_poke/fn_116_A8D4.c:
+	.text       start:0x0000A8D4 end:0x0000A8DC
+
+mo_stub/ft_poke/fn_116_A994.c:
+	.text       start:0x0000A994 end:0x0000A99C
+
+mo_stub/ft_poke/fn_116_BC58.c:
+	.text       start:0x0000BC58 end:0x0000BC60
+
+mo_stub/ft_poke/fn_116_DD44.c:
+	.text       start:0x0000DD44 end:0x0000DD48
+
+mo_stub/ft_poke/fn_116_DEB8.c:
+	.text       start:0x0000DEB8 end:0x0000DED0
+
+mo_stub/ft_poke/fn_116_DED0.c:
+	.text       start:0x0000DED0 end:0x0000DEE8
+
+mo_stub/ft_poke/fn_116_DEE8.c:
+	.text       start:0x0000DEE8 end:0x0000DEEC
+
+mo_stub/ft_poke/fn_116_DF2C.c:
+	.text       start:0x0000DF2C end:0x0000DF30
+
+mo_stub/ft_poke/fn_116_111C4.c:
+	.text       start:0x000111C4 end:0x000111CC
+
+mo_stub/ft_poke/fn_116_11200.c:
+	.text       start:0x00011200 end:0x00011210
+
+mo_stub/ft_poke/fn_116_11314.c:
+	.text       start:0x00011314 end:0x0001132C
+
+mo_stub/ft_poke/fn_116_1132C.c:
+	.text       start:0x0001132C end:0x00011334
+
+mo_stub/ft_poke/fn_116_11340.c:
+	.text       start:0x00011340 end:0x00011348
+
+mo_stub/ft_poke/fn_116_11354.c:
+	.text       start:0x00011354 end:0x0001135C
+
+mo_stub/ft_poke/fn_116_11374.c:
+	.text       start:0x00011374 end:0x00011380
+
+mo_stub/ft_poke/fn_116_11380.c:
+	.text       start:0x00011380 end:0x00011388
+
+mo_stub/ft_poke/fn_116_113CC.c:
+	.text       start:0x000113CC end:0x000113E0
+
+mo_stub/ft_poke/fn_116_113E0.c:
+	.text       start:0x000113E0 end:0x000113FC
+
+mo_stub/ft_poke/fn_116_11408.c:
+	.text       start:0x00011408 end:0x00011410
+
+mo_stub/ft_poke/fn_116_11410.c:
+	.text       start:0x00011410 end:0x00011424
+
+mo_stub/ft_poke/fn_116_11424.c:
+	.text       start:0x00011424 end:0x0001143C
+
+mo_stub/ft_poke/fn_116_1143C.c:
+	.text       start:0x0001143C end:0x00011460
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00026738 end:0x000267D4
 	.data       start:0x0000C638 end:0x0000C647

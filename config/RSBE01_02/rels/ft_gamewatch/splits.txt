@@ -86,6 +86,69 @@ mo_stub/ft_gamewatch/fn_107_EEC8.c:
 mo_stub/ft_gamewatch/fn_107_F5D4.c:
 	.text       start:0x0000F5D4 end:0x0000F5D8
 
+mo_stub/ft_gamewatch/fn_107_11DD0.c:
+	.text       start:0x00011DD0 end:0x00011DE8
+
+mo_stub/ft_gamewatch/fn_107_11DE8.c:
+	.text       start:0x00011DE8 end:0x00011DF4
+
+mo_stub/ft_gamewatch/fn_107_11E34.c:
+	.text       start:0x00011E34 end:0x00011E3C
+
+mo_stub/ft_gamewatch/fn_107_16548.c:
+	.text       start:0x00016548 end:0x00016550
+
+mo_stub/ft_gamewatch/fn_107_16654.c:
+	.text       start:0x00016654 end:0x00016664
+
+mo_stub/ft_gamewatch/fn_107_16664.c:
+	.text       start:0x00016664 end:0x00016674
+
+mo_stub/ft_gamewatch/fn_107_16680.c:
+	.text       start:0x00016680 end:0x00016688
+
+mo_stub/ft_gamewatch/fn_107_16694.c:
+	.text       start:0x00016694 end:0x0001669C
+
+mo_stub/ft_gamewatch/fn_107_166B4.c:
+	.text       start:0x000166B4 end:0x000166BC
+
+mo_stub/ft_gamewatch/fn_107_166BC.c:
+	.text       start:0x000166BC end:0x000166C8
+
+mo_stub/ft_gamewatch/fn_107_16768.c:
+	.text       start:0x00016768 end:0x00016774
+
+mo_stub/ft_gamewatch/fn_107_16774.c:
+	.text       start:0x00016774 end:0x00016798
+
+mo_stub/ft_gamewatch/fn_107_167A4.c:
+	.text       start:0x000167A4 end:0x000167BC
+
+mo_stub/ft_gamewatch/fn_107_167BC.c:
+	.text       start:0x000167BC end:0x000167D0
+
+mo_stub/ft_gamewatch/fn_107_167D0.c:
+	.text       start:0x000167D0 end:0x000167F4
+
+mo_stub/ft_gamewatch/fn_107_167F4.c:
+	.text       start:0x000167F4 end:0x000167FC
+
+mo_stub/ft_gamewatch/fn_107_1680C.c:
+	.text       start:0x0001680C end:0x00016814
+
+mo_stub/ft_gamewatch/fn_107_16854.c:
+	.text       start:0x00016854 end:0x0001686C
+
+mo_stub/ft_gamewatch/fn_107_1686C.c:
+	.text       start:0x0001686C end:0x00016894
+
+mo_stub/ft_gamewatch/fn_107_16894.c:
+	.text       start:0x00016894 end:0x000168B4
+
+mo_stub/ft_gamewatch/fn_107_168C4.c:
+	.text       start:0x000168C4 end:0x000168CC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00021D7C end:0x00021E18
 	.data       start:0x0000BCA8 end:0x0000BCB7

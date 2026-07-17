@@ -83,6 +83,90 @@ mo_stub/ft_pikmin/fn_113_CB00.c:
 mo_stub/ft_pikmin/fn_113_CB70.c:
 	.text       start:0x0000CB70 end:0x0000CB84
 
+mo_stub/ft_pikmin/fn_113_CB84.c:
+	.text       start:0x0000CB84 end:0x0000CB9C
+
+mo_stub/ft_pikmin/fn_113_CB9C.c:
+	.text       start:0x0000CB9C end:0x0000CBB0
+
+mo_stub/ft_pikmin/fn_113_CBB0.c:
+	.text       start:0x0000CBB0 end:0x0000CBB8
+
+mo_stub/ft_pikmin/fn_113_CC8C.c:
+	.text       start:0x0000CC8C end:0x0000CC94
+
+mo_stub/ft_pikmin/fn_113_CD24.c:
+	.text       start:0x0000CD24 end:0x0000CD2C
+
+mo_stub/ft_pikmin/fn_113_CDE4.c:
+	.text       start:0x0000CDE4 end:0x0000CDEC
+
+mo_stub/ft_pikmin/fn_113_E000.c:
+	.text       start:0x0000E000 end:0x0000E008
+
+mo_stub/ft_pikmin/fn_113_11E6C.c:
+	.text       start:0x00011E6C end:0x00011E74
+
+mo_stub/ft_pikmin/fn_113_12414.c:
+	.text       start:0x00012414 end:0x0001241C
+
+mo_stub/ft_pikmin/fn_113_125E0.c:
+	.text       start:0x000125E0 end:0x000125E4
+
+mo_stub/ft_pikmin/fn_113_13A64.c:
+	.text       start:0x00013A64 end:0x00013A6C
+
+mo_stub/ft_pikmin/fn_113_17BDC.c:
+	.text       start:0x00017BDC end:0x00017BE0
+
+mo_stub/ft_pikmin/fn_113_183C0.c:
+	.text       start:0x000183C0 end:0x000183C8
+
+mo_stub/ft_pikmin/fn_113_1BBD8.c:
+	.text       start:0x0001BBD8 end:0x0001BBE8
+
+mo_stub/ft_pikmin/fn_113_1BC38.c:
+	.text       start:0x0001BC38 end:0x0001BC48
+
+mo_stub/ft_pikmin/fn_113_1BD4C.c:
+	.text       start:0x0001BD4C end:0x0001BD68
+
+mo_stub/ft_pikmin/fn_113_1BD68.c:
+	.text       start:0x0001BD68 end:0x0001BD6C
+
+mo_stub/ft_pikmin/fn_113_1BD78.c:
+	.text       start:0x0001BD78 end:0x0001BD80
+
+mo_stub/ft_pikmin/fn_113_1BD8C.c:
+	.text       start:0x0001BD8C end:0x0001BD94
+
+mo_stub/ft_pikmin/fn_113_1BDAC.c:
+	.text       start:0x0001BDAC end:0x0001BDB8
+
+mo_stub/ft_pikmin/fn_113_1BDB8.c:
+	.text       start:0x0001BDB8 end:0x0001BDC0
+
+mo_stub/ft_pikmin/fn_113_1BE04.c:
+	.text       start:0x0001BE04 end:0x0001BE0C
+
+mo_stub/ft_pikmin/fn_113_1BE68.c:
+	.text       start:0x0001BE68 end:0x0001BE74
+
+mo_stub/ft_pikmin/fn_113_1BE74.c:
+	.text       start:0x0001BE74 end:0x0001BE98
+
+mo_stub/ft_pikmin/fn_113_1BEA4.c:
+	.text       start:0x0001BEA4 end:0x0001BEAC
+
+mo_stub/ft_pikmin/fn_113_1BEB8.c:
+	.text       start:0x0001BEB8 end:0x0001BED0
+
+mo_stub/ft_pikmin/fn_113_1BED0.c:
+	.text       start:0x0001BED0 end:0x0001BED8
+
+mo_stub/ft_pikmin/fn_113_1BEFC.c:
+	.text       start:0x0001BEFC end:0x0001BF08
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002DDD8 end:0x0002DE74
 	.data       start:0x0000C1D0 end:0x0000C1DF

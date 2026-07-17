@@ -71,6 +71,78 @@ mo_stub/ft_samus/fn_94_B010.c:
 mo_stub/ft_samus/fn_94_B0D0.c:
 	.text       start:0x0000B0D0 end:0x0000B0D8
 
+mo_stub/ft_samus/fn_94_F49C.c:
+	.text       start:0x0000F49C end:0x0000F4BC
+
+mo_stub/ft_samus/fn_94_F4BC.c:
+	.text       start:0x0000F4BC end:0x0000F4D0
+
+mo_stub/ft_samus/fn_94_18804.c:
+	.text       start:0x00018804 end:0x0001880C
+
+mo_stub/ft_samus/fn_94_199D8.c:
+	.text       start:0x000199D8 end:0x000199E0
+
+mo_stub/ft_samus/fn_94_1A560.c:
+	.text       start:0x0001A560 end:0x0001A564
+
+mo_stub/ft_samus/fn_94_1A674.c:
+	.text       start:0x0001A674 end:0x0001A678
+
+mo_stub/ft_samus/fn_94_1D73C.c:
+	.text       start:0x0001D73C end:0x0001D744
+
+mo_stub/ft_samus/fn_94_1D794.c:
+	.text       start:0x0001D794 end:0x0001D7A4
+
+mo_stub/ft_samus/fn_94_1D8A8.c:
+	.text       start:0x0001D8A8 end:0x0001D8B4
+
+mo_stub/ft_samus/fn_94_1D8B4.c:
+	.text       start:0x0001D8B4 end:0x0001D8C8
+
+mo_stub/ft_samus/fn_94_1D8D4.c:
+	.text       start:0x0001D8D4 end:0x0001D8DC
+
+mo_stub/ft_samus/fn_94_1D8E8.c:
+	.text       start:0x0001D8E8 end:0x0001D8F0
+
+mo_stub/ft_samus/fn_94_1D908.c:
+	.text       start:0x0001D908 end:0x0001D91C
+
+mo_stub/ft_samus/fn_94_1D9BC.c:
+	.text       start:0x0001D9BC end:0x0001D9C4
+
+mo_stub/ft_samus/fn_94_1D9C4.c:
+	.text       start:0x0001D9C4 end:0x0001D9E8
+
+mo_stub/ft_samus/fn_94_1D9E8.c:
+	.text       start:0x0001D9E8 end:0x0001D9EC
+
+mo_stub/ft_samus/fn_94_1D9F8.c:
+	.text       start:0x0001D9F8 end:0x0001DA10
+
+mo_stub/ft_samus/fn_94_1DA10.c:
+	.text       start:0x0001DA10 end:0x0001DA28
+
+mo_stub/ft_samus/fn_94_1DA38.c:
+	.text       start:0x0001DA38 end:0x0001DA40
+
+mo_stub/ft_samus/fn_94_1DA80.c:
+	.text       start:0x0001DA80 end:0x0001DA88
+
+mo_stub/ft_samus/fn_94_1DA88.c:
+	.text       start:0x0001DA88 end:0x0001DAB0
+
+mo_stub/ft_samus/fn_94_1DAB0.c:
+	.text       start:0x0001DAB0 end:0x0001DAD8
+
+mo_stub/ft_samus/fn_94_1DAD8.c:
+	.text       start:0x0001DAD8 end:0x0001DAE0
+
+mo_stub/ft_samus/fn_94_1DAF0.c:
+	.text       start:0x0001DAF0 end:0x0001DB04
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002041C end:0x000204B8
 	.data       start:0x0000D760 end:0x0000D76F

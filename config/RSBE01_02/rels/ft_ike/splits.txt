@@ -77,6 +77,81 @@ mo_stub/ft_ike/fn_119_B690.c:
 mo_stub/ft_ike/fn_119_BD9C.c:
 	.text       start:0x0000BD9C end:0x0000BDA0
 
+mo_stub/ft_ike/fn_119_D26C.c:
+	.text       start:0x0000D26C end:0x0000D288
+
+mo_stub/ft_ike/fn_119_D288.c:
+	.text       start:0x0000D288 end:0x0000D290
+
+mo_stub/ft_ike/fn_119_D2D0.c:
+	.text       start:0x0000D2D0 end:0x0000D2D8
+
+mo_stub/ft_ike/fn_119_DA8C.c:
+	.text       start:0x0000DA8C end:0x0000DA90
+
+mo_stub/ft_ike/fn_119_F898.c:
+	.text       start:0x0000F898 end:0x0000F89C
+
+mo_stub/ft_ike/fn_119_13238.c:
+	.text       start:0x00013238 end:0x00013250
+
+mo_stub/ft_ike/fn_119_132A0.c:
+	.text       start:0x000132A0 end:0x000132A8
+
+mo_stub/ft_ike/fn_119_132A8.c:
+	.text       start:0x000132A8 end:0x000132B0
+
+mo_stub/ft_ike/fn_119_133B4.c:
+	.text       start:0x000133B4 end:0x000133C4
+
+mo_stub/ft_ike/fn_119_133C4.c:
+	.text       start:0x000133C4 end:0x000133D4
+
+mo_stub/ft_ike/fn_119_133E0.c:
+	.text       start:0x000133E0 end:0x000133E8
+
+mo_stub/ft_ike/fn_119_133F4.c:
+	.text       start:0x000133F4 end:0x000133FC
+
+mo_stub/ft_ike/fn_119_13414.c:
+	.text       start:0x00013414 end:0x0001341C
+
+mo_stub/ft_ike/fn_119_1341C.c:
+	.text       start:0x0001341C end:0x00013428
+
+mo_stub/ft_ike/fn_119_134C8.c:
+	.text       start:0x000134C8 end:0x000134D4
+
+mo_stub/ft_ike/fn_119_134D4.c:
+	.text       start:0x000134D4 end:0x000134F8
+
+mo_stub/ft_ike/fn_119_13504.c:
+	.text       start:0x00013504 end:0x0001351C
+
+mo_stub/ft_ike/fn_119_1351C.c:
+	.text       start:0x0001351C end:0x00013530
+
+mo_stub/ft_ike/fn_119_13530.c:
+	.text       start:0x00013530 end:0x00013554
+
+mo_stub/ft_ike/fn_119_13554.c:
+	.text       start:0x00013554 end:0x0001355C
+
+mo_stub/ft_ike/fn_119_1356C.c:
+	.text       start:0x0001356C end:0x00013574
+
+mo_stub/ft_ike/fn_119_135B4.c:
+	.text       start:0x000135B4 end:0x000135CC
+
+mo_stub/ft_ike/fn_119_135CC.c:
+	.text       start:0x000135CC end:0x000135F4
+
+mo_stub/ft_ike/fn_119_135F4.c:
+	.text       start:0x000135F4 end:0x00013614
+
+mo_stub/ft_ike/fn_119_13624.c:
+	.text       start:0x00013624 end:0x0001362C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00013DE8 end:0x00013E84
 	.data       start:0x000068B8 end:0x000068C7

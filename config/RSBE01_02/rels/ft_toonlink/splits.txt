@@ -56,6 +56,72 @@ mo_stub/ft_toonlink/fn_121_B0DC.c:
 mo_stub/ft_toonlink/fn_121_B0FC.c:
 	.text       start:0x0000B0FC end:0x0000B124
 
+mo_stub/ft_toonlink/fn_121_B124.c:
+	.text       start:0x0000B124 end:0x0000B12C
+
+mo_stub/ft_toonlink/fn_121_B18C.c:
+	.text       start:0x0000B18C end:0x0000B194
+
+mo_stub/ft_toonlink/fn_121_B268.c:
+	.text       start:0x0000B268 end:0x0000B270
+
+mo_stub/ft_toonlink/fn_121_B300.c:
+	.text       start:0x0000B300 end:0x0000B308
+
+mo_stub/ft_toonlink/fn_121_B3C0.c:
+	.text       start:0x0000B3C0 end:0x0000B3C8
+
+mo_stub/ft_toonlink/fn_121_F224.c:
+	.text       start:0x0000F224 end:0x0000F240
+
+mo_stub/ft_toonlink/fn_121_F240.c:
+	.text       start:0x0000F240 end:0x0000F258
+
+mo_stub/ft_toonlink/fn_121_F258.c:
+	.text       start:0x0000F258 end:0x0000F264
+
+mo_stub/ft_toonlink/fn_121_F2A4.c:
+	.text       start:0x0000F2A4 end:0x0000F2A8
+
+mo_stub/ft_toonlink/fn_121_F3D8.c:
+	.text       start:0x0000F3D8 end:0x0000F3DC
+
+mo_stub/ft_toonlink/fn_121_14614.c:
+	.text       start:0x00014614 end:0x00014630
+
+mo_stub/ft_toonlink/fn_121_1463C.c:
+	.text       start:0x0001463C end:0x00014644
+
+mo_stub/ft_toonlink/fn_121_14650.c:
+	.text       start:0x00014650 end:0x00014658
+
+mo_stub/ft_toonlink/fn_121_14670.c:
+	.text       start:0x00014670 end:0x00014680
+
+mo_stub/ft_toonlink/fn_121_14680.c:
+	.text       start:0x00014680 end:0x00014684
+
+mo_stub/ft_toonlink/fn_121_14724.c:
+	.text       start:0x00014724 end:0x00014740
+
+mo_stub/ft_toonlink/fn_121_14740.c:
+	.text       start:0x00014740 end:0x00014754
+
+mo_stub/ft_toonlink/fn_121_14760.c:
+	.text       start:0x00014760 end:0x0001476C
+
+mo_stub/ft_toonlink/fn_121_1476C.c:
+	.text       start:0x0001476C end:0x00014780
+
+mo_stub/ft_toonlink/fn_121_14780.c:
+	.text       start:0x00014780 end:0x00014788
+
+mo_stub/ft_toonlink/fn_121_14798.c:
+	.text       start:0x00014798 end:0x000147A0
+
+mo_stub/ft_toonlink/fn_121_147E0.c:
+	.text       start:0x000147E0 end:0x000147F0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018684 end:0x00018720
 	.data       start:0x00009BF0 end:0x00009BFF

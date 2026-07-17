@@ -59,6 +59,78 @@ mo_stub/ft_lucario/fn_118_A2C4.c:
 mo_stub/ft_lucario/fn_118_A344.c:
 	.text       start:0x0000A344 end:0x0000A34C
 
+mo_stub/ft_lucario/fn_118_A420.c:
+	.text       start:0x0000A420 end:0x0000A428
+
+mo_stub/ft_lucario/fn_118_A4B8.c:
+	.text       start:0x0000A4B8 end:0x0000A4C0
+
+mo_stub/ft_lucario/fn_118_A578.c:
+	.text       start:0x0000A578 end:0x0000A580
+
+mo_stub/ft_lucario/fn_118_B584.c:
+	.text       start:0x0000B584 end:0x0000B594
+
+mo_stub/ft_lucario/fn_118_D724.c:
+	.text       start:0x0000D724 end:0x0000D72C
+
+mo_stub/ft_lucario/fn_118_D9BC.c:
+	.text       start:0x0000D9BC end:0x0000D9D0
+
+mo_stub/ft_lucario/fn_118_D9D0.c:
+	.text       start:0x0000D9D0 end:0x0000D9E8
+
+mo_stub/ft_lucario/fn_118_D9E8.c:
+	.text       start:0x0000D9E8 end:0x0000D9F0
+
+mo_stub/ft_lucario/fn_118_DA30.c:
+	.text       start:0x0000DA30 end:0x0000DA34
+
+mo_stub/ft_lucario/fn_118_DA74.c:
+	.text       start:0x0000DA74 end:0x0000DA78
+
+mo_stub/ft_lucario/fn_118_109A4.c:
+	.text       start:0x000109A4 end:0x000109A8
+
+mo_stub/ft_lucario/fn_118_139F0.c:
+	.text       start:0x000139F0 end:0x00013A00
+
+mo_stub/ft_lucario/fn_118_13A50.c:
+	.text       start:0x00013A50 end:0x00013A60
+
+mo_stub/ft_lucario/fn_118_13B64.c:
+	.text       start:0x00013B64 end:0x00013B68
+
+mo_stub/ft_lucario/fn_118_13B68.c:
+	.text       start:0x00013B68 end:0x00013B84
+
+mo_stub/ft_lucario/fn_118_13B90.c:
+	.text       start:0x00013B90 end:0x00013B98
+
+mo_stub/ft_lucario/fn_118_13BA4.c:
+	.text       start:0x00013BA4 end:0x00013BAC
+
+mo_stub/ft_lucario/fn_118_13BC4.c:
+	.text       start:0x00013BC4 end:0x00013BD4
+
+mo_stub/ft_lucario/fn_118_13BD4.c:
+	.text       start:0x00013BD4 end:0x00013BD8
+
+mo_stub/ft_lucario/fn_118_13C58.c:
+	.text       start:0x00013C58 end:0x00013C74
+
+mo_stub/ft_lucario/fn_118_13C74.c:
+	.text       start:0x00013C74 end:0x00013C88
+
+mo_stub/ft_lucario/fn_118_13C94.c:
+	.text       start:0x00013C94 end:0x00013CA0
+
+mo_stub/ft_lucario/fn_118_13CA0.c:
+	.text       start:0x00013CA0 end:0x00013CB4
+
+mo_stub/ft_lucario/fn_118_13CB4.c:
+	.text       start:0x00013CB4 end:0x00013CD0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000140AC end:0x00014148
 	.data       start:0x00007350 end:0x0000735F

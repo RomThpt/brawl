@@ -125,6 +125,72 @@ mo_stub/ft_dedede/fn_117_153E8.c:
 mo_stub/ft_dedede/fn_117_153F0.c:
 	.text       start:0x000153F0 end:0x00015414
 
+mo_stub/ft_dedede/fn_117_15414.c:
+	.text       start:0x00015414 end:0x00015418
+
+mo_stub/ft_dedede/fn_117_15424.c:
+	.text       start:0x00015424 end:0x00015438
+
+mo_stub/ft_dedede/fn_117_15438.c:
+	.text       start:0x00015438 end:0x0001544C
+
+mo_stub/ft_dedede/fn_117_1544C.c:
+	.text       start:0x0001544C end:0x00015468
+
+mo_stub/ft_dedede/fn_117_15468.c:
+	.text       start:0x00015468 end:0x0001548C
+
+mo_stub/ft_dedede/fn_117_1548C.c:
+	.text       start:0x0001548C end:0x000154A0
+
+mo_stub/ft_dedede/fn_117_154BC.c:
+	.text       start:0x000154BC end:0x000154C4
+
+mo_stub/ft_dedede/fn_117_1550C.c:
+	.text       start:0x0001550C end:0x00015510
+
+mo_stub/ft_dedede/fn_117_15724.c:
+	.text       start:0x00015724 end:0x00015728
+
+mo_stub/ft_dedede/fn_117_18208.c:
+	.text       start:0x00018208 end:0x00018210
+
+mo_stub/ft_dedede/fn_117_1A53C.c:
+	.text       start:0x0001A53C end:0x0001A544
+
+mo_stub/ft_dedede/fn_117_1A584.c:
+	.text       start:0x0001A584 end:0x0001A5AC
+
+mo_stub/ft_dedede/fn_117_1A5AC.c:
+	.text       start:0x0001A5AC end:0x0001A5D4
+
+mo_stub/ft_dedede/fn_117_1CD30.c:
+	.text       start:0x0001CD30 end:0x0001CD38
+
+mo_stub/ft_dedede/fn_117_1F750.c:
+	.text       start:0x0001F750 end:0x0001F754
+
+mo_stub/ft_dedede/fn_117_21B10.c:
+	.text       start:0x00021B10 end:0x00021B14
+
+mo_stub/ft_dedede/fn_117_21B38.c:
+	.text       start:0x00021B38 end:0x00021B44
+
+mo_stub/ft_dedede/fn_117_23D1C.c:
+	.text       start:0x00023D1C end:0x00023D2C
+
+mo_stub/ft_dedede/fn_117_23D38.c:
+	.text       start:0x00023D38 end:0x00023D50
+
+mo_stub/ft_dedede/fn_117_23D50.c:
+	.text       start:0x00023D50 end:0x00023D68
+
+mo_stub/ft_dedede/fn_117_23D68.c:
+	.text       start:0x00023D68 end:0x00023D78
+
+mo_stub/ft_dedede/fn_117_23D84.c:
+	.text       start:0x00023D84 end:0x00023D94
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04
 	.data       start:0x0000C608 end:0x0000C617

@@ -80,6 +80,66 @@ mo_stub/ft_yoshi/fn_95_DECC.c:
 mo_stub/ft_yoshi/fn_95_E5D8.c:
 	.text       start:0x0000E5D8 end:0x0000E5DC
 
+mo_stub/ft_yoshi/fn_95_F304.c:
+	.text       start:0x0000F304 end:0x0000F31C
+
+mo_stub/ft_yoshi/fn_95_F35C.c:
+	.text       start:0x0000F35C end:0x0000F370
+
+mo_stub/ft_yoshi/fn_95_142D8.c:
+	.text       start:0x000142D8 end:0x000142E0
+
+mo_stub/ft_yoshi/fn_95_172AC.c:
+	.text       start:0x000172AC end:0x000172BC
+
+mo_stub/ft_yoshi/fn_95_172F0.c:
+	.text       start:0x000172F0 end:0x00017300
+
+mo_stub/ft_yoshi/fn_95_17404.c:
+	.text       start:0x00017404 end:0x0001741C
+
+mo_stub/ft_yoshi/fn_95_1741C.c:
+	.text       start:0x0001741C end:0x00017424
+
+mo_stub/ft_yoshi/fn_95_17430.c:
+	.text       start:0x00017430 end:0x00017438
+
+mo_stub/ft_yoshi/fn_95_17444.c:
+	.text       start:0x00017444 end:0x0001744C
+
+mo_stub/ft_yoshi/fn_95_17464.c:
+	.text       start:0x00017464 end:0x00017470
+
+mo_stub/ft_yoshi/fn_95_17470.c:
+	.text       start:0x00017470 end:0x00017478
+
+mo_stub/ft_yoshi/fn_95_17518.c:
+	.text       start:0x00017518 end:0x0001752C
+
+mo_stub/ft_yoshi/fn_95_1752C.c:
+	.text       start:0x0001752C end:0x00017548
+
+mo_stub/ft_yoshi/fn_95_17554.c:
+	.text       start:0x00017554 end:0x0001755C
+
+mo_stub/ft_yoshi/fn_95_1755C.c:
+	.text       start:0x0001755C end:0x00017570
+
+mo_stub/ft_yoshi/fn_95_17570.c:
+	.text       start:0x00017570 end:0x00017588
+
+mo_stub/ft_yoshi/fn_95_17588.c:
+	.text       start:0x00017588 end:0x000175AC
+
+mo_stub/ft_yoshi/fn_95_175BC.c:
+	.text       start:0x000175BC end:0x000175C4
+
+mo_stub/ft_yoshi/fn_95_17604.c:
+	.text       start:0x00017604 end:0x00017624
+
+mo_stub/ft_yoshi/fn_95_17624.c:
+	.text       start:0x00017624 end:0x0001764C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001D9D0 end:0x0001DA6C
 	.data       start:0x0000A040 end:0x0000A04F

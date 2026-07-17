@@ -74,6 +74,81 @@ mo_stub/ft_wario/fn_110_9A00.c:
 mo_stub/ft_wario/fn_110_A9BC.c:
 	.text       start:0x0000A9BC end:0x0000A9CC
 
+mo_stub/ft_wario/fn_110_CFB4.c:
+	.text       start:0x0000CFB4 end:0x0000CFD0
+
+mo_stub/ft_wario/fn_110_CFD0.c:
+	.text       start:0x0000CFD0 end:0x0000CFE4
+
+mo_stub/ft_wario/fn_110_CFE4.c:
+	.text       start:0x0000CFE4 end:0x0000CFE8
+
+mo_stub/ft_wario/fn_110_D028.c:
+	.text       start:0x0000D028 end:0x0000D02C
+
+mo_stub/ft_wario/fn_110_D730.c:
+	.text       start:0x0000D730 end:0x0000D734
+
+mo_stub/ft_wario/fn_110_F3F8.c:
+	.text       start:0x0000F3F8 end:0x0000F400
+
+mo_stub/ft_wario/fn_110_10304.c:
+	.text       start:0x00010304 end:0x0001030C
+
+mo_stub/ft_wario/fn_110_128F8.c:
+	.text       start:0x000128F8 end:0x00012910
+
+mo_stub/ft_wario/fn_110_12960.c:
+	.text       start:0x00012960 end:0x00012968
+
+mo_stub/ft_wario/fn_110_12968.c:
+	.text       start:0x00012968 end:0x00012970
+
+mo_stub/ft_wario/fn_110_12A74.c:
+	.text       start:0x00012A74 end:0x00012A84
+
+mo_stub/ft_wario/fn_110_12A84.c:
+	.text       start:0x00012A84 end:0x00012A94
+
+mo_stub/ft_wario/fn_110_12AA0.c:
+	.text       start:0x00012AA0 end:0x00012AA8
+
+mo_stub/ft_wario/fn_110_12AB4.c:
+	.text       start:0x00012AB4 end:0x00012ABC
+
+mo_stub/ft_wario/fn_110_12AD4.c:
+	.text       start:0x00012AD4 end:0x00012ADC
+
+mo_stub/ft_wario/fn_110_12ADC.c:
+	.text       start:0x00012ADC end:0x00012AE8
+
+mo_stub/ft_wario/fn_110_12B88.c:
+	.text       start:0x00012B88 end:0x00012B94
+
+mo_stub/ft_wario/fn_110_12B94.c:
+	.text       start:0x00012B94 end:0x00012BB8
+
+mo_stub/ft_wario/fn_110_12BC4.c:
+	.text       start:0x00012BC4 end:0x00012BE4
+
+mo_stub/ft_wario/fn_110_12BE4.c:
+	.text       start:0x00012BE4 end:0x00012BF4
+
+mo_stub/ft_wario/fn_110_12C04.c:
+	.text       start:0x00012C04 end:0x00012C0C
+
+mo_stub/ft_wario/fn_110_12C4C.c:
+	.text       start:0x00012C4C end:0x00012C5C
+
+mo_stub/ft_wario/fn_110_12C5C.c:
+	.text       start:0x00012C5C end:0x00012C84
+
+mo_stub/ft_wario/fn_110_12C84.c:
+	.text       start:0x00012C84 end:0x00012CAC
+
+mo_stub/ft_wario/fn_110_12CBC.c:
+	.text       start:0x00012CBC end:0x00012CD4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002122C end:0x000212C8
 	.data       start:0x0000A0A8 end:0x0000A0B7

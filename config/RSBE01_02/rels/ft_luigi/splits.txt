@@ -77,6 +77,84 @@ mo_stub/ft_luigi/fn_99_9C28.c:
 mo_stub/ft_luigi/fn_99_AA44.c:
 	.text       start:0x0000AA44 end:0x0000AA48
 
+mo_stub/ft_luigi/fn_99_B86C.c:
+	.text       start:0x0000B86C end:0x0000B874
+
+mo_stub/ft_luigi/fn_99_CA80.c:
+	.text       start:0x0000CA80 end:0x0000CA84
+
+mo_stub/ft_luigi/fn_99_CD44.c:
+	.text       start:0x0000CD44 end:0x0000CD58
+
+mo_stub/ft_luigi/fn_99_CD58.c:
+	.text       start:0x0000CD58 end:0x0000CD70
+
+mo_stub/ft_luigi/fn_99_CD70.c:
+	.text       start:0x0000CD70 end:0x0000CD7C
+
+mo_stub/ft_luigi/fn_99_CDBC.c:
+	.text       start:0x0000CDBC end:0x0000CDC0
+
+mo_stub/ft_luigi/fn_99_106A8.c:
+	.text       start:0x000106A8 end:0x000106B0
+
+mo_stub/ft_luigi/fn_99_106B0.c:
+	.text       start:0x000106B0 end:0x000106B8
+
+mo_stub/ft_luigi/fn_99_10708.c:
+	.text       start:0x00010708 end:0x00010718
+
+mo_stub/ft_luigi/fn_99_1081C.c:
+	.text       start:0x0001081C end:0x00010824
+
+mo_stub/ft_luigi/fn_99_10824.c:
+	.text       start:0x00010824 end:0x0001083C
+
+mo_stub/ft_luigi/fn_99_10848.c:
+	.text       start:0x00010848 end:0x00010850
+
+mo_stub/ft_luigi/fn_99_1085C.c:
+	.text       start:0x0001085C end:0x00010864
+
+mo_stub/ft_luigi/fn_99_1087C.c:
+	.text       start:0x0001087C end:0x00010890
+
+mo_stub/ft_luigi/fn_99_10930.c:
+	.text       start:0x00010930 end:0x00010954
+
+mo_stub/ft_luigi/fn_99_10954.c:
+	.text       start:0x00010954 end:0x00010960
+
+mo_stub/ft_luigi/fn_99_1096C.c:
+	.text       start:0x0001096C end:0x0001097C
+
+mo_stub/ft_luigi/fn_99_1097C.c:
+	.text       start:0x0001097C end:0x00010990
+
+mo_stub/ft_luigi/fn_99_10990.c:
+	.text       start:0x00010990 end:0x000109AC
+
+mo_stub/ft_luigi/fn_99_109AC.c:
+	.text       start:0x000109AC end:0x000109C4
+
+mo_stub/ft_luigi/fn_99_109D4.c:
+	.text       start:0x000109D4 end:0x000109DC
+
+mo_stub/ft_luigi/fn_99_10A1C.c:
+	.text       start:0x00010A1C end:0x00010A24
+
+mo_stub/ft_luigi/fn_99_10A24.c:
+	.text       start:0x00010A24 end:0x00010A4C
+
+mo_stub/ft_luigi/fn_99_10A4C.c:
+	.text       start:0x00010A4C end:0x00010A74
+
+mo_stub/ft_luigi/fn_99_10A74.c:
+	.text       start:0x00010A74 end:0x00010A7C
+
+mo_stub/ft_luigi/fn_99_10A8C.c:
+	.text       start:0x00010A8C end:0x00010AA0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010EAC end:0x00010F48
 	.data       start:0x00006ED8 end:0x00006EE7

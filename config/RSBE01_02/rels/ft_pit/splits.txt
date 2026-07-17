@@ -80,6 +80,81 @@ mo_stub/ft_pit/fn_112_CC00.c:
 mo_stub/ft_pit/fn_112_D30C.c:
 	.text       start:0x0000D30C end:0x0000D310
 
+mo_stub/ft_pit/fn_112_DA5C.c:
+	.text       start:0x0000DA5C end:0x0000DA64
+
+mo_stub/ft_pit/fn_112_E070.c:
+	.text       start:0x0000E070 end:0x0000E088
+
+mo_stub/ft_pit/fn_112_E088.c:
+	.text       start:0x0000E088 end:0x0000E0A0
+
+mo_stub/ft_pit/fn_112_E0A0.c:
+	.text       start:0x0000E0A0 end:0x0000E0A4
+
+mo_stub/ft_pit/fn_112_E0E4.c:
+	.text       start:0x0000E0E4 end:0x0000E0F0
+
+mo_stub/ft_pit/fn_112_E6E0.c:
+	.text       start:0x0000E6E0 end:0x0000E6E8
+
+mo_stub/ft_pit/fn_112_EF54.c:
+	.text       start:0x0000EF54 end:0x0000EF5C
+
+mo_stub/ft_pit/fn_112_110C0.c:
+	.text       start:0x000110C0 end:0x000110D0
+
+mo_stub/ft_pit/fn_112_11120.c:
+	.text       start:0x00011120 end:0x00011130
+
+mo_stub/ft_pit/fn_112_11234.c:
+	.text       start:0x00011234 end:0x0001124C
+
+mo_stub/ft_pit/fn_112_1124C.c:
+	.text       start:0x0001124C end:0x00011258
+
+mo_stub/ft_pit/fn_112_11264.c:
+	.text       start:0x00011264 end:0x0001126C
+
+mo_stub/ft_pit/fn_112_11278.c:
+	.text       start:0x00011278 end:0x00011280
+
+mo_stub/ft_pit/fn_112_11298.c:
+	.text       start:0x00011298 end:0x000112A0
+
+mo_stub/ft_pit/fn_112_112A0.c:
+	.text       start:0x000112A0 end:0x000112AC
+
+mo_stub/ft_pit/fn_112_1134C.c:
+	.text       start:0x0001134C end:0x00011358
+
+mo_stub/ft_pit/fn_112_11358.c:
+	.text       start:0x00011358 end:0x0001137C
+
+mo_stub/ft_pit/fn_112_11388.c:
+	.text       start:0x00011388 end:0x0001139C
+
+mo_stub/ft_pit/fn_112_1139C.c:
+	.text       start:0x0001139C end:0x000113B0
+
+mo_stub/ft_pit/fn_112_113B0.c:
+	.text       start:0x000113B0 end:0x000113B4
+
+mo_stub/ft_pit/fn_112_113C0.c:
+	.text       start:0x000113C0 end:0x000113DC
+
+mo_stub/ft_pit/fn_112_113DC.c:
+	.text       start:0x000113DC end:0x000113E0
+
+mo_stub/ft_pit/fn_112_11404.c:
+	.text       start:0x00011404 end:0x00011414
+
+mo_stub/ft_pit/fn_112_11414.c:
+	.text       start:0x00011414 end:0x00011434
+
+mo_stub/ft_pit/fn_112_11434.c:
+	.text       start:0x00011434 end:0x0001144C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00016C2C end:0x00016CC8
 	.data       start:0x00009D78 end:0x00009D87
