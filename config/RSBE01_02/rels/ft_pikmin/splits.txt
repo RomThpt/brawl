@@ -68,6 +68,12 @@ mo_stub/ft_pikmin/fn_113_C9C4.c:
 mo_stub/ft_pikmin/fn_113_C9DC.c:
 	.text       start:0x0000C9DC end:0x0000C9F8
 
+mo_stub/ft_pikmin/fn_113_C9F8.c:
+	.text       start:0x0000C9F8 end:0x0000CA00
+
+mo_stub/ft_pikmin/fn_113_CAC0.c:
+	.text       start:0x0000CAC0 end:0x0000CAD8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002DDD8 end:0x0002DE74
 	.data       start:0x0000C1D0 end:0x0000C1DF
