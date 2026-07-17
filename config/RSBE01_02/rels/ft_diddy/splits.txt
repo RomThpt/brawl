@@ -38,6 +38,9 @@ mo_stub/ft_diddy/fn_115_A068.c:
 mo_stub/ft_diddy/fn_115_A084.c:
 	.text       start:0x0000A084 end:0x0000A094
 
+mo_stub/ft_diddy/fn_115_A094.c:
+	.text       start:0x0000A094 end:0x0000A0B0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001B99C end:0x0001BA38
 	.data       start:0x0000A958 end:0x0000A967
