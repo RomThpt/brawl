@@ -62,6 +62,21 @@ mo_stub/ft_zako/fn_126_7388.c:
 mo_stub/ft_zako/fn_126_73B0.c:
 	.text       start:0x000073B0 end:0x000073D8
 
+mo_stub/ft_zako/fn_126_7478.c:
+	.text       start:0x00007478 end:0x00007480
+
+mo_stub/ft_zako/fn_126_7554.c:
+	.text       start:0x00007554 end:0x0000755C
+
+mo_stub/ft_zako/fn_126_75EC.c:
+	.text       start:0x000075EC end:0x000075F4
+
+mo_stub/ft_zako/fn_126_76AC.c:
+	.text       start:0x000076AC end:0x000076B4
+
+mo_stub/ft_zako/fn_126_7A3C.c:
+	.text       start:0x00007A3C end:0x00007A44
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0000F814 end:0x0000F8B0
 	.data       start:0x00007358 end:0x00007367
