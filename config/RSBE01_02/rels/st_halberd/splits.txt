@@ -26,6 +26,12 @@ mo_stub/st_halberd/fn_57_784.c:
 mo_stub/st_halberd/fn_57_890.c:
 	.text       start:0x00000890 end:0x00000898
 
+mo_stub/st_halberd/fn_57_AB0.c:
+	.text       start:0x00000AB0 end:0x00000AD0
+
+mo_stub/st_halberd/fn_57_BDC.c:
+	.text       start:0x00000BDC end:0x00000BE4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
 	.data       start:0x00003348 end:0x00003355
