@@ -65,6 +65,21 @@ mo_stub/st_metalgear/fn_71_24CC.c:
 mo_stub/st_metalgear/fn_71_24E0.c:
 	.text       start:0x000024E0 end:0x000024FC
 
+mo_stub/st_metalgear/fn_71_24FC.c:
+	.text       start:0x000024FC end:0x00002504
+
+mo_stub/st_metalgear/fn_71_2510.c:
+	.text       start:0x00002510 end:0x00002518
+
+mo_stub/st_metalgear/fn_71_2624.c:
+	.text       start:0x00002624 end:0x00002628
+
+mo_stub/st_metalgear/fn_71_2700.c:
+	.text       start:0x00002700 end:0x00002708
+
+mo_stub/st_metalgear/fn_71_2B44.c:
+	.text       start:0x00002B44 end:0x00002B4C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD
