@@ -11,6 +11,36 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_madein/fn_65_414.c:
+	.text       start:0x00000414 end:0x0000041C
+
+mo_stub/st_madein/fn_65_68CC.c:
+	.text       start:0x000068CC end:0x000068DC
+
+mo_stub/st_madein/fn_65_68E4.c:
+	.text       start:0x000068E4 end:0x000068F0
+
+mo_stub/st_madein/fn_65_68F0.c:
+	.text       start:0x000068F0 end:0x00006914
+
+mo_stub/st_madein/fn_65_691C.c:
+	.text       start:0x0000691C end:0x00006924
+
+mo_stub/st_madein/fn_65_6950.c:
+	.text       start:0x00006950 end:0x00006970
+
+mo_stub/st_madein/fn_65_6970.c:
+	.text       start:0x00006970 end:0x00006974
+
+mo_stub/st_madein/fn_65_6990.c:
+	.text       start:0x00006990 end:0x00006998
+
+mo_stub/st_madein/fn_65_69A0.c:
+	.text       start:0x000069A0 end:0x000069B0
+
+mo_stub/st_madein/fn_65_69BC.c:
+	.text       start:0x000069BC end:0x000069C0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00006B24 end:0x00006BC0
 	.data       start:0x00000840 end:0x0000084D

@@ -11,6 +11,42 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_kart/fn_49_198.c:
+	.text       start:0x00000198 end:0x000001A0
+
+mo_stub/st_kart/fn_49_4AC.c:
+	.text       start:0x000004AC end:0x000004BC
+
+mo_stub/st_kart/fn_49_62C.c:
+	.text       start:0x0000062C end:0x00000634
+
+mo_stub/st_kart/fn_49_830.c:
+	.text       start:0x00000830 end:0x00000838
+
+mo_stub/st_kart/fn_49_838.c:
+	.text       start:0x00000838 end:0x00000850
+
+mo_stub/st_kart/fn_49_914.c:
+	.text       start:0x00000914 end:0x0000091C
+
+mo_stub/st_kart/fn_49_A7C.c:
+	.text       start:0x00000A7C end:0x00000A84
+
+mo_stub/st_kart/fn_49_A84.c:
+	.text       start:0x00000A84 end:0x00000A8C
+
+mo_stub/st_kart/fn_49_E58.c:
+	.text       start:0x00000E58 end:0x00000E5C
+
+mo_stub/st_kart/fn_49_10A4.c:
+	.text       start:0x000010A4 end:0x000010B8
+
+mo_stub/st_kart/fn_49_10B8.c:
+	.text       start:0x000010B8 end:0x000010D4
+
+mo_stub/st_kart/fn_49_10E4.c:
+	.text       start:0x000010E4 end:0x000010EC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CA58 end:0x0000CAF4
 	.data       start:0x000027F8 end:0x00002805

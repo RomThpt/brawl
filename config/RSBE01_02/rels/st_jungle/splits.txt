@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_jungle/fn_51_2FC.c:
+	.text       start:0x000002FC end:0x00000304
+
+mo_stub/st_jungle/fn_51_994.c:
+	.text       start:0x00000994 end:0x000009B4
+
+mo_stub/st_jungle/fn_51_F7C.c:
+	.text       start:0x00000F7C end:0x00000FA4
+
+mo_stub/st_jungle/fn_51_FA4.c:
+	.text       start:0x00000FA4 end:0x00000FB0
+
+mo_stub/st_jungle/fn_51_111C.c:
+	.text       start:0x0000111C end:0x00001134
+
+mo_stub/st_jungle/fn_51_1264.c:
+	.text       start:0x00001264 end:0x00001274
+
+mo_stub/st_jungle/fn_51_13A0.c:
+	.text       start:0x000013A0 end:0x000013B8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
 	.data       start:0x00009A00 end:0x00009A0D

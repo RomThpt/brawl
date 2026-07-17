@@ -11,6 +11,30 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_pictchat/fn_73_2C0.c:
+	.text       start:0x000002C0 end:0x000002C8
+
+mo_stub/st_pictchat/fn_73_8DC.c:
+	.text       start:0x000008DC end:0x000008F4
+
+mo_stub/st_pictchat/fn_73_9D0.c:
+	.text       start:0x000009D0 end:0x000009D8
+
+mo_stub/st_pictchat/fn_73_9D8.c:
+	.text       start:0x000009D8 end:0x000009E0
+
+mo_stub/st_pictchat/fn_73_B38.c:
+	.text       start:0x00000B38 end:0x00000B48
+
+mo_stub/st_pictchat/fn_73_12B0.c:
+	.text       start:0x000012B0 end:0x000012C0
+
+mo_stub/st_pictchat/fn_73_12C0.c:
+	.text       start:0x000012C0 end:0x000012E8
+
+mo_stub/st_pictchat/fn_73_12F0.c:
+	.text       start:0x000012F0 end:0x00001318
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000F378 end:0x0000F414
 	.data       start:0x00005E48 end:0x00005E55

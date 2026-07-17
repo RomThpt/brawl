@@ -11,6 +11,30 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_metalgear/fn_71_27C.c:
+	.text       start:0x0000027C end:0x00000284
+
+mo_stub/st_metalgear/fn_71_85C.c:
+	.text       start:0x0000085C end:0x0000087C
+
+mo_stub/st_metalgear/fn_71_B2C.c:
+	.text       start:0x00000B2C end:0x00000B4C
+
+mo_stub/st_metalgear/fn_71_C58.c:
+	.text       start:0x00000C58 end:0x00000C60
+
+mo_stub/st_metalgear/fn_71_C60.c:
+	.text       start:0x00000C60 end:0x00000C78
+
+mo_stub/st_metalgear/fn_71_EDC.c:
+	.text       start:0x00000EDC end:0x00000EEC
+
+mo_stub/st_metalgear/fn_71_EEC.c:
+	.text       start:0x00000EEC end:0x00000F04
+
+mo_stub/st_metalgear/fn_71_121C.c:
+	.text       start:0x0000121C end:0x0000122C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD

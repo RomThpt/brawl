@@ -11,6 +11,33 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_greenhill/fn_72_20C.c:
+	.text       start:0x0000020C end:0x00000214
+
+mo_stub/st_greenhill/fn_72_468.c:
+	.text       start:0x00000468 end:0x00000480
+
+mo_stub/st_greenhill/fn_72_6B8.c:
+	.text       start:0x000006B8 end:0x000006C0
+
+mo_stub/st_greenhill/fn_72_6C0.c:
+	.text       start:0x000006C0 end:0x000006D0
+
+mo_stub/st_greenhill/fn_72_7B0.c:
+	.text       start:0x000007B0 end:0x000007C8
+
+mo_stub/st_greenhill/fn_72_AF0.c:
+	.text       start:0x00000AF0 end:0x00000B00
+
+mo_stub/st_greenhill/fn_72_EFC.c:
+	.text       start:0x00000EFC end:0x00000F10
+
+mo_stub/st_greenhill/fn_72_F10.c:
+	.text       start:0x00000F10 end:0x00000F2C
+
+mo_stub/st_greenhill/fn_72_F3C.c:
+	.text       start:0x00000F3C end:0x00000F44
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CD70 end:0x0000CE0C
 	.data       start:0x000046E0 end:0x000046ED

@@ -11,6 +11,33 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_orpheon/fn_55_364.c:
+	.text       start:0x00000364 end:0x0000036C
+
+mo_stub/st_orpheon/fn_55_228C.c:
+	.text       start:0x0000228C end:0x000022A8
+
+mo_stub/st_orpheon/fn_55_22A8.c:
+	.text       start:0x000022A8 end:0x000022BC
+
+mo_stub/st_orpheon/fn_55_22CC.c:
+	.text       start:0x000022CC end:0x000022D4
+
+mo_stub/st_orpheon/fn_55_2310.c:
+	.text       start:0x00002310 end:0x00002318
+
+mo_stub/st_orpheon/fn_55_2318.c:
+	.text       start:0x00002318 end:0x0000233C
+
+mo_stub/st_orpheon/fn_55_2358.c:
+	.text       start:0x00002358 end:0x00002360
+
+mo_stub/st_orpheon/fn_55_2368.c:
+	.text       start:0x00002368 end:0x00002378
+
+mo_stub/st_orpheon/fn_55_2384.c:
+	.text       start:0x00002384 end:0x00002390
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000024BC end:0x00002558
 	.data       start:0x000005F0 end:0x000005FD

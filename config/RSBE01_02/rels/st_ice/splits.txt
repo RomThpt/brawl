@@ -11,6 +11,33 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_ice/fn_62_360.c:
+	.text       start:0x00000360 end:0x00000368
+
+mo_stub/st_ice/fn_62_A44.c:
+	.text       start:0x00000A44 end:0x00000A64
+
+mo_stub/st_ice/fn_62_B70.c:
+	.text       start:0x00000B70 end:0x00000B90
+
+mo_stub/st_ice/fn_62_C54.c:
+	.text       start:0x00000C54 end:0x00000C5C
+
+mo_stub/st_ice/fn_62_D20.c:
+	.text       start:0x00000D20 end:0x00000D28
+
+mo_stub/st_ice/fn_62_E60.c:
+	.text       start:0x00000E60 end:0x00000E78
+
+mo_stub/st_ice/fn_62_FB8.c:
+	.text       start:0x00000FB8 end:0x00000FC0
+
+mo_stub/st_ice/fn_62_FC0.c:
+	.text       start:0x00000FC0 end:0x00000FD8
+
+mo_stub/st_ice/fn_62_1158.c:
+	.text       start:0x00001158 end:0x00001168
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001184C end:0x000118E8
 	.data       start:0x00005AB0 end:0x00005ABD
