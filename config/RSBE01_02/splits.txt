@@ -1221,6 +1221,12 @@ stub/fn_8035D720.c:
 stub/fn_8035D770.c:
 	.text       start:0x8035D770 end:0x8035D774
 
+stub/fn_80362F4C.c:
+	.text       start:0x80362F4C end:0x80362F54
+
+stub/fn_8037BE6C.c:
+	.text       start:0x8037BE6C end:0x8037BE78
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
