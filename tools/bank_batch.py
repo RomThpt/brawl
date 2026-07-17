@@ -66,6 +66,10 @@ def kind(a, sz):
                 return ("get", (GET[hi][1], soff(w0)))
             if hi in SET:  # stw/stb/sth r4, off(r3) ; blr  => setter
                 return ("set", (SET[hi][1], soff(w0)))
+            if (w0 & 0xFC0007FE) == 0x7C000378:  # mr r3,rN ; blr => return argN
+                rS, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
+                if rA == 3 and rS == rB and 4 <= rS <= 10:
+                    return ("argret", rS - 3)
     return None
 
 
@@ -119,6 +123,9 @@ for g in groups:
         elif kk == "set":
             ctype, off = v
             body.append(f"void {n}(void* p, int q) {{\n    *({ctype}*)((char*)p + {off}) = q;\n}}\n")
+        elif kk == "argret":
+            params = ", ".join("int a%d" % i for i in range(v + 1))
+            body.append(f"int {n}({params}) {{\n    return a{v};\n}}\n")
     src = "\n".join(body)
     path = f"stub/{g[0][2]}.c"
     add_unit.add(path, start, end, src)

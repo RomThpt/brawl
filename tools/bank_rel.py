@@ -55,6 +55,10 @@ def kind(a, sz):
             return ("get", (GET[hi], soff(w0)))
         if hi in SET:
             return ("set", (SET[hi], soff(w0)))
+        if (w0 & 0xFC0007FE) == 0x7C000378:  # or rA,rS,rB == mr alias when rS==rB
+            rS, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
+            if rA == 3 and rS == rB and 4 <= rS <= 10:  # return argN (r3=a0)
+                return ("argret", rS - 3)
     return None
 
 
@@ -109,6 +113,9 @@ def gen(n, kk, v):
     if kk == "get":
         t, off = v
         return f"int {n}(void* p) {{\n    return *({t}*)((char*)p + {off});\n}}\n"
+    if kk == "argret":
+        params = ", ".join("int a%d" % i for i in range(v + 1))
+        return f"int {n}({params}) {{\n    return a{v};\n}}\n"
     t, off = v
     return f"void {n}(void* p, int q) {{\n    *({t}*)((char*)p + {off}) = q;\n}}\n"
 
