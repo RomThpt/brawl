@@ -146,6 +146,21 @@ mo_stub/st_kart/fn_49_6B14.c:
 mo_stub/st_kart/fn_49_6B28.c:
 	.text       start:0x00006B28 end:0x00006B48
 
+mo_stub/st_kart/fn_49_6BC0.c:
+	.text       start:0x00006BC0 end:0x00006BC8
+
+mo_stub/st_kart/fn_49_6C88.c:
+	.text       start:0x00006C88 end:0x00006C90
+
+mo_stub/st_kart/fn_49_6DE8.c:
+	.text       start:0x00006DE8 end:0x00006DF0
+
+mo_stub/st_kart/fn_49_6F48.c:
+	.text       start:0x00006F48 end:0x00006F50
+
+mo_stub/st_kart/fn_49_7010.c:
+	.text       start:0x00007010 end:0x00007018
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CA58 end:0x0000CAF4
 	.data       start:0x000027F8 end:0x00002805
