@@ -21,6 +21,9 @@ mo_stub/sora_menu_friend_list/fn_14_8954.c:
 mo_stub/sora_menu_friend_list/fn_14_902C.c:
 	.text       start:0x0000902C end:0x00009030
 
+mo_stub/sora_menu_friend_list/fn_14_9594.c:
+	.text       start:0x00009594 end:0x00009598
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x00009C70 end:0x00009D0C
 	.data       start:0x00000588 end:0x00000594
