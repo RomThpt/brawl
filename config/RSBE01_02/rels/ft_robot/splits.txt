@@ -164,6 +164,12 @@ mo_stub/ft_robot/fn_120_13FD8.c:
 mo_stub/ft_robot/fn_120_13FE0.c:
 	.text       start:0x00013FE0 end:0x00013FF4
 
+mo_stub/ft_robot/fn_120_15DD8.c:
+	.text       start:0x00015DD8 end:0x00015DDC
+
+mo_stub/ft_robot/fn_120_183CC.c:
+	.text       start:0x000183CC end:0x000183D4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000184C8 end:0x00018564
 	.data       start:0x00008690 end:0x0000869F
