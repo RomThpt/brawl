@@ -62,6 +62,15 @@ mo_stub/st_earth/fn_66_2A4C.c:
 mo_stub/st_earth/fn_66_2A54.c:
 	.text       start:0x00002A54 end:0x00002A78
 
+mo_stub/st_earth/fn_66_2A94.c:
+	.text       start:0x00002A94 end:0x00002A9C
+
+mo_stub/st_earth/fn_66_2AA4.c:
+	.text       start:0x00002AA4 end:0x00002AB4
+
+mo_stub/st_earth/fn_66_2AC0.c:
+	.text       start:0x00002AC0 end:0x00002ACC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000139C4 end:0x00013A60
 	.data       start:0x00003FE0 end:0x00003FED
