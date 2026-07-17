@@ -2257,7 +2257,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_famicom/fn_68_222C.c"),
+            Object(Matching, "mo_stub/st_famicom/fn_68_C708.c"),
+        ],
     },
     {
         "lib": "st_final",
