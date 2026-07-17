@@ -3725,6 +3725,8 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/st_tbreak/fn_89_1818.c"),
             Object(Matching, "mo_stub/st_tbreak/fn_89_191C.c"),
+            Object(Matching, "mo_stub/st_tbreak/fn_89_1930.c"),
+            Object(Matching, "mo_stub/st_tbreak/fn_89_195C.c"),
         ],
     },
     {
