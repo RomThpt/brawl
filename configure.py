@@ -1848,6 +1848,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_yoshi/fn_95_B558.c"),
+            Object(Matching, "mo_stub/ft_yoshi/fn_95_B56C.c"),
         ],
     },
     {
