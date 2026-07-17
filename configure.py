@@ -1501,6 +1501,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_peach/fn_103_9E7C.c"),
+            Object(Matching, "mo_stub/ft_peach/fn_103_9E90.c"),
         ],
     },
     {
