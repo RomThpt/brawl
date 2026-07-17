@@ -164,6 +164,9 @@ mo_stub/ft_snake/fn_122_20480.c:
 mo_stub/ft_snake/fn_122_204AC.c:
 	.text       start:0x000204AC end:0x000204B8
 
+mo_stub/ft_snake/fn_122_204B8.c:
+	.text       start:0x000204B8 end:0x000204D4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00027B24 end:0x00027BC0
 	.data       start:0x000107D8 end:0x000107E7
