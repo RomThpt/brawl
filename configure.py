@@ -2974,6 +2974,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_gw/fn_63_28B4.c"),
             Object(Matching, "mo_stub/st_gw/fn_63_28D0.c"),
             Object(Matching, "mo_stub/st_gw/fn_63_2914.c"),
+            Object(Matching, "mo_stub/st_gw/fn_63_2924.c"),
+            Object(Matching, "mo_stub/st_gw/fn_63_295C.c"),
         ],
     },
     {
