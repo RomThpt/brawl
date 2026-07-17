@@ -1195,7 +1195,12 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_kirby/fn_96_F020.c"),
+            Object(Matching, "mo_stub/ft_kirby/fn_96_F060.c"),
+            Object(Matching, "mo_stub/ft_kirby/fn_96_F0F4.c"),
+            Object(Matching, "mo_stub/ft_kirby/fn_96_F120.c"),
+        ],
     },
     {
         "lib": "ft_koopa",
