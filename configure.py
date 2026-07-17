@@ -1513,6 +1513,11 @@ config.libs = [
             Object(Matching, "mo_stub/ft_peach/fn_103_A030.c"),
             Object(Matching, "mo_stub/ft_peach/fn_103_A0A8.c"),
             Object(Matching, "mo_stub/ft_peach/fn_103_A184.c"),
+            Object(Matching, "mo_stub/ft_peach/fn_103_A21C.c"),
+            Object(Matching, "mo_stub/ft_peach/fn_103_A2DC.c"),
+            Object(Matching, "mo_stub/ft_peach/fn_103_B328.c"),
+            Object(Matching, "mo_stub/ft_peach/fn_103_C138.c"),
+            Object(Matching, "mo_stub/ft_peach/fn_103_C844.c"),
         ],
     },
     {
