@@ -1576,6 +1576,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikmin/fn_113_C9F8.c"),
             Object(Matching, "mo_stub/ft_pikmin/fn_113_CAC0.c"),
             Object(Matching, "mo_stub/ft_pikmin/fn_113_CAD8.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_CB00.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_CB70.c"),
         ],
     },
     {
