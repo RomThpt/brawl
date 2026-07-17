@@ -128,6 +128,12 @@ mo_stub/sora_enemy/fn_41_134B4.c:
 mo_stub/sora_enemy/fn_41_134D4.c:
 	.text       start:0x000134D4 end:0x000134F4
 
+mo_stub/sora_enemy/fn_41_13594.c:
+	.text       start:0x00013594 end:0x000135A4
+
+mo_stub/sora_enemy/fn_41_135FC.c:
+	.text       start:0x000135FC end:0x00013608
+
 mo_enemy/sora_enemy/resource/em_resource_module_impl.cpp:
 	.text       start:0x0001F57C end:0x0001F82C
 	.data       start:0x00002C18 end:0x00002CF8
