@@ -95,6 +95,12 @@ mo_stub/ft_wario/fn_110_F3F8.c:
 mo_stub/ft_wario/fn_110_10304.c:
 	.text       start:0x00010304 end:0x0001030C
 
+mo_stub/ft_wario/fn_110_128F8.c:
+	.text       start:0x000128F8 end:0x00012910
+
+mo_stub/ft_wario/fn_110_12960.c:
+	.text       start:0x00012960 end:0x00012968
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002122C end:0x000212C8
 	.data       start:0x0000A0A8 end:0x0000A0B7
