@@ -95,6 +95,21 @@ mo_stub/ft_diddy/fn_115_EF8C.c:
 mo_stub/ft_diddy/fn_115_F024.c:
 	.text       start:0x0000F024 end:0x0000F028
 
+mo_stub/ft_diddy/fn_115_11080.c:
+	.text       start:0x00011080 end:0x00011084
+
+mo_stub/ft_diddy/fn_115_11138.c:
+	.text       start:0x00011138 end:0x0001113C
+
+mo_stub/ft_diddy/fn_115_11408.c:
+	.text       start:0x00011408 end:0x00011410
+
+mo_stub/ft_diddy/fn_115_13100.c:
+	.text       start:0x00013100 end:0x00013104
+
+mo_stub/ft_diddy/fn_115_13700.c:
+	.text       start:0x00013700 end:0x00013708
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001B99C end:0x0001BA38
 	.data       start:0x0000A958 end:0x0000A967
