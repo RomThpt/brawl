@@ -53,6 +53,9 @@ mo_stub/st_fzero/fn_61_F38.c:
 mo_stub/st_fzero/fn_61_104C.c:
 	.text       start:0x0000104C end:0x0000106C
 
+mo_stub/st_fzero/fn_61_11A8.c:
+	.text       start:0x000011A8 end:0x000011D0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000E800 end:0x0000E89C
 	.data       start:0x00003C48 end:0x00003C55
