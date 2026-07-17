@@ -44,6 +44,12 @@ mo_stub/st_croll/fn_90_83D0.c:
 mo_stub/st_croll/fn_90_83E0.c:
 	.text       start:0x000083E0 end:0x000083E8
 
+mo_stub/st_croll/fn_90_83E8.c:
+	.text       start:0x000083E8 end:0x000083F0
+
+mo_stub/st_croll/fn_90_83FC.c:
+	.text       start:0x000083FC end:0x00008418
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00008530 end:0x000085CC
 	.data       start:0x00002E80 end:0x00002E8D

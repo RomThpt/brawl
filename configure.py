@@ -1965,6 +1965,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_119C.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_1468.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_1470.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_83E8.c"),
+            Object(Matching, "mo_stub/st_croll/fn_90_83FC.c"),
         ],
     },
     {
