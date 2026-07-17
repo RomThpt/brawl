@@ -119,6 +119,12 @@ mo_stub/ft_snake/fn_122_18E58.c:
 mo_stub/ft_snake/fn_122_18E70.c:
 	.text       start:0x00018E70 end:0x00018E94
 
+mo_stub/ft_snake/fn_122_18EA4.c:
+	.text       start:0x00018EA4 end:0x00018EAC
+
+mo_stub/ft_snake/fn_122_18EEC.c:
+	.text       start:0x00018EEC end:0x00018F0C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00027B24 end:0x00027BC0
 	.data       start:0x000107D8 end:0x000107E7
