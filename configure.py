@@ -2911,6 +2911,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_earth/fn_66_A2E4.c"),
             Object(Matching, "mo_stub/st_famicom/fn_68_3038.c"),
             Object(Matching, "mo_stub/st_famicom/fn_68_55D4.c"),
+            Object(Matching, "mo_stub/st_famicom/fn_68_56F4.c"),
+            Object(Matching, "mo_stub/st_famicom/fn_68_5934.c"),
         ],
     },
     {
