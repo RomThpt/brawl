@@ -2008,6 +2008,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_3FD8.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_3FE8.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_4020.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_4030.c"),
+            Object(Matching, "mo_stub/st_dxbigblue/fn_81_404C.c"),
         ],
     },
     {
