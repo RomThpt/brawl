@@ -268,6 +268,21 @@ stub/fn_80080A64.c:
 stub/fn_80095F70.c:
 	.text       start:0x80095F70 end:0x80095F78
 
+stub/fn_80096690.c:
+	.text       start:0x80096690 end:0x80096694
+
+stub/fn_800986A8.c:
+	.text       start:0x800986A8 end:0x800986AC
+
+stub/fn_8009A040.c:
+	.text       start:0x8009A040 end:0x8009A048
+
+stub/fn_8009BA28.c:
+	.text       start:0x8009BA28 end:0x8009BA2C
+
+stub/fn_8009C618.c:
+	.text       start:0x8009C618 end:0x8009C61C
+
 sora/cm/cm_controller_default.cpp:
 	.text       start:0x8009F560 end:0x8009F564
 	.data       start:0x80454CC0 end:0x80454CD0
