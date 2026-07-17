@@ -2958,6 +2958,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_pictchat/fn_73_2ACC.c"),
             Object(Matching, "mo_stub/st_pictchat/fn_73_2AFC.c"),
             Object(Matching, "mo_stub/st_pictchat/fn_73_2B0C.c"),
+            Object(Matching, "mo_stub/st_pictchat/fn_73_2B14.c"),
+            Object(Matching, "mo_stub/st_pictchat/fn_73_2B28.c"),
         ],
     },
     {
