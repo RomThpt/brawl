@@ -210,6 +210,9 @@ mo_stub/sora_enemy/fn_41_28568.c:
 mo_stub/sora_enemy/fn_41_28588.c:
 	.text       start:0x00028588 end:0x00028590
 
+mo_stub/sora_enemy/fn_41_28590.c:
+	.text       start:0x00028590 end:0x00028598
+
 mo_enemy/sora_enemy/em_external_value_accesser.cpp:
 	.text       start:0x000285A8 end:0x0002893C
 
@@ -217,6 +220,15 @@ mo_enemy/sora_enemy/em_target_search_unit.cpp:
 	.text       start:0x0002893C end:0x00028B30
 	.rodata     start:0x00000D88 end:0x00000D98
 	.data       start:0x000036B0 end:0x00003710
+
+mo_stub/sora_enemy/fn_41_2A3FC.c:
+	.text       start:0x0002A3FC end:0x0002A404
+
+mo_stub/sora_enemy/fn_41_2A4F0.c:
+	.text       start:0x0002A4F0 end:0x0002A500
+
+mo_stub/sora_enemy/fn_41_2B3F8.c:
+	.text       start:0x0002B3F8 end:0x0002B400
 
 mo_enemy/sora_enemy/wnem/wn_em_resource_module_impl.cpp:
 	.text       start:0x0002CF98 end:0x0002D038
