@@ -131,6 +131,9 @@ mo_stub/st_dxonett/fn_78_4D7C.c:
 mo_stub/st_dxonett/fn_78_564C.c:
 	.text       start:0x0000564C end:0x00005654
 
+mo_stub/st_dxonett/fn_78_5654.c:
+	.text       start:0x00005654 end:0x00005668
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000089F0 end:0x00008A8C
 	.data       start:0x00002788 end:0x00002795
