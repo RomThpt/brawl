@@ -1077,6 +1077,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_fox/fn_97_B01C.c"),
+            Object(Matching, "mo_stub/ft_fox/fn_97_B030.c"),
         ],
     },
     {
