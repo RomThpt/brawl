@@ -149,6 +149,9 @@ mo_stub/ft_diddy/fn_115_17208.c:
 mo_stub/ft_diddy/fn_115_17214.c:
 	.text       start:0x00017214 end:0x00017238
 
+mo_stub/ft_diddy/fn_115_17244.c:
+	.text       start:0x00017244 end:0x00017260
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001B99C end:0x0001BA38
 	.data       start:0x0000A958 end:0x0000A967
