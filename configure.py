@@ -3537,7 +3537,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_tbreak/fn_89_1818.c"),
+            Object(Matching, "mo_stub/st_tbreak/fn_89_191C.c"),
+        ],
     },
     {
         "lib": "st_tengan",
