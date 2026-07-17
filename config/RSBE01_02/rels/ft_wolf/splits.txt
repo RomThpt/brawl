@@ -35,6 +35,9 @@ mo_stub/ft_wolf/fn_125_AF34.c:
 mo_stub/ft_wolf/fn_125_AF48.c:
 	.text       start:0x0000AF48 end:0x0000AF60
 
+mo_stub/ft_wolf/fn_125_AF88.c:
+	.text       start:0x0000AF88 end:0x0000AF9C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010F04 end:0x00010FA0
 	.data       start:0x00007BA8 end:0x00007BB7
