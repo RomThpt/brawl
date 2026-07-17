@@ -134,6 +134,12 @@ mo_stub/ft_metaknight/fn_111_10D4C.c:
 mo_stub/ft_metaknight/fn_111_10D70.c:
 	.text       start:0x00010D70 end:0x00010D78
 
+mo_stub/ft_metaknight/fn_111_10D84.c:
+	.text       start:0x00010D84 end:0x00010D8C
+
+mo_stub/ft_metaknight/fn_111_10DA4.c:
+	.text       start:0x00010DA4 end:0x00010DB8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000112A4 end:0x00011340
 	.data       start:0x000068A8 end:0x000068B7
