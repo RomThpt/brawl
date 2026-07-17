@@ -116,6 +116,9 @@ mo_stub/sora_adv_stage/fn_40_1DA98.c:
 mo_stub/sora_adv_stage/fn_40_1DAB0.c:
 	.text       start:0x0001DAB0 end:0x0001DACC
 
+mo_stub/sora_adv_stage/fn_40_1DACC.c:
+	.text       start:0x0001DACC end:0x0001DAEC
+
 mo_adv_stage/gr_adventure_final.cpp:
 	.text       start:0x0003D6E4 end:0x0003DA24
 	.rodata     start:0x000008E8 end:0x000008F4
