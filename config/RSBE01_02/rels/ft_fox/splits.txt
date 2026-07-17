@@ -53,6 +53,9 @@ mo_stub/ft_fox/fn_97_B0CC.c:
 mo_stub/ft_fox/fn_97_B198.c:
 	.text       start:0x0000B198 end:0x0000B1A8
 
+mo_stub/ft_fox/fn_97_B1A8.c:
+	.text       start:0x0000B1A8 end:0x0000B1D0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
 	.data       start:0x00007B60 end:0x00007B6F
