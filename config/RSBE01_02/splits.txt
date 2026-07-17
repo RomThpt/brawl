@@ -519,6 +519,9 @@ stub/fn_8015CC38.c:
 stub/fn_8015D300.c:
 	.text       start:0x8015D300 end:0x8015D308
 
+stub/fn_8015D308.c:
+	.text       start:0x8015D308 end:0x8015D330
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
