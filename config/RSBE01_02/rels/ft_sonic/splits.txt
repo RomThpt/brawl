@@ -161,6 +161,15 @@ mo_stub/ft_sonic/fn_123_14028.c:
 mo_stub/ft_sonic/fn_123_1403C.c:
 	.text       start:0x0001403C end:0x00014060
 
+mo_stub/ft_sonic/fn_123_14060.c:
+	.text       start:0x00014060 end:0x00014068
+
+mo_stub/ft_sonic/fn_123_14078.c:
+	.text       start:0x00014078 end:0x00014080
+
+mo_stub/ft_sonic/fn_123_140C0.c:
+	.text       start:0x000140C0 end:0x000140D8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000185A0 end:0x0001863C
 	.data       start:0x000081B0 end:0x000081BF
