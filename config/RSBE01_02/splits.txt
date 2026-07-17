@@ -510,6 +510,15 @@ sora/st/st_data_container.cpp:
 stub/fn_8015CBF8.c:
 	.text       start:0x8015CBF8 end:0x8015CC1C
 
+stub/fn_8015CC1C.c:
+	.text       start:0x8015CC1C end:0x8015CC2C
+
+stub/fn_8015CC38.c:
+	.text       start:0x8015CC38 end:0x8015CC44
+
+stub/fn_8015D300.c:
+	.text       start:0x8015D300 end:0x8015D308
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
