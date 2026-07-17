@@ -32,6 +32,18 @@ mo_stub/ft_pikmin/fn_113_80D8.c:
 mo_stub/ft_pikmin/fn_113_80F4.c:
 	.text       start:0x000080F4 end:0x000080FC
 
+mo_stub/ft_pikmin/fn_113_C81C.c:
+	.text       start:0x0000C81C end:0x0000C820
+
+mo_stub/ft_pikmin/fn_113_C85C.c:
+	.text       start:0x0000C85C end:0x0000C864
+
+mo_stub/ft_pikmin/fn_113_C8F0.c:
+	.text       start:0x0000C8F0 end:0x0000C8F4
+
+mo_stub/ft_pikmin/fn_113_C91C.c:
+	.text       start:0x0000C91C end:0x0000C920
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002DDD8 end:0x0002DE74
 	.data       start:0x0000C1D0 end:0x0000C1DF

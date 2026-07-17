@@ -1560,7 +1560,12 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_C81C.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_C85C.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_C8F0.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_C91C.c"),
+        ],
     },
     {
         "lib": "ft_pit",
