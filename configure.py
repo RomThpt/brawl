@@ -1254,6 +1254,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_gamewatch/fn_107_16774.c"),
             Object(Matching, "mo_stub/ft_gamewatch/fn_107_167A4.c"),
             Object(Matching, "mo_stub/ft_gamewatch/fn_107_167BC.c"),
+            Object(Matching, "mo_stub/ft_gamewatch/fn_107_167D0.c"),
         ],
     },
     {
