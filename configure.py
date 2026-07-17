@@ -1750,7 +1750,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_sonic/fn_123_A050.c"),
+            Object(Matching, "mo_stub/ft_sonic/fn_123_A108.c"),
+        ],
     },
     {
         "lib": "ft_toonlink",
