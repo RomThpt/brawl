@@ -1443,8 +1443,17 @@ stub/fn_802DBB04.c:
 stub/fn_802DBBB8.c:
 	.text       start:0x802DBBB8 end:0x802DBBC8
 
+stub/fn_802DBBC8.c:
+	.text       start:0x802DBBC8 end:0x802DBBD0
+
+stub/fn_802DBC10.c:
+	.text       start:0x802DBC10 end:0x802DBC28
+
 stub/fn_802DD4F4.c:
 	.text       start:0x802DD4F4 end:0x802DD4F8
+
+stub/fn_802DD4F8.c:
+	.text       start:0x802DD4F8 end:0x802DD500
 
 stub/fn_802DD518.c:
 	.text       start:0x802DD518 end:0x802DD520
