@@ -86,6 +86,15 @@ mo_stub/sora_melee/fn_27_1C630.c:
 mo_stub/sora_melee/fn_27_1CAB8.c:
 	.text       start:0x0001CAB8 end:0x0001CABC
 
+mo_stub/sora_melee/fn_27_1CABC.c:
+	.text       start:0x0001CABC end:0x0001CACC
+
+mo_stub/sora_melee/fn_27_1CB10.c:
+	.text       start:0x0001CB10 end:0x0001CB18
+
+mo_stub/sora_melee/fn_27_1CB80.c:
+	.text       start:0x0001CB80 end:0x0001CB88
+
 mo_melee/sora_melee/so/anim/so_anim_chr.cpp:
 	.text       start:0x0001F2D0 end:0x0001F980
 	.rodata     start:0x00000360 end:0x00000370
