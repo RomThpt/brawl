@@ -50,6 +50,12 @@ mo_stub/st_croll/fn_90_83E8.c:
 mo_stub/st_croll/fn_90_83FC.c:
 	.text       start:0x000083FC end:0x00008418
 
+mo_stub/st_croll/fn_90_8418.c:
+	.text       start:0x00008418 end:0x00008420
+
+mo_stub/st_croll/fn_90_852C.c:
+	.text       start:0x0000852C end:0x00008530
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00008530 end:0x000085CC
 	.data       start:0x00002E80 end:0x00002E8D
