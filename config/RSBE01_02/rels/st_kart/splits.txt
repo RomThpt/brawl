@@ -119,6 +119,9 @@ mo_stub/st_kart/fn_49_5C48.c:
 mo_stub/st_kart/fn_49_5C60.c:
 	.text       start:0x00005C60 end:0x00005C88
 
+mo_stub/st_kart/fn_49_5C88.c:
+	.text       start:0x00005C88 end:0x00005C9C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CA58 end:0x0000CAF4
 	.data       start:0x000027F8 end:0x00002805
