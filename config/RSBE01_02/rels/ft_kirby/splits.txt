@@ -38,6 +38,12 @@ mo_stub/ft_kirby/fn_96_F164.c:
 mo_stub/ft_kirby/fn_96_F190.c:
 	.text       start:0x0000F190 end:0x0000F1A0
 
+mo_stub/ft_kirby/fn_96_F1A0.c:
+	.text       start:0x0000F1A0 end:0x0000F1A4
+
+mo_stub/ft_kirby/fn_96_F1B4.c:
+	.text       start:0x0000F1B4 end:0x0000F1C8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7
