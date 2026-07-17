@@ -200,6 +200,9 @@ mo_stub/sora_adv_stage/fn_40_2876C.c:
 mo_stub/sora_adv_stage/fn_40_28878.c:
 	.text       start:0x00028878 end:0x00028888
 
+mo_stub/sora_adv_stage/fn_40_28888.c:
+	.text       start:0x00028888 end:0x0002889C
+
 mo_adv_stage/gr_adventure_final.cpp:
 	.text       start:0x0003D6E4 end:0x0003DA24
 	.rodata     start:0x000008E8 end:0x000008F4
