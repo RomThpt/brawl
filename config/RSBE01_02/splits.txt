@@ -252,9 +252,21 @@ sora/mv/mv_THPAudioDecode.cpp:
 	.text       start:0x8007B0B4 end:0x8007B4A4
 	.sbss       start:0x805A01E0 end:0x805A01E4
 
+stub/fn_8007BC98.c:
+	.text       start:0x8007BC98 end:0x8007BCA0
+
 sora/mv/mv_THPRead.cpp:
 	.text       start:0x8007E0EC end:0x8007E3A4
 	.sbss       start:0x805A0200 end:0x805A0204
+
+stub/fn_8007E3A4.c:
+	.text       start:0x8007E3A4 end:0x8007E3AC
+
+stub/fn_80080A64.c:
+	.text       start:0x80080A64 end:0x80080A68
+
+stub/fn_80095F70.c:
+	.text       start:0x80095F70 end:0x80095F78
 
 sora/cm/cm_controller_default.cpp:
 	.text       start:0x8009F560 end:0x8009F564
