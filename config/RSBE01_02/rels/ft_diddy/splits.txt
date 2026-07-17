@@ -95,6 +95,9 @@ mo_stub/ft_diddy/fn_115_C880.c:
 mo_stub/ft_diddy/fn_115_CF8C.c:
 	.text       start:0x0000CF8C end:0x0000CF90
 
+mo_stub/ft_diddy/fn_115_CFC8.c:
+	.text       start:0x0000CFC8 end:0x0000CFD0
+
 mo_stub/ft_diddy/fn_115_DCA4.c:
 	.text       start:0x0000DCA4 end:0x0000DCC0
 
