@@ -2042,6 +2042,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikachu/fn_98_14DD4.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_14DE4.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_14DF8.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_14E14.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_14E3C.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_14E84.c"),
         ],
     },
     {
