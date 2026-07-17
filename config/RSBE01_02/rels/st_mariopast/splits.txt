@@ -107,6 +107,21 @@ mo_stub/st_mariopast/fn_48_3940.c:
 mo_stub/st_mariopast/fn_48_3968.c:
 	.text       start:0x00003968 end:0x0000397C
 
+mo_stub/st_mariopast/fn_48_399C.c:
+	.text       start:0x0000399C end:0x000039A4
+
+mo_stub/st_mariopast/fn_48_39EC.c:
+	.text       start:0x000039EC end:0x000039F0
+
+mo_stub/st_mariopast/fn_48_3F08.c:
+	.text       start:0x00003F08 end:0x00003F10
+
+mo_stub/st_mariopast/fn_48_4BB4.c:
+	.text       start:0x00004BB4 end:0x00004BBC
+
+mo_stub/st_mariopast/fn_48_5628.c:
+	.text       start:0x00005628 end:0x00005630
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C758 end:0x0000C7F4
 	.data       start:0x00003440 end:0x0000344D
