@@ -253,6 +253,18 @@ mo_stub/sora_adv_stage/fn_40_3F6A4.c:
 mo_stub/sora_adv_stage/fn_40_42DC4.c:
 	.text       start:0x00042DC4 end:0x00042DC8
 
+mo_stub/sora_adv_stage/fn_40_42DC8.c:
+	.text       start:0x00042DC8 end:0x00042DD0
+
+mo_stub/sora_adv_stage/fn_40_47624.c:
+	.text       start:0x00047624 end:0x0004762C
+
+mo_stub/sora_adv_stage/fn_40_47B90.c:
+	.text       start:0x00047B90 end:0x00047B98
+
+mo_stub/sora_adv_stage/fn_40_47DD8.c:
+	.text       start:0x00047DD8 end:0x00047DE0
+
 mo_adv_stage/mo_adv_stage.cpp:
 	.text       start:0x00048CF0 end:0x00048D8C
 	.data       start:0x00018550 end:0x00018561
