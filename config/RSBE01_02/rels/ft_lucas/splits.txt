@@ -143,6 +143,12 @@ mo_stub/ft_lucas/fn_114_15AD4.c:
 mo_stub/ft_lucas/fn_114_15AEC.c:
 	.text       start:0x00015AEC end:0x00015AFC
 
+mo_stub/ft_lucas/fn_114_15AFC.c:
+	.text       start:0x00015AFC end:0x00015B0C
+
+mo_stub/ft_lucas/fn_114_15B30.c:
+	.text       start:0x00015B30 end:0x00015B38
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00020EA4 end:0x00020F40
 	.data       start:0x0000B538 end:0x0000B547
