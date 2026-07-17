@@ -1758,6 +1758,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_sonic/fn_123_A140.c"),
             Object(Matching, "mo_stub/ft_sonic/fn_123_A158.c"),
             Object(Matching, "mo_stub/ft_sonic/fn_123_A184.c"),
+            Object(Matching, "mo_stub/ft_sonic/fn_123_A194.c"),
+            Object(Matching, "mo_stub/ft_sonic/fn_123_A1B0.c"),
         ],
     },
     {
