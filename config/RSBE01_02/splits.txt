@@ -1755,6 +1755,9 @@ stub/fn_803EB3B4.c:
 stub/fn_803EBBD8.c:
 	.text       start:0x803EBBD8 end:0x803EBBDC
 
+stub/fn_803EF1C8.c:
+	.text       start:0x803EF1C8 end:0x803EF1D0
+
 Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
 	.text       start:0x803F1A08 end:0x803F1A78
 	.ctors      start:0x804064E0 end:0x804064E4 rename:.ctors$10
@@ -1797,6 +1800,9 @@ TRK_MINNOW_DOLPHIN/gdev_cc_close.c:
 
 TRK_MINNOW_DOLPHIN/gdev_cc_shutdown.c:
 	.text       start:0x80406180 end:0x80406188
+
+stub/fn_80406470.c:
+	.text       start:0x80406470 end:0x80406478
 
 stub/fn_804064CC.c:
 	.text       start:0x804064CC end:0x804064D0
