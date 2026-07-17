@@ -158,6 +158,9 @@ mo_stub/ft_samus/fn_94_20274.c:
 mo_stub/ft_samus/fn_94_2027C.c:
 	.text       start:0x0002027C end:0x00020290
 
+mo_stub/ft_samus/fn_94_20290.c:
+	.text       start:0x00020290 end:0x0002029C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002041C end:0x000204B8
 	.data       start:0x0000D760 end:0x0000D76F
