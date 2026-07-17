@@ -98,6 +98,12 @@ mo_stub/ft_sonic/fn_123_E524.c:
 mo_stub/ft_sonic/fn_123_E928.c:
 	.text       start:0x0000E928 end:0x0000E930
 
+mo_stub/ft_sonic/fn_123_ED2C.c:
+	.text       start:0x0000ED2C end:0x0000ED34
+
+mo_stub/ft_sonic/fn_123_FC4C.c:
+	.text       start:0x0000FC4C end:0x0000FC64
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000185A0 end:0x0001863C
 	.data       start:0x000081B0 end:0x000081BF
