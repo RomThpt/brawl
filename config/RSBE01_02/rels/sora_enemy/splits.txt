@@ -161,9 +161,27 @@ mo_stub/sora_enemy/fn_41_136BC.c:
 mo_stub/sora_enemy/fn_41_136E0.c:
 	.text       start:0x000136E0 end:0x000136F0
 
+mo_stub/sora_enemy/fn_41_136F0.c:
+	.text       start:0x000136F0 end:0x00013718
+
+mo_stub/sora_enemy/fn_41_1AC5C.c:
+	.text       start:0x0001AC5C end:0x0001AC68
+
+mo_stub/sora_enemy/fn_41_1F4F8.c:
+	.text       start:0x0001F4F8 end:0x0001F500
+
+mo_stub/sora_enemy/fn_41_1F560.c:
+	.text       start:0x0001F560 end:0x0001F574
+
+mo_stub/sora_enemy/fn_41_1F574.c:
+	.text       start:0x0001F574 end:0x0001F57C
+
 mo_enemy/sora_enemy/resource/em_resource_module_impl.cpp:
 	.text       start:0x0001F57C end:0x0001F82C
 	.data       start:0x00002C18 end:0x00002CF8
+
+mo_stub/sora_enemy/fn_41_22BDC.c:
+	.text       start:0x00022BDC end:0x00022BE4
 
 mo_enemy/sora_enemy/stop/em_stop_module_impl.cpp:
 	.text       start:0x00022C88 end:0x00022D94
@@ -174,6 +192,27 @@ mo_enemy/sora_enemy/em_extend_param_accesser.cpp:
 	.data       start:0x00003200 end:0x00003280
 	.bss        start:0x000000B8 end:0x000001B0
 
+mo_stub/sora_enemy/fn_41_27750.c:
+	.text       start:0x00027750 end:0x00027758
+
+mo_stub/sora_enemy/fn_41_27974.c:
+	.text       start:0x00027974 end:0x0002797C
+
+mo_stub/sora_enemy/fn_41_279A0.c:
+	.text       start:0x000279A0 end:0x000279A8
+
+mo_stub/sora_enemy/fn_41_28528.c:
+	.text       start:0x00028528 end:0x00028530
+
+mo_stub/sora_enemy/fn_41_28568.c:
+	.text       start:0x00028568 end:0x00028578
+
+mo_stub/sora_enemy/fn_41_28588.c:
+	.text       start:0x00028588 end:0x00028590
+
+mo_stub/sora_enemy/fn_41_28590.c:
+	.text       start:0x00028590 end:0x00028598
+
 mo_enemy/sora_enemy/em_external_value_accesser.cpp:
 	.text       start:0x000285A8 end:0x0002893C
 
@@ -182,15 +221,78 @@ mo_enemy/sora_enemy/em_target_search_unit.cpp:
 	.rodata     start:0x00000D88 end:0x00000D98
 	.data       start:0x000036B0 end:0x00003710
 
+mo_stub/sora_enemy/fn_41_2A3FC.c:
+	.text       start:0x0002A3FC end:0x0002A404
+
+mo_stub/sora_enemy/fn_41_2A4F0.c:
+	.text       start:0x0002A4F0 end:0x0002A500
+
+mo_stub/sora_enemy/fn_41_2B3F8.c:
+	.text       start:0x0002B3F8 end:0x0002B400
+
 mo_enemy/sora_enemy/wnem/wn_em_resource_module_impl.cpp:
 	.text       start:0x0002CF98 end:0x0002D038
 	.data       start:0x00003EA8 end:0x00003F20
+
+mo_stub/sora_enemy/fn_41_2D488.c:
+	.text       start:0x0002D488 end:0x0002D4A4
+
+mo_stub/sora_enemy/fn_41_2D4A4.c:
+	.text       start:0x0002D4A4 end:0x0002D4B8
+
+mo_stub/sora_enemy/fn_41_2D4B8.c:
+	.text       start:0x0002D4B8 end:0x0002D4C8
+
+mo_stub/sora_enemy/fn_41_2D4DC.c:
+	.text       start:0x0002D4DC end:0x0002D4E8
+
+mo_stub/sora_enemy/fn_41_33BE0.c:
+	.text       start:0x00033BE0 end:0x00033BE8
+
+mo_stub/sora_enemy/fn_41_33C1C.c:
+	.text       start:0x00033C1C end:0x00033C34
+
+mo_stub/sora_enemy/fn_41_33C48.c:
+	.text       start:0x00033C48 end:0x00033C58
+
+mo_stub/sora_enemy/fn_41_33C64.c:
+	.text       start:0x00033C64 end:0x00033C6C
+
+mo_stub/sora_enemy/fn_41_33C78.c:
+	.text       start:0x00033C78 end:0x00033C80
+
+mo_stub/sora_enemy/fn_41_33C98.c:
+	.text       start:0x00033C98 end:0x00033CAC
+
+mo_stub/sora_enemy/fn_41_33E0C.c:
+	.text       start:0x00033E0C end:0x00033E14
+
+mo_stub/sora_enemy/fn_41_33E14.c:
+	.text       start:0x00033E14 end:0x00033E38
+
+mo_stub/sora_enemy/fn_41_33E38.c:
+	.text       start:0x00033E38 end:0x00033E3C
+
+mo_stub/sora_enemy/fn_41_33E48.c:
+	.text       start:0x00033E48 end:0x00033E4C
 
 mo_enemy/sora_enemy/wnem/wn_em_heap_module_impl.cpp:
 	.text       start:0x000349D0 end:0x00034AE8
 	.ctors      start:0x00000020 end:0x00000024
 	.data       start:0x00006CD8 end:0x00006D50
 	.bss        start:0x00000260 end:0x00000280
+
+mo_stub/sora_enemy/fn_41_34E60.c:
+	.text       start:0x00034E60 end:0x00034E68
+
+mo_stub/sora_enemy/fn_41_34F30.c:
+	.text       start:0x00034F30 end:0x00034F38
+
+mo_stub/sora_enemy/fn_41_350A4.c:
+	.text       start:0x000350A4 end:0x000350CC
+
+mo_stub/sora_enemy/fn_41_350CC.c:
+	.text       start:0x000350CC end:0x000350F0
 
 mo_enemy/sora_enemy/boobas/em_boobas_param_accesser.cpp:
 	.text       start:0x00035410 end:0x00035688
