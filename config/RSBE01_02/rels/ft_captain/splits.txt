@@ -101,6 +101,9 @@ mo_stub/ft_captain/fn_100_C1B8.c:
 mo_stub/ft_captain/fn_100_C2A0.c:
 	.text       start:0x0000C2A0 end:0x0000C2A8
 
+mo_stub/ft_captain/fn_100_C388.c:
+	.text       start:0x0000C388 end:0x0000C390
+
 mo_stub/ft_captain/fn_100_C640.c:
 	.text       start:0x0000C640 end:0x0000C648
 
