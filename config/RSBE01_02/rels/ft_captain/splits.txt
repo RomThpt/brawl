@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_captain/fn_100_6C60.c:
 	.text       start:0x00006C60 end:0x00006C68
 
+mo_stub/ft_captain/fn_100_91A0.c:
+	.text       start:0x000091A0 end:0x000091A8
+
 mo_stub/ft_captain/fn_100_948C.c:
 	.text       start:0x0000948C end:0x00009498
 
