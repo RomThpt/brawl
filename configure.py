@@ -1682,7 +1682,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_robot/fn_120_9634.c"),
+            Object(Matching, "mo_stub/ft_robot/fn_120_96EC.c"),
+        ],
     },
     {
         "lib": "ft_samus",
