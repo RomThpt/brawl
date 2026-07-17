@@ -67,6 +67,20 @@ def kind(a, sz):
             rD, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
             if rD == 3 and {rA, rB} == {3, 4}:  # return a0 + a1
                 return ("add2", None)
+        xop = w0 & 0xFC0007FE  # bits25-21=f1, bits20-16=f2, bits15-11=f3
+        f1, f2, f3 = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
+        if xop == 0x7C0001D6 and f1 == 3 and {f2, f3} == {3, 4}:  # mullw rD,rA,rB
+            return ("binop", "*")
+        if xop == 0x7C0000D0 and f1 == 3 and f2 == 3:  # neg rD,rA
+            return ("unop", "-")
+        if xop == 0x7C000038 and f2 == 3 and {f1, f3} == {3, 4}:  # and rA,rS,rB
+            return ("binop", "&")
+        if xop == 0x7C000278 and f2 == 3 and {f1, f3} == {3, 4}:  # xor rA,rS,rB
+            return ("binop", "^")
+        if xop == 0x7C000378 and f2 == 3 and {f1, f3} == {3, 4} and f1 != f3:  # or (non-mr)
+            return ("binop", "|")
+        if xop == 0x7C0000F8 and f2 == 3 and f1 == 3 and f3 == 3:  # nor => not
+            return ("unop", "~")
     return None
 
 
@@ -128,6 +142,10 @@ def gen(n, kk, v):
         return f"int {n}(int a0) {{\n    return a0 + {v};\n}}\n"
     if kk == "add2":
         return f"int {n}(int a0, int a1) {{\n    return a0 + a1;\n}}\n"
+    if kk == "binop":
+        return f"int {n}(int a0, int a1) {{\n    return a0 {v} a1;\n}}\n"
+    if kk == "unop":
+        return f"int {n}(int a0) {{\n    return {v}a0;\n}}\n"
     t, off = v
     return f"void {n}(void* p, int q) {{\n    *({t}*)((char*)p + {off}) = q;\n}}\n"
 
