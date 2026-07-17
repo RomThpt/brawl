@@ -77,6 +77,12 @@ mo_stub/st_plankton/fn_74_2FB0.c:
 mo_stub/st_plankton/fn_74_56C0.c:
 	.text       start:0x000056C0 end:0x000056DC
 
+mo_stub/st_plankton/fn_74_57E0.c:
+	.text       start:0x000057E0 end:0x000057E4
+
+mo_stub/st_plankton/fn_74_5A20.c:
+	.text       start:0x00005A20 end:0x00005A38
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000D78C end:0x0000D828
 	.data       start:0x00003108 end:0x00003115
