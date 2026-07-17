@@ -80,6 +80,9 @@ mo_stub/sora_enemy/fn_41_C45C.c:
 mo_stub/sora_enemy/fn_41_C468.c:
 	.text       start:0x0000C468 end:0x0000C47C
 
+mo_stub/sora_enemy/fn_41_C47C.c:
+	.text       start:0x0000C47C end:0x0000C498
+
 mo_enemy/sora_enemy/em_info.cpp:
 	.text       start:0x0000DB8C end:0x0000F8B8
 	.ctors      start:0x00000004 end:0x00000008
