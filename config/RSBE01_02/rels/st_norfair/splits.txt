@@ -170,6 +170,21 @@ mo_stub/st_norfair/fn_54_6908.c:
 mo_stub/st_norfair/fn_54_69D0.c:
 	.text       start:0x000069D0 end:0x000069D8
 
+mo_stub/st_norfair/fn_54_767C.c:
+	.text       start:0x0000767C end:0x00007684
+
+mo_stub/st_norfair/fn_54_80F0.c:
+	.text       start:0x000080F0 end:0x000080F8
+
+mo_stub/st_norfair/fn_54_8D28.c:
+	.text       start:0x00008D28 end:0x00008D30
+
+mo_stub/st_norfair/fn_54_99CC.c:
+	.text       start:0x000099CC end:0x000099D4
+
+mo_stub/st_norfair/fn_54_A71C.c:
+	.text       start:0x0000A71C end:0x0000A724
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010210 end:0x000102AC
 	.data       start:0x00004930 end:0x0000493D
