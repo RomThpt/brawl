@@ -40,6 +40,9 @@ mo_stub/st_crayon/fn_56_53D8.c:
 mo_stub/st_crayon/fn_56_53EC.c:
 	.text       start:0x000053EC end:0x0000540C
 
+mo_stub/st_crayon/fn_56_540C.c:
+	.text       start:0x0000540C end:0x00005428
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B2B4 end:0x0000B350
 	.data       start:0x00002960 end:0x0000296D
