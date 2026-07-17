@@ -2132,6 +2132,8 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stage/st_otrain/st_onlinetrainning.cpp"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_1C0.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_3D3C.c"),
         ],
     },
     {
