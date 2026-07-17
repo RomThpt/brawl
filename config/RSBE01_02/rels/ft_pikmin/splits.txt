@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_pikmin/fn_113_686C.c:
+	.text       start:0x0000686C end:0x00006874
+
+mo_stub/ft_pikmin/fn_113_7FA8.c:
+	.text       start:0x00007FA8 end:0x00007FB0
+
+mo_stub/ft_pikmin/fn_113_7FBC.c:
+	.text       start:0x00007FBC end:0x00007FC4
+
+mo_stub/ft_pikmin/fn_113_8094.c:
+	.text       start:0x00008094 end:0x000080A4
+
+mo_stub/ft_pikmin/fn_113_80A4.c:
+	.text       start:0x000080A4 end:0x000080B4
+
+mo_stub/ft_pikmin/fn_113_80D8.c:
+	.text       start:0x000080D8 end:0x000080E8
+
+mo_stub/ft_pikmin/fn_113_80F4.c:
+	.text       start:0x000080F4 end:0x000080FC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002DDD8 end:0x0002DE74
 	.data       start:0x0000C1D0 end:0x0000C1DF

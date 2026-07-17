@@ -11,6 +11,24 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_falco/fn_108_8008.c:
+	.text       start:0x00008008 end:0x00008010
+
+mo_stub/ft_falco/fn_108_AD90.c:
+	.text       start:0x0000AD90 end:0x0000AD9C
+
+mo_stub/ft_falco/fn_108_ADD8.c:
+	.text       start:0x0000ADD8 end:0x0000ADE0
+
+mo_stub/ft_falco/fn_108_AE6C.c:
+	.text       start:0x0000AE6C end:0x0000AE70
+
+mo_stub/ft_falco/fn_108_AE98.c:
+	.text       start:0x0000AE98 end:0x0000AEA8
+
+mo_stub/ft_falco/fn_108_AEA8.c:
+	.text       start:0x0000AEA8 end:0x0000AEBC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FE4 end:0x00011080
 	.data       start:0x00007B58 end:0x00007B67
