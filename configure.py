@@ -2955,6 +2955,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_yoshi/fn_95_17674.c"),
             Object(Matching, "mo_stub/ft_yoshi/fn_95_17680.c"),
             Object(Matching, "mo_stub/ft_yoshi/fn_95_176AC.c"),
+            Object(Matching, "mo_stub/ft_yoshi/fn_95_176FC.c"),
+            Object(Matching, "mo_stub/ft_yoshi/fn_95_1B7EC.c"),
+            Object(Matching, "mo_stub/ft_yoshi/fn_95_1D884.c"),
         ],
     },
     {
