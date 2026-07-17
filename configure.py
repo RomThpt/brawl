@@ -1528,6 +1528,11 @@ config.libs = [
             Object(Matching, "mo_stub/ft_link/fn_93_B01C.c"),
             Object(Matching, "mo_stub/ft_link/fn_93_B0E0.c"),
             Object(Matching, "mo_stub/ft_link/fn_93_B100.c"),
+            Object(Matching, "mo_stub/ft_link/fn_93_B128.c"),
+            Object(Matching, "mo_stub/ft_link/fn_93_B190.c"),
+            Object(Matching, "mo_stub/ft_link/fn_93_B26C.c"),
+            Object(Matching, "mo_stub/ft_link/fn_93_B304.c"),
+            Object(Matching, "mo_stub/ft_link/fn_93_B3C4.c"),
         ],
     },
     {
