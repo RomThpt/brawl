@@ -137,6 +137,21 @@ mo_stub/st_mariopast/fn_48_AE84.c:
 mo_stub/st_mariopast/fn_48_B054.c:
 	.text       start:0x0000B054 end:0x0000B05C
 
+mo_stub/st_mariopast/fn_48_B224.c:
+	.text       start:0x0000B224 end:0x0000B22C
+
+mo_stub/st_mariopast/fn_48_B3F4.c:
+	.text       start:0x0000B3F4 end:0x0000B3FC
+
+mo_stub/st_mariopast/fn_48_B474.c:
+	.text       start:0x0000B474 end:0x0000B47C
+
+mo_stub/st_mariopast/fn_48_B53C.c:
+	.text       start:0x0000B53C end:0x0000B544
+
+mo_stub/st_mariopast/fn_48_B604.c:
+	.text       start:0x0000B604 end:0x0000B60C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C758 end:0x0000C7F4
 	.data       start:0x00003440 end:0x0000344D
