@@ -47,6 +47,9 @@ mo_stub/ft_mario/fn_91_A528.c:
 mo_stub/ft_mario/fn_91_A540.c:
 	.text       start:0x0000A540 end:0x0000A554
 
+mo_stub/ft_mario/fn_91_A554.c:
+	.text       start:0x0000A554 end:0x0000A570
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000194DC end:0x00019578
 	.data       start:0x0000A068 end:0x0000A077
