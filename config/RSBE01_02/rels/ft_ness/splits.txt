@@ -128,6 +128,9 @@ mo_stub/ft_ness/fn_101_15F48.c:
 mo_stub/ft_ness/fn_101_15F5C.c:
 	.text       start:0x00015F5C end:0x00015F70
 
+mo_stub/ft_ness/fn_101_15F70.c:
+	.text       start:0x00015F70 end:0x00015F84
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00024B28 end:0x00024BC4
 	.data       start:0x0000C378 end:0x0000C387
