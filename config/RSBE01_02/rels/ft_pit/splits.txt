@@ -65,6 +65,21 @@ mo_stub/ft_pit/fn_112_A920.c:
 mo_stub/ft_pit/fn_112_A9FC.c:
 	.text       start:0x0000A9FC end:0x0000AA04
 
+mo_stub/ft_pit/fn_112_AA94.c:
+	.text       start:0x0000AA94 end:0x0000AA9C
+
+mo_stub/ft_pit/fn_112_AB54.c:
+	.text       start:0x0000AB54 end:0x0000AB5C
+
+mo_stub/ft_pit/fn_112_BDA8.c:
+	.text       start:0x0000BDA8 end:0x0000BDB0
+
+mo_stub/ft_pit/fn_112_CC00.c:
+	.text       start:0x0000CC00 end:0x0000CC04
+
+mo_stub/ft_pit/fn_112_D30C.c:
+	.text       start:0x0000D30C end:0x0000D310
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00016C2C end:0x00016CC8
 	.data       start:0x00009D78 end:0x00009D87
