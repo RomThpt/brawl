@@ -35,6 +35,9 @@ mo_stub/st_oldin/fn_53_4000.c:
 mo_stub/st_oldin/fn_53_4020.c:
 	.text       start:0x00004020 end:0x00004028
 
+mo_stub/st_oldin/fn_53_4028.c:
+	.text       start:0x00004028 end:0x00004030
+
 mo_stub/st_oldin/fn_53_4030.c:
 	.text       start:0x00004030 end:0x00004040
 
