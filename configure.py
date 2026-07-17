@@ -1174,6 +1174,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_purin/fn_124_BAB0.c"),
             Object(Matching, "mo_stub/ft_purin/fn_124_BBB4.c"),
             Object(Matching, "mo_stub/ft_purin/fn_124_BC50.c"),
+            Object(Matching, "mo_stub/ft_purin/fn_124_BC54.c"),
         ],
     },
     {
