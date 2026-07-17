@@ -152,6 +152,15 @@ mo_stub/ft_gamewatch/fn_107_168C4.c:
 mo_stub/ft_gamewatch/fn_107_168CC.c:
 	.text       start:0x000168CC end:0x000168E0
 
+mo_stub/ft_gamewatch/fn_107_168FC.c:
+	.text       start:0x000168FC end:0x00016904
+
+mo_stub/ft_gamewatch/fn_107_1694C.c:
+	.text       start:0x0001694C end:0x00016950
+
+mo_stub/ft_gamewatch/fn_107_1F8EC.c:
+	.text       start:0x0001F8EC end:0x0001F8F8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00021D7C end:0x00021E18
 	.data       start:0x0000BCA8 end:0x0000BCB7
