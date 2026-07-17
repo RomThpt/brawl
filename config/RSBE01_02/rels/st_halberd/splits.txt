@@ -125,6 +125,21 @@ mo_stub/st_halberd/fn_57_AC8C.c:
 mo_stub/st_halberd/fn_57_ACA0.c:
 	.text       start:0x0000ACA0 end:0x0000ACC0
 
+mo_stub/st_halberd/fn_57_AD38.c:
+	.text       start:0x0000AD38 end:0x0000AD40
+
+mo_stub/st_halberd/fn_57_AE98.c:
+	.text       start:0x0000AE98 end:0x0000AEA0
+
+mo_stub/st_halberd/fn_57_B924.c:
+	.text       start:0x0000B924 end:0x0000B92C
+
+mo_stub/st_halberd/fn_57_C674.c:
+	.text       start:0x0000C674 end:0x0000C67C
+
+mo_stub/st_halberd/fn_57_CF90.c:
+	.text       start:0x0000CF90 end:0x0000CF98
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
 	.data       start:0x00003348 end:0x00003355
