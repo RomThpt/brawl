@@ -119,6 +119,21 @@ mo_stub/st_donkey/fn_50_6250.c:
 mo_stub/st_donkey/fn_50_6264.c:
 	.text       start:0x00006264 end:0x00006280
 
+mo_stub/st_donkey/fn_50_6280.c:
+	.text       start:0x00006280 end:0x00006288
+
+mo_stub/st_donkey/fn_50_6300.c:
+	.text       start:0x00006300 end:0x00006308
+
+mo_stub/st_donkey/fn_50_6460.c:
+	.text       start:0x00006460 end:0x00006468
+
+mo_stub/st_donkey/fn_50_6EEC.c:
+	.text       start:0x00006EEC end:0x00006EF4
+
+mo_stub/st_donkey/fn_50_7C3C.c:
+	.text       start:0x00007C3C end:0x00007C44
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B6A8 end:0x0000B744
 	.data       start:0x00003030 end:0x0000303D
