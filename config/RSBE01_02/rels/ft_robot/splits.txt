@@ -32,6 +32,12 @@ mo_stub/ft_robot/fn_120_973C.c:
 mo_stub/ft_robot/fn_120_9768.c:
 	.text       start:0x00009768 end:0x00009778
 
+mo_stub/ft_robot/fn_120_9778.c:
+	.text       start:0x00009778 end:0x00009784
+
+mo_stub/ft_robot/fn_120_9794.c:
+	.text       start:0x00009794 end:0x000097A4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000184C8 end:0x00018564
 	.data       start:0x00008690 end:0x0000869F
