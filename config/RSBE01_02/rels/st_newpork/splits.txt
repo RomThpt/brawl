@@ -29,6 +29,15 @@ mo_stub/st_newpork/fn_69_252C.c:
 mo_stub/st_newpork/fn_69_2570.c:
 	.text       start:0x00002570 end:0x00002590
 
+mo_stub/st_newpork/fn_69_2590.c:
+	.text       start:0x00002590 end:0x0000259C
+
+mo_stub/st_newpork/fn_69_25B8.c:
+	.text       start:0x000025B8 end:0x000025C0
+
+mo_stub/st_newpork/fn_69_25C8.c:
+	.text       start:0x000025C8 end:0x000025D8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00002F60 end:0x00002FFC
 	.data       start:0x00000E20 end:0x00000E2D
