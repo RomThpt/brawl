@@ -231,6 +231,18 @@ sora/ec/ec_trace_mgr.cpp:
 	.text       start:0x80065458 end:0x80065B60
 	.sdata2     start:0x805A1988 end:0x805A1990
 
+stub/fn_80065BF8.c:
+	.text       start:0x80065BF8 end:0x80065BFC
+
+stub/fn_80065E60.c:
+	.text       start:0x80065E60 end:0x80065E64
+
+stub/fn_8006EBC4.c:
+	.text       start:0x8006EBC4 end:0x8006EBCC
+
+stub/fn_8007748C.c:
+	.text       start:0x8007748C end:0x80077490
+
 sora/snd/snd_init_thread.cpp:
 	.text       start:0x800797AC end:0x800798E8
 	.data       start:0x80454550 end:0x80454580
