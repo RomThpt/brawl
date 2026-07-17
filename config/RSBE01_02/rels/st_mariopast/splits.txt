@@ -95,6 +95,12 @@ mo_stub/st_mariopast/fn_48_38D4.c:
 mo_stub/st_mariopast/fn_48_38F4.c:
 	.text       start:0x000038F4 end:0x0000390C
 
+mo_stub/st_mariopast/fn_48_390C.c:
+	.text       start:0x0000390C end:0x0000391C
+
+mo_stub/st_mariopast/fn_48_3928.c:
+	.text       start:0x00003928 end:0x00003940
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C758 end:0x0000C7F4
 	.data       start:0x00003440 end:0x0000344D
