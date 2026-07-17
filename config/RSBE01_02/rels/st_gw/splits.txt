@@ -23,6 +23,9 @@ mo_stub/st_gw/fn_63_8FC.c:
 mo_stub/st_gw/fn_63_914.c:
 	.text       start:0x00000914 end:0x0000093C
 
+mo_stub/st_gw/fn_63_93C.c:
+	.text       start:0x0000093C end:0x00000964
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
