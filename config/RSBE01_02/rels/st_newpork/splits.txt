@@ -38,6 +38,27 @@ mo_stub/st_newpork/fn_69_25B8.c:
 mo_stub/st_newpork/fn_69_25C8.c:
 	.text       start:0x000025C8 end:0x000025D8
 
+mo_stub/st_newpork/fn_69_25E4.c:
+	.text       start:0x000025E4 end:0x00002608
+
+mo_stub/st_newpork/fn_69_2720.c:
+	.text       start:0x00002720 end:0x00002724
+
+mo_stub/st_newpork/fn_69_27E8.c:
+	.text       start:0x000027E8 end:0x000027F0
+
+mo_stub/st_newpork/fn_69_2EDC.c:
+	.text       start:0x00002EDC end:0x00002EF0
+
+mo_stub/st_newpork/fn_69_2EF0.c:
+	.text       start:0x00002EF0 end:0x00002EF4
+
+mo_stub/st_newpork/fn_69_2F28.c:
+	.text       start:0x00002F28 end:0x00002F34
+
+mo_stub/st_newpork/fn_69_2F50.c:
+	.text       start:0x00002F50 end:0x00002F60
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00002F60 end:0x00002FFC
 	.data       start:0x00000E20 end:0x00000E2D

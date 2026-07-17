@@ -41,6 +41,51 @@ mo_stub/st_dolpic/fn_46_4288.c:
 mo_stub/st_dolpic/fn_46_428C.c:
 	.text       start:0x0000428C end:0x000042B4
 
+mo_stub/st_dolpic/fn_46_42B4.c:
+	.text       start:0x000042B4 end:0x000042B8
+
+mo_stub/st_dolpic/fn_46_42C8.c:
+	.text       start:0x000042C8 end:0x000042D0
+
+mo_stub/st_dolpic/fn_46_430C.c:
+	.text       start:0x0000430C end:0x00004324
+
+mo_stub/st_dolpic/fn_46_4324.c:
+	.text       start:0x00004324 end:0x00004338
+
+mo_stub/st_dolpic/fn_46_4354.c:
+	.text       start:0x00004354 end:0x0000435C
+
+mo_stub/st_dolpic/fn_46_4364.c:
+	.text       start:0x00004364 end:0x0000436C
+
+mo_stub/st_dolpic/fn_46_436C.c:
+	.text       start:0x0000436C end:0x00004374
+
+mo_stub/st_dolpic/fn_46_4380.c:
+	.text       start:0x00004380 end:0x0000439C
+
+mo_stub/st_dolpic/fn_46_44A8.c:
+	.text       start:0x000044A8 end:0x000044B4
+
+mo_stub/st_dolpic/fn_46_4808.c:
+	.text       start:0x00004808 end:0x0000481C
+
+mo_stub/st_dolpic/fn_46_481C.c:
+	.text       start:0x0000481C end:0x00004820
+
+mo_stub/st_dolpic/fn_46_4854.c:
+	.text       start:0x00004854 end:0x00004860
+
+mo_stub/st_dolpic/fn_46_487C.c:
+	.text       start:0x0000487C end:0x0000488C
+
+mo_stub/st_dolpic/fn_46_488C.c:
+	.text       start:0x0000488C end:0x00004894
+
+mo_stub/st_dolpic/fn_46_6808.c:
+	.text       start:0x00006808 end:0x00006810
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007088 end:0x00007124
 	.data       start:0x00002440 end:0x0000244D

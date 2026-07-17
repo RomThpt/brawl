@@ -38,6 +38,12 @@ mo_stub/st_heal/fn_87_DEC.c:
 mo_stub/st_heal/fn_87_E08.c:
 	.text       start:0x00000E08 end:0x00000E14
 
+mo_stub/st_heal/fn_87_E14.c:
+	.text       start:0x00000E14 end:0x00000E24
+
+mo_stub/st_heal/fn_87_F98.c:
+	.text       start:0x00000F98 end:0x00000F9C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00000F9C end:0x00001038
 	.data       start:0x00000450 end:0x0000045D

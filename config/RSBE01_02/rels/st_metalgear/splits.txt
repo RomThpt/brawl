@@ -35,6 +35,57 @@ mo_stub/st_metalgear/fn_71_EEC.c:
 mo_stub/st_metalgear/fn_71_121C.c:
 	.text       start:0x0000121C end:0x0000122C
 
+mo_stub/st_metalgear/fn_71_122C.c:
+	.text       start:0x0000122C end:0x00001234
+
+mo_stub/st_metalgear/fn_71_23FC.c:
+	.text       start:0x000023FC end:0x0000241C
+
+mo_stub/st_metalgear/fn_71_241C.c:
+	.text       start:0x0000241C end:0x00002420
+
+mo_stub/st_metalgear/fn_71_2428.c:
+	.text       start:0x00002428 end:0x00002430
+
+mo_stub/st_metalgear/fn_71_246C.c:
+	.text       start:0x0000246C end:0x00002484
+
+mo_stub/st_metalgear/fn_71_2484.c:
+	.text       start:0x00002484 end:0x00002498
+
+mo_stub/st_metalgear/fn_71_24B4.c:
+	.text       start:0x000024B4 end:0x000024BC
+
+mo_stub/st_metalgear/fn_71_24C4.c:
+	.text       start:0x000024C4 end:0x000024CC
+
+mo_stub/st_metalgear/fn_71_24CC.c:
+	.text       start:0x000024CC end:0x000024D4
+
+mo_stub/st_metalgear/fn_71_24E0.c:
+	.text       start:0x000024E0 end:0x000024FC
+
+mo_stub/st_metalgear/fn_71_24FC.c:
+	.text       start:0x000024FC end:0x00002504
+
+mo_stub/st_metalgear/fn_71_2510.c:
+	.text       start:0x00002510 end:0x00002518
+
+mo_stub/st_metalgear/fn_71_2624.c:
+	.text       start:0x00002624 end:0x00002628
+
+mo_stub/st_metalgear/fn_71_2700.c:
+	.text       start:0x00002700 end:0x00002708
+
+mo_stub/st_metalgear/fn_71_2B44.c:
+	.text       start:0x00002B44 end:0x00002B4C
+
+mo_stub/st_metalgear/fn_71_2B4C.c:
+	.text       start:0x00002B4C end:0x00002B5C
+
+mo_stub/st_metalgear/fn_71_2B80.c:
+	.text       start:0x00002B80 end:0x00002B8C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD

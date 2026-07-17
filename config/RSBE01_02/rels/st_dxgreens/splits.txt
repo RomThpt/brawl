@@ -41,6 +41,66 @@ mo_stub/st_dxgreens/fn_79_17AC.c:
 mo_stub/st_dxgreens/fn_79_17F0.c:
 	.text       start:0x000017F0 end:0x00001810
 
+mo_stub/st_dxgreens/fn_79_1810.c:
+	.text       start:0x00001810 end:0x0000181C
+
+mo_stub/st_dxgreens/fn_79_1838.c:
+	.text       start:0x00001838 end:0x00001840
+
+mo_stub/st_dxgreens/fn_79_1848.c:
+	.text       start:0x00001848 end:0x00001858
+
+mo_stub/st_dxgreens/fn_79_1864.c:
+	.text       start:0x00001864 end:0x00001888
+
+mo_stub/st_dxgreens/fn_79_1994.c:
+	.text       start:0x00001994 end:0x00001998
+
+mo_stub/st_dxgreens/fn_79_1A5C.c:
+	.text       start:0x00001A5C end:0x00001A64
+
+mo_stub/st_dxgreens/fn_79_1B0C.c:
+	.text       start:0x00001B0C end:0x00001B20
+
+mo_stub/st_dxgreens/fn_79_1B20.c:
+	.text       start:0x00001B20 end:0x00001B24
+
+mo_stub/st_dxgreens/fn_79_1B58.c:
+	.text       start:0x00001B58 end:0x00001B64
+
+mo_stub/st_dxgreens/fn_79_1B80.c:
+	.text       start:0x00001B80 end:0x00001B90
+
+mo_stub/st_dxgreens/fn_79_1B90.c:
+	.text       start:0x00001B90 end:0x00001B98
+
+mo_stub/st_dxgreens/fn_79_31D8.c:
+	.text       start:0x000031D8 end:0x000031DC
+
+mo_stub/st_dxgreens/fn_79_3A98.c:
+	.text       start:0x00003A98 end:0x00003AAC
+
+mo_stub/st_dxgreens/fn_79_3AAC.c:
+	.text       start:0x00003AAC end:0x00003AB4
+
+mo_stub/st_dxgreens/fn_79_3BB8.c:
+	.text       start:0x00003BB8 end:0x00003BBC
+
+mo_stub/st_dxgreens/fn_79_3DF8.c:
+	.text       start:0x00003DF8 end:0x00003E0C
+
+mo_stub/st_dxgreens/fn_79_3E0C.c:
+	.text       start:0x00003E0C end:0x00003E10
+
+mo_stub/st_dxgreens/fn_79_3E1C.c:
+	.text       start:0x00003E1C end:0x00003E38
+
+mo_stub/st_dxgreens/fn_79_3E38.c:
+	.text       start:0x00003E38 end:0x00003E3C
+
+mo_stub/st_dxgreens/fn_79_3E60.c:
+	.text       start:0x00003E60 end:0x00003E70
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C1DC end:0x0000C278
 	.data       start:0x00003098 end:0x000030A5

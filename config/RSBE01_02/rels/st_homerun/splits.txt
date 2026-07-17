@@ -32,6 +32,60 @@ mo_stub/st_homerun/fn_88_DC8.c:
 mo_stub/st_homerun/fn_88_102C.c:
 	.text       start:0x0000102C end:0x0000103C
 
+mo_stub/st_homerun/fn_88_103C.c:
+	.text       start:0x0000103C end:0x00001064
+
+mo_stub/st_homerun/fn_88_1064.c:
+	.text       start:0x00001064 end:0x0000106C
+
+mo_stub/st_homerun/fn_88_14B8.c:
+	.text       start:0x000014B8 end:0x000014D0
+
+mo_stub/st_homerun/fn_88_15A4.c:
+	.text       start:0x000015A4 end:0x000015AC
+
+mo_stub/st_homerun/fn_88_15AC.c:
+	.text       start:0x000015AC end:0x000015B4
+
+mo_stub/st_homerun/fn_88_17F0.c:
+	.text       start:0x000017F0 end:0x00001800
+
+mo_stub/st_homerun/fn_88_3B4C.c:
+	.text       start:0x00003B4C end:0x00003B5C
+
+mo_stub/st_homerun/fn_88_40F0.c:
+	.text       start:0x000040F0 end:0x00004114
+
+mo_stub/st_homerun/fn_88_4114.c:
+	.text       start:0x00004114 end:0x00004120
+
+mo_stub/st_homerun/fn_88_4128.c:
+	.text       start:0x00004128 end:0x00004130
+
+mo_stub/st_homerun/fn_88_416C.c:
+	.text       start:0x0000416C end:0x0000417C
+
+mo_stub/st_homerun/fn_88_417C.c:
+	.text       start:0x0000417C end:0x00004198
+
+mo_stub/st_homerun/fn_88_41B4.c:
+	.text       start:0x000041B4 end:0x000041BC
+
+mo_stub/st_homerun/fn_88_41C4.c:
+	.text       start:0x000041C4 end:0x000041D4
+
+mo_stub/st_homerun/fn_88_41E0.c:
+	.text       start:0x000041E0 end:0x000041F4
+
+mo_stub/st_homerun/fn_88_41F4.c:
+	.text       start:0x000041F4 end:0x00004204
+
+mo_stub/st_homerun/fn_88_421C.c:
+	.text       start:0x0000421C end:0x0000422C
+
+mo_stub/st_homerun/fn_88_435C.c:
+	.text       start:0x0000435C end:0x00004360
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000857C end:0x00008618
 	.data       start:0x00002570 end:0x0000257D

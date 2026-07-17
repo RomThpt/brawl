@@ -41,6 +41,60 @@ mo_stub/st_donkey/fn_50_10B8.c:
 mo_stub/st_donkey/fn_50_182C.c:
 	.text       start:0x0000182C end:0x0000183C
 
+mo_stub/st_donkey/fn_50_1D38.c:
+	.text       start:0x00001D38 end:0x00001D5C
+
+mo_stub/st_donkey/fn_50_1D5C.c:
+	.text       start:0x00001D5C end:0x00001D68
+
+mo_stub/st_donkey/fn_50_1D78.c:
+	.text       start:0x00001D78 end:0x00001D80
+
+mo_stub/st_donkey/fn_50_1DBC.c:
+	.text       start:0x00001DBC end:0x00001DCC
+
+mo_stub/st_donkey/fn_50_1DCC.c:
+	.text       start:0x00001DCC end:0x00001DE8
+
+mo_stub/st_donkey/fn_50_1E04.c:
+	.text       start:0x00001E04 end:0x00001E0C
+
+mo_stub/st_donkey/fn_50_1E14.c:
+	.text       start:0x00001E14 end:0x00001E24
+
+mo_stub/st_donkey/fn_50_1E30.c:
+	.text       start:0x00001E30 end:0x00001E44
+
+mo_stub/st_donkey/fn_50_1E44.c:
+	.text       start:0x00001E44 end:0x00001E54
+
+mo_stub/st_donkey/fn_50_1F6C.c:
+	.text       start:0x00001F6C end:0x00001F78
+
+mo_stub/st_donkey/fn_50_22CC.c:
+	.text       start:0x000022CC end:0x000022D4
+
+mo_stub/st_donkey/fn_50_22D4.c:
+	.text       start:0x000022D4 end:0x000022E4
+
+mo_stub/st_donkey/fn_50_2318.c:
+	.text       start:0x00002318 end:0x00002324
+
+mo_stub/st_donkey/fn_50_2340.c:
+	.text       start:0x00002340 end:0x00002350
+
+mo_stub/st_donkey/fn_50_5688.c:
+	.text       start:0x00005688 end:0x0000569C
+
+mo_stub/st_donkey/fn_50_569C.c:
+	.text       start:0x0000569C end:0x000056A4
+
+mo_stub/st_donkey/fn_50_57A8.c:
+	.text       start:0x000057A8 end:0x000057AC
+
+mo_stub/st_donkey/fn_50_59E8.c:
+	.text       start:0x000059E8 end:0x000059FC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B6A8 end:0x0000B744
 	.data       start:0x00003030 end:0x0000303D

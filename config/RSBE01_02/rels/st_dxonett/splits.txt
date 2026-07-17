@@ -47,6 +47,72 @@ mo_stub/st_dxonett/fn_78_1210.c:
 mo_stub/st_dxonett/fn_78_1458.c:
 	.text       start:0x00001458 end:0x0000145C
 
+mo_stub/st_dxonett/fn_78_145C.c:
+	.text       start:0x0000145C end:0x00001484
+
+mo_stub/st_dxonett/fn_78_1484.c:
+	.text       start:0x00001484 end:0x00001488
+
+mo_stub/st_dxonett/fn_78_1498.c:
+	.text       start:0x00001498 end:0x000014A0
+
+mo_stub/st_dxonett/fn_78_14DC.c:
+	.text       start:0x000014DC end:0x000014F4
+
+mo_stub/st_dxonett/fn_78_14F4.c:
+	.text       start:0x000014F4 end:0x00001508
+
+mo_stub/st_dxonett/fn_78_1524.c:
+	.text       start:0x00001524 end:0x0000152C
+
+mo_stub/st_dxonett/fn_78_1534.c:
+	.text       start:0x00001534 end:0x0000153C
+
+mo_stub/st_dxonett/fn_78_153C.c:
+	.text       start:0x0000153C end:0x00001544
+
+mo_stub/st_dxonett/fn_78_1550.c:
+	.text       start:0x00001550 end:0x0000156C
+
+mo_stub/st_dxonett/fn_78_156C.c:
+	.text       start:0x0000156C end:0x00001574
+
+mo_stub/st_dxonett/fn_78_1680.c:
+	.text       start:0x00001680 end:0x00001684
+
+mo_stub/st_dxonett/fn_78_1760.c:
+	.text       start:0x00001760 end:0x00001768
+
+mo_stub/st_dxonett/fn_78_1C40.c:
+	.text       start:0x00001C40 end:0x00001C48
+
+mo_stub/st_dxonett/fn_78_2654.c:
+	.text       start:0x00002654 end:0x0000265C
+
+mo_stub/st_dxonett/fn_78_265C.c:
+	.text       start:0x0000265C end:0x0000266C
+
+mo_stub/st_dxonett/fn_78_26A0.c:
+	.text       start:0x000026A0 end:0x000026A4
+
+mo_stub/st_dxonett/fn_78_26C0.c:
+	.text       start:0x000026C0 end:0x000026C8
+
+mo_stub/st_dxonett/fn_78_26C8.c:
+	.text       start:0x000026C8 end:0x000026D8
+
+mo_stub/st_dxonett/fn_78_468C.c:
+	.text       start:0x0000468C end:0x000046A0
+
+mo_stub/st_dxonett/fn_78_46A0.c:
+	.text       start:0x000046A0 end:0x000046A8
+
+mo_stub/st_dxonett/fn_78_47AC.c:
+	.text       start:0x000047AC end:0x000047B0
+
+mo_stub/st_dxonett/fn_78_49EC.c:
+	.text       start:0x000049EC end:0x00004A00
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000089F0 end:0x00008A8C
 	.data       start:0x00002788 end:0x00002795

@@ -35,6 +35,57 @@ mo_stub/st_gw/fn_63_AE8.c:
 mo_stub/st_gw/fn_63_C50.c:
 	.text       start:0x00000C50 end:0x00000C58
 
+mo_stub/st_gw/fn_63_C58.c:
+	.text       start:0x00000C58 end:0x00000C68
+
+mo_stub/st_gw/fn_63_FB8.c:
+	.text       start:0x00000FB8 end:0x00000FD0
+
+mo_stub/st_gw/fn_63_FD0.c:
+	.text       start:0x00000FD0 end:0x00000FE0
+
+mo_stub/st_gw/fn_63_11C8.c:
+	.text       start:0x000011C8 end:0x000011E0
+
+mo_stub/st_gw/fn_63_11E0.c:
+	.text       start:0x000011E0 end:0x000011F8
+
+mo_stub/st_gw/fn_63_1410.c:
+	.text       start:0x00001410 end:0x00001420
+
+mo_stub/st_gw/fn_63_1420.c:
+	.text       start:0x00001420 end:0x00001430
+
+mo_stub/st_gw/fn_63_156C.c:
+	.text       start:0x0000156C end:0x00001584
+
+mo_stub/st_gw/fn_63_1584.c:
+	.text       start:0x00001584 end:0x0000158C
+
+mo_stub/st_gw/fn_63_16F4.c:
+	.text       start:0x000016F4 end:0x00001704
+
+mo_stub/st_gw/fn_63_1884.c:
+	.text       start:0x00001884 end:0x00001894
+
+mo_stub/st_gw/fn_63_1894.c:
+	.text       start:0x00001894 end:0x000018AC
+
+mo_stub/st_gw/fn_63_1AA8.c:
+	.text       start:0x00001AA8 end:0x00001AB8
+
+mo_stub/st_gw/fn_63_1AB8.c:
+	.text       start:0x00001AB8 end:0x00001AC8
+
+mo_stub/st_gw/fn_63_1CB4.c:
+	.text       start:0x00001CB4 end:0x00001CCC
+
+mo_stub/st_gw/fn_63_1CCC.c:
+	.text       start:0x00001CCC end:0x00001CD4
+
+mo_stub/st_gw/fn_63_1F28.c:
+	.text       start:0x00001F28 end:0x00001F48
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
