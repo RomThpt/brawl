@@ -774,6 +774,18 @@ stub/fn_8027BC90.c:
 stub/fn_8027C0F8.c:
 	.text       start:0x8027C0F8 end:0x8027C0FC
 
+stub/fn_8027C0FC.c:
+	.text       start:0x8027C0FC end:0x8027C10C
+
+stub/fn_8027C620.c:
+	.text       start:0x8027C620 end:0x8027C624
+
+stub/fn_8027E358.c:
+	.text       start:0x8027E358 end:0x8027E360
+
+stub/fn_8027E5A0.c:
+	.text       start:0x8027E5A0 end:0x8027E5A8
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
