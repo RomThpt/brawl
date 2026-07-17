@@ -17,6 +17,15 @@ mo_stub/st_pirates/fn_52_2A8.c:
 mo_stub/st_pirates/fn_52_83C.c:
 	.text       start:0x0000083C end:0x0000085C
 
+mo_stub/st_pirates/fn_52_85C.c:
+	.text       start:0x0000085C end:0x0000086C
+
+mo_stub/st_pirates/fn_52_A0C.c:
+	.text       start:0x00000A0C end:0x00000A14
+
+mo_stub/st_pirates/fn_52_A1C.c:
+	.text       start:0x00000A1C end:0x00000A2C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00013670 end:0x0001370C
 	.data       start:0x00004700 end:0x0000470D
