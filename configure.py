@@ -1718,6 +1718,8 @@ config.libs = [
             Object(Matching, "mo_stub/sora_menu_edit/fn_5_12060.c"),
             Object(Matching, "mo_stub/sora_menu_edit/fn_5_14B7C.c"),
             Object(Matching, "mo_stub/sora_menu_edit/fn_5_14B90.c"),
+            Object(Matching, "mo_stub/sora_menu_fig_get_demo/fn_26_B38.c"),
+            Object(Matching, "mo_stub/sora_menu_fig_get_demo/fn_26_12A0.c"),
         ],
     },
     {
