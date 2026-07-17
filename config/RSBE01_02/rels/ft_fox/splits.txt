@@ -29,6 +29,9 @@ mo_stub/ft_fox/fn_97_AFF4.c:
 mo_stub/ft_fox/fn_97_B004.c:
 	.text       start:0x0000B004 end:0x0000B018
 
+mo_stub/ft_fox/fn_97_B01C.c:
+	.text       start:0x0000B01C end:0x0000B030
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
 	.data       start:0x00007B60 end:0x00007B6F
