@@ -1727,7 +1727,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_snake/fn_122_F39C.c"),
+            Object(Matching, "mo_stub/ft_snake/fn_122_F42C.c"),
+            Object(Matching, "mo_stub/ft_snake/fn_122_F458.c"),
+        ],
     },
     {
         "lib": "ft_sonic",
