@@ -188,6 +188,21 @@ mo_stub/ft_pit/fn_112_11598.c:
 mo_stub/ft_pit/fn_112_1159C.c:
 	.text       start:0x0001159C end:0x000115B4
 
+mo_stub/ft_pit/fn_112_115B4.c:
+	.text       start:0x000115B4 end:0x000115B8
+
+mo_stub/ft_pit/fn_112_115D4.c:
+	.text       start:0x000115D4 end:0x000115DC
+
+mo_stub/ft_pit/fn_112_11624.c:
+	.text       start:0x00011624 end:0x00011628
+
+mo_stub/ft_pit/fn_112_121DC.c:
+	.text       start:0x000121DC end:0x000121E0
+
+mo_stub/ft_pit/fn_112_12204.c:
+	.text       start:0x00012204 end:0x00012208
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00016C2C end:0x00016CC8
 	.data       start:0x00009D78 end:0x00009D87
