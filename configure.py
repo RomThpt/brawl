@@ -1625,6 +1625,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_lucas/fn_114_E6E8.c"),
             Object(Matching, "mo_stub/ft_lucas/fn_114_F680.c"),
             Object(Matching, "mo_stub/ft_lucas/fn_114_10998.c"),
+            Object(Matching, "mo_stub/ft_lucas/fn_114_109B4.c"),
+            Object(Matching, "mo_stub/ft_lucas/fn_114_10A04.c"),
         ],
     },
     {
