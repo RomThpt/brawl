@@ -50,6 +50,9 @@ mo_stub/st_plankton/fn_74_24B0.c:
 mo_stub/st_plankton/fn_74_24D8.c:
 	.text       start:0x000024D8 end:0x000024E0
 
+mo_stub/st_plankton/fn_74_24E0.c:
+	.text       start:0x000024E0 end:0x000024E8
+
 mo_stub/st_plankton/fn_74_24E8.c:
 	.text       start:0x000024E8 end:0x000024F8
 
@@ -148,6 +151,9 @@ mo_stub/st_plankton/fn_74_9ADC.c:
 
 mo_stub/st_plankton/fn_74_A3C0.c:
 	.text       start:0x0000A3C0 end:0x0000A3C8
+
+mo_stub/st_plankton/fn_74_B3E8.c:
+	.text       start:0x0000B3E8 end:0x0000B3F0
 
 mo_stub/st_plankton/fn_74_D77C.c:
 	.text       start:0x0000D77C end:0x0000D788
