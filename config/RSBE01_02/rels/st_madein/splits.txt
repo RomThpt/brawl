@@ -35,6 +35,9 @@ mo_stub/st_madein/fn_65_6970.c:
 mo_stub/st_madein/fn_65_6990.c:
 	.text       start:0x00006990 end:0x00006998
 
+mo_stub/st_madein/fn_65_6998.c:
+	.text       start:0x00006998 end:0x000069A0
+
 mo_stub/st_madein/fn_65_69A0.c:
 	.text       start:0x000069A0 end:0x000069B0
 
@@ -43,6 +46,9 @@ mo_stub/st_madein/fn_65_69BC.c:
 
 mo_stub/st_madein/fn_65_69C0.c:
 	.text       start:0x000069C0 end:0x000069D8
+
+mo_stub/st_madein/fn_65_69D8.c:
+	.text       start:0x000069D8 end:0x000069E0
 
 mo_stub/st_madein/fn_65_69E0.c:
 	.text       start:0x000069E0 end:0x000069F0

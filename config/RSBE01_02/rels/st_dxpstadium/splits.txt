@@ -32,6 +32,9 @@ mo_stub/st_dxpstadium/fn_83_2C7C.c:
 mo_stub/st_dxpstadium/fn_83_2CBC.c:
 	.text       start:0x00002CBC end:0x00002CC4
 
+mo_stub/st_dxpstadium/fn_83_2CC4.c:
+	.text       start:0x00002CC4 end:0x00002CCC
+
 mo_stub/st_dxpstadium/fn_83_2CCC.c:
 	.text       start:0x00002CCC end:0x00002CDC
 

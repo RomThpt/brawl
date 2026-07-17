@@ -62,6 +62,9 @@ mo_stub/st_mansion/fn_47_14D4.c:
 mo_stub/st_mansion/fn_47_1504.c:
 	.text       start:0x00001504 end:0x0000150C
 
+mo_stub/st_mansion/fn_47_150C.c:
+	.text       start:0x0000150C end:0x00001514
+
 mo_stub/st_mansion/fn_47_1514.c:
 	.text       start:0x00001514 end:0x0000151C
 

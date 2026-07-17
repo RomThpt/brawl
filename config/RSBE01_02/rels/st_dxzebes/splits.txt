@@ -32,6 +32,9 @@ mo_stub/st_dxzebes/fn_84_3E50.c:
 mo_stub/st_dxzebes/fn_84_3E90.c:
 	.text       start:0x00003E90 end:0x00003E98
 
+mo_stub/st_dxzebes/fn_84_3E98.c:
+	.text       start:0x00003E98 end:0x00003EA0
+
 mo_stub/st_dxzebes/fn_84_3EA0.c:
 	.text       start:0x00003EA0 end:0x00003EB0
 

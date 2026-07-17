@@ -71,6 +71,9 @@ mo_stub/st_ice/fn_62_29DC.c:
 mo_stub/st_ice/fn_62_2A1C.c:
 	.text       start:0x00002A1C end:0x00002A24
 
+mo_stub/st_ice/fn_62_2A24.c:
+	.text       start:0x00002A24 end:0x00002A2C
+
 mo_stub/st_ice/fn_62_2A2C.c:
 	.text       start:0x00002A2C end:0x00002A3C
 
