@@ -2357,7 +2357,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/sora_menu_sel_char/fn_10_1C3E0.c"),
+            Object(Matching, "mo_stub/sora_menu_sel_char/fn_10_1C7D8.c"),
+            Object(Matching, "mo_stub/sora_menu_sel_char/fn_10_1C840.c"),
+        ],
     },
     {
         "lib": "sora_menu_sel_char_access",
