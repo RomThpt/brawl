@@ -56,6 +56,15 @@ mo_stub/ft_donkey/fn_92_98A4.c:
 mo_stub/ft_donkey/fn_92_98B4.c:
 	.text       start:0x000098B4 end:0x000098DC
 
+mo_stub/ft_donkey/fn_92_98DC.c:
+	.text       start:0x000098DC end:0x000098F4
+
+mo_stub/ft_donkey/fn_92_9954.c:
+	.text       start:0x00009954 end:0x0000995C
+
+mo_stub/ft_donkey/fn_92_9A30.c:
+	.text       start:0x00009A30 end:0x00009A38
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000154E4 end:0x00015580
 	.data       start:0x00007A38 end:0x00007A47
