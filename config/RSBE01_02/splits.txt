@@ -39,6 +39,9 @@ sora/gf/gf_3d_scene_event.cpp:
 sora/gf/gf_3d_scene_light_resource.cpp:
 	.text       start:0x80010D38 end:0x80010D5C
 
+stub/fn_80010F70.c:
+	.text       start:0x80010F70 end:0x80010F78
+
 stub/fn_80011148.c:
 	.text       start:0x80011148 end:0x80011150
 
@@ -48,10 +51,16 @@ stub/fn_80011C2C.c:
 stub/fn_80011C70.c:
 	.text       start:0x80011C70 end:0x80011C74
 
+stub/fn_800121A8.c:
+	.text       start:0x800121A8 end:0x800121B0
+
 sora/gf/gf_archive_load_thread.cpp:
 	.text       start:0x800134C0 end:0x800134C4
 	.data       start:0x804208B0 end:0x804208F0
 	.sdata      start:0x8059C468 end:0x8059C478
+
+stub/fn_80015DAC.c:
+	.text       start:0x80015DAC end:0x80015DB4
 
 sora/gf/gf_archive_file.cpp:
 	.text       start:0x80016408 end:0x8001643C
@@ -123,6 +132,9 @@ sora/gf/gf_shutdown_manager.cpp:
 	.ctors      start:0x804064FC end:0x80406500
 	.bss        start:0x80495390 end:0x804953A0
 
+stub/fn_80033124.c:
+	.text       start:0x80033124 end:0x8003312C
+
 sora/gf/gf_slow_manager.cpp:
 	.text       start:0x80033160 end:0x800334E4
 	.bss        start:0x804953B0 end:0x804953D0
@@ -132,6 +144,9 @@ sora/gf/gf_slow_manager.cpp:
 
 stub/fn_80033B44.c:
 	.text       start:0x80033B44 end:0x80033B48
+
+stub/fn_80034278.c:
+	.text       start:0x80034278 end:0x80034280
 
 stub/fn_8003626C.c:
 	.text       start:0x8003626C end:0x80036270
