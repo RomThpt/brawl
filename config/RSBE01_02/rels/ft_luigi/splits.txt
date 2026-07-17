@@ -65,6 +65,18 @@ mo_stub/ft_luigi/fn_99_89EC.c:
 mo_stub/ft_luigi/fn_99_8AC8.c:
 	.text       start:0x00008AC8 end:0x00008AD0
 
+mo_stub/ft_luigi/fn_99_8B60.c:
+	.text       start:0x00008B60 end:0x00008B68
+
+mo_stub/ft_luigi/fn_99_8C20.c:
+	.text       start:0x00008C20 end:0x00008C28
+
+mo_stub/ft_luigi/fn_99_9C28.c:
+	.text       start:0x00009C28 end:0x00009C38
+
+mo_stub/ft_luigi/fn_99_AA44.c:
+	.text       start:0x0000AA44 end:0x0000AA48
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010EAC end:0x00010F48
 	.data       start:0x00006ED8 end:0x00006EE7
