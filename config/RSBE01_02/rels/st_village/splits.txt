@@ -107,6 +107,18 @@ mo_stub/st_village/fn_70_874C.c:
 mo_stub/st_village/fn_70_8774.c:
 	.text       start:0x00008774 end:0x00008790
 
+mo_stub/st_village/fn_70_8790.c:
+	.text       start:0x00008790 end:0x00008798
+
+mo_stub/st_village/fn_70_87B8.c:
+	.text       start:0x000087B8 end:0x000087C0
+
+mo_stub/st_village/fn_70_8808.c:
+	.text       start:0x00008808 end:0x0000880C
+
+mo_stub/st_village/fn_70_8AE0.c:
+	.text       start:0x00008AE0 end:0x00008AE8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000DA54 end:0x0000DAF0
 	.data       start:0x00004500 end:0x0000450D
