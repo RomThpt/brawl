@@ -1294,6 +1294,9 @@ stub/fn_80402CB8.c:
 stub/fn_804035B4.c:
 	.text       start:0x804035B4 end:0x804035C4
 
+stub/fn_804035C4.c:
+	.text       start:0x804035C4 end:0x804035CC
+
 TRK_MINNOW_DOLPHIN/uart.c:
 	.text       start:0x80405A80 end:0x80405A84
 
@@ -1305,3 +1308,6 @@ TRK_MINNOW_DOLPHIN/gdev_cc_close.c:
 
 TRK_MINNOW_DOLPHIN/gdev_cc_shutdown.c:
 	.text       start:0x80406180 end:0x80406188
+
+stub/fn_804064CC.c:
+	.text       start:0x804064CC end:0x804064D0
