@@ -388,6 +388,9 @@ sora/if/if_adv_task.cpp:
 	.data       start:0x8045D070 end:0x8045D0F8
 	.sdata      start:0x8059E5F0 end:0x8059E5F8
 
+stub/fn_80108544.c:
+	.text       start:0x80108544 end:0x80108548
+
 sora/if/if_stgedit.cpp:
 	.text       start:0x8010EFD4 end:0x8010F310
 	.data       start:0x8045D810 end:0x8045D840
@@ -402,6 +405,15 @@ sora/gr/collision/gr_collision_data.cpp:
 
 sora/gr/collision/gr_collision_handle.cpp:
 	.text       start:0x801122E4 end:0x8011234C
+
+stub/fn_80112C90.c:
+	.text       start:0x80112C90 end:0x80112C98
+
+stub/fn_8012407C.c:
+	.text       start:0x8012407C end:0x80124080
+
+stub/fn_80132224.c:
+	.text       start:0x80132224 end:0x80132228
 
 stub/fn_80132230.c:
 	.text       start:0x80132230 end:0x80132240
