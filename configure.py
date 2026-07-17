@@ -1152,6 +1152,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikachu/fn_98_9C70.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_9D04.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_9D30.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_9D40.c"),
         ],
     },
     {
