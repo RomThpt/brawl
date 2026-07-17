@@ -1173,6 +1173,8 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_ike/fn_119_9698.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_96B0.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_96E8.c"),
         ],
     },
     {
