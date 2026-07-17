@@ -68,6 +68,21 @@ mo_stub/ft_lucas/fn_114_CCAC.c:
 mo_stub/ft_lucas/fn_114_CD24.c:
 	.text       start:0x0000CD24 end:0x0000CD2C
 
+mo_stub/ft_lucas/fn_114_CE00.c:
+	.text       start:0x0000CE00 end:0x0000CE08
+
+mo_stub/ft_lucas/fn_114_CE98.c:
+	.text       start:0x0000CE98 end:0x0000CEA0
+
+mo_stub/ft_lucas/fn_114_CF58.c:
+	.text       start:0x0000CF58 end:0x0000CF60
+
+mo_stub/ft_lucas/fn_114_E6E8.c:
+	.text       start:0x0000E6E8 end:0x0000E6F0
+
+mo_stub/ft_lucas/fn_114_F680.c:
+	.text       start:0x0000F680 end:0x0000F684
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00020EA4 end:0x00020F40
 	.data       start:0x0000B538 end:0x0000B547
