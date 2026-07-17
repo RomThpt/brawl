@@ -152,6 +152,21 @@ mo_stub/st_pirates/fn_52_749C.c:
 mo_stub/st_pirates/fn_52_7530.c:
 	.text       start:0x00007530 end:0x00007538
 
+mo_stub/st_pirates/fn_52_7690.c:
+	.text       start:0x00007690 end:0x00007698
+
+mo_stub/st_pirates/fn_52_811C.c:
+	.text       start:0x0000811C end:0x00008124
+
+mo_stub/st_pirates/fn_52_8E6C.c:
+	.text       start:0x00008E6C end:0x00008E74
+
+mo_stub/st_pirates/fn_52_9788.c:
+	.text       start:0x00009788 end:0x00009790
+
+mo_stub/st_pirates/fn_52_128D8.c:
+	.text       start:0x000128D8 end:0x000128DC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00013670 end:0x0001370C
 	.data       start:0x00004700 end:0x0000470D
