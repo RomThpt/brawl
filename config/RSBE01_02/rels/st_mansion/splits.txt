@@ -134,6 +134,9 @@ mo_stub/st_mansion/fn_47_3C84.c:
 mo_stub/st_mansion/fn_47_3C94.c:
 	.text       start:0x00003C94 end:0x00003CBC
 
+mo_stub/st_mansion/fn_47_3CBC.c:
+	.text       start:0x00003CBC end:0x00003CD4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CC28 end:0x0000CCC4
 	.data       start:0x00003060 end:0x0000306D
