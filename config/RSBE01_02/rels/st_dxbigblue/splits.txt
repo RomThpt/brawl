@@ -38,6 +38,9 @@ mo_stub/st_dxbigblue/fn_81_1468.c:
 mo_stub/st_dxbigblue/fn_81_1470.c:
 	.text       start:0x00001470 end:0x00001498
 
+mo_stub/st_dxbigblue/fn_81_3F54.c:
+	.text       start:0x00003F54 end:0x00003F78
+
 mo_stage/st_dxbigblue/gr_dxbigblue.cpp:
 	.text       start:0x00004178 end:0x000042C8
 	.rodata     start:0x00000090 end:0x00000094
