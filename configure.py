@@ -1900,7 +1900,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_battle/fn_43_680.c"),
+            Object(Matching, "mo_stub/st_battle/fn_43_998.c"),
+            Object(Matching, "mo_stub/st_battle/fn_43_9AC.c"),
+        ],
     },
     {
         "lib": "st_battles",
