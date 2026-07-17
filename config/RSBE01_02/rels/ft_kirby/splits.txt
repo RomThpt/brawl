@@ -26,6 +26,9 @@ mo_stub/ft_kirby/fn_96_F120.c:
 mo_stub/ft_kirby/fn_96_F124.c:
 	.text       start:0x0000F124 end:0x0000F138
 
+mo_stub/ft_kirby/fn_96_F138.c:
+	.text       start:0x0000F138 end:0x0000F14C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7
