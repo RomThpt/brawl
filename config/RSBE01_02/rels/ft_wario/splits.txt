@@ -149,6 +149,21 @@ mo_stub/ft_wario/fn_110_12C84.c:
 mo_stub/ft_wario/fn_110_12CBC.c:
 	.text       start:0x00012CBC end:0x00012CD4
 
+mo_stub/ft_wario/fn_110_12CD4.c:
+	.text       start:0x00012CD4 end:0x00012CD8
+
+mo_stub/ft_wario/fn_110_12CF4.c:
+	.text       start:0x00012CF4 end:0x00012CFC
+
+mo_stub/ft_wario/fn_110_12D44.c:
+	.text       start:0x00012D44 end:0x00012D48
+
+mo_stub/ft_wario/fn_110_13790.c:
+	.text       start:0x00013790 end:0x00013794
+
+mo_stub/ft_wario/fn_110_137B8.c:
+	.text       start:0x000137B8 end:0x000137BC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002122C end:0x000212C8
 	.data       start:0x0000A0A8 end:0x0000A0B7
