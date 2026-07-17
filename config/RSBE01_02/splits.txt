@@ -27,6 +27,12 @@ sora/sr/sr_revision.cpp:
 sora/main.cpp:
 	.text       start:0x8000C8E8 end:0x8000C960
 
+stub/fn_8000E1F4.c:
+	.text       start:0x8000E1F4 end:0x8000E1F8
+
+stub/fn_8000E7AC.c:
+	.text       start:0x8000E7AC end:0x8000E7B0
+
 sora/gf/gf_3d_scene_event.cpp:
 	.text       start:0x80010C9C end:0x80010D38
 
@@ -35,6 +41,12 @@ sora/gf/gf_3d_scene_light_resource.cpp:
 
 stub/fn_80011148.c:
 	.text       start:0x80011148 end:0x80011150
+
+stub/fn_80011C2C.c:
+	.text       start:0x80011C2C end:0x80011C30
+
+stub/fn_80011C70.c:
+	.text       start:0x80011C70 end:0x80011C74
 
 sora/gf/gf_archive_load_thread.cpp:
 	.text       start:0x800134C0 end:0x800134C4
@@ -64,6 +76,9 @@ sora/gf/gf_error_check.cpp:
 	.data       start:0x80420BA0 end:0x80420C28
 	.bss        start:0x804948E8 end:0x80494900
 	.sdata      start:0x8059C508 end:0x8059C520
+
+stub/fn_8001B9E8.c:
+	.text       start:0x8001B9E8 end:0x8001B9EC
 
 sora/gf/gf_file_io_handle.cpp:
 	.text       start:0x80020B38 end:0x80022054
