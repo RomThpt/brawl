@@ -6,6 +6,18 @@ Sections:
 	.data       type:data align:32
 	.bss        type:bss align:8
 
+mo_stub/sora_menu_rule/fn_18_B30.c:
+	.text       start:0x00000B30 end:0x00000B38
+
+mo_stub/sora_menu_rule/fn_18_B4C.c:
+	.text       start:0x00000B4C end:0x00000B54
+
+mo_stub/sora_menu_rule/fn_18_F6C.c:
+	.text       start:0x00000F6C end:0x00000F78
+
+mo_stub/sora_menu_rule/fn_18_1194.c:
+	.text       start:0x00001194 end:0x00001198
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x00009638 end:0x000096D4
 	.data       start:0x00001938 end:0x00001944
