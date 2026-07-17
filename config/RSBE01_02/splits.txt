@@ -257,6 +257,9 @@ stub/fn_8005F660.c:
 stub/fn_8005F794.c:
 	.text       start:0x8005F794 end:0x8005F79C
 
+stub/fn_8005F79C.c:
+	.text       start:0x8005F79C end:0x8005F7A4
+
 stub/fn_80065454.c:
 	.text       start:0x80065454 end:0x80065458
 
@@ -272,6 +275,12 @@ stub/fn_80065E60.c:
 
 stub/fn_8006EBC4.c:
 	.text       start:0x8006EBC4 end:0x8006EBCC
+
+stub/fn_8006FE30.c:
+	.text       start:0x8006FE30 end:0x8006FE38
+
+stub/fn_80070D64.c:
+	.text       start:0x80070D64 end:0x80070D7C
 
 stub/fn_8007748C.c:
 	.text       start:0x8007748C end:0x80077490
