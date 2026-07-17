@@ -38,6 +38,12 @@ mo_stub/ft_pit/fn_112_A708.c:
 mo_stub/ft_pit/fn_112_A748.c:
 	.text       start:0x0000A748 end:0x0000A75C
 
+mo_stub/ft_pit/fn_112_A75C.c:
+	.text       start:0x0000A75C end:0x0000A764
+
+mo_stub/ft_pit/fn_112_A774.c:
+	.text       start:0x0000A774 end:0x0000A788
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00016C2C end:0x00016CC8
 	.data       start:0x00009D78 end:0x00009D87
