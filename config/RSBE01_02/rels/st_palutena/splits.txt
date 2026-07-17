@@ -53,6 +53,9 @@ mo_stub/st_palutena/fn_67_1D84.c:
 mo_stub/st_palutena/fn_67_1DBC.c:
 	.text       start:0x00001DBC end:0x00001DC4
 
+mo_stub/st_palutena/fn_67_1DC4.c:
+	.text       start:0x00001DC4 end:0x00001DCC
+
 mo_stub/st_palutena/fn_67_1DCC.c:
 	.text       start:0x00001DCC end:0x00001DDC
 
