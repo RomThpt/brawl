@@ -2655,6 +2655,9 @@ config.libs = [
             Object(Matching, "mo_stub/st_homerun/fn_88_1064.c"),
             Object(Matching, "mo_stub/st_homerun/fn_88_14B8.c"),
             Object(Matching, "mo_stub/st_homerun/fn_88_15A4.c"),
+            Object(Matching, "mo_stub/st_homerun/fn_88_15AC.c"),
+            Object(Matching, "mo_stub/st_homerun/fn_88_17F0.c"),
+            Object(Matching, "mo_stub/st_homerun/fn_88_3B4C.c"),
         ],
     },
     {
