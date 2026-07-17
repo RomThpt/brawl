@@ -230,6 +230,15 @@ mo_stub/ft_pikmin/fn_113_1D13C.c:
 mo_stub/ft_pikmin/fn_113_23B24.c:
 	.text       start:0x00023B24 end:0x00023B4C
 
+mo_stub/ft_pikmin/fn_113_23B4C.c:
+	.text       start:0x00023B4C end:0x00023B54
+
+mo_stub/ft_pikmin/fn_113_24550.c:
+	.text       start:0x00024550 end:0x00024558
+
+mo_stub/ft_pikmin/fn_113_262C0.c:
+	.text       start:0x000262C0 end:0x000262CC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002DDD8 end:0x0002DE74
 	.data       start:0x0000C1D0 end:0x0000C1DF
