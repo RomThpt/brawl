@@ -158,6 +158,9 @@ mo_stub/st_pictchat/fn_73_A068.c:
 mo_stub/st_pictchat/fn_73_A938.c:
 	.text       start:0x0000A938 end:0x0000A944
 
+mo_stub/st_pictchat/fn_73_A944.c:
+	.text       start:0x0000A944 end:0x0000A958
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000F378 end:0x0000F414
 	.data       start:0x00005E48 end:0x00005E55
