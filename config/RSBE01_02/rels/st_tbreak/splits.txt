@@ -50,6 +50,9 @@ mo_stub/st_tbreak/fn_89_1A10.c:
 mo_stub/st_tbreak/fn_89_1B60.c:
 	.text       start:0x00001B60 end:0x00001B64
 
+mo_stub/st_tbreak/fn_89_1D7C.c:
+	.text       start:0x00001D7C end:0x00001D80
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00001D80 end:0x00001E1C
 	.data       start:0x00000F80 end:0x00000F8D
