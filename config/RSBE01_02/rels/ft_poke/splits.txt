@@ -74,6 +74,9 @@ mo_stub/ft_poke/fn_116_DD44.c:
 mo_stub/ft_poke/fn_116_DEB8.c:
 	.text       start:0x0000DEB8 end:0x0000DED0
 
+mo_stub/ft_poke/fn_116_DED0.c:
+	.text       start:0x0000DED0 end:0x0000DEE8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00026738 end:0x000267D4
 	.data       start:0x0000C638 end:0x0000C647
