@@ -1498,6 +1498,11 @@ config.libs = [
             Object(Matching, "mo_melee/sora_melee/ft/ft_fighter_build_data.cpp"),
             Object(Matching, "mo_melee/sora_melee/st/st_common_gimmick.cpp"),
             Object(Matching, "mo_melee/mo_melee.cpp"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_E54.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_3624.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_53B8.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_5538.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_60C8.c"),
         ],
     },
     {
