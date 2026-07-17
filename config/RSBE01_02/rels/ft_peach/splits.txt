@@ -122,6 +122,12 @@ mo_stub/ft_peach/fn_103_131FC.c:
 mo_stub/ft_peach/fn_103_132A4.c:
 	.text       start:0x000132A4 end:0x000132B8
 
+mo_stub/ft_peach/fn_103_132B8.c:
+	.text       start:0x000132B8 end:0x000132D4
+
+mo_stub/ft_peach/fn_103_132E0.c:
+	.text       start:0x000132E0 end:0x000132E8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000136F0 end:0x0001378C
 	.data       start:0x00007158 end:0x00007167
