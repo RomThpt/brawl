@@ -11,6 +11,15 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_ganon/fn_109_6868.c:
+	.text       start:0x00006868 end:0x00006870
+
+mo_stub/ft_ganon/fn_109_8DF4.c:
+	.text       start:0x00008DF4 end:0x00008E00
+
+mo_stub/ft_ganon/fn_109_8E3C.c:
+	.text       start:0x00008E3C end:0x00008E44
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00011F6C end:0x00012008
 	.data       start:0x00007420 end:0x0000742F
