@@ -2025,6 +2025,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_4174.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_49F4.c"),
             Object(Matching, "mo_stub/st_dxbigblue/fn_81_5058.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_59FC.c"),
         ],
     },
     {

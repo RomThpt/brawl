@@ -95,6 +95,9 @@ mo_stub/st_donkey/fn_50_57A8.c:
 mo_stub/st_donkey/fn_50_59E8.c:
 	.text       start:0x000059E8 end:0x000059FC
 
+mo_stub/st_donkey/fn_50_59FC.c:
+	.text       start:0x000059FC end:0x00005A14
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B6A8 end:0x0000B744
 	.data       start:0x00003030 end:0x0000303D
