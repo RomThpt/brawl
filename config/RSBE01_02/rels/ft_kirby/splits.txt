@@ -116,6 +116,21 @@ mo_stub/ft_kirby/fn_96_169B8.c:
 mo_stub/ft_kirby/fn_96_16F0C.c:
 	.text       start:0x00016F0C end:0x00016F10
 
+mo_stub/ft_kirby/fn_96_17C20.c:
+	.text       start:0x00017C20 end:0x00017C24
+
+mo_stub/ft_kirby/fn_96_17EF0.c:
+	.text       start:0x00017EF0 end:0x00017EF4
+
+mo_stub/ft_kirby/fn_96_1930C.c:
+	.text       start:0x0001930C end:0x00019310
+
+mo_stub/ft_kirby/fn_96_1E1F4.c:
+	.text       start:0x0001E1F4 end:0x0001E1FC
+
+mo_stub/ft_kirby/fn_96_1E2BC.c:
+	.text       start:0x0001E2BC end:0x0001E2C4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7
