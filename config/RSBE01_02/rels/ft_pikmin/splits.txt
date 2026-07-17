@@ -155,6 +155,12 @@ mo_stub/ft_pikmin/fn_113_1BE68.c:
 mo_stub/ft_pikmin/fn_113_1BE74.c:
 	.text       start:0x0001BE74 end:0x0001BE98
 
+mo_stub/ft_pikmin/fn_113_1BEA4.c:
+	.text       start:0x0001BEA4 end:0x0001BEAC
+
+mo_stub/ft_pikmin/fn_113_1BEB8.c:
+	.text       start:0x0001BEB8 end:0x0001BED0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002DDD8 end:0x0002DE74
 	.data       start:0x0000C1D0 end:0x0000C1DF
