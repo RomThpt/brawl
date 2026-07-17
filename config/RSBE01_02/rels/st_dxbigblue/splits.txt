@@ -20,6 +20,15 @@ mo_stub/st_dxbigblue/fn_81_AA4.c:
 mo_stub/st_dxbigblue/fn_81_BF4.c:
 	.text       start:0x00000BF4 end:0x00000BFC
 
+mo_stub/st_dxbigblue/fn_81_BFC.c:
+	.text       start:0x00000BFC end:0x00000C04
+
+mo_stub/st_dxbigblue/fn_81_D18.c:
+	.text       start:0x00000D18 end:0x00000D20
+
+mo_stub/st_dxbigblue/fn_81_1184.c:
+	.text       start:0x00001184 end:0x0000119C
+
 mo_stage/st_dxbigblue/gr_dxbigblue.cpp:
 	.text       start:0x00004178 end:0x000042C8
 	.rodata     start:0x00000090 end:0x00000094
