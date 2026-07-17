@@ -56,6 +56,21 @@ mo_stub/ft_snake/fn_122_F600.c:
 mo_stub/ft_snake/fn_122_F628.c:
 	.text       start:0x0000F628 end:0x0000F650
 
+mo_stub/ft_snake/fn_122_F724.c:
+	.text       start:0x0000F724 end:0x0000F72C
+
+mo_stub/ft_snake/fn_122_F7BC.c:
+	.text       start:0x0000F7BC end:0x0000F7C4
+
+mo_stub/ft_snake/fn_122_F87C.c:
+	.text       start:0x0000F87C end:0x0000F884
+
+mo_stub/ft_snake/fn_122_11DBC.c:
+	.text       start:0x00011DBC end:0x00011DC4
+
+mo_stub/ft_snake/fn_122_12C88.c:
+	.text       start:0x00012C88 end:0x00012C8C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00027B24 end:0x00027BC0
 	.data       start:0x000107D8 end:0x000107E7
