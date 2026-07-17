@@ -71,6 +71,21 @@ mo_stub/ft_fox/fn_97_B270.c:
 mo_stub/ft_fox/fn_97_B358.c:
 	.text       start:0x0000B358 end:0x0000B360
 
+mo_stub/ft_fox/fn_97_B3F0.c:
+	.text       start:0x0000B3F0 end:0x0000B3F8
+
+mo_stub/ft_fox/fn_97_B4B0.c:
+	.text       start:0x0000B4B0 end:0x0000B4B8
+
+mo_stub/ft_fox/fn_97_C8F0.c:
+	.text       start:0x0000C8F0 end:0x0000C8F8
+
+mo_stub/ft_fox/fn_97_D784.c:
+	.text       start:0x0000D784 end:0x0000D788
+
+mo_stub/ft_fox/fn_97_DE94.c:
+	.text       start:0x0000DE94 end:0x0000DE98
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
 	.data       start:0x00007B60 end:0x00007B6F
