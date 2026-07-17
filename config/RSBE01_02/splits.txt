@@ -327,6 +327,21 @@ stub/fn_800B0854.c:
 stub/fn_800B08A0.c:
 	.text       start:0x800B08A0 end:0x800B08A8
 
+stub/fn_800B85AC.c:
+	.text       start:0x800B85AC end:0x800B85B0
+
+stub/fn_800C11F0.c:
+	.text       start:0x800C11F0 end:0x800C11F4
+
+stub/fn_800C137C.c:
+	.text       start:0x800C137C end:0x800C1380
+
+stub/fn_800C9B3C.c:
+	.text       start:0x800C9B3C end:0x800C9B44
+
+stub/fn_800DA6E8.c:
+	.text       start:0x800DA6E8 end:0x800DA6EC
+
 stub/fn_800F5EC8.c:
 	.text       start:0x800F5EC8 end:0x800F5ED8
 
