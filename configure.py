@@ -2554,6 +2554,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_earth/fn_66_2A94.c"),
             Object(Matching, "mo_stub/st_earth/fn_66_2AA4.c"),
             Object(Matching, "mo_stub/st_earth/fn_66_2AC0.c"),
+            Object(Matching, "mo_stub/st_earth/fn_66_2ACC.c"),
+            Object(Matching, "mo_stub/st_earth/fn_66_2BF0.c"),
         ],
     },
     {
