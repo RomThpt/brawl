@@ -38,6 +38,12 @@ mo_stub/st_tbreak/fn_89_195C.c:
 mo_stub/st_tbreak/fn_89_19A0.c:
 	.text       start:0x000019A0 end:0x000019C4
 
+mo_stub/st_tbreak/fn_89_19E0.c:
+	.text       start:0x000019E0 end:0x00001A00
+
+mo_stub/st_tbreak/fn_89_1A0C.c:
+	.text       start:0x00001A0C end:0x00001A10
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00001D80 end:0x00001E1C
 	.data       start:0x00000F80 end:0x00000F8D
