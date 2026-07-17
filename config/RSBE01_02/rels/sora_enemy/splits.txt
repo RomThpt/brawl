@@ -491,6 +491,9 @@ mo_enemy/sora_enemy/spar/em_spar_param_accesser.cpp:
 	.data       start:0x000103B0 end:0x00010438
 	.bss        start:0x000005B0 end:0x000005C8
 
+mo_stub/sora_enemy/fn_41_4C5E8.c:
+	.text       start:0x0004C5E8 end:0x0004C5F8
+
 mo_enemy/sora_enemy/hammerbros/em_hammerbros_param_accesser.cpp:
 	.text       start:0x0004C6B8 end:0x0004C934
 	.ctors      start:0x0000009C end:0x000000A0
@@ -498,12 +501,18 @@ mo_enemy/sora_enemy/hammerbros/em_hammerbros_param_accesser.cpp:
 	.data       start:0x00011100 end:0x00011180
 	.bss        start:0x000005C8 end:0x000005E0
 
+mo_stub/sora_enemy/fn_41_4DD80.c:
+	.text       start:0x0004DD80 end:0x0004DD90
+
 mo_enemy/sora_enemy/kokkon/em_kokkon_param_accesser.cpp:
 	.text       start:0x0004DE00 end:0x0004E0A4
 	.ctors      start:0x000000A0 end:0x000000A4
 	.rodata     start:0x00001090 end:0x00001098
 	.data       start:0x00011B70 end:0x00011BF8
 	.bss        start:0x000005E0 end:0x000005F8
+
+mo_stub/sora_enemy/fn_41_4F4E0.c:
+	.text       start:0x0004F4E0 end:0x0004F4E8
 
 mo_enemy/sora_enemy/bombhead/em_bombhead_param_accesser.cpp:
 	.text       start:0x0004F538 end:0x0004F7DC
