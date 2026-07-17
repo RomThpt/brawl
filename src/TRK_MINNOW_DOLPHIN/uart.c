@@ -1,0 +1,2 @@
+void TRKUARTInterruptHandler(void) {
+}
