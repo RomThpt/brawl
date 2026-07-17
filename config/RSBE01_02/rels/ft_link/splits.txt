@@ -101,6 +101,12 @@ mo_stub/ft_link/fn_93_14604.c:
 mo_stub/ft_link/fn_93_14624.c:
 	.text       start:0x00014624 end:0x00014630
 
+mo_stub/ft_link/fn_93_14630.c:
+	.text       start:0x00014630 end:0x00014638
+
+mo_stub/ft_link/fn_93_146D8.c:
+	.text       start:0x000146D8 end:0x000146EC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018638 end:0x000186D4
 	.data       start:0x00009AC0 end:0x00009ACF
