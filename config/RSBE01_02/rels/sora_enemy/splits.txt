@@ -402,12 +402,18 @@ mo_enemy/sora_enemy/bucyulus/em_bucyulus_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_3DBA8.c:
 	.text       start:0x0003DBA8 end:0x0003DBB0
 
+mo_stub/sora_enemy/fn_41_3DBB0.c:
+	.text       start:0x0003DBB0 end:0x0003DBB8
+
 mo_enemy/sora_enemy/botron/em_botron_param_accesser.cpp:
 	.text       start:0x0003DC08 end:0x0003DEF8
 	.ctors      start:0x00000064 end:0x00000068
 	.rodata     start:0x00000F08 end:0x00000F10
 	.data       start:0x0000B3C8 end:0x0000B460
 	.bss        start:0x000003E8 end:0x00000400
+
+mo_stub/sora_enemy/fn_41_3F2F4.c:
+	.text       start:0x0003F2F4 end:0x0003F304
 
 mo_enemy/sora_enemy/gyraan/em_gyraan_param_accesser.cpp:
 	.text       start:0x0003F34C end:0x0003F5D8
@@ -422,6 +428,9 @@ mo_enemy/sora_enemy/mite/em_mite_param_accesser.cpp:
 	.rodata     start:0x00000F28 end:0x00000F30
 	.data       start:0x0000BFF0 end:0x0000C088
 	.bss        start:0x00000428 end:0x00000440
+
+mo_stub/sora_enemy/fn_41_414D8.c:
+	.text       start:0x000414D8 end:0x000414E8
 
 mo_enemy/sora_enemy/prim/em_prim_param_accesser.cpp:
 	.text       start:0x00041598 end:0x0004198C
