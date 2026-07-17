@@ -2005,7 +2005,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_dolpic/fn_46_435C.c"),
+        ],
     },
     {
         "lib": "st_donkey",
