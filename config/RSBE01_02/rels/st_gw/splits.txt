@@ -89,6 +89,15 @@ mo_stub/st_gw/fn_63_1F28.c:
 mo_stub/st_gw/fn_63_2890.c:
 	.text       start:0x00002890 end:0x000028B4
 
+mo_stub/st_gw/fn_63_28B4.c:
+	.text       start:0x000028B4 end:0x000028C0
+
+mo_stub/st_gw/fn_63_28D0.c:
+	.text       start:0x000028D0 end:0x000028D8
+
+mo_stub/st_gw/fn_63_2914.c:
+	.text       start:0x00002914 end:0x00002924
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
