@@ -162,5 +162,5 @@ for g in groups:
     print(f"unit {path} [0x{start:08X}-0x{end:08X}] {len(g)} fn")
     banked += len(g)
 with open("/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/last_batch.txt", "w") as f:
-    f.write("\n".join("%08X" % a for a in banked_addrs))
+    f.write("\n".join("%08X" % a for a in banked_addrs) + "\n")
 print(f"TOTAL banked units: {len(groups)} covering {banked} functions")
