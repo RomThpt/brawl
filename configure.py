@@ -2556,6 +2556,11 @@ config.libs = [
             Object(Matching, "mo_stub/sora_scene/fn_1_2326C.c"),
             Object(Matching, "mo_stub/sora_scene/fn_1_23940.c"),
             Object(Matching, "mo_stub/sora_scene/fn_1_281DC.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_33090.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_347EC.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_34DB4.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_359A0.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_363F0.c"),
         ],
     },
     {
