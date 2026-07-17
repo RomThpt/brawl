@@ -134,6 +134,15 @@ mo_stub/ft_ike/fn_119_1351C.c:
 mo_stub/ft_ike/fn_119_13530.c:
 	.text       start:0x00013530 end:0x00013554
 
+mo_stub/ft_ike/fn_119_13554.c:
+	.text       start:0x00013554 end:0x0001355C
+
+mo_stub/ft_ike/fn_119_1356C.c:
+	.text       start:0x0001356C end:0x00013574
+
+mo_stub/ft_ike/fn_119_135B4.c:
+	.text       start:0x000135B4 end:0x000135CC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00013DE8 end:0x00013E84
 	.data       start:0x000068B8 end:0x000068C7
