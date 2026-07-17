@@ -80,6 +80,12 @@ mo_stub/st_dolpic/fn_46_4854.c:
 mo_stub/st_dolpic/fn_46_487C.c:
 	.text       start:0x0000487C end:0x0000488C
 
+mo_stub/st_dolpic/fn_46_488C.c:
+	.text       start:0x0000488C end:0x00004894
+
+mo_stub/st_dolpic/fn_46_6808.c:
+	.text       start:0x00006808 end:0x00006810
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007088 end:0x00007124
 	.data       start:0x00002440 end:0x0000244D

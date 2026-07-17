@@ -1982,6 +1982,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_dolpic/fn_46_481C.c"),
             Object(Matching, "mo_stub/st_dolpic/fn_46_4854.c"),
             Object(Matching, "mo_stub/st_dolpic/fn_46_487C.c"),
+            Object(Matching, "mo_stub/st_dolpic/fn_46_488C.c"),
+            Object(Matching, "mo_stub/st_dolpic/fn_46_6808.c"),
         ],
     },
     {
