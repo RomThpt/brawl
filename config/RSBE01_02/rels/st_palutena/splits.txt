@@ -137,6 +137,21 @@ mo_stub/st_palutena/fn_67_4F98.c:
 mo_stub/st_palutena/fn_67_5060.c:
 	.text       start:0x00005060 end:0x00005068
 
+mo_stub/st_palutena/fn_67_5128.c:
+	.text       start:0x00005128 end:0x00005130
+
+mo_stub/st_palutena/fn_67_5288.c:
+	.text       start:0x00005288 end:0x00005290
+
+mo_stub/st_palutena/fn_67_5F34.c:
+	.text       start:0x00005F34 end:0x00005F3C
+
+mo_stub/st_palutena/fn_67_69A8.c:
+	.text       start:0x000069A8 end:0x000069B0
+
+mo_stub/st_palutena/fn_67_74E4.c:
+	.text       start:0x000074E4 end:0x000074EC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000D088 end:0x0000D124
 	.data       start:0x00002FF0 end:0x00002FFD
