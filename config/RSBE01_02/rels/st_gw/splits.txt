@@ -122,6 +122,12 @@ mo_stub/st_gw/fn_63_2B64.c:
 mo_stub/st_gw/fn_63_3320.c:
 	.text       start:0x00003320 end:0x00003328
 
+mo_stub/st_gw/fn_63_3328.c:
+	.text       start:0x00003328 end:0x00003338
+
+mo_stub/st_gw/fn_63_336C.c:
+	.text       start:0x0000336C end:0x00003378
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
