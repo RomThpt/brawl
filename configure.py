@@ -1348,6 +1348,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_mario/fn_91_A554.c"),
             Object(Matching, "mo_stub/ft_mario/fn_91_A570.c"),
             Object(Matching, "mo_stub/ft_mario/fn_91_A63C.c"),
+            Object(Matching, "mo_stub/ft_mario/fn_91_A64C.c"),
         ],
     },
     {
