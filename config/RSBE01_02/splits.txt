@@ -164,6 +164,9 @@ sora/gf/gf_capture_util.cpp:
 	.data       start:0x80423518 end:0x80423550
 	.sdata      start:0x8059C6B0 end:0x8059C6B8
 
+stub/fn_8003CEE4.c:
+	.text       start:0x8003CEE4 end:0x8003CEEC
+
 sora/gf/gf_monitor.cpp:
 	.text       start:0x8003D794 end:0x8003D864
 	.data       start:0x8042ADD0 end:0x8042AE08
@@ -221,11 +224,20 @@ sora/ip/ip_network_producer.cpp:
 	.text       start:0x8004AE14 end:0x8004AFB4
 	.sbss       start:0x805A00D8 end:0x805A00E0
 
+stub/fn_8004E580.c:
+	.text       start:0x8004E580 end:0x8004E588
+
+stub/fn_8004E5C4.c:
+	.text       start:0x8004E5C4 end:0x8004E5CC
+
 stub/fn_8004EFA0.c:
 	.text       start:0x8004EFA0 end:0x8004EFA8
 
 stub/fn_800569F8.c:
 	.text       start:0x800569F8 end:0x800569FC
+
+stub/fn_8005A744.c:
+	.text       start:0x8005A744 end:0x8005A74C
 
 stub/fn_8005A988.c:
 	.text       start:0x8005A988 end:0x8005A98C
@@ -241,6 +253,9 @@ sora/ef/ef_screen_handle.cpp:
 
 stub/fn_8005F660.c:
 	.text       start:0x8005F660 end:0x8005F668
+
+stub/fn_8005F794.c:
+	.text       start:0x8005F794 end:0x8005F79C
 
 stub/fn_80065454.c:
 	.text       start:0x80065454 end:0x80065458
