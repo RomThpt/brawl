@@ -32,6 +32,51 @@ mo_stub/ft_koopa/fn_102_8E80.c:
 mo_stub/ft_koopa/fn_102_8E8C.c:
 	.text       start:0x00008E8C end:0x00008EA0
 
+mo_stub/ft_koopa/fn_102_8EA4.c:
+	.text       start:0x00008EA4 end:0x00008EB8
+
+mo_stub/ft_koopa/fn_102_8EB8.c:
+	.text       start:0x00008EB8 end:0x00008ED0
+
+mo_stub/ft_koopa/fn_102_8ED0.c:
+	.text       start:0x00008ED0 end:0x00008ED4
+
+mo_stub/ft_koopa/fn_102_8EFC.c:
+	.text       start:0x00008EFC end:0x00008F0C
+
+mo_stub/ft_koopa/fn_102_8F0C.c:
+	.text       start:0x00008F0C end:0x00008F18
+
+mo_stub/ft_koopa/fn_102_8F28.c:
+	.text       start:0x00008F28 end:0x00008F38
+
+mo_stub/ft_koopa/fn_102_8F38.c:
+	.text       start:0x00008F38 end:0x00008F50
+
+mo_stub/ft_koopa/fn_102_8F50.c:
+	.text       start:0x00008F50 end:0x00008F6C
+
+mo_stub/ft_koopa/fn_102_902C.c:
+	.text       start:0x0000902C end:0x00009054
+
+mo_stub/ft_koopa/fn_102_9054.c:
+	.text       start:0x00009054 end:0x0000907C
+
+mo_stub/ft_koopa/fn_102_90DC.c:
+	.text       start:0x000090DC end:0x000090E4
+
+mo_stub/ft_koopa/fn_102_91B8.c:
+	.text       start:0x000091B8 end:0x000091C0
+
+mo_stub/ft_koopa/fn_102_9250.c:
+	.text       start:0x00009250 end:0x00009258
+
+mo_stub/ft_koopa/fn_102_9310.c:
+	.text       start:0x00009310 end:0x00009318
+
+mo_stub/ft_koopa/fn_102_A19C.c:
+	.text       start:0x0000A19C end:0x0000A1A4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C238 end:0x0001C2D4
 	.data       start:0x00008490 end:0x0000849F

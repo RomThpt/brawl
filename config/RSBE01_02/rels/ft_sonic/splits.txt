@@ -11,6 +11,51 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_sonic/fn_123_A050.c:
+	.text       start:0x0000A050 end:0x0000A054
+
+mo_stub/ft_sonic/fn_123_A108.c:
+	.text       start:0x0000A108 end:0x0000A118
+
+mo_stub/ft_sonic/fn_123_A118.c:
+	.text       start:0x0000A118 end:0x0000A12C
+
+mo_stub/ft_sonic/fn_123_A12C.c:
+	.text       start:0x0000A12C end:0x0000A140
+
+mo_stub/ft_sonic/fn_123_A140.c:
+	.text       start:0x0000A140 end:0x0000A158
+
+mo_stub/ft_sonic/fn_123_A158.c:
+	.text       start:0x0000A158 end:0x0000A15C
+
+mo_stub/ft_sonic/fn_123_A184.c:
+	.text       start:0x0000A184 end:0x0000A194
+
+mo_stub/ft_sonic/fn_123_A194.c:
+	.text       start:0x0000A194 end:0x0000A1A0
+
+mo_stub/ft_sonic/fn_123_A1B0.c:
+	.text       start:0x0000A1B0 end:0x0000A1C0
+
+mo_stub/ft_sonic/fn_123_A1C0.c:
+	.text       start:0x0000A1C0 end:0x0000A1DC
+
+mo_stub/ft_sonic/fn_123_A1DC.c:
+	.text       start:0x0000A1DC end:0x0000A1EC
+
+mo_stub/ft_sonic/fn_123_A2AC.c:
+	.text       start:0x0000A2AC end:0x0000A2B4
+
+mo_stub/ft_sonic/fn_123_A2B4.c:
+	.text       start:0x0000A2B4 end:0x0000A2DC
+
+mo_stub/ft_sonic/fn_123_A2DC.c:
+	.text       start:0x0000A2DC end:0x0000A2FC
+
+mo_stub/ft_sonic/fn_123_A35C.c:
+	.text       start:0x0000A35C end:0x0000A364
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000185A0 end:0x0001863C
 	.data       start:0x000081B0 end:0x000081BF

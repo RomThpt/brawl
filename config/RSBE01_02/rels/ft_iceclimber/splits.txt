@@ -11,6 +11,39 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_iceclimber/fn_105_D9E4.c:
+	.text       start:0x0000D9E4 end:0x0000D9F8
+
+mo_stub/ft_iceclimber/fn_105_D9F8.c:
+	.text       start:0x0000D9F8 end:0x0000DA0C
+
+mo_stub/ft_iceclimber/fn_105_DA0C.c:
+	.text       start:0x0000DA0C end:0x0000DA24
+
+mo_stub/ft_iceclimber/fn_105_DA24.c:
+	.text       start:0x0000DA24 end:0x0000DA34
+
+mo_stub/ft_iceclimber/fn_105_DA5C.c:
+	.text       start:0x0000DA5C end:0x0000DA60
+
+mo_stub/ft_iceclimber/fn_105_DA60.c:
+	.text       start:0x0000DA60 end:0x0000DA78
+
+mo_stub/ft_iceclimber/fn_105_DA88.c:
+	.text       start:0x0000DA88 end:0x0000DAA4
+
+mo_stub/ft_iceclimber/fn_105_DAA4.c:
+	.text       start:0x0000DAA4 end:0x0000DABC
+
+mo_stub/ft_iceclimber/fn_105_DABC.c:
+	.text       start:0x0000DABC end:0x0000DAD0
+
+mo_stub/ft_iceclimber/fn_105_DAD0.c:
+	.text       start:0x0000DAD0 end:0x0000DADC
+
+mo_stub/ft_iceclimber/fn_105_DAEC.c:
+	.text       start:0x0000DAEC end:0x0000DB00
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000210B0 end:0x0002114C
 	.data       start:0x0000A548 end:0x0000A557

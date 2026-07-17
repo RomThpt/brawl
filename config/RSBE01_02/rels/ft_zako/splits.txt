@@ -32,6 +32,51 @@ mo_stub/ft_zako/fn_126_71D8.c:
 mo_stub/ft_zako/fn_126_71E4.c:
 	.text       start:0x000071E4 end:0x000071F8
 
+mo_stub/ft_zako/fn_126_71FC.c:
+	.text       start:0x000071FC end:0x00007210
+
+mo_stub/ft_zako/fn_126_7210.c:
+	.text       start:0x00007210 end:0x00007228
+
+mo_stub/ft_zako/fn_126_7228.c:
+	.text       start:0x00007228 end:0x0000722C
+
+mo_stub/ft_zako/fn_126_7254.c:
+	.text       start:0x00007254 end:0x00007264
+
+mo_stub/ft_zako/fn_126_7264.c:
+	.text       start:0x00007264 end:0x00007270
+
+mo_stub/ft_zako/fn_126_7280.c:
+	.text       start:0x00007280 end:0x00007290
+
+mo_stub/ft_zako/fn_126_7290.c:
+	.text       start:0x00007290 end:0x000072AC
+
+mo_stub/ft_zako/fn_126_72AC.c:
+	.text       start:0x000072AC end:0x000072C8
+
+mo_stub/ft_zako/fn_126_7388.c:
+	.text       start:0x00007388 end:0x000073B0
+
+mo_stub/ft_zako/fn_126_73B0.c:
+	.text       start:0x000073B0 end:0x000073D8
+
+mo_stub/ft_zako/fn_126_7478.c:
+	.text       start:0x00007478 end:0x00007480
+
+mo_stub/ft_zako/fn_126_7554.c:
+	.text       start:0x00007554 end:0x0000755C
+
+mo_stub/ft_zako/fn_126_75EC.c:
+	.text       start:0x000075EC end:0x000075F4
+
+mo_stub/ft_zako/fn_126_76AC.c:
+	.text       start:0x000076AC end:0x000076B4
+
+mo_stub/ft_zako/fn_126_7A3C.c:
+	.text       start:0x00007A3C end:0x00007A44
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0000F814 end:0x0000F8B0
 	.data       start:0x00007358 end:0x00007367

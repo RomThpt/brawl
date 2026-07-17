@@ -94,10 +94,10 @@ isd = lambda a: any(s <= a < e for s, e in done)
 
 bad = set()
 if os.path.exists(BADFILE):
-    for l in open(BADFILE):
-        l = l.strip()
-        if l and l.startswith(module + ":"):
-            bad.add(int(l.split(":")[1], 16))
+    # robust: extract all module:8hex pairs (tolerant of concatenated/corrupt lines)
+    for m2, a2 in re.findall(r'([A-Za-z]\w*):([0-9A-Fa-f]{8})', open(BADFILE).read()):
+        if m2 == module:
+            bad.add(int(a2, 16))
 
 funcs = []
 for line in open(os.path.join(ROOT, "config/RSBE01_02/rels", module, "symbols.txt")):
@@ -162,5 +162,5 @@ for g in groups:
     add_unit_rel.add(module, path, start, end, src)
     addrs.extend(f"{module}:{f[0]:08X}" for f in g)
     banked += len(g)
-open(LAST, "w").write("\n".join(addrs))
+open(LAST, "w").write("\n".join(addrs) + "\n")  # trailing newline: avoid corrupt append to blacklist
 print(f"[{module}] banked {len(groups)} units / {banked} functions")

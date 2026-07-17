@@ -11,6 +11,51 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_diddy/fn_115_9F24.c:
+	.text       start:0x00009F24 end:0x00009F28
+
+mo_stub/ft_diddy/fn_115_9FDC.c:
+	.text       start:0x00009FDC end:0x00009FEC
+
+mo_stub/ft_diddy/fn_115_9FEC.c:
+	.text       start:0x00009FEC end:0x0000A000
+
+mo_stub/ft_diddy/fn_115_A000.c:
+	.text       start:0x0000A000 end:0x0000A014
+
+mo_stub/ft_diddy/fn_115_A014.c:
+	.text       start:0x0000A014 end:0x0000A02C
+
+mo_stub/ft_diddy/fn_115_A02C.c:
+	.text       start:0x0000A02C end:0x0000A030
+
+mo_stub/ft_diddy/fn_115_A058.c:
+	.text       start:0x0000A058 end:0x0000A068
+
+mo_stub/ft_diddy/fn_115_A068.c:
+	.text       start:0x0000A068 end:0x0000A074
+
+mo_stub/ft_diddy/fn_115_A084.c:
+	.text       start:0x0000A084 end:0x0000A094
+
+mo_stub/ft_diddy/fn_115_A094.c:
+	.text       start:0x0000A094 end:0x0000A0B0
+
+mo_stub/ft_diddy/fn_115_A0B0.c:
+	.text       start:0x0000A0B0 end:0x0000A0C0
+
+mo_stub/ft_diddy/fn_115_A180.c:
+	.text       start:0x0000A180 end:0x0000A188
+
+mo_stub/ft_diddy/fn_115_A188.c:
+	.text       start:0x0000A188 end:0x0000A1B0
+
+mo_stub/ft_diddy/fn_115_A1B0.c:
+	.text       start:0x0000A1B0 end:0x0000A1D0
+
+mo_stub/ft_diddy/fn_115_A270.c:
+	.text       start:0x0000A270 end:0x0000A278
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001B99C end:0x0001BA38
 	.data       start:0x0000A958 end:0x0000A967

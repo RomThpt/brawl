@@ -11,6 +11,54 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_kirby/fn_96_F020.c:
+	.text       start:0x0000F020 end:0x0000F024
+
+mo_stub/ft_kirby/fn_96_F060.c:
+	.text       start:0x0000F060 end:0x0000F068
+
+mo_stub/ft_kirby/fn_96_F0F4.c:
+	.text       start:0x0000F0F4 end:0x0000F0F8
+
+mo_stub/ft_kirby/fn_96_F120.c:
+	.text       start:0x0000F120 end:0x0000F124
+
+mo_stub/ft_kirby/fn_96_F124.c:
+	.text       start:0x0000F124 end:0x0000F138
+
+mo_stub/ft_kirby/fn_96_F138.c:
+	.text       start:0x0000F138 end:0x0000F14C
+
+mo_stub/ft_kirby/fn_96_F14C.c:
+	.text       start:0x0000F14C end:0x0000F164
+
+mo_stub/ft_kirby/fn_96_F164.c:
+	.text       start:0x0000F164 end:0x0000F168
+
+mo_stub/ft_kirby/fn_96_F190.c:
+	.text       start:0x0000F190 end:0x0000F1A0
+
+mo_stub/ft_kirby/fn_96_F1A0.c:
+	.text       start:0x0000F1A0 end:0x0000F1A4
+
+mo_stub/ft_kirby/fn_96_F1B4.c:
+	.text       start:0x0000F1B4 end:0x0000F1C8
+
+mo_stub/ft_kirby/fn_96_F1C8.c:
+	.text       start:0x0000F1C8 end:0x0000F1E4
+
+mo_stub/ft_kirby/fn_96_F1E4.c:
+	.text       start:0x0000F1E4 end:0x0000F1E8
+
+mo_stub/ft_kirby/fn_96_F204.c:
+	.text       start:0x0000F204 end:0x0000F214
+
+mo_stub/ft_kirby/fn_96_F2D4.c:
+	.text       start:0x0000F2D4 end:0x0000F2FC
+
+mo_stub/ft_kirby/fn_96_F2FC.c:
+	.text       start:0x0000F2FC end:0x0000F324
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7

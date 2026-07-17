@@ -29,6 +29,63 @@ mo_stub/ft_fox/fn_97_AFF4.c:
 mo_stub/ft_fox/fn_97_B004.c:
 	.text       start:0x0000B004 end:0x0000B018
 
+mo_stub/ft_fox/fn_97_B01C.c:
+	.text       start:0x0000B01C end:0x0000B030
+
+mo_stub/ft_fox/fn_97_B030.c:
+	.text       start:0x0000B030 end:0x0000B048
+
+mo_stub/ft_fox/fn_97_B070.c:
+	.text       start:0x0000B070 end:0x0000B084
+
+mo_stub/ft_fox/fn_97_B084.c:
+	.text       start:0x0000B084 end:0x0000B08C
+
+mo_stub/ft_fox/fn_97_B09C.c:
+	.text       start:0x0000B09C end:0x0000B0B0
+
+mo_stub/ft_fox/fn_97_B0B0.c:
+	.text       start:0x0000B0B0 end:0x0000B0CC
+
+mo_stub/ft_fox/fn_97_B0CC.c:
+	.text       start:0x0000B0CC end:0x0000B0D8
+
+mo_stub/ft_fox/fn_97_B198.c:
+	.text       start:0x0000B198 end:0x0000B1A8
+
+mo_stub/ft_fox/fn_97_B1A8.c:
+	.text       start:0x0000B1A8 end:0x0000B1D0
+
+mo_stub/ft_fox/fn_97_B1D0.c:
+	.text       start:0x0000B1D0 end:0x0000B1E8
+
+mo_stub/ft_fox/fn_97_B248.c:
+	.text       start:0x0000B248 end:0x0000B254
+
+mo_stub/ft_fox/fn_97_B254.c:
+	.text       start:0x0000B254 end:0x0000B270
+
+mo_stub/ft_fox/fn_97_B270.c:
+	.text       start:0x0000B270 end:0x0000B284
+
+mo_stub/ft_fox/fn_97_B358.c:
+	.text       start:0x0000B358 end:0x0000B360
+
+mo_stub/ft_fox/fn_97_B3F0.c:
+	.text       start:0x0000B3F0 end:0x0000B3F8
+
+mo_stub/ft_fox/fn_97_B4B0.c:
+	.text       start:0x0000B4B0 end:0x0000B4B8
+
+mo_stub/ft_fox/fn_97_C8F0.c:
+	.text       start:0x0000C8F0 end:0x0000C8F8
+
+mo_stub/ft_fox/fn_97_D784.c:
+	.text       start:0x0000D784 end:0x0000D788
+
+mo_stub/ft_fox/fn_97_DE94.c:
+	.text       start:0x0000DE94 end:0x0000DE98
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
 	.data       start:0x00007B60 end:0x00007B6F

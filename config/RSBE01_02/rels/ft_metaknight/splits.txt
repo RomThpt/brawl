@@ -11,6 +11,51 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_metaknight/fn_111_84C0.c:
+	.text       start:0x000084C0 end:0x000084C4
+
+mo_stub/ft_metaknight/fn_111_8578.c:
+	.text       start:0x00008578 end:0x00008588
+
+mo_stub/ft_metaknight/fn_111_8588.c:
+	.text       start:0x00008588 end:0x0000859C
+
+mo_stub/ft_metaknight/fn_111_859C.c:
+	.text       start:0x0000859C end:0x000085B0
+
+mo_stub/ft_metaknight/fn_111_85B0.c:
+	.text       start:0x000085B0 end:0x000085C8
+
+mo_stub/ft_metaknight/fn_111_85C8.c:
+	.text       start:0x000085C8 end:0x000085CC
+
+mo_stub/ft_metaknight/fn_111_85F4.c:
+	.text       start:0x000085F4 end:0x00008604
+
+mo_stub/ft_metaknight/fn_111_8604.c:
+	.text       start:0x00008604 end:0x00008610
+
+mo_stub/ft_metaknight/fn_111_8620.c:
+	.text       start:0x00008620 end:0x00008630
+
+mo_stub/ft_metaknight/fn_111_8630.c:
+	.text       start:0x00008630 end:0x0000864C
+
+mo_stub/ft_metaknight/fn_111_864C.c:
+	.text       start:0x0000864C end:0x0000865C
+
+mo_stub/ft_metaknight/fn_111_871C.c:
+	.text       start:0x0000871C end:0x00008724
+
+mo_stub/ft_metaknight/fn_111_8724.c:
+	.text       start:0x00008724 end:0x0000874C
+
+mo_stub/ft_metaknight/fn_111_874C.c:
+	.text       start:0x0000874C end:0x0000876C
+
+mo_stub/ft_metaknight/fn_111_87CC.c:
+	.text       start:0x000087CC end:0x000087D4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000112A4 end:0x00011340
 	.data       start:0x000068A8 end:0x000068B7

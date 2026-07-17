@@ -29,6 +29,60 @@ mo_stub/ft_mario/fn_91_A498.c:
 mo_stub/ft_mario/fn_91_A4A8.c:
 	.text       start:0x0000A4A8 end:0x0000A4BC
 
+mo_stub/ft_mario/fn_91_A4C0.c:
+	.text       start:0x0000A4C0 end:0x0000A4D0
+
+mo_stub/ft_mario/fn_91_A4D0.c:
+	.text       start:0x0000A4D0 end:0x0000A4E8
+
+mo_stub/ft_mario/fn_91_A4E8.c:
+	.text       start:0x0000A4E8 end:0x0000A4EC
+
+mo_stub/ft_mario/fn_91_A514.c:
+	.text       start:0x0000A514 end:0x0000A528
+
+mo_stub/ft_mario/fn_91_A528.c:
+	.text       start:0x0000A528 end:0x0000A530
+
+mo_stub/ft_mario/fn_91_A540.c:
+	.text       start:0x0000A540 end:0x0000A554
+
+mo_stub/ft_mario/fn_91_A554.c:
+	.text       start:0x0000A554 end:0x0000A570
+
+mo_stub/ft_mario/fn_91_A570.c:
+	.text       start:0x0000A570 end:0x0000A57C
+
+mo_stub/ft_mario/fn_91_A63C.c:
+	.text       start:0x0000A63C end:0x0000A64C
+
+mo_stub/ft_mario/fn_91_A64C.c:
+	.text       start:0x0000A64C end:0x0000A674
+
+mo_stub/ft_mario/fn_91_A674.c:
+	.text       start:0x0000A674 end:0x0000A68C
+
+mo_stub/ft_mario/fn_91_A6EC.c:
+	.text       start:0x0000A6EC end:0x0000A6F4
+
+mo_stub/ft_mario/fn_91_A7C8.c:
+	.text       start:0x0000A7C8 end:0x0000A7D0
+
+mo_stub/ft_mario/fn_91_A860.c:
+	.text       start:0x0000A860 end:0x0000A868
+
+mo_stub/ft_mario/fn_91_A920.c:
+	.text       start:0x0000A920 end:0x0000A928
+
+mo_stub/ft_mario/fn_91_BD3C.c:
+	.text       start:0x0000BD3C end:0x0000BD44
+
+mo_stub/ft_mario/fn_91_CC18.c:
+	.text       start:0x0000CC18 end:0x0000CC1C
+
+mo_stub/ft_mario/fn_91_D328.c:
+	.text       start:0x0000D328 end:0x0000D32C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000194DC end:0x00019578
 	.data       start:0x0000A068 end:0x0000A077

@@ -74,6 +74,57 @@ mo_stub/ft_dedede/fn_117_A888.c:
 mo_stub/ft_dedede/fn_117_C104.c:
 	.text       start:0x0000C104 end:0x0000C10C
 
+mo_stub/ft_dedede/fn_117_E698.c:
+	.text       start:0x0000E698 end:0x0000E6B8
+
+mo_stub/ft_dedede/fn_117_E6B8.c:
+	.text       start:0x0000E6B8 end:0x0000E6C8
+
+mo_stub/ft_dedede/fn_117_E708.c:
+	.text       start:0x0000E708 end:0x0000E70C
+
+mo_stub/ft_dedede/fn_117_E70C.c:
+	.text       start:0x0000E70C end:0x0000E710
+
+mo_stub/ft_dedede/fn_117_F40C.c:
+	.text       start:0x0000F40C end:0x0000F410
+
+mo_stub/ft_dedede/fn_117_1119C.c:
+	.text       start:0x0001119C end:0x000111A0
+
+mo_stub/ft_dedede/fn_117_11694.c:
+	.text       start:0x00011694 end:0x00011698
+
+mo_stub/ft_dedede/fn_117_15168.c:
+	.text       start:0x00015168 end:0x00015170
+
+mo_stub/ft_dedede/fn_117_15170.c:
+	.text       start:0x00015170 end:0x00015178
+
+mo_stub/ft_dedede/fn_117_151C8.c:
+	.text       start:0x000151C8 end:0x000151D8
+
+mo_stub/ft_dedede/fn_117_152DC.c:
+	.text       start:0x000152DC end:0x000152E4
+
+mo_stub/ft_dedede/fn_117_152E4.c:
+	.text       start:0x000152E4 end:0x000152F4
+
+mo_stub/ft_dedede/fn_117_15300.c:
+	.text       start:0x00015300 end:0x00015308
+
+mo_stub/ft_dedede/fn_117_15314.c:
+	.text       start:0x00015314 end:0x0001531C
+
+mo_stub/ft_dedede/fn_117_15334.c:
+	.text       start:0x00015334 end:0x00015348
+
+mo_stub/ft_dedede/fn_117_153E8.c:
+	.text       start:0x000153E8 end:0x000153F0
+
+mo_stub/ft_dedede/fn_117_153F0.c:
+	.text       start:0x000153F0 end:0x00015414
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04
 	.data       start:0x0000C608 end:0x0000C617

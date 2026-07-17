@@ -11,6 +11,51 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_link/fn_93_AE40.c:
+	.text       start:0x0000AE40 end:0x0000AE44
+
+mo_stub/ft_link/fn_93_AE80.c:
+	.text       start:0x0000AE80 end:0x0000AE88
+
+mo_stub/ft_link/fn_93_AF14.c:
+	.text       start:0x0000AF14 end:0x0000AF18
+
+mo_stub/ft_link/fn_93_AF40.c:
+	.text       start:0x0000AF40 end:0x0000AF44
+
+mo_stub/ft_link/fn_93_AF44.c:
+	.text       start:0x0000AF44 end:0x0000AF58
+
+mo_stub/ft_link/fn_93_AF58.c:
+	.text       start:0x0000AF58 end:0x0000AF6C
+
+mo_stub/ft_link/fn_93_AF6C.c:
+	.text       start:0x0000AF6C end:0x0000AF84
+
+mo_stub/ft_link/fn_93_AF84.c:
+	.text       start:0x0000AF84 end:0x0000AF94
+
+mo_stub/ft_link/fn_93_AFBC.c:
+	.text       start:0x0000AFBC end:0x0000AFC0
+
+mo_stub/ft_link/fn_93_AFC0.c:
+	.text       start:0x0000AFC0 end:0x0000AFD8
+
+mo_stub/ft_link/fn_93_AFE8.c:
+	.text       start:0x0000AFE8 end:0x0000B008
+
+mo_stub/ft_link/fn_93_B008.c:
+	.text       start:0x0000B008 end:0x0000B01C
+
+mo_stub/ft_link/fn_93_B01C.c:
+	.text       start:0x0000B01C end:0x0000B020
+
+mo_stub/ft_link/fn_93_B0E0.c:
+	.text       start:0x0000B0E0 end:0x0000B100
+
+mo_stub/ft_link/fn_93_B100.c:
+	.text       start:0x0000B100 end:0x0000B128
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018638 end:0x000186D4
 	.data       start:0x00009AC0 end:0x00009ACF
