@@ -89,6 +89,15 @@ mo_stub/ft_toonlink/fn_121_F3D8.c:
 mo_stub/ft_toonlink/fn_121_14614.c:
 	.text       start:0x00014614 end:0x00014630
 
+mo_stub/ft_toonlink/fn_121_1463C.c:
+	.text       start:0x0001463C end:0x00014644
+
+mo_stub/ft_toonlink/fn_121_14650.c:
+	.text       start:0x00014650 end:0x00014658
+
+mo_stub/ft_toonlink/fn_121_14670.c:
+	.text       start:0x00014670 end:0x00014680
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018684 end:0x00018720
 	.data       start:0x00009BF0 end:0x00009BFF
