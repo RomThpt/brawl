@@ -32,6 +32,9 @@ mo_stub/st_heal/fn_87_D9C.c:
 mo_stub/st_heal/fn_87_DDC.c:
 	.text       start:0x00000DDC end:0x00000DE4
 
+mo_stub/st_heal/fn_87_DE4.c:
+	.text       start:0x00000DE4 end:0x00000DEC
+
 mo_stub/st_heal/fn_87_DEC.c:
 	.text       start:0x00000DEC end:0x00000DFC
 
