@@ -11,6 +11,15 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_yoshi/fn_95_8008.c:
+	.text       start:0x00008008 end:0x00008010
+
+mo_stub/ft_yoshi/fn_95_B428.c:
+	.text       start:0x0000B428 end:0x0000B434
+
+mo_stub/ft_yoshi/fn_95_B470.c:
+	.text       start:0x0000B470 end:0x0000B478
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001D9D0 end:0x0001DA6C
 	.data       start:0x0000A040 end:0x0000A04F
