@@ -134,6 +134,9 @@ mo_stub/ft_samus/fn_94_1DA80.c:
 mo_stub/ft_samus/fn_94_1DA88.c:
 	.text       start:0x0001DA88 end:0x0001DAB0
 
+mo_stub/ft_samus/fn_94_1DAB0.c:
+	.text       start:0x0001DAB0 end:0x0001DAD8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002041C end:0x000204B8
 	.data       start:0x0000D760 end:0x0000D76F
