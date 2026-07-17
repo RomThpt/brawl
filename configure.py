@@ -3740,7 +3740,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_tengan/fn_60_212C.c"),
+            Object(Matching, "mo_stub/st_tengan/fn_60_22E4.c"),
+            Object(Matching, "mo_stub/st_tengan/fn_60_6110.c"),
+        ],
     },
     {
         "lib": "st_village",

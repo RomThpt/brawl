@@ -20,6 +20,15 @@ mo_stub/st_tengan/fn_60_1A80.c:
 mo_stub/st_tengan/fn_60_1D7C.c:
 	.text       start:0x00001D7C end:0x00001D8C
 
+mo_stub/st_tengan/fn_60_212C.c:
+	.text       start:0x0000212C end:0x00002134
+
+mo_stub/st_tengan/fn_60_22E4.c:
+	.text       start:0x000022E4 end:0x000022FC
+
+mo_stub/st_tengan/fn_60_6110.c:
+	.text       start:0x00006110 end:0x00006114
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000077B4 end:0x00007850
 	.data       start:0x00001208 end:0x00001215
