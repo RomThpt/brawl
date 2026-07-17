@@ -1272,6 +1272,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_lucario/fn_118_A100.c"),
             Object(Matching, "mo_stub/ft_lucario/fn_118_A114.c"),
             Object(Matching, "mo_stub/ft_lucario/fn_118_A128.c"),
+            Object(Matching, "mo_stub/ft_lucario/fn_118_A140.c"),
+            Object(Matching, "mo_stub/ft_lucario/fn_118_A170.c"),
         ],
     },
     {
