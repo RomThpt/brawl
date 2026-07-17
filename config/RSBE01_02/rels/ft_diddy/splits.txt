@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_diddy/fn_115_672C.c:
 	.text       start:0x0000672C end:0x00006734
 
+mo_stub/ft_diddy/fn_115_9A1C.c:
+	.text       start:0x00009A1C end:0x00009A20
+
 mo_stub/ft_diddy/fn_115_9F24.c:
 	.text       start:0x00009F24 end:0x00009F28
 
