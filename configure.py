@@ -2887,6 +2887,11 @@ config.libs = [
             Object(Matching, "mo_stub/st_dxyorster/fn_76_3D58.c"),
             Object(Matching, "mo_stub/st_dxyorster/fn_76_3E20.c"),
             Object(Matching, "mo_stub/st_dxyorster/fn_76_3EE8.c"),
+            Object(Matching, "mo_stub/st_dxyorster/fn_76_4048.c"),
+            Object(Matching, "mo_stub/st_dxyorster/fn_76_4CF4.c"),
+            Object(Matching, "mo_stub/st_dxyorster/fn_76_5768.c"),
+            Object(Matching, "mo_stub/st_dxyorster/fn_76_62A4.c"),
+            Object(Matching, "mo_stub/st_dxyorster/fn_76_6F4C.c"),
         ],
     },
     {
