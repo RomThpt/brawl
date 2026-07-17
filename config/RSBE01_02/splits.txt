@@ -1728,6 +1728,9 @@ TRK_MINNOW_DOLPHIN/soh.c:
 stub/fn_803A9A70.c:
 	.text       start:0x803A9A70 end:0x803A9A78
 
+stub/fn_803A9A78.c:
+	.text       start:0x803A9A78 end:0x803A9A80
+
 stub/fn_803C27E4.c:
 	.text       start:0x803C27E4 end:0x803C27EC
 
@@ -1739,6 +1742,12 @@ stub/fn_803C759C.c:
 
 stub/fn_803CB000.c:
 	.text       start:0x803CB000 end:0x803CB004
+
+stub/fn_803D66EC.c:
+	.text       start:0x803D66EC end:0x803D66FC
+
+stub/fn_803D8994.c:
+	.text       start:0x803D8994 end:0x803D89A4
 
 stub/fn_803EB3B4.c:
 	.text       start:0x803EB3B4 end:0x803EB3BC
