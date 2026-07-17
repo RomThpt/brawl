@@ -116,6 +116,9 @@ mo_stub/st_donkey/fn_50_6248.c:
 mo_stub/st_donkey/fn_50_6250.c:
 	.text       start:0x00006250 end:0x00006264
 
+mo_stub/st_donkey/fn_50_6264.c:
+	.text       start:0x00006264 end:0x00006280
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B6A8 end:0x0000B744
 	.data       start:0x00003030 end:0x0000303D
