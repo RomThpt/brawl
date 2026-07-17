@@ -2703,6 +2703,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_zelda/fn_104_128B4.c"),
             Object(Matching, "mo_stub/ft_zelda/fn_104_128E8.c"),
             Object(Matching, "mo_stub/ft_zelda/fn_104_12930.c"),
+            Object(Matching, "mo_stub/ft_zelda/fn_104_12950.c"),
         ],
     },
     {
