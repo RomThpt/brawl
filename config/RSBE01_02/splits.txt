@@ -639,6 +639,12 @@ stub/fn_801CF32C.c:
 stub/fn_801D2ACC.c:
 	.text       start:0x801D2ACC end:0x801D2AD0
 
+stub/fn_801D4F6C.c:
+	.text       start:0x801D4F6C end:0x801D4F70
+
+stub/fn_801DD694.c:
+	.text       start:0x801DD694 end:0x801DD6A4
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
