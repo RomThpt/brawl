@@ -1128,6 +1128,12 @@ stub/fn_802E96CC.c:
 stub/fn_802EA884.c:
 	.text       start:0x802EA884 end:0x802EA88C
 
+stub/fn_802EFFA0.c:
+	.text       start:0x802EFFA0 end:0x802EFFB0
+
+stub/fn_802EFFB8.c:
+	.text       start:0x802EFFB8 end:0x802EFFBC
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
