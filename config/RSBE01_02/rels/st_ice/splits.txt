@@ -56,6 +56,15 @@ mo_stub/st_ice/fn_62_15B4.c:
 mo_stub/st_ice/fn_62_2950.c:
 	.text       start:0x00002950 end:0x0000296C
 
+mo_stub/st_ice/fn_62_296C.c:
+	.text       start:0x0000296C end:0x00002980
+
+mo_stub/st_ice/fn_62_2990.c:
+	.text       start:0x00002990 end:0x00002998
+
+mo_stub/st_ice/fn_62_29D4.c:
+	.text       start:0x000029D4 end:0x000029DC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001184C end:0x000118E8
 	.data       start:0x00005AB0 end:0x00005ABD
