@@ -75,6 +75,21 @@ mo_scene/sora_scene/sc_net_time_result.cpp:
 	.text       start:0x0000C824 end:0x0000C9C4
 	.data       start:0x000040D0 end:0x00004140
 
+mo_stub/sora_scene/fn_1_E9C0.c:
+	.text       start:0x0000E9C0 end:0x0000E9C8
+
+mo_stub/sora_scene/fn_1_EA98.c:
+	.text       start:0x0000EA98 end:0x0000EA9C
+
+mo_stub/sora_scene/fn_1_FD0C.c:
+	.text       start:0x0000FD0C end:0x0000FD14
+
+mo_stub/sora_scene/fn_1_10268.c:
+	.text       start:0x00010268 end:0x00010270
+
+mo_stub/sora_scene/fn_1_10584.c:
+	.text       start:0x00010584 end:0x0001058C
+
 mo_scene/sora_scene/sc_adv_selchar.cpp:
 	.text       start:0x0001BFDC end:0x0001C084
 	.data       start:0x00005D50 end:0x00005DA0
