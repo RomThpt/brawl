@@ -11,6 +11,15 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_earth/fn_66_26C.c:
+	.text       start:0x0000026C end:0x00000274
+
+mo_stub/st_earth/fn_66_6BC.c:
+	.text       start:0x000006BC end:0x000006C8
+
+mo_stub/st_earth/fn_66_850.c:
+	.text       start:0x00000850 end:0x00000860
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000139C4 end:0x00013A60
 	.data       start:0x00003FE0 end:0x00003FED
