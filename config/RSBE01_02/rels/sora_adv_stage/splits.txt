@@ -224,6 +224,21 @@ mo_stub/sora_adv_stage/fn_40_30B68.c:
 mo_stub/sora_adv_stage/fn_40_30CC8.c:
 	.text       start:0x00030CC8 end:0x00030CD0
 
+mo_stub/sora_adv_stage/fn_40_31F14.c:
+	.text       start:0x00031F14 end:0x00031F18
+
+mo_stub/sora_adv_stage/fn_40_32C6C.c:
+	.text       start:0x00032C6C end:0x00032C70
+
+mo_stub/sora_adv_stage/fn_40_32D48.c:
+	.text       start:0x00032D48 end:0x00032D4C
+
+mo_stub/sora_adv_stage/fn_40_33148.c:
+	.text       start:0x00033148 end:0x0003314C
+
+mo_stub/sora_adv_stage/fn_40_3383C.c:
+	.text       start:0x0003383C end:0x00033840
+
 mo_adv_stage/gr_adventure_final.cpp:
 	.text       start:0x0003D6E4 end:0x0003DA24
 	.rodata     start:0x000008E8 end:0x000008F4
