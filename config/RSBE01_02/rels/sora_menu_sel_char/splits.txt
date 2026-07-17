@@ -15,6 +15,9 @@ mo_stub/sora_menu_sel_char/fn_10_24C0.c:
 mo_stub/sora_menu_sel_char/fn_10_24D8.c:
 	.text       start:0x000024D8 end:0x000024E0
 
+mo_stub/sora_menu_sel_char/fn_10_24E0.c:
+	.text       start:0x000024E0 end:0x00002508
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x0001DE90 end:0x0001DF2C
 	.data       start:0x00000E30 end:0x00000E3C
