@@ -1227,8 +1227,44 @@ stub/fn_80362F4C.c:
 stub/fn_8037BE6C.c:
 	.text       start:0x8037BE6C end:0x8037BE78
 
+stub/fn_8037BE78.c:
+	.text       start:0x8037BE78 end:0x8037BE7C
+
+stub/fn_8038FD6C.c:
+	.text       start:0x8038FD6C end:0x8038FD70
+
+stub/fn_80390948.c:
+	.text       start:0x80390948 end:0x8039094C
+
+stub/fn_80397564.c:
+	.text       start:0x80397564 end:0x80397568
+
+stub/fn_803A49A8.c:
+	.text       start:0x803A49A8 end:0x803A49B0
+
+stub/fn_803A7AF4.c:
+	.text       start:0x803A7AF4 end:0x803A7AF8
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
+
+stub/fn_803C27E4.c:
+	.text       start:0x803C27E4 end:0x803C27EC
+
+stub/fn_803C2E88.c:
+	.text       start:0x803C2E88 end:0x803C2E94
+
+stub/fn_803C759C.c:
+	.text       start:0x803C759C end:0x803C75A0
+
+stub/fn_803CB000.c:
+	.text       start:0x803CB000 end:0x803CB004
+
+stub/fn_803EB3B4.c:
+	.text       start:0x803EB3B4 end:0x803EB3BC
+
+stub/fn_803EBBD8.c:
+	.text       start:0x803EBBD8 end:0x803EBBDC
 
 Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
 	.text       start:0x803F1A08 end:0x803F1A78
@@ -1237,11 +1273,29 @@ Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
 	.dtors      start:0x804067E4 end:0x804067E8 rename:.dtors$15
 	.sdata      start:0x8059FF48 end:0x8059FF50
 
+stub/fn_803FC97C.c:
+	.text       start:0x803FC97C end:0x803FC984
+
+stub/fn_80400D90.c:
+	.text       start:0x80400D90 end:0x80400D94
+
+stub/fn_80401AA4.c:
+	.text       start:0x80401AA4 end:0x80401AAC
+
 TRK_MINNOW_DOLPHIN/usr_put.c:
 	.text       start:0x80401C50 end:0x80401C54
 
 TRK_MINNOW_DOLPHIN/dispatch.c:
 	.text       start:0x80401E1C end:0x80401E24
+
+stub/fn_80402CB8.c:
+	.text       start:0x80402CB8 end:0x80402CC8
+
+stub/fn_804035B4.c:
+	.text       start:0x804035B4 end:0x804035C4
+
+stub/fn_804035C4.c:
+	.text       start:0x804035C4 end:0x804035CC
 
 TRK_MINNOW_DOLPHIN/uart.c:
 	.text       start:0x80405A80 end:0x80405A84
@@ -1254,3 +1308,6 @@ TRK_MINNOW_DOLPHIN/gdev_cc_close.c:
 
 TRK_MINNOW_DOLPHIN/gdev_cc_shutdown.c:
 	.text       start:0x80406180 end:0x80406188
+
+stub/fn_804064CC.c:
+	.text       start:0x804064CC end:0x804064D0
