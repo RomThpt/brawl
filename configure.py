@@ -2134,6 +2134,9 @@ config.libs = [
             Object(Matching, "mo_stage/st_otrain/st_onlinetrainning.cpp"),
             Object(Matching, "mo_stub/st_dxcorneria/fn_82_1C0.c"),
             Object(Matching, "mo_stub/st_dxcorneria/fn_82_3D3C.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_3D5C.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_3D78.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_3DBC.c"),
         ],
     },
     {
