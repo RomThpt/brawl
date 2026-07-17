@@ -70,6 +70,14 @@ def kind(a, sz):
                 rS, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
                 if rA == 3 and rS == rB and 4 <= rS <= 10:
                     return ("argret", rS - 3)
+            if (w0 >> 26) == 14:  # addi r3,r3,imm => return a0 + imm
+                rD, rA = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F
+                if rD == 3 and rA == 3:
+                    return ("addimm", struct.unpack('>h', struct.pack('>H', w0 & 0xFFFF))[0])
+            if (w0 & 0xFC0007FE) == 0x7C000214:  # add r3,rA,rB => return a0 + a1
+                rD, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
+                if rD == 3 and {rA, rB} == {3, 4}:
+                    return ("add2", None)
     return None
 
 
@@ -126,6 +134,10 @@ for g in groups:
         elif kk == "argret":
             params = ", ".join("int a%d" % i for i in range(v + 1))
             body.append(f"int {n}({params}) {{\n    return a{v};\n}}\n")
+        elif kk == "addimm":
+            body.append(f"int {n}(int a0) {{\n    return a0 + {v};\n}}\n")
+        elif kk == "add2":
+            body.append(f"int {n}(int a0, int a1) {{\n    return a0 + a1;\n}}\n")
     src = "\n".join(body)
     path = f"stub/{g[0][2]}.c"
     add_unit.add(path, start, end, src)

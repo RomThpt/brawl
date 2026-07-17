@@ -322,6 +322,9 @@ stub/fn_800986A8.c:
 stub/fn_8009A040.c:
 	.text       start:0x8009A040 end:0x8009A048
 
+stub/fn_8009B324.c:
+	.text       start:0x8009B324 end:0x8009B334
+
 stub/fn_8009BA28.c:
 	.text       start:0x8009BA28 end:0x8009BA2C
 
@@ -389,6 +392,9 @@ stub/fn_800C9B3C.c:
 
 stub/fn_800CB824.c:
 	.text       start:0x800CB824 end:0x800CB834
+
+stub/fn_800CB834.c:
+	.text       start:0x800CB834 end:0x800CB83C
 
 stub/fn_800DA6E8.c:
 	.text       start:0x800DA6E8 end:0x800DA6EC
@@ -675,6 +681,9 @@ stub/fn_8016C47C.c:
 stub/fn_8016E0C0.c:
 	.text       start:0x8016E0C0 end:0x8016E0C4
 
+stub/fn_80178868.c:
+	.text       start:0x80178868 end:0x80178870
+
 stub/fn_8017941C.c:
 	.text       start:0x8017941C end:0x80179420
 
@@ -786,6 +795,12 @@ stub/fn_801BF094.c:
 stub/fn_801BF398.c:
 	.text       start:0x801BF398 end:0x801BF3A0
 
+stub/fn_801C0390.c:
+	.text       start:0x801C0390 end:0x801C0398
+
+stub/fn_801C07AC.c:
+	.text       start:0x801C07AC end:0x801C07B4
+
 stub/fn_801C0F88.c:
 	.text       start:0x801C0F88 end:0x801C0F90
 
@@ -809,6 +824,9 @@ stub/fn_801C38D8.c:
 
 stub/fn_801C4268.c:
 	.text       start:0x801C4268 end:0x801C426C
+
+stub/fn_801C4994.c:
+	.text       start:0x801C4994 end:0x801C49A4
 
 stub/fn_801C49A4.c:
 	.text       start:0x801C49A4 end:0x801C49AC
@@ -837,6 +855,9 @@ stub/fn_801CF62C.c:
 stub/fn_801CF634.c:
 	.text       start:0x801CF634 end:0x801CF644
 
+stub/fn_801CF970.c:
+	.text       start:0x801CF970 end:0x801CF980
+
 stub/fn_801CF980.c:
 	.text       start:0x801CF980 end:0x801CF988
 
@@ -845,6 +866,12 @@ stub/fn_801D2ACC.c:
 
 stub/fn_801D36BC.c:
 	.text       start:0x801D36BC end:0x801D36C4
+
+stub/fn_801D3C28.c:
+	.text       start:0x801D3C28 end:0x801D3C30
+
+stub/fn_801D3C30.c:
+	.text       start:0x801D3C30 end:0x801D3C38
 
 stub/fn_801D3C38.c:
 	.text       start:0x801D3C38 end:0x801D3C40
@@ -1161,6 +1188,9 @@ stub/fn_8028D898.c:
 stub/fn_8028D8A0.c:
 	.text       start:0x8028D8A0 end:0x8028D8A4
 
+stub/fn_8028D8A4.c:
+	.text       start:0x8028D8A4 end:0x8028D8B4
+
 stub/fn_8028D8B4.c:
 	.text       start:0x8028D8B4 end:0x8028D8BC
 
@@ -1178,6 +1208,9 @@ stub/fn_802943DC.c:
 
 stub/fn_802947F0.c:
 	.text       start:0x802947F0 end:0x802947F4
+
+stub/fn_802947F4.c:
+	.text       start:0x802947F4 end:0x802947FC
 
 stub/fn_802947FC.c:
 	.text       start:0x802947FC end:0x80294804
@@ -1200,6 +1233,9 @@ stub/fn_80295130.c:
 stub/fn_80296734.c:
 	.text       start:0x80296734 end:0x8029673C
 
+stub/fn_80296ED8.c:
+	.text       start:0x80296ED8 end:0x80296EE0
+
 stub/fn_80296EEC.c:
 	.text       start:0x80296EEC end:0x80296EF0
 
@@ -1209,8 +1245,14 @@ stub/fn_80297494.c:
 stub/fn_80297754.c:
 	.text       start:0x80297754 end:0x80297758
 
+stub/fn_80297A94.c:
+	.text       start:0x80297A94 end:0x80297A9C
+
 stub/fn_80298190.c:
 	.text       start:0x80298190 end:0x80298198
+
+stub/fn_802981B0.c:
+	.text       start:0x802981B0 end:0x802981B8
 
 stub/fn_80298258.c:
 	.text       start:0x80298258 end:0x80298260
@@ -1233,8 +1275,14 @@ stub/fn_80298EA8.c:
 stub/fn_802997CC.c:
 	.text       start:0x802997CC end:0x802997D0
 
+stub/fn_802997F4.c:
+	.text       start:0x802997F4 end:0x802997FC
+
 stub/fn_8029B6A0.c:
 	.text       start:0x8029B6A0 end:0x8029B6A4
+
+stub/fn_8029E668.c:
+	.text       start:0x8029E668 end:0x8029E678
 
 stub/fn_802A0BF0.c:
 	.text       start:0x802A0BF0 end:0x802A0BF8
@@ -1335,6 +1383,9 @@ stub/fn_802CD9B0.c:
 stub/fn_802CE81C.c:
 	.text       start:0x802CE81C end:0x802CE824
 
+stub/fn_802CEA98.c:
+	.text       start:0x802CEA98 end:0x802CEAA0
+
 stub/fn_802CEAA0.c:
 	.text       start:0x802CEAA0 end:0x802CEAA8
 
@@ -1395,6 +1446,9 @@ stub/fn_802D7FCC.c:
 stub/fn_802D8000.c:
 	.text       start:0x802D8000 end:0x802D8008
 
+stub/fn_802D8064.c:
+	.text       start:0x802D8064 end:0x802D806C
+
 stub/fn_802D9424.c:
 	.text       start:0x802D9424 end:0x802D942C
 
@@ -1419,8 +1473,17 @@ stub/fn_802DAD74.c:
 stub/fn_802DB55C.c:
 	.text       start:0x802DB55C end:0x802DB564
 
+stub/fn_802DB564.c:
+	.text       start:0x802DB564 end:0x802DB56C
+
 stub/fn_802DB56C.c:
 	.text       start:0x802DB56C end:0x802DB574
+
+stub/fn_802DB574.c:
+	.text       start:0x802DB574 end:0x802DB57C
+
+stub/fn_802DB588.c:
+	.text       start:0x802DB588 end:0x802DB590
 
 stub/fn_802DB590.c:
 	.text       start:0x802DB590 end:0x802DB598
@@ -1494,6 +1557,9 @@ stub/fn_802E2218.c:
 stub/fn_802E2228.c:
 	.text       start:0x802E2228 end:0x802E2230
 
+stub/fn_802E2CA8.c:
+	.text       start:0x802E2CA8 end:0x802E2CB0
+
 stub/fn_802E3950.c:
 	.text       start:0x802E3950 end:0x802E3958
 
@@ -1515,8 +1581,14 @@ stub/fn_802E58E8.c:
 stub/fn_802E58F4.c:
 	.text       start:0x802E58F4 end:0x802E5904
 
+stub/fn_802E6D08.c:
+	.text       start:0x802E6D08 end:0x802E6D10
+
 stub/fn_802E6F38.c:
 	.text       start:0x802E6F38 end:0x802E6F40
+
+stub/fn_802E7868.c:
+	.text       start:0x802E7868 end:0x802E7870
 
 stub/fn_802E7870.c:
 	.text       start:0x802E7870 end:0x802E7878
@@ -1536,6 +1608,9 @@ stub/fn_802EA884.c:
 stub/fn_802EFFA0.c:
 	.text       start:0x802EFFA0 end:0x802EFFB0
 
+stub/fn_802EFFB0.c:
+	.text       start:0x802EFFB0 end:0x802EFFB8
+
 stub/fn_802EFFB8.c:
 	.text       start:0x802EFFB8 end:0x802EFFBC
 
@@ -1554,6 +1629,15 @@ stub/fn_802F0AE0.c:
 stub/fn_802F28B4.c:
 	.text       start:0x802F28B4 end:0x802F28BC
 
+stub/fn_802F2E3C.c:
+	.text       start:0x802F2E3C end:0x802F2E44
+
+stub/fn_802F2E68.c:
+	.text       start:0x802F2E68 end:0x802F2E90
+
+stub/fn_802F2EC4.c:
+	.text       start:0x802F2EC4 end:0x802F2ECC
+
 stub/fn_802F2ECC.c:
 	.text       start:0x802F2ECC end:0x802F2ED0
 
@@ -1568,6 +1652,9 @@ stub/fn_802FB45C.c:
 
 stub/fn_802FBF70.c:
 	.text       start:0x802FBF70 end:0x802FBF74
+
+stub/fn_8030099C.c:
+	.text       start:0x8030099C end:0x803009A4
 
 stub/fn_803010FC.c:
 	.text       start:0x803010FC end:0x80301100
@@ -1586,6 +1673,9 @@ stub/fn_80303700.c:
 
 stub/fn_80313080.c:
 	.text       start:0x80313080 end:0x80313088
+
+stub/fn_80313514.c:
+	.text       start:0x80313514 end:0x8031351C
 
 stub/fn_8031351C.c:
 	.text       start:0x8031351C end:0x80313520
@@ -1616,6 +1706,12 @@ stub/fn_8032BD64.c:
 
 stub/fn_8032C2B0.c:
 	.text       start:0x8032C2B0 end:0x8032C2B4
+
+stub/fn_8032CC18.c:
+	.text       start:0x8032CC18 end:0x8032CC20
+
+stub/fn_8032D96C.c:
+	.text       start:0x8032D96C end:0x8032D974
 
 stub/fn_8032D974.c:
 	.text       start:0x8032D974 end:0x8032D978
@@ -1724,6 +1820,9 @@ stub/fn_803930B8.c:
 
 stub/fn_80397564.c:
 	.text       start:0x80397564 end:0x80397568
+
+stub/fn_80397568.c:
+	.text       start:0x80397568 end:0x80397588
 
 stub/fn_803A49A8.c:
 	.text       start:0x803A49A8 end:0x803A49B0

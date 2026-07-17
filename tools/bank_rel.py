@@ -59,6 +59,14 @@ def kind(a, sz):
             rS, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
             if rA == 3 and rS == rB and 4 <= rS <= 10:  # return argN (r3=a0)
                 return ("argret", rS - 3)
+        if (w0 >> 26) == 14:  # addi rD,rA,SIMM
+            rD, rA = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F
+            if rD == 3 and rA == 3:  # return a0 + imm
+                return ("addimm", struct.unpack('>h', struct.pack('>H', w0 & 0xFFFF))[0])
+        if (w0 & 0xFC0007FE) == 0x7C000214:  # add rD,rA,rB
+            rD, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
+            if rD == 3 and {rA, rB} == {3, 4}:  # return a0 + a1
+                return ("add2", None)
     return None
 
 
@@ -116,6 +124,10 @@ def gen(n, kk, v):
     if kk == "argret":
         params = ", ".join("int a%d" % i for i in range(v + 1))
         return f"int {n}({params}) {{\n    return a{v};\n}}\n"
+    if kk == "addimm":
+        return f"int {n}(int a0) {{\n    return a0 + {v};\n}}\n"
+    if kk == "add2":
+        return f"int {n}(int a0, int a1) {{\n    return a0 + a1;\n}}\n"
     t, off = v
     return f"void {n}(void* p, int q) {{\n    *({t}*)((char*)p + {off}) = q;\n}}\n"
 
