@@ -119,6 +119,9 @@ mo_stub/ft_donkey/fn_92_C868.c:
 mo_stub/ft_donkey/fn_92_CEE8.c:
 	.text       start:0x0000CEE8 end:0x0000CEF0
 
+mo_stub/ft_donkey/fn_92_CEF0.c:
+	.text       start:0x0000CEF0 end:0x0000CEF4
+
 mo_stub/ft_donkey/fn_92_CEFC.c:
 	.text       start:0x0000CEFC end:0x0000CF14
 
