@@ -29,6 +29,9 @@ mo_stub/ft_falco/fn_108_AE98.c:
 mo_stub/ft_falco/fn_108_AEA8.c:
 	.text       start:0x0000AEA8 end:0x0000AEBC
 
+mo_stub/ft_falco/fn_108_AEC0.c:
+	.text       start:0x0000AEC0 end:0x0000AED4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FE4 end:0x00011080
 	.data       start:0x00007B58 end:0x00007B67
