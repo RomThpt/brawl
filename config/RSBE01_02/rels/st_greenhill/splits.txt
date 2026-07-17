@@ -86,6 +86,9 @@ mo_stub/st_greenhill/fn_72_3F90.c:
 mo_stub/st_greenhill/fn_72_3FD4.c:
 	.text       start:0x00003FD4 end:0x00003FE8
 
+mo_stub/st_greenhill/fn_72_3FE8.c:
+	.text       start:0x00003FE8 end:0x00004008
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CD70 end:0x0000CE0C
 	.data       start:0x000046E0 end:0x000046ED
