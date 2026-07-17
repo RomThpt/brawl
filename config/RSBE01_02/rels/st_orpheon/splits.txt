@@ -17,6 +17,15 @@ mo_stub/st_orpheon/fn_55_364.c:
 mo_stub/st_orpheon/fn_55_228C.c:
 	.text       start:0x0000228C end:0x000022A8
 
+mo_stub/st_orpheon/fn_55_22A8.c:
+	.text       start:0x000022A8 end:0x000022BC
+
+mo_stub/st_orpheon/fn_55_22CC.c:
+	.text       start:0x000022CC end:0x000022D4
+
+mo_stub/st_orpheon/fn_55_2310.c:
+	.text       start:0x00002310 end:0x00002318
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000024BC end:0x00002558
 	.data       start:0x000005F0 end:0x000005FD
