@@ -1760,6 +1760,7 @@ config.libs = [
             Object(Matching, "mo_stub/sora_menu_snap_shot/fn_8_96C.c"),
             Object(Matching, "mo_stub/sora_menu_snap_shot/fn_8_980.c"),
             Object(Matching, "mo_stub/sora_menu_snap_shot/fn_8_A68.c"),
+            Object(Matching, "mo_stub/sora_menu_snap_shot/fn_8_A6C.c"),
         ],
     },
     {
