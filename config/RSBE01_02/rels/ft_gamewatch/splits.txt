@@ -59,6 +59,9 @@ mo_stub/ft_gamewatch/fn_107_C320.c:
 mo_stub/ft_gamewatch/fn_107_C3EC.c:
 	.text       start:0x0000C3EC end:0x0000C3FC
 
+mo_stub/ft_gamewatch/fn_107_C3FC.c:
+	.text       start:0x0000C3FC end:0x0000C424
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00021D7C end:0x00021E18
 	.data       start:0x0000BCA8 end:0x0000BCB7
