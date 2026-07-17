@@ -594,6 +594,18 @@ sora/nt/nt_etc_dwc.cpp:
 	.bss        start:0x8049ECE0 end:0x8049ECF8
 	.sdata      start:0x8059E7E8 end:0x8059E7F0
 
+stub/fn_80153810.c:
+	.text       start:0x80153810 end:0x80153818
+
+stub/fn_80154278.c:
+	.text       start:0x80154278 end:0x80154288
+
+stub/fn_80154294.c:
+	.text       start:0x80154294 end:0x8015429C
+
+stub/fn_801542A8.c:
+	.text       start:0x801542A8 end:0x801542B0
+
 stub/fn_801593CC.c:
 	.text       start:0x801593CC end:0x801593D0
 
