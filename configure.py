@@ -1102,7 +1102,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_gamewatch/fn_107_C270.c"),
+        ],
     },
     {
         "lib": "ft_ganon",
