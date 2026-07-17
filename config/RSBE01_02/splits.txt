@@ -1170,17 +1170,26 @@ stub/fn_8028D8BC.c:
 stub/fn_80290AC0.c:
 	.text       start:0x80290AC0 end:0x80290AC4
 
+stub/fn_802915BC.c:
+	.text       start:0x802915BC end:0x802915C4
+
 stub/fn_802943DC.c:
 	.text       start:0x802943DC end:0x802943E4
 
 stub/fn_802947F0.c:
 	.text       start:0x802947F0 end:0x802947F4
 
+stub/fn_802947FC.c:
+	.text       start:0x802947FC end:0x80294804
+
 stub/fn_80294910.c:
 	.text       start:0x80294910 end:0x80294914
 
 stub/fn_80295104.c:
 	.text       start:0x80295104 end:0x80295108
+
+stub/fn_80295108.c:
+	.text       start:0x80295108 end:0x80295120
 
 stub/fn_80296734.c:
 	.text       start:0x80296734 end:0x8029673C
