@@ -113,6 +113,12 @@ mo_stub/ft_luigi/fn_99_10824.c:
 mo_stub/ft_luigi/fn_99_10848.c:
 	.text       start:0x00010848 end:0x00010850
 
+mo_stub/ft_luigi/fn_99_1085C.c:
+	.text       start:0x0001085C end:0x00010864
+
+mo_stub/ft_luigi/fn_99_1087C.c:
+	.text       start:0x0001087C end:0x00010890
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010EAC end:0x00010F48
 	.data       start:0x00006ED8 end:0x00006EE7
