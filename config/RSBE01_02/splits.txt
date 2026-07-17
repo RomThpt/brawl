@@ -1059,6 +1059,12 @@ stub/fn_8027C83C.c:
 stub/fn_8027C8EC.c:
 	.text       start:0x8027C8EC end:0x8027C8F4
 
+stub/fn_8027C904.c:
+	.text       start:0x8027C904 end:0x8027C914
+
+stub/fn_8027CC14.c:
+	.text       start:0x8027CC14 end:0x8027CC24
+
 stub/fn_8027E358.c:
 	.text       start:0x8027E358 end:0x8027E360
 
@@ -1076,6 +1082,9 @@ stub/fn_80280CB4.c:
 
 stub/fn_80280CCC.c:
 	.text       start:0x80280CCC end:0x80280CEC
+
+stub/fn_8028980C.c:
+	.text       start:0x8028980C end:0x80289814
 
 stub/fn_80289BFC.c:
 	.text       start:0x80289BFC end:0x80289C04
