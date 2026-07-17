@@ -65,6 +65,15 @@ mo_stub/st_donkey/fn_50_1E14.c:
 mo_stub/st_donkey/fn_50_1E30.c:
 	.text       start:0x00001E30 end:0x00001E44
 
+mo_stub/st_donkey/fn_50_1E44.c:
+	.text       start:0x00001E44 end:0x00001E54
+
+mo_stub/st_donkey/fn_50_1F6C.c:
+	.text       start:0x00001F6C end:0x00001F78
+
+mo_stub/st_donkey/fn_50_22CC.c:
+	.text       start:0x000022CC end:0x000022D4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B6A8 end:0x0000B744
 	.data       start:0x00003030 end:0x0000303D
