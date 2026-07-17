@@ -35,6 +35,12 @@ mo_stub/ft_dedede/fn_117_A3E0.c:
 mo_stub/ft_dedede/fn_117_A3F4.c:
 	.text       start:0x0000A3F4 end:0x0000A40C
 
+mo_stub/ft_dedede/fn_117_A40C.c:
+	.text       start:0x0000A40C end:0x0000A414
+
+mo_stub/ft_dedede/fn_117_A43C.c:
+	.text       start:0x0000A43C end:0x0000A448
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04
 	.data       start:0x0000C608 end:0x0000C617
