@@ -17,6 +17,9 @@ mo_stub/ft_falco/fn_108_8008.c:
 mo_stub/ft_falco/fn_108_AA94.c:
 	.text       start:0x0000AA94 end:0x0000AA9C
 
+mo_stub/ft_falco/fn_108_AD8C.c:
+	.text       start:0x0000AD8C end:0x0000AD90
+
 mo_stub/ft_falco/fn_108_AD90.c:
 	.text       start:0x0000AD90 end:0x0000AD9C
 
