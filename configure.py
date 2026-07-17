@@ -2414,7 +2414,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_metalgear/fn_71_1234.c"),
+            Object(Matching, "mo_stub/st_metalgear/fn_71_2BA8.c"),
+            Object(Matching, "mo_stub/st_metalgear/fn_71_2D8C.c"),
+        ],
     },
     {
         "lib": "st_newpork",
