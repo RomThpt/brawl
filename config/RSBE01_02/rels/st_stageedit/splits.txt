@@ -47,6 +47,15 @@ mo_stub/st_stageedit/fn_85_536C.c:
 mo_stub/st_stageedit/fn_85_53B0.c:
 	.text       start:0x000053B0 end:0x000053D4
 
+mo_stub/st_stageedit/fn_85_53F0.c:
+	.text       start:0x000053F0 end:0x000053F8
+
+mo_stub/st_stageedit/fn_85_5400.c:
+	.text       start:0x00005400 end:0x00005410
+
+mo_stub/st_stageedit/fn_85_541C.c:
+	.text       start:0x0000541C end:0x00005428
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00005558 end:0x000055F4
 	.data       start:0x00000778 end:0x00000785
