@@ -1821,6 +1821,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_wolf/fn_125_AF34.c"),
+            Object(Matching, "mo_stub/ft_wolf/fn_125_AF48.c"),
         ],
     },
     {
