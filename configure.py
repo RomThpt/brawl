@@ -2137,7 +2137,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_1088.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_3E14.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_3E30.c"),
+        ],
     },
     {
         "lib": "st_dxgarden",
