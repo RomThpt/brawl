@@ -98,6 +98,12 @@ mo_stub/ft_ike/fn_119_13238.c:
 mo_stub/ft_ike/fn_119_132A0.c:
 	.text       start:0x000132A0 end:0x000132A8
 
+mo_stub/ft_ike/fn_119_132A8.c:
+	.text       start:0x000132A8 end:0x000132B0
+
+mo_stub/ft_ike/fn_119_133B4.c:
+	.text       start:0x000133B4 end:0x000133C4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00013DE8 end:0x00013E84
 	.data       start:0x000068B8 end:0x000068C7
