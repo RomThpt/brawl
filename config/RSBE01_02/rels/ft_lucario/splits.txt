@@ -50,6 +50,9 @@ mo_stub/ft_lucario/fn_118_A1C4.c:
 mo_stub/ft_lucario/fn_118_A294.c:
 	.text       start:0x0000A294 end:0x0000A29C
 
+mo_stub/ft_lucario/fn_118_A29C.c:
+	.text       start:0x0000A29C end:0x0000A2C4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000140AC end:0x00014148
 	.data       start:0x00007350 end:0x0000735F
