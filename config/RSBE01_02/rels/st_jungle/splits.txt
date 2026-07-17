@@ -176,6 +176,21 @@ mo_stub/st_jungle/fn_51_6470.c:
 mo_stub/st_jungle/fn_51_6538.c:
 	.text       start:0x00006538 end:0x00006540
 
+mo_stub/st_jungle/fn_51_6698.c:
+	.text       start:0x00006698 end:0x000066A0
+
+mo_stub/st_jungle/fn_51_67F8.c:
+	.text       start:0x000067F8 end:0x00006800
+
+mo_stub/st_jungle/fn_51_68C0.c:
+	.text       start:0x000068C0 end:0x000068C8
+
+mo_stub/st_jungle/fn_51_756C.c:
+	.text       start:0x0000756C end:0x00007574
+
+mo_stub/st_jungle/fn_51_7FE0.c:
+	.text       start:0x00007FE0 end:0x00007FE8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
 	.data       start:0x00009A00 end:0x00009A0D
