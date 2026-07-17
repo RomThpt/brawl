@@ -143,6 +143,12 @@ mo_stub/ft_pit/fn_112_113B0.c:
 mo_stub/ft_pit/fn_112_113C0.c:
 	.text       start:0x000113C0 end:0x000113DC
 
+mo_stub/ft_pit/fn_112_113DC.c:
+	.text       start:0x000113DC end:0x000113E0
+
+mo_stub/ft_pit/fn_112_11404.c:
+	.text       start:0x00011404 end:0x00011414
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00016C2C end:0x00016CC8
 	.data       start:0x00009D78 end:0x00009D87
