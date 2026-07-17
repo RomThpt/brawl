@@ -135,6 +135,15 @@ mo_stub/sora_melee/fn_27_254FC.c:
 mo_stub/sora_melee/fn_27_2551C.c:
 	.text       start:0x0002551C end:0x00025520
 
+mo_stub/sora_melee/fn_27_25520.c:
+	.text       start:0x00025520 end:0x00025524
+
+mo_stub/sora_melee/fn_27_25538.c:
+	.text       start:0x00025538 end:0x00025548
+
+mo_stub/sora_melee/fn_27_25560.c:
+	.text       start:0x00025560 end:0x00025564
+
 mo_melee/sora_melee/so/so_controller_module_link_ref.cpp:
 	.text       start:0x000598CC end:0x00059FD4
 	.rodata     start:0x00000748 end:0x0000075C
