@@ -212,8 +212,20 @@ stub/fn_8004EFA0.c:
 stub/fn_800569F8.c:
 	.text       start:0x800569F8 end:0x800569FC
 
+stub/fn_8005A988.c:
+	.text       start:0x8005A988 end:0x8005A98C
+
+stub/fn_8005A9BC.c:
+	.text       start:0x8005A9BC end:0x8005A9C0
+
+stub/fn_8005B830.c:
+	.text       start:0x8005B830 end:0x8005B834
+
 sora/ef/ef_screen_handle.cpp:
 	.text       start:0x8005E5C8 end:0x8005E5E8
+
+stub/fn_8005F660.c:
+	.text       start:0x8005F660 end:0x8005F668
 
 sora/ec/ec_trace_mgr.cpp:
 	.text       start:0x80065458 end:0x80065B60
