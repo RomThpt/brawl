@@ -90,6 +90,12 @@ mo_stub/sora_scene/fn_1_10268.c:
 mo_stub/sora_scene/fn_1_10584.c:
 	.text       start:0x00010584 end:0x0001058C
 
+mo_stub/sora_scene/fn_1_10598.c:
+	.text       start:0x00010598 end:0x000105A0
+
+mo_stub/sora_scene/fn_1_1BD14.c:
+	.text       start:0x0001BD14 end:0x0001BD18
+
 mo_scene/sora_scene/sc_adv_selchar.cpp:
 	.text       start:0x0001BFDC end:0x0001C084
 	.data       start:0x00005D50 end:0x00005DA0
@@ -107,9 +113,18 @@ mo_scene/sora_scene/sc_adv_result.cpp:
 	.text       start:0x0001FDEC end:0x0002006C
 	.data       start:0x00006488 end:0x000064E8
 
+mo_stub/sora_scene/fn_1_204EC.c:
+	.text       start:0x000204EC end:0x000204F4
+
 mo_scene/sora_scene/sc_adv_gameover.cpp:
 	.text       start:0x000207B4 end:0x00020B2C
 	.data       start:0x00006600 end:0x000067E8
+
+mo_stub/sora_scene/fn_1_2149C.c:
+	.text       start:0x0002149C end:0x000214A0
+
+mo_stub/sora_scene/fn_1_2193C.c:
+	.text       start:0x0002193C end:0x00021940
 
 mo_scene/mo_scene.cpp:
 	.text       start:0x0003D4B8 end:0x0003D588
