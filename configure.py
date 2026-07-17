@@ -1527,6 +1527,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_pikachu/fn_98_9D58.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_9D6C.c"),
         ],
     },
     {
