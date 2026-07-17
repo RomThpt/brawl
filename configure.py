@@ -1044,6 +1044,10 @@ config.libs = [
             Object(Matching, "mo_stub/ft_ganon/fn_109_8ED0.c"),
             Object(Matching, "mo_stub/ft_ganon/fn_109_8EFC.c"),
             Object(Matching, "mo_stub/ft_ganon/fn_109_8F0C.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_58E4.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_956C.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_95AC.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_9640.c"),
         ],
     },
     {
