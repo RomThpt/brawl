@@ -2260,6 +2260,9 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/st_famicom/fn_68_222C.c"),
             Object(Matching, "mo_stub/st_famicom/fn_68_C708.c"),
+            Object(Matching, "mo_stub/st_famicom/fn_68_CEF0.c"),
+            Object(Matching, "mo_stub/st_famicom/fn_68_D1B0.c"),
+            Object(Matching, "mo_stub/st_famicom/fn_68_D670.c"),
         ],
     },
     {
