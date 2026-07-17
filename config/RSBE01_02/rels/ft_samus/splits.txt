@@ -47,6 +47,12 @@ mo_stub/ft_samus/fn_94_AA80.c:
 mo_stub/ft_samus/fn_94_AA94.c:
 	.text       start:0x0000AA94 end:0x0000AAAC
 
+mo_stub/ft_samus/fn_94_AAAC.c:
+	.text       start:0x0000AAAC end:0x0000AAC4
+
+mo_stub/ft_samus/fn_94_AB84.c:
+	.text       start:0x0000AB84 end:0x0000AB8C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002041C end:0x000204B8
 	.data       start:0x0000D760 end:0x0000D76F
