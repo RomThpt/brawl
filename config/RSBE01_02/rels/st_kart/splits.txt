@@ -56,6 +56,9 @@ mo_stub/st_kart/fn_49_1150.c:
 mo_stub/st_kart/fn_49_1170.c:
 	.text       start:0x00001170 end:0x00001178
 
+mo_stub/st_kart/fn_49_1178.c:
+	.text       start:0x00001178 end:0x00001180
+
 mo_stub/st_kart/fn_49_1180.c:
 	.text       start:0x00001180 end:0x00001190
 
