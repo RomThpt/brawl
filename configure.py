@@ -1291,6 +1291,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_lucas/fn_114_CAFC.c"),
+            Object(Matching, "mo_stub/ft_lucas/fn_114_CB10.c"),
         ],
     },
     {
