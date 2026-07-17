@@ -53,6 +53,12 @@ mo_stub/st_gw/fn_63_11E0.c:
 mo_stub/st_gw/fn_63_1410.c:
 	.text       start:0x00001410 end:0x00001420
 
+mo_stub/st_gw/fn_63_1420.c:
+	.text       start:0x00001420 end:0x00001430
+
+mo_stub/st_gw/fn_63_156C.c:
+	.text       start:0x0000156C end:0x00001584
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
