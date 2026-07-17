@@ -68,6 +68,12 @@ mo_stub/st_dxonett/fn_78_1524.c:
 mo_stub/st_dxonett/fn_78_1534.c:
 	.text       start:0x00001534 end:0x0000153C
 
+mo_stub/st_dxonett/fn_78_153C.c:
+	.text       start:0x0000153C end:0x00001544
+
+mo_stub/st_dxonett/fn_78_1550.c:
+	.text       start:0x00001550 end:0x0000156C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000089F0 end:0x00008A8C
 	.data       start:0x00002788 end:0x00002795
