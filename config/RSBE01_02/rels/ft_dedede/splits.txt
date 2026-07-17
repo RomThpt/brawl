@@ -74,6 +74,9 @@ mo_stub/ft_dedede/fn_117_A888.c:
 mo_stub/ft_dedede/fn_117_C104.c:
 	.text       start:0x0000C104 end:0x0000C10C
 
+mo_stub/ft_dedede/fn_117_E698.c:
+	.text       start:0x0000E698 end:0x0000E6B8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04
 	.data       start:0x0000C608 end:0x0000C617
