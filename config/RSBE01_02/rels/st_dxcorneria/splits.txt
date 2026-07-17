@@ -56,6 +56,12 @@ mo_stub/st_dxcorneria/fn_82_43CC.c:
 mo_stub/st_dxcorneria/fn_82_4418.c:
 	.text       start:0x00004418 end:0x0000441C
 
+mo_stub/st_dxcorneria/fn_82_441C.c:
+	.text       start:0x0000441C end:0x00004424
+
+mo_stub/st_dxcorneria/fn_82_4440.c:
+	.text       start:0x00004440 end:0x00004458
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00004458 end:0x000044F4
 	.data       start:0x00000C00 end:0x00000C0D
