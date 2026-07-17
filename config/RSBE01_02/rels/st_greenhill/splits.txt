@@ -101,6 +101,12 @@ mo_stub/st_greenhill/fn_72_4038.c:
 mo_stub/st_greenhill/fn_72_4058.c:
 	.text       start:0x00004058 end:0x0000407C
 
+mo_stub/st_greenhill/fn_72_407C.c:
+	.text       start:0x0000407C end:0x0000408C
+
+mo_stub/st_greenhill/fn_72_40AC.c:
+	.text       start:0x000040AC end:0x000040B4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CD70 end:0x0000CE0C
 	.data       start:0x000046E0 end:0x000046ED
