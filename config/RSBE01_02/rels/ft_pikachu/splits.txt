@@ -29,6 +29,9 @@ mo_stub/ft_pikachu/fn_98_9D30.c:
 mo_stub/ft_pikachu/fn_98_9D40.c:
 	.text       start:0x00009D40 end:0x00009D54
 
+mo_stub/ft_pikachu/fn_98_9D58.c:
+	.text       start:0x00009D58 end:0x00009D6C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390
 	.data       start:0x000099C8 end:0x000099D7
