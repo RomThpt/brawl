@@ -92,6 +92,15 @@ mo_stub/st_fzero/fn_61_21CC.c:
 mo_stub/st_fzero/fn_61_21E0.c:
 	.text       start:0x000021E0 end:0x000021FC
 
+mo_stub/st_fzero/fn_61_2314.c:
+	.text       start:0x00002314 end:0x00002320
+
+mo_stub/st_fzero/fn_61_3504.c:
+	.text       start:0x00003504 end:0x0000350C
+
+mo_stub/st_fzero/fn_61_3A00.c:
+	.text       start:0x00003A00 end:0x00003A10
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000E800 end:0x0000E89C
 	.data       start:0x00003C48 end:0x00003C55
