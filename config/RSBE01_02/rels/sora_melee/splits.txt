@@ -299,6 +299,12 @@ mo_stub/sora_melee/fn_27_60470.c:
 mo_stub/sora_melee/fn_27_60498.c:
 	.text       start:0x00060498 end:0x000604A0
 
+mo_stub/sora_melee/fn_27_604A0.c:
+	.text       start:0x000604A0 end:0x000604B8
+
+mo_stub/sora_melee/fn_27_60524.c:
+	.text       start:0x00060524 end:0x00060530
+
 mo_melee/sora_melee/so/so_heap_module_impl.cpp:
 	.text       start:0x000649FC end:0x00064A90
 	.data       start:0x00007328 end:0x000073A8
