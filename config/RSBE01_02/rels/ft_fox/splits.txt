@@ -131,6 +131,12 @@ mo_stub/ft_fox/fn_97_10C8C.c:
 mo_stub/ft_fox/fn_97_10CB4.c:
 	.text       start:0x00010CB4 end:0x00010CDC
 
+mo_stub/ft_fox/fn_97_10CDC.c:
+	.text       start:0x00010CDC end:0x00010CE4
+
+mo_stub/ft_fox/fn_97_10CF4.c:
+	.text       start:0x00010CF4 end:0x00010D08
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
 	.data       start:0x00007B60 end:0x00007B6F
