@@ -1990,6 +1990,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_donkey/fn_50_1DBC.c"),
             Object(Matching, "mo_stub/st_donkey/fn_50_1DCC.c"),
             Object(Matching, "mo_stub/st_donkey/fn_50_1E04.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_1E14.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_1E30.c"),
         ],
     },
     {
