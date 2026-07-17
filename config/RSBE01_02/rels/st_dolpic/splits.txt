@@ -11,6 +11,36 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_dolpic/fn_46_34C.c:
+	.text       start:0x0000034C end:0x00000354
+
+mo_stub/st_dolpic/fn_46_8D0.c:
+	.text       start:0x000008D0 end:0x000008F0
+
+mo_stub/st_dolpic/fn_46_9B4.c:
+	.text       start:0x000009B4 end:0x000009BC
+
+mo_stub/st_dolpic/fn_46_C28.c:
+	.text       start:0x00000C28 end:0x00000C40
+
+mo_stub/st_dolpic/fn_46_CF0.c:
+	.text       start:0x00000CF0 end:0x00000CF8
+
+mo_stub/st_dolpic/fn_46_E18.c:
+	.text       start:0x00000E18 end:0x00000E28
+
+mo_stub/st_dolpic/fn_46_F50.c:
+	.text       start:0x00000F50 end:0x00000F58
+
+mo_stub/st_dolpic/fn_46_3FEC.c:
+	.text       start:0x00003FEC end:0x00003FF0
+
+mo_stub/st_dolpic/fn_46_4288.c:
+	.text       start:0x00004288 end:0x0000428C
+
+mo_stub/st_dolpic/fn_46_428C.c:
+	.text       start:0x0000428C end:0x000042B4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007088 end:0x00007124
 	.data       start:0x00002440 end:0x0000244D

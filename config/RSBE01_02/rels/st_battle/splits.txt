@@ -11,6 +11,30 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_battle/fn_43_1E4.c:
+	.text       start:0x000001E4 end:0x000001EC
+
+mo_stub/st_battle/fn_43_8C0.c:
+	.text       start:0x000008C0 end:0x000008E0
+
+mo_stub/st_battle/fn_43_8E0.c:
+	.text       start:0x000008E0 end:0x000008E4
+
+mo_stub/st_battle/fn_43_8F4.c:
+	.text       start:0x000008F4 end:0x000008FC
+
+mo_stub/st_battle/fn_43_938.c:
+	.text       start:0x00000938 end:0x00000950
+
+mo_stub/st_battle/fn_43_950.c:
+	.text       start:0x00000950 end:0x00000964
+
+mo_stub/st_battle/fn_43_980.c:
+	.text       start:0x00000980 end:0x00000988
+
+mo_stub/st_battle/fn_43_990.c:
+	.text       start:0x00000990 end:0x00000998
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00000F84 end:0x00001020
 	.data       start:0x000007D8 end:0x000007E5

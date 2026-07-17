@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_dxcorneria/fn_82_1C0.c:
+	.text       start:0x000001C0 end:0x000001C8
+
+mo_stub/st_dxcorneria/fn_82_3D3C.c:
+	.text       start:0x00003D3C end:0x00003D5C
+
+mo_stub/st_dxcorneria/fn_82_3D5C.c:
+	.text       start:0x00003D5C end:0x00003D68
+
+mo_stub/st_dxcorneria/fn_82_3D78.c:
+	.text       start:0x00003D78 end:0x00003D80
+
+mo_stub/st_dxcorneria/fn_82_3DBC.c:
+	.text       start:0x00003DBC end:0x00003DCC
+
+mo_stub/st_dxcorneria/fn_82_3DCC.c:
+	.text       start:0x00003DCC end:0x00003DE8
+
+mo_stub/st_dxcorneria/fn_82_3E04.c:
+	.text       start:0x00003E04 end:0x00003E0C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00004458 end:0x000044F4
 	.data       start:0x00000C00 end:0x00000C0D
