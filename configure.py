@@ -1081,6 +1081,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_fox/fn_97_B070.c"),
             Object(Matching, "mo_stub/ft_fox/fn_97_B084.c"),
             Object(Matching, "mo_stub/ft_fox/fn_97_B09C.c"),
+            Object(Matching, "mo_stub/ft_fox/fn_97_B0B0.c"),
         ],
     },
     {
