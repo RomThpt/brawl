@@ -2223,6 +2223,11 @@ config.libs = [
             Object(Matching, "mo_stub/sora_melee/fn_27_6C00.c"),
             Object(Matching, "mo_stub/sora_melee/fn_27_6C24.c"),
             Object(Matching, "mo_stub/sora_melee/fn_27_6C54.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_6CA4.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_76FC.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_81EC.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_8610.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_8D34.c"),
         ],
     },
     {
