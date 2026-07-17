@@ -17,6 +17,15 @@ mo_stub/st_plankton/fn_74_A64.c:
 mo_stub/st_plankton/fn_74_EFC.c:
 	.text       start:0x00000EFC end:0x00000F1C
 
+mo_stub/st_plankton/fn_74_FCC.c:
+	.text       start:0x00000FCC end:0x00000FD4
+
+mo_stub/st_plankton/fn_74_1310.c:
+	.text       start:0x00001310 end:0x00001318
+
+mo_stub/st_plankton/fn_74_14E8.c:
+	.text       start:0x000014E8 end:0x00001500
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000D78C end:0x0000D828
 	.data       start:0x00003108 end:0x00003115
