@@ -38,6 +38,12 @@ mo_stub/ft_zako/fn_126_71FC.c:
 mo_stub/ft_zako/fn_126_7210.c:
 	.text       start:0x00007210 end:0x00007228
 
+mo_stub/ft_zako/fn_126_7228.c:
+	.text       start:0x00007228 end:0x0000722C
+
+mo_stub/ft_zako/fn_126_7254.c:
+	.text       start:0x00007254 end:0x00007264
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0000F814 end:0x0000F8B0
 	.data       start:0x00007358 end:0x00007367
