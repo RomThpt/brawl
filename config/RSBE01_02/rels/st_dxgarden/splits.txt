@@ -83,6 +83,12 @@ mo_stub/st_dxgarden/fn_77_3B70.c:
 mo_stub/st_dxgarden/fn_77_3B80.c:
 	.text       start:0x00003B80 end:0x00003B94
 
+mo_stub/st_dxgarden/fn_77_3B94.c:
+	.text       start:0x00003B94 end:0x00003BB0
+
+mo_stub/st_dxgarden/fn_77_3C28.c:
+	.text       start:0x00003C28 end:0x00003C30
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000065E8 end:0x00006684
 	.data       start:0x00002098 end:0x000020A5
