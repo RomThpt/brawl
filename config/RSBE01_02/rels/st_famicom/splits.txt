@@ -128,6 +128,21 @@ mo_stub/st_famicom/fn_68_5A1C.c:
 mo_stub/st_famicom/fn_68_5A44.c:
 	.text       start:0x00005A44 end:0x00005A58
 
+mo_stub/st_famicom/fn_68_5A78.c:
+	.text       start:0x00005A78 end:0x00005A80
+
+mo_stub/st_famicom/fn_68_5AC8.c:
+	.text       start:0x00005AC8 end:0x00005ACC
+
+mo_stub/st_famicom/fn_68_5E08.c:
+	.text       start:0x00005E08 end:0x00005E10
+
+mo_stub/st_famicom/fn_68_62BC.c:
+	.text       start:0x000062BC end:0x000062C4
+
+mo_stub/st_famicom/fn_68_6384.c:
+	.text       start:0x00006384 end:0x0000638C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001390C end:0x000139A8
 	.data       start:0x00003678 end:0x00003685
