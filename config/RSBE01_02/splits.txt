@@ -1236,8 +1236,20 @@ stub/fn_802997CC.c:
 stub/fn_8029B6A0.c:
 	.text       start:0x8029B6A0 end:0x8029B6A4
 
+stub/fn_802A0BF0.c:
+	.text       start:0x802A0BF0 end:0x802A0BF8
+
+stub/fn_802AA29C.c:
+	.text       start:0x802AA29C end:0x802AA2A4
+
+stub/fn_802AA2B0.c:
+	.text       start:0x802AA2B0 end:0x802AA2C0
+
 stub/fn_802AA2C4.c:
 	.text       start:0x802AA2C4 end:0x802AA2C8
+
+stub/fn_802AA2C8.c:
+	.text       start:0x802AA2C8 end:0x802AA2D0
 
 stub/fn_802AA304.c:
 	.text       start:0x802AA304 end:0x802AA308
