@@ -302,6 +302,9 @@ sora/cm/cm_controller_menu_fixed.cpp:
 stub/fn_800A6CF4.c:
 	.text       start:0x800A6CF4 end:0x800A6CF8
 
+stub/fn_800A7D5C.c:
+	.text       start:0x800A7D5C end:0x800A7D60
+
 sora/cm/cm_controller_melee_fixed.cpp:
 	.text       start:0x800AA998 end:0x800AA9F8
 	.data       start:0x80455000 end:0x80455038
@@ -314,6 +317,15 @@ sora/cm/cm_stage_param.cpp:
 sora/ty/ty_fig_listmng.cpp:
 	.text       start:0x800AC9DC end:0x800AD808
 	.data       start:0x80455120 end:0x80455180
+
+stub/fn_800B0790.c:
+	.text       start:0x800B0790 end:0x800B0794
+
+stub/fn_800B0854.c:
+	.text       start:0x800B0854 end:0x800B0858
+
+stub/fn_800B08A0.c:
+	.text       start:0x800B08A0 end:0x800B08A8
 
 stub/fn_800F5EC8.c:
 	.text       start:0x800F5EC8 end:0x800F5ED8
