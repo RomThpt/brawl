@@ -11,6 +11,15 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_koopa/fn_102_61A8.c:
+	.text       start:0x000061A8 end:0x000061B0
+
+mo_stub/ft_koopa/fn_102_8D74.c:
+	.text       start:0x00008D74 end:0x00008D84
+
+mo_stub/ft_koopa/fn_102_8DC0.c:
+	.text       start:0x00008DC0 end:0x00008DC4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C238 end:0x0001C2D4
 	.data       start:0x00008490 end:0x0000849F
