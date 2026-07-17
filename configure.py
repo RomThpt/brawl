@@ -2426,6 +2426,9 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stage/st_starfox/st_starfox.cpp"),
+            Object(Matching, "mo_stub/st_palutena/fn_67_16C.c"),
+            Object(Matching, "mo_stub/st_palutena/fn_67_880.c"),
+            Object(Matching, "mo_stub/st_palutena/fn_67_D14.c"),
         ],
     },
     {
