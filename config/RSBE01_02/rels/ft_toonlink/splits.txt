@@ -44,6 +44,9 @@ mo_stub/ft_toonlink/fn_121_AFBC.c:
 mo_stub/ft_toonlink/fn_121_AFE4.c:
 	.text       start:0x0000AFE4 end:0x0000B004
 
+mo_stub/ft_toonlink/fn_121_B004.c:
+	.text       start:0x0000B004 end:0x0000B018
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018684 end:0x00018720
 	.data       start:0x00009BF0 end:0x00009BFF
