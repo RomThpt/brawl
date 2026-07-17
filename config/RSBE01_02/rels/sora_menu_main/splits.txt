@@ -12,6 +12,15 @@ mo_stub/sora_menu_main/fn_2_4160.c:
 mo_stub/sora_menu_main/fn_2_12F48.c:
 	.text       start:0x00012F48 end:0x00012F58
 
+mo_stub/sora_menu_main/fn_2_12FD0.c:
+	.text       start:0x00012FD0 end:0x00012FDC
+
+mo_stub/sora_menu_main/fn_2_17DD8.c:
+	.text       start:0x00017DD8 end:0x00017DDC
+
+mo_stub/sora_menu_main/fn_2_1EF58.c:
+	.text       start:0x0001EF58 end:0x0001EF68
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x0003D1B8 end:0x0003D254
 	.data       start:0x000052E8 end:0x000052F4
