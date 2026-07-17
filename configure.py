@@ -1474,7 +1474,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_ness/fn_101_D0C4.c"),
+        ],
     },
     {
         "lib": "ft_peach",
