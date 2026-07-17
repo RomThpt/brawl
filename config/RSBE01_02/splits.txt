@@ -1656,6 +1656,12 @@ stub/fn_80362F4C.c:
 stub/fn_80362F54.c:
 	.text       start:0x80362F54 end:0x80362F64
 
+stub/fn_80374BE8.c:
+	.text       start:0x80374BE8 end:0x80374BF0
+
+stub/fn_80374C10.c:
+	.text       start:0x80374C10 end:0x80374C30
+
 stub/fn_8037BE6C.c:
 	.text       start:0x8037BE6C end:0x8037BE78
 
