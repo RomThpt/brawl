@@ -702,6 +702,21 @@ stub/fn_8022E920.c:
 stub/fn_8023044C.c:
 	.text       start:0x8023044C end:0x8023045C
 
+stub/fn_80230500.c:
+	.text       start:0x80230500 end:0x80230508
+
+stub/fn_80230570.c:
+	.text       start:0x80230570 end:0x80230574
+
+stub/fn_80231538.c:
+	.text       start:0x80231538 end:0x80231540
+
+stub/fn_80233F84.c:
+	.text       start:0x80233F84 end:0x80233F8C
+
+stub/fn_80234AAC.c:
+	.text       start:0x80234AAC end:0x80234AB0
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
