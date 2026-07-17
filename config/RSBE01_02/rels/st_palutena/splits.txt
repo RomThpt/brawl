@@ -80,6 +80,12 @@ mo_stub/st_palutena/fn_67_2160.c:
 mo_stub/st_palutena/fn_67_2184.c:
 	.text       start:0x00002184 end:0x0000218C
 
+mo_stub/st_palutena/fn_67_218C.c:
+	.text       start:0x0000218C end:0x00002194
+
+mo_stub/st_palutena/fn_67_4294.c:
+	.text       start:0x00004294 end:0x000042B0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000D088 end:0x0000D124
 	.data       start:0x00002FF0 end:0x00002FFD
