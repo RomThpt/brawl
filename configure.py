@@ -1104,6 +1104,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_gamewatch/fn_107_C270.c"),
+            Object(Matching, "mo_stub/ft_gamewatch/fn_107_C284.c"),
         ],
     },
     {
