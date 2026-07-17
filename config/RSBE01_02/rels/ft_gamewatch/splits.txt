@@ -101,6 +101,18 @@ mo_stub/ft_gamewatch/fn_107_16548.c:
 mo_stub/ft_gamewatch/fn_107_16654.c:
 	.text       start:0x00016654 end:0x00016664
 
+mo_stub/ft_gamewatch/fn_107_16664.c:
+	.text       start:0x00016664 end:0x00016674
+
+mo_stub/ft_gamewatch/fn_107_16680.c:
+	.text       start:0x00016680 end:0x00016688
+
+mo_stub/ft_gamewatch/fn_107_16694.c:
+	.text       start:0x00016694 end:0x0001669C
+
+mo_stub/ft_gamewatch/fn_107_166B4.c:
+	.text       start:0x000166B4 end:0x000166BC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00021D7C end:0x00021E18
 	.data       start:0x0000BCA8 end:0x0000BCB7
