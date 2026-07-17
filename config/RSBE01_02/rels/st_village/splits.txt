@@ -95,6 +95,12 @@ mo_stub/st_village/fn_70_86E8.c:
 mo_stub/st_village/fn_70_8704.c:
 	.text       start:0x00008704 end:0x0000871C
 
+mo_stub/st_village/fn_70_871C.c:
+	.text       start:0x0000871C end:0x00008738
+
+mo_stub/st_village/fn_70_8744.c:
+	.text       start:0x00008744 end:0x0000874C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000DA54 end:0x0000DAF0
 	.data       start:0x00004500 end:0x0000450D
