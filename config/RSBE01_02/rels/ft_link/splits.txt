@@ -89,6 +89,18 @@ mo_stub/ft_link/fn_93_F420.c:
 mo_stub/ft_link/fn_93_145C4.c:
 	.text       start:0x000145C4 end:0x000145DC
 
+mo_stub/ft_link/fn_93_145DC.c:
+	.text       start:0x000145DC end:0x000145E4
+
+mo_stub/ft_link/fn_93_145F0.c:
+	.text       start:0x000145F0 end:0x000145F8
+
+mo_stub/ft_link/fn_93_14604.c:
+	.text       start:0x00014604 end:0x0001460C
+
+mo_stub/ft_link/fn_93_14624.c:
+	.text       start:0x00014624 end:0x00014630
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018638 end:0x000186D4
 	.data       start:0x00009AC0 end:0x00009ACF
