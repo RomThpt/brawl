@@ -26,6 +26,15 @@ mo_stub/sora_melee/fn_27_5538.c:
 mo_stub/sora_melee/fn_27_60C8.c:
 	.text       start:0x000060C8 end:0x000060CC
 
+mo_stub/sora_melee/fn_27_60CC.c:
+	.text       start:0x000060CC end:0x000060D4
+
+mo_stub/sora_melee/fn_27_6650.c:
+	.text       start:0x00006650 end:0x00006654
+
+mo_stub/sora_melee/fn_27_6BF4.c:
+	.text       start:0x00006BF4 end:0x00006C00
+
 mo_melee/sora_melee/so/model/so_model_module_simple.cpp:
 	.text       start:0x0000E268 end:0x0000EEAC
 	.rodata     start:0x00000318 end:0x00000320
