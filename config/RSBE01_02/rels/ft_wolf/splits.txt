@@ -125,6 +125,9 @@ mo_stub/ft_wolf/fn_125_10B54.c:
 mo_stub/ft_wolf/fn_125_10B9C.c:
 	.text       start:0x00010B9C end:0x00010BA4
 
+mo_stub/ft_wolf/fn_125_10BA4.c:
+	.text       start:0x00010BA4 end:0x00010BCC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010F04 end:0x00010FA0
 	.data       start:0x00007BA8 end:0x00007BB7
