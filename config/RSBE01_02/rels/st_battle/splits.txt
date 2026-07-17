@@ -11,6 +11,12 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_battle/fn_43_1E4.c:
+	.text       start:0x000001E4 end:0x000001EC
+
+mo_stub/st_battle/fn_43_8C0.c:
+	.text       start:0x000008C0 end:0x000008E0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00000F84 end:0x00001020
 	.data       start:0x000007D8 end:0x000007E5
