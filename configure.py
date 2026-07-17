@@ -1396,6 +1396,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_ike/fn_119_133E0.c"),
             Object(Matching, "mo_stub/ft_ike/fn_119_133F4.c"),
             Object(Matching, "mo_stub/ft_ike/fn_119_13414.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_1341C.c"),
+            Object(Matching, "mo_stub/ft_ike/fn_119_134C8.c"),
         ],
     },
     {
