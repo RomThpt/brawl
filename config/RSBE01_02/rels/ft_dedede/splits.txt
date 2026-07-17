@@ -83,6 +83,21 @@ mo_stub/ft_dedede/fn_117_E6B8.c:
 mo_stub/ft_dedede/fn_117_E708.c:
 	.text       start:0x0000E708 end:0x0000E70C
 
+mo_stub/ft_dedede/fn_117_E70C.c:
+	.text       start:0x0000E70C end:0x0000E710
+
+mo_stub/ft_dedede/fn_117_F40C.c:
+	.text       start:0x0000F40C end:0x0000F410
+
+mo_stub/ft_dedede/fn_117_1119C.c:
+	.text       start:0x0001119C end:0x000111A0
+
+mo_stub/ft_dedede/fn_117_11694.c:
+	.text       start:0x00011694 end:0x00011698
+
+mo_stub/ft_dedede/fn_117_15168.c:
+	.text       start:0x00015168 end:0x00015170
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04
 	.data       start:0x0000C608 end:0x0000C617
