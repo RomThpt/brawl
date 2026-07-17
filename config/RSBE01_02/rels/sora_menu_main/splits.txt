@@ -54,6 +54,21 @@ mo_stub/sora_menu_main/fn_2_28E14.c:
 mo_stub/sora_menu_main/fn_2_296AC.c:
 	.text       start:0x000296AC end:0x000296B4
 
+mo_stub/sora_menu_main/fn_2_2ADB4.c:
+	.text       start:0x0002ADB4 end:0x0002ADBC
+
+mo_stub/sora_menu_main/fn_2_2B578.c:
+	.text       start:0x0002B578 end:0x0002B57C
+
+mo_stub/sora_menu_main/fn_2_38DE4.c:
+	.text       start:0x00038DE4 end:0x00038DE8
+
+mo_stub/sora_menu_main/fn_2_390F4.c:
+	.text       start:0x000390F4 end:0x000390F8
+
+mo_stub/sora_menu_main/fn_2_39C40.c:
+	.text       start:0x00039C40 end:0x00039C44
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x0003D1B8 end:0x0003D254
 	.data       start:0x000052E8 end:0x000052F4
