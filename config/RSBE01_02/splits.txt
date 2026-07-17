@@ -1257,12 +1257,27 @@ stub/fn_803C2E88.c:
 stub/fn_803C759C.c:
 	.text       start:0x803C759C end:0x803C75A0
 
+stub/fn_803CB000.c:
+	.text       start:0x803CB000 end:0x803CB004
+
+stub/fn_803EB3B4.c:
+	.text       start:0x803EB3B4 end:0x803EB3BC
+
+stub/fn_803EBBD8.c:
+	.text       start:0x803EBBD8 end:0x803EBBDC
+
 Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
 	.text       start:0x803F1A08 end:0x803F1A78
 	.ctors      start:0x804064E0 end:0x804064E4 rename:.ctors$10
 	.dtors      start:0x804067E0 end:0x804067E4 rename:.dtors$10
 	.dtors      start:0x804067E4 end:0x804067E8 rename:.dtors$15
 	.sdata      start:0x8059FF48 end:0x8059FF50
+
+stub/fn_803FC97C.c:
+	.text       start:0x803FC97C end:0x803FC984
+
+stub/fn_80400D90.c:
+	.text       start:0x80400D90 end:0x80400D94
 
 TRK_MINNOW_DOLPHIN/usr_put.c:
 	.text       start:0x80401C50 end:0x80401C54
