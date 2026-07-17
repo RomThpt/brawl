@@ -20,6 +20,12 @@ mo_stub/st_greenhill/fn_72_468.c:
 mo_stub/st_greenhill/fn_72_6B8.c:
 	.text       start:0x000006B8 end:0x000006C0
 
+mo_stub/st_greenhill/fn_72_6C0.c:
+	.text       start:0x000006C0 end:0x000006D0
+
+mo_stub/st_greenhill/fn_72_7B0.c:
+	.text       start:0x000007B0 end:0x000007C8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CD70 end:0x0000CE0C
 	.data       start:0x000046E0 end:0x000046ED
