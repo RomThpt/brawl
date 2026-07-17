@@ -164,6 +164,21 @@ mo_stub/st_pictchat/fn_73_A944.c:
 mo_stub/st_pictchat/fn_73_A958.c:
 	.text       start:0x0000A958 end:0x0000A978
 
+mo_stub/st_pictchat/fn_73_AC50.c:
+	.text       start:0x0000AC50 end:0x0000AC58
+
+mo_stub/st_pictchat/fn_73_ADB0.c:
+	.text       start:0x0000ADB0 end:0x0000ADB8
+
+mo_stub/st_pictchat/fn_73_B83C.c:
+	.text       start:0x0000B83C end:0x0000B844
+
+mo_stub/st_pictchat/fn_73_C58C.c:
+	.text       start:0x0000C58C end:0x0000C594
+
+mo_stub/st_pictchat/fn_73_CEA8.c:
+	.text       start:0x0000CEA8 end:0x0000CEB0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000F378 end:0x0000F414
 	.data       start:0x00005E48 end:0x00005E55
