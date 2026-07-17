@@ -18,6 +18,15 @@ mo_stub/sora_menu_collect_viewer/fn_6_59F8.c:
 mo_stub/sora_menu_collect_viewer/fn_6_59FC.c:
 	.text       start:0x000059FC end:0x00005A10
 
+mo_stub/sora_menu_collect_viewer/fn_6_5A10.c:
+	.text       start:0x00005A10 end:0x00005A1C
+
+mo_stub/sora_menu_collect_viewer/fn_6_6064.c:
+	.text       start:0x00006064 end:0x00006068
+
+mo_stub/sora_menu_collect_viewer/fn_6_8174.c:
+	.text       start:0x00008174 end:0x0000817C
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x0000BF84 end:0x0000C020
 	.data       start:0x00000980 end:0x0000098C
