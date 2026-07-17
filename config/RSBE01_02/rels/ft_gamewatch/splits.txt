@@ -20,6 +20,15 @@ mo_stub/ft_gamewatch/fn_107_C140.c:
 mo_stub/ft_gamewatch/fn_107_C18C.c:
 	.text       start:0x0000C18C end:0x0000C190
 
+mo_stub/ft_gamewatch/fn_107_C190.c:
+	.text       start:0x0000C190 end:0x0000C194
+
+mo_stub/ft_gamewatch/fn_107_C220.c:
+	.text       start:0x0000C220 end:0x0000C224
+
+mo_stub/ft_gamewatch/fn_107_C24C.c:
+	.text       start:0x0000C24C end:0x0000C258
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00021D7C end:0x00021E18
 	.data       start:0x0000BCA8 end:0x0000BCB7
