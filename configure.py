@@ -1764,6 +1764,10 @@ config.libs = [
             Object(Matching, "mo_stub/sora_menu_title_sunset/fn_25_1424.c"),
             Object(Matching, "mo_stub/sora_menu_title_sunset/fn_25_2FF4.c"),
             Object(Matching, "mo_stub/sora_menu_watch/fn_15_4E7C.c"),
+            Object(Matching, "mo_stub/sora_minigame/fn_20_928.c"),
+            Object(Matching, "mo_stub/sora_minigame/fn_20_256C.c"),
+            Object(Matching, "mo_stub/sora_minigame/fn_20_2CE8.c"),
+            Object(Matching, "mo_stub/sora_minigame/fn_20_2E58.c"),
         ],
     },
     {
