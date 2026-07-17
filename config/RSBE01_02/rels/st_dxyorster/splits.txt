@@ -47,6 +47,12 @@ mo_stub/st_dxyorster/fn_76_954.c:
 mo_stub/st_dxyorster/fn_76_970.c:
 	.text       start:0x00000970 end:0x00000974
 
+mo_stub/st_dxyorster/fn_76_974.c:
+	.text       start:0x00000974 end:0x00000994
+
+mo_stub/st_dxyorster/fn_76_AFC.c:
+	.text       start:0x00000AFC end:0x00000B00
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007AC8 end:0x00007B64
 	.data       start:0x00002518 end:0x00002525
