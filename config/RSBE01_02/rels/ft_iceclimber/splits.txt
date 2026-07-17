@@ -65,6 +65,21 @@ mo_stub/ft_iceclimber/fn_105_DD8C.c:
 mo_stub/ft_iceclimber/fn_105_DE4C.c:
 	.text       start:0x0000DE4C end:0x0000DE54
 
+mo_stub/ft_iceclimber/fn_105_F458.c:
+	.text       start:0x0000F458 end:0x0000F460
+
+mo_stub/ft_iceclimber/fn_105_1038C.c:
+	.text       start:0x0001038C end:0x00010390
+
+mo_stub/ft_iceclimber/fn_105_10D70.c:
+	.text       start:0x00010D70 end:0x00010D74
+
+mo_stub/ft_iceclimber/fn_105_10DAC.c:
+	.text       start:0x00010DAC end:0x00010DB4
+
+mo_stub/ft_iceclimber/fn_105_11194.c:
+	.text       start:0x00011194 end:0x0001119C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000210B0 end:0x0002114C
 	.data       start:0x0000A548 end:0x0000A557
