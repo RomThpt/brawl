@@ -41,6 +41,15 @@ mo_stub/st_dxgreens/fn_79_17AC.c:
 mo_stub/st_dxgreens/fn_79_17F0.c:
 	.text       start:0x000017F0 end:0x00001810
 
+mo_stub/st_dxgreens/fn_79_1810.c:
+	.text       start:0x00001810 end:0x0000181C
+
+mo_stub/st_dxgreens/fn_79_1838.c:
+	.text       start:0x00001838 end:0x00001840
+
+mo_stub/st_dxgreens/fn_79_1848.c:
+	.text       start:0x00001848 end:0x00001858
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C1DC end:0x0000C278
 	.data       start:0x00003098 end:0x000030A5
