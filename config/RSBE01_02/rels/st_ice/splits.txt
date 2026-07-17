@@ -155,6 +155,12 @@ mo_stub/st_ice/fn_62_9C90.c:
 mo_stub/st_ice/fn_62_9CA4.c:
 	.text       start:0x00009CA4 end:0x00009CAC
 
+mo_stub/st_ice/fn_62_9CAC.c:
+	.text       start:0x00009CAC end:0x00009CC4
+
+mo_stub/st_ice/fn_62_9CE8.c:
+	.text       start:0x00009CE8 end:0x00009CEC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001184C end:0x000118E8
 	.data       start:0x00005AB0 end:0x00005ABD
