@@ -68,6 +68,12 @@ mo_stub/st_famicom/fn_68_2234.c:
 mo_stub/st_famicom/fn_68_2250.c:
 	.text       start:0x00002250 end:0x00002254
 
+mo_stub/st_famicom/fn_68_2254.c:
+	.text       start:0x00002254 end:0x00002274
+
+mo_stub/st_famicom/fn_68_238C.c:
+	.text       start:0x0000238C end:0x00002390
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001390C end:0x000139A8
 	.data       start:0x00003678 end:0x00003685
