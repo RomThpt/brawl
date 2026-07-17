@@ -940,6 +940,7 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/ft_dedede/fn_117_67D4.c"),
             Object(Matching, "mo_stub/ft_dedede/fn_117_A3D0.c"),
+            Object(Matching, "mo_stub/ft_dedede/fn_117_A3E0.c"),
         ],
     },
     {
