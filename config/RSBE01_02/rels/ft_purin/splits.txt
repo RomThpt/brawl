@@ -30,6 +30,18 @@ mo_stub/ft_purin/fn_124_B964.c:
 mo_stub/ft_purin/fn_124_B978.c:
 	.text       start:0x0000B978 end:0x0000B990
 
+mo_stub/ft_purin/fn_124_B990.c:
+	.text       start:0x0000B990 end:0x0000B998
+
+mo_stub/ft_purin/fn_124_BAB0.c:
+	.text       start:0x0000BAB0 end:0x0000BAB4
+
+mo_stub/ft_purin/fn_124_BBB4.c:
+	.text       start:0x0000BBB4 end:0x0000BBB8
+
+mo_stub/ft_purin/fn_124_BC50.c:
+	.text       start:0x0000BC50 end:0x0000BC54
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0000C4A0 end:0x0000C53C
 	.data       start:0x00005D50 end:0x00005D5F
