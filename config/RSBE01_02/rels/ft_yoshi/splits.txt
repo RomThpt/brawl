@@ -56,6 +56,15 @@ mo_stub/ft_yoshi/fn_95_B6D4.c:
 mo_stub/ft_yoshi/fn_95_B6E4.c:
 	.text       start:0x0000B6E4 end:0x0000B70C
 
+mo_stub/ft_yoshi/fn_95_B70C.c:
+	.text       start:0x0000B70C end:0x0000B724
+
+mo_stub/ft_yoshi/fn_95_B784.c:
+	.text       start:0x0000B784 end:0x0000B78C
+
+mo_stub/ft_yoshi/fn_95_B860.c:
+	.text       start:0x0000B860 end:0x0000B868
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001D9D0 end:0x0001DA6C
 	.data       start:0x0000A040 end:0x0000A04F
