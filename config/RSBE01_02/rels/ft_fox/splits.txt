@@ -17,6 +17,9 @@ mo_stub/ft_fox/fn_97_8138.c:
 mo_stub/ft_fox/fn_97_ABD4.c:
 	.text       start:0x0000ABD4 end:0x0000ABDC
 
+mo_stub/ft_fox/fn_97_AEE8.c:
+	.text       start:0x0000AEE8 end:0x0000AEEC
+
 mo_stub/ft_fox/fn_97_AEEC.c:
 	.text       start:0x0000AEEC end:0x0000AEF8
 
