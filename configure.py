@@ -1668,7 +1668,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/sora_menu_name/fn_16_5130.c"),
+        ],
     },
     {
         "lib": "sora_menu_qm",
