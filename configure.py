@@ -1720,6 +1720,11 @@ config.libs = [
             Object(Matching, "mo_stub/sora_menu_edit/fn_5_14B90.c"),
             Object(Matching, "mo_stub/sora_menu_fig_get_demo/fn_26_B38.c"),
             Object(Matching, "mo_stub/sora_menu_fig_get_demo/fn_26_12A0.c"),
+            Object(Matching, "mo_stub/sora_menu_friend_list/fn_14_39B4.c"),
+            Object(Matching, "mo_stub/sora_menu_friend_list/fn_14_4698.c"),
+            Object(Matching, "mo_stub/sora_menu_friend_list/fn_14_75D4.c"),
+            Object(Matching, "mo_stub/sora_menu_friend_list/fn_14_8954.c"),
+            Object(Matching, "mo_stub/sora_menu_friend_list/fn_14_902C.c"),
         ],
     },
     {
