@@ -1662,11 +1662,23 @@ stub/fn_80374BE8.c:
 stub/fn_80374C10.c:
 	.text       start:0x80374C10 end:0x80374C30
 
+stub/fn_8037807C.c:
+	.text       start:0x8037807C end:0x80378084
+
 stub/fn_8037BE6C.c:
 	.text       start:0x8037BE6C end:0x8037BE78
 
 stub/fn_8037BE78.c:
 	.text       start:0x8037BE78 end:0x8037BE7C
+
+stub/fn_8037F1A4.c:
+	.text       start:0x8037F1A4 end:0x8037F1B4
+
+stub/fn_80387DD0.c:
+	.text       start:0x80387DD0 end:0x80387DD8
+
+stub/fn_80388958.c:
+	.text       start:0x80388958 end:0x80388960
 
 stub/fn_8038FD6C.c:
 	.text       start:0x8038FD6C end:0x8038FD70
