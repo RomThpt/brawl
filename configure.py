@@ -2443,6 +2443,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_norfair/fn_54_55E8.c"),
             Object(Matching, "mo_stub/st_norfair/fn_54_5604.c"),
             Object(Matching, "mo_stub/st_norfair/fn_54_5618.c"),
+            Object(Matching, "mo_stub/st_norfair/fn_54_5638.c"),
         ],
     },
     {

@@ -128,6 +128,9 @@ mo_stub/st_norfair/fn_54_5604.c:
 mo_stub/st_norfair/fn_54_5618.c:
 	.text       start:0x00005618 end:0x00005638
 
+mo_stub/st_norfair/fn_54_5638.c:
+	.text       start:0x00005638 end:0x0000565C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010210 end:0x000102AC
 	.data       start:0x00004930 end:0x0000493D
