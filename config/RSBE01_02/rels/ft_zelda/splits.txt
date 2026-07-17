@@ -44,6 +44,12 @@ mo_stub/ft_zelda/fn_104_A728.c:
 mo_stub/ft_zelda/fn_104_A754.c:
 	.text       start:0x0000A754 end:0x0000A764
 
+mo_stub/ft_zelda/fn_104_A764.c:
+	.text       start:0x0000A764 end:0x0000A770
+
+mo_stub/ft_zelda/fn_104_A780.c:
+	.text       start:0x0000A780 end:0x0000A790
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00024D10 end:0x00024DAC
 	.data       start:0x0000D380 end:0x0000D38F
