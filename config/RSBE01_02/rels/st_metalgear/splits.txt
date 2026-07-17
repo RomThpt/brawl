@@ -179,6 +179,9 @@ mo_stub/st_metalgear/fn_71_F688.c:
 mo_stub/st_metalgear/fn_71_F7B4.c:
 	.text       start:0x0000F7B4 end:0x0000F7BC
 
+mo_stub/st_metalgear/fn_71_103E4.c:
+	.text       start:0x000103E4 end:0x000103EC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD
