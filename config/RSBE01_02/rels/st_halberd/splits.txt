@@ -104,6 +104,9 @@ mo_stub/st_halberd/fn_57_A1E0.c:
 mo_stub/st_halberd/fn_57_A420.c:
 	.text       start:0x0000A420 end:0x0000A43C
 
+mo_stub/st_halberd/fn_57_A43C.c:
+	.text       start:0x0000A43C end:0x0000A450
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
 	.data       start:0x00003348 end:0x00003355
