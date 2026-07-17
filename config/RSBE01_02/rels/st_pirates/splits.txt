@@ -11,6 +11,12 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_pirates/fn_52_2A8.c:
+	.text       start:0x000002A8 end:0x000002B0
+
+mo_stub/st_pirates/fn_52_83C.c:
+	.text       start:0x0000083C end:0x0000085C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00013670 end:0x0001370C
 	.data       start:0x00004700 end:0x0000470D
