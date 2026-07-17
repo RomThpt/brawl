@@ -263,6 +263,9 @@ mo_stub/ft_diddy/fn_115_1836C.c:
 mo_stub/ft_diddy/fn_115_18454.c:
 	.text       start:0x00018454 end:0x0001845C
 
+mo_stub/ft_diddy/fn_115_185E4.c:
+	.text       start:0x000185E4 end:0x000185EC
+
 mo_stub/ft_diddy/fn_115_186CC.c:
 	.text       start:0x000186CC end:0x000186D4
 
