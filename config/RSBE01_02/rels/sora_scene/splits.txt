@@ -62,6 +62,9 @@ mo_stub/sora_scene/fn_1_8A80.c:
 mo_stub/sora_scene/fn_1_8A94.c:
 	.text       start:0x00008A94 end:0x00008AB4
 
+mo_stub/sora_scene/fn_1_8AB4.c:
+	.text       start:0x00008AB4 end:0x00008ACC
+
 mo_scene/sora_scene/sc_net_time_result.cpp:
 	.text       start:0x0000C824 end:0x0000C9C4
 	.data       start:0x000040D0 end:0x00004140
