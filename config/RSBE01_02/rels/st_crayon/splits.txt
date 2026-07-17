@@ -22,6 +22,12 @@ mo_stage/st_crayon/gr_crayon_yakumono.cpp:
 	.text       start:0x00002D6C end:0x00002E10
 	.data       start:0x00000F10 end:0x00001118
 
+mo_stub/st_crayon/fn_56_500C.c:
+	.text       start:0x0000500C end:0x00005028
+
+mo_stub/st_crayon/fn_56_512C.c:
+	.text       start:0x0000512C end:0x00005130
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B2B4 end:0x0000B350
 	.data       start:0x00002960 end:0x0000296D
