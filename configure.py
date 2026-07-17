@@ -1519,6 +1519,12 @@ config.libs = [
             Object(Matching, "mo_scene/sora_scene/sc_adv_result.cpp"),
             Object(NonMatching, "mo_scene/sora_scene/sc_adv_gameover.cpp"),
             Object(Matching, "mo_scene/mo_scene.cpp"),
+            Object(Matching, "mo_scene/sora_scene/stub_fn_1_670.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_40D8.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_618C.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_6624.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_6A24.c"),
+            Object(Matching, "mo_stub/sora_scene/fn_1_6CB4.c"),
         ],
     },
     {

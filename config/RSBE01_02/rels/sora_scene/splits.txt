@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_scene/sora_scene/stub_fn_1_670.c:
+	.text       start:0x00000670 end:0x00000678
+
 mo_scene/sora_scene/sc_demo.cpp:
 	.text       start:0x0000068C end:0x00000768
 	.data       start:0x000000A0 end:0x000000E0
@@ -19,9 +22,24 @@ mo_scene/sora_scene/sc_tutorial.cpp:
 	.text       start:0x00000768 end:0x00000810
 	.data       start:0x000000E0 end:0x00000128
 
+mo_stub/sora_scene/fn_1_40D8.c:
+	.text       start:0x000040D8 end:0x000040E0
+
+mo_stub/sora_scene/fn_1_618C.c:
+	.text       start:0x0000618C end:0x00006194
+
 mo_scene/sora_scene/sc_staffroll.cpp:
 	.text       start:0x000061A4 end:0x0000624C
 	.data       start:0x00001400 end:0x00001448
+
+mo_stub/sora_scene/fn_1_6624.c:
+	.text       start:0x00006624 end:0x00006628
+
+mo_stub/sora_scene/fn_1_6A24.c:
+	.text       start:0x00006A24 end:0x00006A2C
+
+mo_stub/sora_scene/fn_1_6CB4.c:
+	.text       start:0x00006CB4 end:0x00006CBC
 
 mo_scene/sora_scene/sc_seal_list.cpp:
 	.text       start:0x00007070 end:0x00007230
