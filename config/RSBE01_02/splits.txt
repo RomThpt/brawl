@@ -606,11 +606,20 @@ stub/fn_80154294.c:
 stub/fn_801542A8.c:
 	.text       start:0x801542A8 end:0x801542B0
 
+stub/fn_801542BC.c:
+	.text       start:0x801542BC end:0x801542C4
+
 stub/fn_801593CC.c:
 	.text       start:0x801593CC end:0x801593D0
 
 stub/fn_80159B28.c:
 	.text       start:0x80159B28 end:0x80159B2C
+
+stub/fn_8015A41C.c:
+	.text       start:0x8015A41C end:0x8015A424
+
+stub/fn_8015A7C4.c:
+	.text       start:0x8015A7C4 end:0x8015A7CC
 
 sora/ad/ad_static_data.cpp:
 	.text       start:0x8015B09C end:0x8015B0E0
@@ -638,6 +647,9 @@ stub/fn_8015D308.c:
 
 stub/fn_8015D330.c:
 	.text       start:0x8015D330 end:0x8015D340
+
+stub/fn_8015D340.c:
+	.text       start:0x8015D340 end:0x8015D350
 
 stub/fn_8015D700.c:
 	.text       start:0x8015D700 end:0x8015D718
