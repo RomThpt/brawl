@@ -50,6 +50,9 @@ mo_stub/st_stageedit/fn_85_53B0.c:
 mo_stub/st_stageedit/fn_85_53F0.c:
 	.text       start:0x000053F0 end:0x000053F8
 
+mo_stub/st_stageedit/fn_85_53F8.c:
+	.text       start:0x000053F8 end:0x00005400
+
 mo_stub/st_stageedit/fn_85_5400.c:
 	.text       start:0x00005400 end:0x00005410
 
