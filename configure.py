@@ -2022,6 +2022,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikachu/fn_98_DF64.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_E200.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_FF64.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_FF6C.c"),
         ],
     },
     {
