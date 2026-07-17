@@ -41,6 +41,12 @@ mo_stub/st_tengan/fn_60_6150.c:
 mo_stub/st_tengan/fn_60_6194.c:
 	.text       start:0x00006194 end:0x000061AC
 
+mo_stub/st_tengan/fn_60_61AC.c:
+	.text       start:0x000061AC end:0x000061C0
+
+mo_stub/st_tengan/fn_60_61DC.c:
+	.text       start:0x000061DC end:0x000061EC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000077B4 end:0x00007850
 	.data       start:0x00001208 end:0x00001215
