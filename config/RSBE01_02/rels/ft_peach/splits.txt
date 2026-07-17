@@ -158,6 +158,9 @@ mo_stub/ft_peach/fn_103_1340C.c:
 mo_stub/ft_peach/fn_103_13438.c:
 	.text       start:0x00013438 end:0x00013440
 
+mo_stub/ft_peach/fn_103_13488.c:
+	.text       start:0x00013488 end:0x0001348C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000136F0 end:0x0001378C
 	.data       start:0x00007158 end:0x00007167
