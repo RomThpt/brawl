@@ -41,6 +41,18 @@ mo_stub/st_greenhill/fn_72_F3C.c:
 mo_stub/st_greenhill/fn_72_F80.c:
 	.text       start:0x00000F80 end:0x00000FA8
 
+mo_stub/st_greenhill/fn_72_FA8.c:
+	.text       start:0x00000FA8 end:0x00000FAC
+
+mo_stub/st_greenhill/fn_72_FC8.c:
+	.text       start:0x00000FC8 end:0x00000FD0
+
+mo_stub/st_greenhill/fn_72_FD8.c:
+	.text       start:0x00000FD8 end:0x00000FE8
+
+mo_stub/st_greenhill/fn_72_FF4.c:
+	.text       start:0x00000FF4 end:0x00000FF8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CD70 end:0x0000CE0C
 	.data       start:0x000046E0 end:0x000046ED
