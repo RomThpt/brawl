@@ -415,6 +415,9 @@ stub/fn_8012407C.c:
 stub/fn_80132224.c:
 	.text       start:0x80132224 end:0x80132228
 
+stub/fn_80132228.c:
+	.text       start:0x80132228 end:0x80132230
+
 stub/fn_80132230.c:
 	.text       start:0x80132230 end:0x80132240
 
@@ -456,6 +459,15 @@ sora/ft/ft_system.cpp:
 	.ctors      start:0x80406558 end:0x8040655C
 	.bss        start:0x8049EA20 end:0x8049EA30
 	.sbss       start:0x805A0380 end:0x805A0388
+
+stub/fn_8013D09C.c:
+	.text       start:0x8013D09C end:0x8013D0A0
+
+stub/fn_8013D118.c:
+	.text       start:0x8013D118 end:0x8013D11C
+
+stub/fn_80143C44.c:
+	.text       start:0x80143C44 end:0x80143C48
 
 sora/nt/nt_offline.cpp:
 	.text       start:0x8014C004 end:0x8014C180
