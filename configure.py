@@ -4517,6 +4517,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_village/fn_70_86AC.c"),
             Object(Matching, "mo_stub/st_village/fn_70_86E0.c"),
             Object(Matching, "mo_stub/st_village/fn_70_86E8.c"),
+            Object(Matching, "mo_stub/st_village/fn_70_8704.c"),
         ],
     },
 ]
