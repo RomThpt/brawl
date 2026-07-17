@@ -77,6 +77,63 @@ mo_stub/st_dxyorster/fn_76_2E90.c:
 mo_stub/st_dxyorster/fn_76_2EB8.c:
 	.text       start:0x00002EB8 end:0x00002ED8
 
+mo_stub/st_dxyorster/fn_76_2EFC.c:
+	.text       start:0x00002EFC end:0x00002F10
+
+mo_stub/st_dxyorster/fn_76_2F10.c:
+	.text       start:0x00002F10 end:0x00002F30
+
+mo_stub/st_dxyorster/fn_76_2F30.c:
+	.text       start:0x00002F30 end:0x00002F4C
+
+mo_stub/st_dxyorster/fn_76_2F4C.c:
+	.text       start:0x00002F4C end:0x00002F54
+
+mo_stub/st_dxyorster/fn_76_2F60.c:
+	.text       start:0x00002F60 end:0x00002F80
+
+mo_stub/st_dxyorster/fn_76_2F80.c:
+	.text       start:0x00002F80 end:0x00002FA4
+
+mo_stub/st_dxyorster/fn_76_2FA4.c:
+	.text       start:0x00002FA4 end:0x00002FB4
+
+mo_stub/st_dxyorster/fn_76_2FD4.c:
+	.text       start:0x00002FD4 end:0x00002FDC
+
+mo_stub/st_dxyorster/fn_76_3024.c:
+	.text       start:0x00003024 end:0x00003028
+
+mo_stub/st_dxyorster/fn_76_33A4.c:
+	.text       start:0x000033A4 end:0x000033AC
+
+mo_stub/st_dxyorster/fn_76_3D58.c:
+	.text       start:0x00003D58 end:0x00003D60
+
+mo_stub/st_dxyorster/fn_76_3E20.c:
+	.text       start:0x00003E20 end:0x00003E28
+
+mo_stub/st_dxyorster/fn_76_3EE8.c:
+	.text       start:0x00003EE8 end:0x00003EF0
+
+mo_stub/st_dxyorster/fn_76_4048.c:
+	.text       start:0x00004048 end:0x00004050
+
+mo_stub/st_dxyorster/fn_76_4CF4.c:
+	.text       start:0x00004CF4 end:0x00004CFC
+
+mo_stub/st_dxyorster/fn_76_5768.c:
+	.text       start:0x00005768 end:0x00005770
+
+mo_stub/st_dxyorster/fn_76_62A4.c:
+	.text       start:0x000062A4 end:0x000062AC
+
+mo_stub/st_dxyorster/fn_76_6F4C.c:
+	.text       start:0x00006F4C end:0x00006F54
+
+mo_stub/st_dxyorster/fn_76_7830.c:
+	.text       start:0x00007830 end:0x00007838
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007AC8 end:0x00007B64
 	.data       start:0x00002518 end:0x00002525

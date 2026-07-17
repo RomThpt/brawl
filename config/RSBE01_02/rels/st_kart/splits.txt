@@ -98,6 +98,54 @@ mo_stub/st_kart/fn_49_5B90.c:
 mo_stub/st_kart/fn_49_5BA0.c:
 	.text       start:0x00005BA0 end:0x00005BBC
 
+mo_stub/st_kart/fn_49_5BBC.c:
+	.text       start:0x00005BBC end:0x00005BC0
+
+mo_stub/st_kart/fn_49_5BE4.c:
+	.text       start:0x00005BE4 end:0x00005BF4
+
+mo_stub/st_kart/fn_49_5BF4.c:
+	.text       start:0x00005BF4 end:0x00005C14
+
+mo_stub/st_kart/fn_49_5C14.c:
+	.text       start:0x00005C14 end:0x00005C2C
+
+mo_stub/st_kart/fn_49_5C2C.c:
+	.text       start:0x00005C2C end:0x00005C3C
+
+mo_stub/st_kart/fn_49_5C48.c:
+	.text       start:0x00005C48 end:0x00005C60
+
+mo_stub/st_kart/fn_49_5C60.c:
+	.text       start:0x00005C60 end:0x00005C88
+
+mo_stub/st_kart/fn_49_5C88.c:
+	.text       start:0x00005C88 end:0x00005C9C
+
+mo_stub/st_kart/fn_49_5CBC.c:
+	.text       start:0x00005CBC end:0x00005CC4
+
+mo_stub/st_kart/fn_49_5D0C.c:
+	.text       start:0x00005D0C end:0x00005D1C
+
+mo_stub/st_kart/fn_49_5D1C.c:
+	.text       start:0x00005D1C end:0x00005D20
+
+mo_stub/st_kart/fn_49_6088.c:
+	.text       start:0x00006088 end:0x00006090
+
+mo_stub/st_kart/fn_49_6214.c:
+	.text       start:0x00006214 end:0x0000621C
+
+mo_stub/st_kart/fn_49_6B08.c:
+	.text       start:0x00006B08 end:0x00006B14
+
+mo_stub/st_kart/fn_49_6B14.c:
+	.text       start:0x00006B14 end:0x00006B28
+
+mo_stub/st_kart/fn_49_6B28.c:
+	.text       start:0x00006B28 end:0x00006B48
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CA58 end:0x0000CAF4
 	.data       start:0x000027F8 end:0x00002805

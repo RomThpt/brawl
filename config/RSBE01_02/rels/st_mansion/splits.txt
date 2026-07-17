@@ -98,6 +98,63 @@ mo_stub/st_mansion/fn_47_1A4C.c:
 mo_stub/st_mansion/fn_47_3854.c:
 	.text       start:0x00003854 end:0x00003868
 
+mo_stub/st_mansion/fn_47_3868.c:
+	.text       start:0x00003868 end:0x00003870
+
+mo_stub/st_mansion/fn_47_3974.c:
+	.text       start:0x00003974 end:0x00003978
+
+mo_stub/st_mansion/fn_47_3BB4.c:
+	.text       start:0x00003BB4 end:0x00003BC4
+
+mo_stub/st_mansion/fn_47_3BC4.c:
+	.text       start:0x00003BC4 end:0x00003BD0
+
+mo_stub/st_mansion/fn_47_3BDC.c:
+	.text       start:0x00003BDC end:0x00003BF4
+
+mo_stub/st_mansion/fn_47_3BF4.c:
+	.text       start:0x00003BF4 end:0x00003BFC
+
+mo_stub/st_mansion/fn_47_3C20.c:
+	.text       start:0x00003C20 end:0x00003C2C
+
+mo_stub/st_mansion/fn_47_3C2C.c:
+	.text       start:0x00003C2C end:0x00003C48
+
+mo_stub/st_mansion/fn_47_3C48.c:
+	.text       start:0x00003C48 end:0x00003C60
+
+mo_stub/st_mansion/fn_47_3C60.c:
+	.text       start:0x00003C60 end:0x00003C78
+
+mo_stub/st_mansion/fn_47_3C84.c:
+	.text       start:0x00003C84 end:0x00003C94
+
+mo_stub/st_mansion/fn_47_3C94.c:
+	.text       start:0x00003C94 end:0x00003CBC
+
+mo_stub/st_mansion/fn_47_3CBC.c:
+	.text       start:0x00003CBC end:0x00003CD4
+
+mo_stub/st_mansion/fn_47_3CD4.c:
+	.text       start:0x00003CD4 end:0x00003CD8
+
+mo_stub/st_mansion/fn_47_3CF8.c:
+	.text       start:0x00003CF8 end:0x00003D00
+
+mo_stub/st_mansion/fn_47_3D48.c:
+	.text       start:0x00003D48 end:0x00003D4C
+
+mo_stub/st_mansion/fn_47_40B4.c:
+	.text       start:0x000040B4 end:0x000040BC
+
+mo_stub/st_mansion/fn_47_4240.c:
+	.text       start:0x00004240 end:0x00004248
+
+mo_stub/st_mansion/fn_47_4B34.c:
+	.text       start:0x00004B34 end:0x00004B4C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CC28 end:0x0000CCC4
 	.data       start:0x00003060 end:0x0000306D
