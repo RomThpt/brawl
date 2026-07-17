@@ -1035,6 +1035,15 @@ stub/fn_802D7704.c:
 stub/fn_802D7FC0.c:
 	.text       start:0x802D7FC0 end:0x802D7FCC
 
+stub/fn_802D7FCC.c:
+	.text       start:0x802D7FCC end:0x802D7FE0
+
+stub/fn_802D8000.c:
+	.text       start:0x802D8000 end:0x802D8008
+
+stub/fn_802D9424.c:
+	.text       start:0x802D9424 end:0x802D942C
+
 TRK_MINNOW_DOLPHIN/soh.c:
 	.text       start:0x803A7B00 end:0x803A7B04
 
