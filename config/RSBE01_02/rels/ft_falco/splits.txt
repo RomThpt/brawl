@@ -107,6 +107,9 @@ mo_stub/ft_falco/fn_108_E0E8.c:
 mo_stub/ft_falco/fn_108_E1D0.c:
 	.text       start:0x0000E1D0 end:0x0000E1D8
 
+mo_stub/ft_falco/fn_108_E2B8.c:
+	.text       start:0x0000E2B8 end:0x0000E2C0
+
 mo_stub/ft_falco/fn_108_10968.c:
 	.text       start:0x00010968 end:0x00010978
 
