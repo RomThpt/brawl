@@ -53,6 +53,9 @@ mo_stub/st_homerun/fn_88_17F0.c:
 mo_stub/st_homerun/fn_88_3B4C.c:
 	.text       start:0x00003B4C end:0x00003B5C
 
+mo_stub/st_homerun/fn_88_40F0.c:
+	.text       start:0x000040F0 end:0x00004114
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000857C end:0x00008618
 	.data       start:0x00002570 end:0x0000257D
