@@ -89,6 +89,18 @@ mo_stub/st_dxgarden/fn_77_3B94.c:
 mo_stub/st_dxgarden/fn_77_3C28.c:
 	.text       start:0x00003C28 end:0x00003C30
 
+mo_stub/st_dxgarden/fn_77_3D88.c:
+	.text       start:0x00003D88 end:0x00003D90
+
+mo_stub/st_dxgarden/fn_77_4814.c:
+	.text       start:0x00004814 end:0x0000481C
+
+mo_stub/st_dxgarden/fn_77_5564.c:
+	.text       start:0x00005564 end:0x0000556C
+
+mo_stub/st_dxgarden/fn_77_5E80.c:
+	.text       start:0x00005E80 end:0x00005E88
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000065E8 end:0x00006684
 	.data       start:0x00002098 end:0x000020A5
