@@ -443,14 +443,29 @@ stub/fn_800FD648.c:
 stub/fn_800FF2BC.c:
 	.text       start:0x800FF2BC end:0x800FF2C4
 
+stub/fn_80101370.c:
+	.text       start:0x80101370 end:0x80101378
+
 stub/fn_80103C40.c:
 	.text       start:0x80103C40 end:0x80103C44
+
+stub/fn_80104890.c:
+	.text       start:0x80104890 end:0x80104898
+
+stub/fn_801048A4.c:
+	.text       start:0x801048A4 end:0x801048AC
 
 stub/fn_801056DC.c:
 	.text       start:0x801056DC end:0x801056E0
 
+stub/fn_80106A5C.c:
+	.text       start:0x80106A5C end:0x80106A64
+
 stub/fn_80106E40.c:
 	.text       start:0x80106E40 end:0x80106E48
+
+stub/fn_801077D0.c:
+	.text       start:0x801077D0 end:0x801077D8
 
 sora/if/if_adv_task.cpp:
 	.text       start:0x80107EC4 end:0x80108014
