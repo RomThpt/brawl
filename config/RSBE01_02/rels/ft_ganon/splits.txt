@@ -137,6 +137,9 @@ mo_stub/ft_ganon/fn_109_117EC.c:
 mo_stub/ft_ganon/fn_109_1180C.c:
 	.text       start:0x0001180C end:0x0001182C
 
+mo_stub/ft_ganon/fn_109_11850.c:
+	.text       start:0x00011850 end:0x00011864
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00011F6C end:0x00012008
 	.data       start:0x00007420 end:0x0000742F
