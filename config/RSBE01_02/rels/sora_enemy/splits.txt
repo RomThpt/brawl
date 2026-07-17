@@ -173,9 +173,15 @@ mo_stub/sora_enemy/fn_41_1F4F8.c:
 mo_stub/sora_enemy/fn_41_1F560.c:
 	.text       start:0x0001F560 end:0x0001F574
 
+mo_stub/sora_enemy/fn_41_1F574.c:
+	.text       start:0x0001F574 end:0x0001F57C
+
 mo_enemy/sora_enemy/resource/em_resource_module_impl.cpp:
 	.text       start:0x0001F57C end:0x0001F82C
 	.data       start:0x00002C18 end:0x00002CF8
+
+mo_stub/sora_enemy/fn_41_22BDC.c:
+	.text       start:0x00022BDC end:0x00022BE4
 
 mo_enemy/sora_enemy/stop/em_stop_module_impl.cpp:
 	.text       start:0x00022C88 end:0x00022D94
@@ -185,6 +191,12 @@ mo_enemy/sora_enemy/em_extend_param_accesser.cpp:
 	.text       start:0x00022D94 end:0x00022EE8
 	.data       start:0x00003200 end:0x00003280
 	.bss        start:0x000000B8 end:0x000001B0
+
+mo_stub/sora_enemy/fn_41_27750.c:
+	.text       start:0x00027750 end:0x00027758
+
+mo_stub/sora_enemy/fn_41_27974.c:
+	.text       start:0x00027974 end:0x0002797C
 
 mo_enemy/sora_enemy/em_external_value_accesser.cpp:
 	.text       start:0x000285A8 end:0x0002893C
