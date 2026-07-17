@@ -65,6 +65,21 @@ mo_stub/ft_pikachu/fn_98_9F84.c:
 mo_stub/ft_pikachu/fn_98_A060.c:
 	.text       start:0x0000A060 end:0x0000A068
 
+mo_stub/ft_pikachu/fn_98_A0F8.c:
+	.text       start:0x0000A0F8 end:0x0000A100
+
+mo_stub/ft_pikachu/fn_98_A1B8.c:
+	.text       start:0x0000A1B8 end:0x0000A1C0
+
+mo_stub/ft_pikachu/fn_98_B59C.c:
+	.text       start:0x0000B59C end:0x0000B5A4
+
+mo_stub/ft_pikachu/fn_98_C430.c:
+	.text       start:0x0000C430 end:0x0000C434
+
+mo_stub/ft_pikachu/fn_98_CCDC.c:
+	.text       start:0x0000CCDC end:0x0000CCE0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390
 	.data       start:0x000099C8 end:0x000099D7
