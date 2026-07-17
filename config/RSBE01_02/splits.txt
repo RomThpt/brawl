@@ -297,6 +297,9 @@ sora/st/st_data_container.cpp:
 	.data       start:0x80462C08 end:0x80462C78
 	.sdata      start:0x8059E848 end:0x8059E858
 
+TRK_MINNOW_DOLPHIN/soh.c:
+	.text       start:0x803A7B00 end:0x803A7B04
+
 Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
 	.text       start:0x803F1A08 end:0x803F1A78
 	.ctors      start:0x804064E0 end:0x804064E4 rename:.ctors$10
@@ -304,8 +307,20 @@ Runtime.PPCEABI.H/__init_cpp_exceptions.cpp:
 	.dtors      start:0x804067E4 end:0x804067E8 rename:.dtors$15
 	.sdata      start:0x8059FF48 end:0x8059FF50
 
+TRK_MINNOW_DOLPHIN/usr_put.c:
+	.text       start:0x80401C50 end:0x80401C54
+
 TRK_MINNOW_DOLPHIN/dispatch.c:
 	.text       start:0x80401E1C end:0x80401E24
 
+TRK_MINNOW_DOLPHIN/uart.c:
+	.text       start:0x80405A80 end:0x80405A84
+
 TRK_MINNOW_DOLPHIN/udp_cc.c:
 	.text       start:0x80405F08 end:0x80405F50
+
+TRK_MINNOW_DOLPHIN/gdev_cc_close.c:
+	.text       start:0x80406154 end:0x8040615C
+
+TRK_MINNOW_DOLPHIN/gdev_cc_shutdown.c:
+	.text       start:0x80406180 end:0x80406188

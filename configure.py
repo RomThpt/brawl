@@ -280,6 +280,11 @@ config.libs = [
             Object(NonMatching, "Runtime.PPCEABI.H/__init_cpp_exceptions.cpp"),
             Object(Matching, "TRK_MINNOW_DOLPHIN/dispatch.c"),
             Object(Matching, "TRK_MINNOW_DOLPHIN/udp_cc.c"),
+            Object(Matching, "TRK_MINNOW_DOLPHIN/gdev_cc_shutdown.c"),
+            Object(Matching, "TRK_MINNOW_DOLPHIN/gdev_cc_close.c"),
+            Object(Matching, "TRK_MINNOW_DOLPHIN/uart.c"),
+            Object(Matching, "TRK_MINNOW_DOLPHIN/usr_put.c"),
+            Object(Matching, "TRK_MINNOW_DOLPHIN/soh.c"),
         ],
     },
     # The DOL
