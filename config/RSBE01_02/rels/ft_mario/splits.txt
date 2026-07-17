@@ -20,6 +20,12 @@ mo_stub/ft_mario/fn_91_A394.c:
 mo_stub/ft_mario/fn_91_A3D8.c:
 	.text       start:0x0000A3D8 end:0x0000A3E0
 
+mo_stub/ft_mario/fn_91_A46C.c:
+	.text       start:0x0000A46C end:0x0000A470
+
+mo_stub/ft_mario/fn_91_A498.c:
+	.text       start:0x0000A498 end:0x0000A4A8
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000194DC end:0x00019578
 	.data       start:0x0000A068 end:0x0000A077
