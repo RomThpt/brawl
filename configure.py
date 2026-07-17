@@ -2144,6 +2144,8 @@ config.libs = [
             Object(Matching, "mo_stub/st_dxcorneria/fn_82_3E3C.c"),
             Object(Matching, "mo_stub/st_dxcorneria/fn_82_4040.c"),
             Object(Matching, "mo_stub/st_dxcorneria/fn_82_4108.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_43CC.c"),
+            Object(Matching, "mo_stub/st_dxcorneria/fn_82_4418.c"),
         ],
     },
     {
