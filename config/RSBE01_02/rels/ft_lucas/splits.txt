@@ -20,6 +20,15 @@ mo_stub/ft_lucas/fn_114_C9CC.c:
 mo_stub/ft_lucas/fn_114_CA18.c:
 	.text       start:0x0000CA18 end:0x0000CA1C
 
+mo_stub/ft_lucas/fn_114_CA1C.c:
+	.text       start:0x0000CA1C end:0x0000CA20
+
+mo_stub/ft_lucas/fn_114_CAAC.c:
+	.text       start:0x0000CAAC end:0x0000CAB0
+
+mo_stub/ft_lucas/fn_114_CAD8.c:
+	.text       start:0x0000CAD8 end:0x0000CAE4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00020EA4 end:0x00020F40
 	.data       start:0x0000B538 end:0x0000B547
