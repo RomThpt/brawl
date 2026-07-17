@@ -35,6 +35,9 @@ mo_stub/st_village/fn_70_1D90.c:
 mo_stub/st_village/fn_70_1DD4.c:
 	.text       start:0x00001DD4 end:0x00001DDC
 
+mo_stub/st_village/fn_70_1DDC.c:
+	.text       start:0x00001DDC end:0x00001E00
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000DA54 end:0x0000DAF0
 	.data       start:0x00004500 end:0x0000450D
