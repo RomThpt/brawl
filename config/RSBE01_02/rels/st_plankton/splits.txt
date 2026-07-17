@@ -98,6 +98,9 @@ mo_stub/st_plankton/fn_74_5A8C.c:
 mo_stub/st_plankton/fn_74_5A9C.c:
 	.text       start:0x00005A9C end:0x00005ABC
 
+mo_stub/st_plankton/fn_74_5ABC.c:
+	.text       start:0x00005ABC end:0x00005AD4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000D78C end:0x0000D828
 	.data       start:0x00003108 end:0x00003115
