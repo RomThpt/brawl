@@ -74,6 +74,15 @@ mo_stub/st_pictchat/fn_73_2A70.c:
 mo_stub/st_pictchat/fn_73_2AB4.c:
 	.text       start:0x00002AB4 end:0x00002ACC
 
+mo_stub/st_pictchat/fn_73_2ACC.c:
+	.text       start:0x00002ACC end:0x00002AE0
+
+mo_stub/st_pictchat/fn_73_2AFC.c:
+	.text       start:0x00002AFC end:0x00002B04
+
+mo_stub/st_pictchat/fn_73_2B0C.c:
+	.text       start:0x00002B0C end:0x00002B14
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000F378 end:0x0000F414
 	.data       start:0x00005E48 end:0x00005E55
