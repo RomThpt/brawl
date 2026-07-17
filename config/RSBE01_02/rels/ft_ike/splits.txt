@@ -26,6 +26,9 @@ mo_stub/ft_ike/fn_119_9640.c:
 mo_stub/ft_ike/fn_119_966C.c:
 	.text       start:0x0000966C end:0x00009680
 
+mo_stub/ft_ike/fn_119_9680.c:
+	.text       start:0x00009680 end:0x00009694
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00013DE8 end:0x00013E84
 	.data       start:0x000068B8 end:0x000068C7
