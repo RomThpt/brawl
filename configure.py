@@ -2308,6 +2308,10 @@ config.libs = [
             Object(Matching, "mo_stub/st_madein/fn_65_68F0.c"),
             Object(Matching, "mo_stub/st_madein/fn_65_691C.c"),
             Object(Matching, "mo_stub/st_madein/fn_65_6950.c"),
+            Object(Matching, "mo_stub/st_madein/fn_65_6970.c"),
+            Object(Matching, "mo_stub/st_madein/fn_65_6990.c"),
+            Object(Matching, "mo_stub/st_madein/fn_65_69A0.c"),
+            Object(Matching, "mo_stub/st_madein/fn_65_69BC.c"),
         ],
     },
     {

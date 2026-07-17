@@ -29,6 +29,18 @@ mo_stub/st_madein/fn_65_691C.c:
 mo_stub/st_madein/fn_65_6950.c:
 	.text       start:0x00006950 end:0x00006970
 
+mo_stub/st_madein/fn_65_6970.c:
+	.text       start:0x00006970 end:0x00006974
+
+mo_stub/st_madein/fn_65_6990.c:
+	.text       start:0x00006990 end:0x00006998
+
+mo_stub/st_madein/fn_65_69A0.c:
+	.text       start:0x000069A0 end:0x000069B0
+
+mo_stub/st_madein/fn_65_69BC.c:
+	.text       start:0x000069BC end:0x000069C0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00006B24 end:0x00006BC0
 	.data       start:0x00000840 end:0x0000084D
