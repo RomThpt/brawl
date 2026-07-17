@@ -11,6 +11,15 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_lucas/fn_114_8BC0.c:
+	.text       start:0x00008BC0 end:0x00008BC8
+
+mo_stub/ft_lucas/fn_114_C9CC.c:
+	.text       start:0x0000C9CC end:0x0000C9DC
+
+mo_stub/ft_lucas/fn_114_CA18.c:
+	.text       start:0x0000CA18 end:0x0000CA1C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00020EA4 end:0x00020F40
 	.data       start:0x0000B538 end:0x0000B547
