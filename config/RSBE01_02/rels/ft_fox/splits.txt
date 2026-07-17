@@ -104,6 +104,9 @@ mo_stub/ft_fox/fn_97_DFC4.c:
 mo_stub/ft_fox/fn_97_E0AC.c:
 	.text       start:0x0000E0AC end:0x0000E0B4
 
+mo_stub/ft_fox/fn_97_E194.c:
+	.text       start:0x0000E194 end:0x0000E19C
+
 mo_stub/ft_fox/fn_97_10998.c:
 	.text       start:0x00010998 end:0x000109A8
 
