@@ -32,6 +32,9 @@ mo_stub/st_dxonett/fn_78_8E0.c:
 mo_stub/st_dxonett/fn_78_AB8.c:
 	.text       start:0x00000AB8 end:0x00000AC0
 
+mo_stub/st_dxonett/fn_78_AC0.c:
+	.text       start:0x00000AC0 end:0x00000AE8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000089F0 end:0x00008A8C
 	.data       start:0x00002788 end:0x00002795
