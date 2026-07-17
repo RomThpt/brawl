@@ -137,6 +137,18 @@ mo_stub/st_gw/fn_63_391C.c:
 mo_stub/st_gw/fn_63_3980.c:
 	.text       start:0x00003980 end:0x00003984
 
+mo_stub/st_gw/fn_63_3984.c:
+	.text       start:0x00003984 end:0x00003988
+
+mo_stub/st_gw/fn_63_9348.c:
+	.text       start:0x00009348 end:0x00009358
+
+mo_stub/st_gw/fn_63_945C.c:
+	.text       start:0x0000945C end:0x00009460
+
+mo_stub/st_gw/fn_63_969C.c:
+	.text       start:0x0000969C end:0x000096A0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
