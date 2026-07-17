@@ -134,6 +134,18 @@ mo_stub/st_pictchat/fn_73_96F0.c:
 mo_stub/st_pictchat/fn_73_9720.c:
 	.text       start:0x00009720 end:0x00009728
 
+mo_stub/st_pictchat/fn_73_9770.c:
+	.text       start:0x00009770 end:0x00009774
+
+mo_stub/st_pictchat/fn_73_97B4.c:
+	.text       start:0x000097B4 end:0x000097BC
+
+mo_stub/st_pictchat/fn_73_9DA0.c:
+	.text       start:0x00009DA0 end:0x00009DA8
+
+mo_stub/st_pictchat/fn_73_9E38.c:
+	.text       start:0x00009E38 end:0x00009E40
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000F378 end:0x0000F414
 	.data       start:0x00005E48 end:0x00005E55
