@@ -20,6 +20,12 @@ mo_stub/ft_captain/fn_100_948C.c:
 mo_stub/ft_captain/fn_100_94D4.c:
 	.text       start:0x000094D4 end:0x000094DC
 
+mo_stub/ft_captain/fn_100_9568.c:
+	.text       start:0x00009568 end:0x0000956C
+
+mo_stub/ft_captain/fn_100_9594.c:
+	.text       start:0x00009594 end:0x000095A4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001589C end:0x00015938
 	.data       start:0x00007800 end:0x0000780F
