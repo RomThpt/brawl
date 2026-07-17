@@ -913,7 +913,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_captain/fn_100_95BC.c"),
+        ],
     },
     {
         "lib": "ft_dedede",
