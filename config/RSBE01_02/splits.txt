@@ -283,15 +283,24 @@ stub/fn_8009BA28.c:
 stub/fn_8009C618.c:
 	.text       start:0x8009C618 end:0x8009C61C
 
+stub/fn_8009CC20.c:
+	.text       start:0x8009CC20 end:0x8009CC2C
+
 sora/cm/cm_controller_default.cpp:
 	.text       start:0x8009F560 end:0x8009F564
 	.data       start:0x80454CC0 end:0x80454CD0
+
+stub/fn_800A5F6C.c:
+	.text       start:0x800A5F6C end:0x800A5F70
 
 sora/cm/cm_controller_menu_fixed.cpp:
 	.text       start:0x800A68C0 end:0x800A6A78
 	.data       start:0x80454ED8 end:0x80454F10
 	.sdata      start:0x8059DEB8 end:0x8059DEC0
 	.sdata2     start:0x805A2048 end:0x805A2058
+
+stub/fn_800A6CF4.c:
+	.text       start:0x800A6CF4 end:0x800A6CF8
 
 sora/cm/cm_controller_melee_fixed.cpp:
 	.text       start:0x800AA998 end:0x800AA9F8
