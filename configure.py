@@ -1886,6 +1886,10 @@ config.libs = [
             Object(Matching, "mo_stub/st_dolpic/fn_46_3FEC.c"),
             Object(Matching, "mo_stub/st_dolpic/fn_46_4288.c"),
             Object(Matching, "mo_stub/st_dolpic/fn_46_428C.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_1EC.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_690.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_880.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_984.c"),
         ],
     },
     {
