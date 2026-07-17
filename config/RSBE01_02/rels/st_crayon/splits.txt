@@ -76,6 +76,21 @@ mo_stub/st_crayon/fn_56_62F8.c:
 mo_stub/st_crayon/fn_56_630C.c:
 	.text       start:0x0000630C end:0x0000632C
 
+mo_stub/st_crayon/fn_56_63A4.c:
+	.text       start:0x000063A4 end:0x000063AC
+
+mo_stub/st_crayon/fn_56_646C.c:
+	.text       start:0x0000646C end:0x00006474
+
+mo_stub/st_crayon/fn_56_6664.c:
+	.text       start:0x00006664 end:0x0000666C
+
+mo_stub/st_crayon/fn_56_672C.c:
+	.text       start:0x0000672C end:0x00006734
+
+mo_stub/st_crayon/fn_56_67F4.c:
+	.text       start:0x000067F4 end:0x000067FC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B2B4 end:0x0000B350
 	.data       start:0x00002960 end:0x0000296D

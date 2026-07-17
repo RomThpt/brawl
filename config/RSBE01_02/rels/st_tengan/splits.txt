@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/st_tengan/fn_60_438.c:
 	.text       start:0x00000438 end:0x00000440
 
+mo_stub/st_tengan/fn_60_1A80.c:
+	.text       start:0x00001A80 end:0x00001A88
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000077B4 end:0x00007850
 	.data       start:0x00001208 end:0x00001215

@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/st_village/fn_70_250.c:
 	.text       start:0x00000250 end:0x00000258
 
+mo_stub/st_village/fn_70_78C.c:
+	.text       start:0x0000078C end:0x000007B4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000DA54 end:0x0000DAF0
 	.data       start:0x00004500 end:0x0000450D
