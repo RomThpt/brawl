@@ -2902,6 +2902,9 @@ config.libs = [
             Object(Matching, "mo_stub/sora_adv_stage/fn_40_208FC.c"),
             Object(Matching, "mo_stub/sora_adv_stage/fn_40_215A4.c"),
             Object(Matching, "mo_stub/sora_adv_stage/fn_40_21E88.c"),
+            Object(Matching, "mo_stub/sora_adv_stage/fn_40_2363C.c"),
+            Object(Matching, "mo_stub/sora_adv_stage/fn_40_23D38.c"),
+            Object(Matching, "mo_stub/sora_adv_stage/fn_40_248F4.c"),
         ],
     },
     {
