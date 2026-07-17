@@ -134,6 +134,18 @@ mo_stub/st_village/fn_70_92EC.c:
 mo_stub/st_village/fn_70_9F98.c:
 	.text       start:0x00009F98 end:0x00009FA0
 
+mo_stub/st_village/fn_70_AA0C.c:
+	.text       start:0x0000AA0C end:0x0000AA14
+
+mo_stub/st_village/fn_70_B644.c:
+	.text       start:0x0000B644 end:0x0000B64C
+
+mo_stub/st_village/fn_70_C2E8.c:
+	.text       start:0x0000C2E8 end:0x0000C2F0
+
+mo_stub/st_village/fn_70_CAD4.c:
+	.text       start:0x0000CAD4 end:0x0000CADC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000DA54 end:0x0000DAF0
 	.data       start:0x00004500 end:0x0000450D
