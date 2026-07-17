@@ -11,6 +11,12 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_halberd/fn_57_310.c:
+	.text       start:0x00000310 end:0x00000318
+
+mo_stub/st_halberd/fn_57_638.c:
+	.text       start:0x00000638 end:0x00000658
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
 	.data       start:0x00003348 end:0x00003355
