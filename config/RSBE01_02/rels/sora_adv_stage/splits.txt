@@ -11,6 +11,18 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/sora_adv_stage/fn_40_44C.c:
+	.text       start:0x0000044C end:0x00000450
+
+mo_stub/sora_adv_stage/fn_40_45C.c:
+	.text       start:0x0000045C end:0x00000464
+
+mo_stub/sora_adv_stage/fn_40_38B8.c:
+	.text       start:0x000038B8 end:0x000038C0
+
+mo_stub/sora_adv_stage/fn_40_4408.c:
+	.text       start:0x00004408 end:0x00004414
+
 mo_adv_stage/gr_adventure_final.cpp:
 	.text       start:0x0003D6E4 end:0x0003DA24
 	.rodata     start:0x000008E8 end:0x000008F4
