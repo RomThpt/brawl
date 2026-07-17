@@ -141,6 +141,60 @@ mo_stub/sora_scene/fn_1_23940.c:
 mo_stub/sora_scene/fn_1_281DC.c:
 	.text       start:0x000281DC end:0x000281E0
 
+mo_stub/sora_scene/fn_1_33090.c:
+	.text       start:0x00033090 end:0x00033094
+
+mo_stub/sora_scene/fn_1_347EC.c:
+	.text       start:0x000347EC end:0x000347F0
+
+mo_stub/sora_scene/fn_1_34DB4.c:
+	.text       start:0x00034DB4 end:0x00034DB8
+
+mo_stub/sora_scene/fn_1_359A0.c:
+	.text       start:0x000359A0 end:0x000359A4
+
+mo_stub/sora_scene/fn_1_363F0.c:
+	.text       start:0x000363F0 end:0x000363F4
+
+mo_stub/sora_scene/fn_1_36930.c:
+	.text       start:0x00036930 end:0x00036934
+
+mo_stub/sora_scene/fn_1_36C40.c:
+	.text       start:0x00036C40 end:0x00036C44
+
+mo_stub/sora_scene/fn_1_37B88.c:
+	.text       start:0x00037B88 end:0x00037B8C
+
+mo_stub/sora_scene/fn_1_383CC.c:
+	.text       start:0x000383CC end:0x000383D0
+
+mo_stub/sora_scene/fn_1_38E94.c:
+	.text       start:0x00038E94 end:0x00038E98
+
+mo_stub/sora_scene/fn_1_39BAC.c:
+	.text       start:0x00039BAC end:0x00039BB0
+
+mo_stub/sora_scene/fn_1_3A4D8.c:
+	.text       start:0x0003A4D8 end:0x0003A4DC
+
+mo_stub/sora_scene/fn_1_3AA60.c:
+	.text       start:0x0003AA60 end:0x0003AA64
+
+mo_stub/sora_scene/fn_1_3B394.c:
+	.text       start:0x0003B394 end:0x0003B398
+
+mo_stub/sora_scene/fn_1_3BC60.c:
+	.text       start:0x0003BC60 end:0x0003BC64
+
+mo_stub/sora_scene/fn_1_3C664.c:
+	.text       start:0x0003C664 end:0x0003C668
+
+mo_stub/sora_scene/fn_1_3CF68.c:
+	.text       start:0x0003CF68 end:0x0003CF6C
+
+mo_stub/sora_scene/fn_1_3D128.c:
+	.text       start:0x0003D128 end:0x0003D12C
+
 mo_scene/mo_scene.cpp:
 	.text       start:0x0003D4B8 end:0x0003D588
 	.data       start:0x00009C30 end:0x00009C3D

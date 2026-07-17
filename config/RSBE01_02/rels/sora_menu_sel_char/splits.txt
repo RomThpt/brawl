@@ -30,6 +30,15 @@ mo_stub/sora_menu_sel_char/fn_10_5FEC.c:
 mo_stub/sora_menu_sel_char/fn_10_8358.c:
 	.text       start:0x00008358 end:0x00008368
 
+mo_stub/sora_menu_sel_char/fn_10_1C3E0.c:
+	.text       start:0x0001C3E0 end:0x0001C3E8
+
+mo_stub/sora_menu_sel_char/fn_10_1C7D8.c:
+	.text       start:0x0001C7D8 end:0x0001C7DC
+
+mo_stub/sora_menu_sel_char/fn_10_1C840.c:
+	.text       start:0x0001C840 end:0x0001C848
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x0001DE90 end:0x0001DF2C
 	.data       start:0x00000E30 end:0x00000E3C

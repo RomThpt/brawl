@@ -11,6 +11,63 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/sora_enemy/fn_41_A874.c:
+	.text       start:0x0000A874 end:0x0000A88C
+
+mo_stub/sora_enemy/fn_41_A8F4.c:
+	.text       start:0x0000A8F4 end:0x0000A8FC
+
+mo_stub/sora_enemy/fn_41_AA6C.c:
+	.text       start:0x0000AA6C end:0x0000AA74
+
+mo_stub/sora_enemy/fn_41_BC38.c:
+	.text       start:0x0000BC38 end:0x0000BC50
+
+mo_stub/sora_enemy/fn_41_BC50.c:
+	.text       start:0x0000BC50 end:0x0000BC64
+
+mo_stub/sora_enemy/fn_41_BC64.c:
+	.text       start:0x0000BC64 end:0x0000BC74
+
+mo_stub/sora_enemy/fn_41_BD78.c:
+	.text       start:0x0000BD78 end:0x0000BD90
+
+mo_stub/sora_enemy/fn_41_BD90.c:
+	.text       start:0x0000BD90 end:0x0000BDA8
+
+mo_stub/sora_enemy/fn_41_C0C0.c:
+	.text       start:0x0000C0C0 end:0x0000C0C8
+
+mo_stub/sora_enemy/fn_41_C19C.c:
+	.text       start:0x0000C19C end:0x0000C1A4
+
+mo_stub/sora_enemy/fn_41_C234.c:
+	.text       start:0x0000C234 end:0x0000C23C
+
+mo_stub/sora_enemy/fn_41_C2F4.c:
+	.text       start:0x0000C2F4 end:0x0000C314
+
+mo_stub/sora_enemy/fn_41_C314.c:
+	.text       start:0x0000C314 end:0x0000C334
+
+mo_stub/sora_enemy/fn_41_C334.c:
+	.text       start:0x0000C334 end:0x0000C344
+
+mo_stub/sora_enemy/fn_41_C354.c:
+	.text       start:0x0000C354 end:0x0000C35C
+
+mo_stub/sora_enemy/fn_41_C39C.c:
+	.text       start:0x0000C39C end:0x0000C3AC
+
+mo_stub/sora_enemy/fn_41_C3AC.c:
+	.text       start:0x0000C3AC end:0x0000C3D4
+
+mo_stub/sora_enemy/fn_41_C3D4.c:
+	.text       start:0x0000C3D4 end:0x0000C3FC
+
+mo_stub/sora_enemy/fn_41_C40C.c:
+	.text       start:0x0000C40C end:0x0000C42C
+
 mo_enemy/sora_enemy/em_info.cpp:
 	.text       start:0x0000DB8C end:0x0000F8B8
 	.ctors      start:0x00000004 end:0x00000008
