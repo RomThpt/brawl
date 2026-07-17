@@ -119,6 +119,21 @@ mo_stub/ft_pikachu/fn_98_FF88.c:
 mo_stub/ft_pikachu/fn_98_FFD8.c:
 	.text       start:0x0000FFD8 end:0x0000FFDC
 
+mo_stub/ft_pikachu/fn_98_FFDC.c:
+	.text       start:0x0000FFDC end:0x0000FFE0
+
+mo_stub/ft_pikachu/fn_98_10060.c:
+	.text       start:0x00010060 end:0x00010064
+
+mo_stub/ft_pikachu/fn_98_1154C.c:
+	.text       start:0x0001154C end:0x00011550
+
+mo_stub/ft_pikachu/fn_98_14290.c:
+	.text       start:0x00014290 end:0x00014298
+
+mo_stub/ft_pikachu/fn_98_14B10.c:
+	.text       start:0x00014B10 end:0x00014B18
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390
 	.data       start:0x000099C8 end:0x000099D7
