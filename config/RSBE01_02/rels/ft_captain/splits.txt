@@ -56,6 +56,15 @@ mo_stub/ft_captain/fn_100_9738.c:
 mo_stub/ft_captain/fn_100_9748.c:
 	.text       start:0x00009748 end:0x00009770
 
+mo_stub/ft_captain/fn_100_9770.c:
+	.text       start:0x00009770 end:0x00009788
+
+mo_stub/ft_captain/fn_100_97E8.c:
+	.text       start:0x000097E8 end:0x000097F0
+
+mo_stub/ft_captain/fn_100_98C4.c:
+	.text       start:0x000098C4 end:0x000098CC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001589C end:0x00015938
 	.data       start:0x00007800 end:0x0000780F
