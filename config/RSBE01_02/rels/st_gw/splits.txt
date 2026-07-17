@@ -41,6 +41,12 @@ mo_stub/st_gw/fn_63_C58.c:
 mo_stub/st_gw/fn_63_FB8.c:
 	.text       start:0x00000FB8 end:0x00000FD0
 
+mo_stub/st_gw/fn_63_FD0.c:
+	.text       start:0x00000FD0 end:0x00000FE0
+
+mo_stub/st_gw/fn_63_11C8.c:
+	.text       start:0x000011C8 end:0x000011E0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
