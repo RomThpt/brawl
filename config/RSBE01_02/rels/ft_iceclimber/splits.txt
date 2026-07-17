@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_iceclimber/fn_105_D9E4.c:
 	.text       start:0x0000D9E4 end:0x0000D9F8
 
+mo_stub/ft_iceclimber/fn_105_D9F8.c:
+	.text       start:0x0000D9F8 end:0x0000DA0C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000210B0 end:0x0002114C
 	.data       start:0x0000A548 end:0x0000A557
