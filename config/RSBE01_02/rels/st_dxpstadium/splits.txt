@@ -11,6 +11,12 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_dxpstadium/fn_83_318.c:
+	.text       start:0x00000318 end:0x00000320
+
+mo_stub/st_dxpstadium/fn_83_2BF0.c:
+	.text       start:0x00002BF0 end:0x00002C0C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00002E28 end:0x00002EC4
 	.data       start:0x00000410 end:0x0000041D
