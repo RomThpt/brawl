@@ -86,6 +86,9 @@ mo_stub/ft_dedede/fn_117_D0F8.c:
 mo_stub/ft_dedede/fn_117_D804.c:
 	.text       start:0x0000D804 end:0x0000D808
 
+mo_stub/ft_dedede/fn_117_D840.c:
+	.text       start:0x0000D840 end:0x0000D848
+
 mo_stub/ft_dedede/fn_117_E698.c:
 	.text       start:0x0000E698 end:0x0000E6B8
 
