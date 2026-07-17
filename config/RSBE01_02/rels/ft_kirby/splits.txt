@@ -191,6 +191,9 @@ mo_stub/ft_kirby/fn_96_23CDC.c:
 mo_stub/ft_kirby/fn_96_23D24.c:
 	.text       start:0x00023D24 end:0x00023D34
 
+mo_stub/ft_kirby/fn_96_23D34.c:
+	.text       start:0x00023D34 end:0x00023D5C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7
