@@ -35,6 +35,9 @@ mo_stub/ft_fox/fn_97_AFF4.c:
 mo_stub/ft_fox/fn_97_B004.c:
 	.text       start:0x0000B004 end:0x0000B018
 
+mo_stub/ft_fox/fn_97_B018.c:
+	.text       start:0x0000B018 end:0x0000B01C
+
 mo_stub/ft_fox/fn_97_B01C.c:
 	.text       start:0x0000B01C end:0x0000B030
 
