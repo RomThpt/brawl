@@ -41,6 +41,12 @@ mo_stub/st_dxrcruise/fn_80_2A04.c:
 mo_stub/st_dxrcruise/fn_80_2A20.c:
 	.text       start:0x00002A20 end:0x00002A24
 
+mo_stub/st_dxrcruise/fn_80_2A24.c:
+	.text       start:0x00002A24 end:0x00002A3C
+
+mo_stub/st_dxrcruise/fn_80_2B48.c:
+	.text       start:0x00002B48 end:0x00002B4C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00002B4C end:0x00002BE8
 	.data       start:0x000005A0 end:0x000005AD
