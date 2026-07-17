@@ -140,6 +140,30 @@ mo_stub/st_greenhill/fn_72_5328.c:
 mo_stub/st_greenhill/fn_72_53F0.c:
 	.text       start:0x000053F0 end:0x000053F8
 
+mo_stub/st_greenhill/fn_72_609C.c:
+	.text       start:0x0000609C end:0x000060A4
+
+mo_stub/st_greenhill/fn_72_6B10.c:
+	.text       start:0x00006B10 end:0x00006B18
+
+mo_stub/st_greenhill/fn_72_7748.c:
+	.text       start:0x00007748 end:0x00007750
+
+mo_stub/st_greenhill/fn_72_83EC.c:
+	.text       start:0x000083EC end:0x000083F4
+
+mo_stub/st_greenhill/fn_72_913C.c:
+	.text       start:0x0000913C end:0x00009144
+
+mo_stub/st_greenhill/fn_72_9A58.c:
+	.text       start:0x00009A58 end:0x00009A60
+
+mo_stub/st_greenhill/fn_72_BE44.c:
+	.text       start:0x0000BE44 end:0x0000BE4C
+
+mo_stub/st_greenhill/fn_72_BEDC.c:
+	.text       start:0x0000BEDC end:0x0000BEE4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CD70 end:0x0000CE0C
 	.data       start:0x000046E0 end:0x000046ED

@@ -143,6 +143,33 @@ mo_stub/st_famicom/fn_68_62BC.c:
 mo_stub/st_famicom/fn_68_6384.c:
 	.text       start:0x00006384 end:0x0000638C
 
+mo_stub/st_famicom/fn_68_644C.c:
+	.text       start:0x0000644C end:0x00006454
+
+mo_stub/st_famicom/fn_68_65AC.c:
+	.text       start:0x000065AC end:0x000065B4
+
+mo_stub/st_famicom/fn_68_7258.c:
+	.text       start:0x00007258 end:0x00007260
+
+mo_stub/st_famicom/fn_68_7CCC.c:
+	.text       start:0x00007CCC end:0x00007CD4
+
+mo_stub/st_famicom/fn_68_8808.c:
+	.text       start:0x00008808 end:0x00008810
+
+mo_stub/st_famicom/fn_68_94B0.c:
+	.text       start:0x000094B0 end:0x000094B8
+
+mo_stub/st_famicom/fn_68_9D94.c:
+	.text       start:0x00009D94 end:0x00009D9C
+
+mo_stub/st_famicom/fn_68_A28C.c:
+	.text       start:0x0000A28C end:0x0000A290
+
+mo_stub/st_famicom/fn_68_BB44.c:
+	.text       start:0x0000BB44 end:0x0000BB4C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001390C end:0x000139A8
 	.data       start:0x00003678 end:0x00003685
