@@ -514,6 +514,9 @@ mo_enemy/sora_enemy/kokkon/em_kokkon_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_4F4E0.c:
 	.text       start:0x0004F4E0 end:0x0004F4E8
 
+mo_stub/sora_enemy/fn_41_4F4E8.c:
+	.text       start:0x0004F4E8 end:0x0004F4F0
+
 mo_enemy/sora_enemy/bombhead/em_bombhead_param_accesser.cpp:
 	.text       start:0x0004F538 end:0x0004F7DC
 	.ctors      start:0x000000A4 end:0x000000A8
@@ -556,12 +559,18 @@ mo_enemy/sora_enemy/jdus/em_jdus_param_accesser.cpp:
 	.data       start:0x00013620 end:0x000136A8
 	.bss        start:0x00000680 end:0x00000698
 
+mo_stub/sora_enemy/fn_41_529F0.c:
+	.text       start:0x000529F0 end:0x00052A00
+
 mo_enemy/sora_enemy/ghamgha/em_ghamgha_param_accesser.cpp:
 	.text       start:0x00052A70 end:0x00052CF0
 	.ctors      start:0x000000C0 end:0x000000C4
 	.rodata     start:0x000010D8 end:0x000010E0
 	.data       start:0x00014098 end:0x00014118
 	.bss        start:0x00000698 end:0x000006B0
+
+mo_stub/sora_enemy/fn_41_53E80.c:
+	.text       start:0x00053E80 end:0x00053E90
 
 mo_enemy/sora_enemy/robobeam/em_robobeam_param_accesser.cpp:
 	.text       start:0x00053F00 end:0x0005416C
