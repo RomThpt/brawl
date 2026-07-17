@@ -116,6 +116,12 @@ mo_stub/ft_samus/fn_94_1D9BC.c:
 mo_stub/ft_samus/fn_94_1D9C4.c:
 	.text       start:0x0001D9C4 end:0x0001D9E8
 
+mo_stub/ft_samus/fn_94_1D9E8.c:
+	.text       start:0x0001D9E8 end:0x0001D9EC
+
+mo_stub/ft_samus/fn_94_1D9F8.c:
+	.text       start:0x0001D9F8 end:0x0001DA10
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002041C end:0x000204B8
 	.data       start:0x0000D760 end:0x0000D76F
