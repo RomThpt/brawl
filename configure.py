@@ -3745,6 +3745,9 @@ config.libs = [
             Object(Matching, "mo_stub/st_tengan/fn_60_22E4.c"),
             Object(Matching, "mo_stub/st_tengan/fn_60_6110.c"),
             Object(Matching, "mo_stub/st_tengan/fn_60_6114.c"),
+            Object(Matching, "mo_stub/st_tengan/fn_60_613C.c"),
+            Object(Matching, "mo_stub/st_tengan/fn_60_6150.c"),
+            Object(Matching, "mo_stub/st_tengan/fn_60_6194.c"),
         ],
     },
     {
