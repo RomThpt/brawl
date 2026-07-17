@@ -74,6 +74,9 @@ mo_stub/st_dxyorster/fn_76_2C50.c:
 mo_stub/st_dxyorster/fn_76_2E90.c:
 	.text       start:0x00002E90 end:0x00002EAC
 
+mo_stub/st_dxyorster/fn_76_2EB8.c:
+	.text       start:0x00002EB8 end:0x00002ED8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007AC8 end:0x00007B64
 	.data       start:0x00002518 end:0x00002525
