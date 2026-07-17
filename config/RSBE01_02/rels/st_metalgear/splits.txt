@@ -35,6 +35,12 @@ mo_stub/st_metalgear/fn_71_EEC.c:
 mo_stub/st_metalgear/fn_71_121C.c:
 	.text       start:0x0000121C end:0x0000122C
 
+mo_stub/st_metalgear/fn_71_122C.c:
+	.text       start:0x0000122C end:0x00001234
+
+mo_stub/st_metalgear/fn_71_23FC.c:
+	.text       start:0x000023FC end:0x0000241C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD
