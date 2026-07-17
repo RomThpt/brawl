@@ -146,6 +146,9 @@ mo_stub/ft_mario/fn_91_10310.c:
 mo_stub/ft_mario/fn_91_10348.c:
 	.text       start:0x00010348 end:0x00010360
 
+mo_stub/ft_mario/fn_91_16B14.c:
+	.text       start:0x00016B14 end:0x00016B2C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000194DC end:0x00019578
 	.data       start:0x0000A068 end:0x0000A077
