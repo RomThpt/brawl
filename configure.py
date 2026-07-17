@@ -1381,6 +1381,8 @@ config.libs = [
             Object(Matching, "mo_stub/sora_adv_menu_difficulty/fn_32_B34.c"),
             Object(Matching, "mo_stub/sora_adv_menu_game_over/fn_33_2CC0.c"),
             Object(Matching, "mo_stub/sora_adv_menu_game_over/fn_33_34B8.c"),
+            Object(Matching, "mo_stub/sora_adv_menu_name/fn_28_1920.c"),
+            Object(Matching, "mo_stub/sora_adv_menu_name/fn_28_2888.c"),
         ],
     },
     {
