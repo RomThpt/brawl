@@ -50,6 +50,18 @@ mo_stub/st_kart/fn_49_10E4.c:
 mo_stub/st_kart/fn_49_1128.c:
 	.text       start:0x00001128 end:0x00001150
 
+mo_stub/st_kart/fn_49_1150.c:
+	.text       start:0x00001150 end:0x00001154
+
+mo_stub/st_kart/fn_49_1170.c:
+	.text       start:0x00001170 end:0x00001178
+
+mo_stub/st_kart/fn_49_1180.c:
+	.text       start:0x00001180 end:0x00001190
+
+mo_stub/st_kart/fn_49_119C.c:
+	.text       start:0x0000119C end:0x000011A0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CA58 end:0x0000CAF4
 	.data       start:0x000027F8 end:0x00002805
