@@ -1610,7 +1610,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/ft_poke/fn_116_A40C.c"),
+            Object(Matching, "mo_stub/ft_poke/fn_116_A454.c"),
+            Object(Matching, "mo_stub/ft_poke/fn_116_A510.c"),
+        ],
     },
     {
         "lib": "ft_purin",
