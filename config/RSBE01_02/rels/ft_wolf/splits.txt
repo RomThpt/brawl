@@ -20,6 +20,12 @@ mo_stub/ft_wolf/fn_125_AE04.c:
 mo_stub/ft_wolf/fn_125_AE4C.c:
 	.text       start:0x0000AE4C end:0x0000AE54
 
+mo_stub/ft_wolf/fn_125_AEE0.c:
+	.text       start:0x0000AEE0 end:0x0000AEE4
+
+mo_stub/ft_wolf/fn_125_AF0C.c:
+	.text       start:0x0000AF0C end:0x0000AF1C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010F04 end:0x00010FA0
 	.data       start:0x00007BA8 end:0x00007BB7
