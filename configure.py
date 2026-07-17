@@ -1798,6 +1798,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/ft_wario/fn_110_9598.c"),
+            Object(Matching, "mo_stub/ft_wario/fn_110_95AC.c"),
         ],
     },
     {
