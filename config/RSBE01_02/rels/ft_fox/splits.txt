@@ -38,6 +38,12 @@ mo_stub/ft_fox/fn_97_B030.c:
 mo_stub/ft_fox/fn_97_B070.c:
 	.text       start:0x0000B070 end:0x0000B084
 
+mo_stub/ft_fox/fn_97_B084.c:
+	.text       start:0x0000B084 end:0x0000B08C
+
+mo_stub/ft_fox/fn_97_B09C.c:
+	.text       start:0x0000B09C end:0x0000B0B0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
 	.data       start:0x00007B60 end:0x00007B6F
