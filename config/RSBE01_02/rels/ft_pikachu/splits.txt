@@ -155,6 +155,9 @@ mo_stub/ft_pikachu/fn_98_14CC4.c:
 mo_stub/ft_pikachu/fn_98_14CE4.c:
 	.text       start:0x00014CE4 end:0x00014CF8
 
+mo_stub/ft_pikachu/fn_98_14D98.c:
+	.text       start:0x00014D98 end:0x00014DBC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390
 	.data       start:0x000099C8 end:0x000099D7
