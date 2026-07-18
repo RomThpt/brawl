@@ -176,6 +176,9 @@ mo_stub/st_fzero/fn_61_C8FC.c:
 mo_stub/st_fzero/fn_61_CA18.c:
 	.text       start:0x0000CA18 end:0x0000CA40
 
+mo_stub/st_fzero/fn_61_CA40.c:
+	.text       start:0x0000CA40 end:0x0000CA68
+
 mo_stub/st_fzero/fn_61_E730.c:
 	.text       start:0x0000E730 end:0x0000E738
 
