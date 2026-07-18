@@ -185,11 +185,17 @@ mo_stub/st_greenhill/fn_72_9CCC.c:
 mo_stub/st_greenhill/fn_72_9CF4.c:
 	.text       start:0x00009CF4 end:0x00009D1C
 
+mo_stub/st_greenhill/fn_72_9D1C.c:
+	.text       start:0x00009D1C end:0x00009D2C
+
 mo_stub/st_greenhill/fn_72_BE44.c:
 	.text       start:0x0000BE44 end:0x0000BE4C
 
 mo_stub/st_greenhill/fn_72_BEDC.c:
 	.text       start:0x0000BEDC end:0x0000BEE4
+
+mo_stub/st_greenhill/fn_72_C014.c:
+	.text       start:0x0000C014 end:0x0000C02C
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000CD70 end:0x0000CE0C
