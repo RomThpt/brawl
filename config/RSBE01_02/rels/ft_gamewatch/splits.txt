@@ -101,6 +101,9 @@ mo_stub/ft_gamewatch/fn_107_F610.c:
 mo_stub/ft_gamewatch/fn_107_F704.c:
 	.text       start:0x0000F704 end:0x0000F70C
 
+mo_stub/ft_gamewatch/fn_107_F7EC.c:
+	.text       start:0x0000F7EC end:0x0000F7F4
+
 mo_stub/ft_gamewatch/fn_107_11DD0.c:
 	.text       start:0x00011DD0 end:0x00011DE8
 
