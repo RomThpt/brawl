@@ -275,6 +275,9 @@ mo_stub/ft_zelda/fn_104_1D758.c:
 mo_stub/ft_zelda/fn_104_1D794.c:
 	.text       start:0x0001D794 end:0x0001D79C
 
+mo_stub/ft_zelda/fn_104_1D98C.c:
+	.text       start:0x0001D98C end:0x0001D9B4
+
 mo_stub/ft_zelda/fn_104_21BB8.c:
 	.text       start:0x00021BB8 end:0x00021BC0
 
