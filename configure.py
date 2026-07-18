@@ -4509,7 +4509,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/sora_minigame/fn_20_DB8C.c"),
+        ],
     },
     {
         "lib": "sora_scene",
