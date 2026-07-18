@@ -206,6 +206,33 @@ mo_stub/st_jungle/fn_51_A60C.c:
 mo_stub/st_jungle/fn_51_AF28.c:
 	.text       start:0x0000AF28 end:0x0000AF30
 
+mo_stub/st_jungle/fn_51_B0AC.c:
+	.text       start:0x0000B0AC end:0x0000B0D4
+
+mo_stub/st_jungle/fn_51_B0D4.c:
+	.text       start:0x0000B0D4 end:0x0000B0FC
+
+mo_stub/st_jungle/fn_51_B0FC.c:
+	.text       start:0x0000B0FC end:0x0000B124
+
+mo_stub/st_jungle/fn_51_B124.c:
+	.text       start:0x0000B124 end:0x0000B14C
+
+mo_stub/st_jungle/fn_51_B14C.c:
+	.text       start:0x0000B14C end:0x0000B174
+
+mo_stub/st_jungle/fn_51_B174.c:
+	.text       start:0x0000B174 end:0x0000B19C
+
+mo_stub/st_jungle/fn_51_B19C.c:
+	.text       start:0x0000B19C end:0x0000B1C4
+
+mo_stub/st_jungle/fn_51_B1C4.c:
+	.text       start:0x0000B1C4 end:0x0000B1EC
+
+mo_stub/st_jungle/fn_51_B1EC.c:
+	.text       start:0x0000B1EC end:0x0000B1FC
+
 mo_stub/st_jungle/fn_51_C024.c:
 	.text       start:0x0000C024 end:0x0000C034
 
@@ -230,6 +257,21 @@ mo_stub/st_jungle/fn_51_D8FC.c:
 mo_stub/st_jungle/fn_51_D9C4.c:
 	.text       start:0x0000D9C4 end:0x0000D9CC
 
+mo_stub/st_jungle/fn_51_DAAC.c:
+	.text       start:0x0000DAAC end:0x0000DAC4
+
+mo_stub/st_jungle/fn_51_DAC4.c:
+	.text       start:0x0000DAC4 end:0x0000DAEC
+
+mo_stub/st_jungle/fn_51_DAEC.c:
+	.text       start:0x0000DAEC end:0x0000DB14
+
+mo_stub/st_jungle/fn_51_DB14.c:
+	.text       start:0x0000DB14 end:0x0000DB3C
+
+mo_stub/st_jungle/fn_51_DB3C.c:
+	.text       start:0x0000DB3C end:0x0000DB54
+
 mo_stub/st_jungle/fn_51_E294.c:
 	.text       start:0x0000E294 end:0x0000E29C
 
@@ -245,6 +287,9 @@ mo_stub/st_jungle/fn_51_10794.c:
 mo_stub/st_jungle/fn_51_1079C.c:
 	.text       start:0x0001079C end:0x000107A4
 
+mo_stub/st_jungle/fn_51_108AC.c:
+	.text       start:0x000108AC end:0x000108B4
+
 mo_stub/st_jungle/fn_51_10FAC.c:
 	.text       start:0x00010FAC end:0x00010FB4
 
@@ -253,6 +298,9 @@ mo_stub/st_jungle/fn_51_11900.c:
 
 mo_stub/st_jungle/fn_51_16074.c:
 	.text       start:0x00016074 end:0x00016078
+
+mo_stub/st_jungle/fn_51_1669C.c:
+	.text       start:0x0001669C end:0x000166A4
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740

@@ -110,6 +110,18 @@ mo_stub/st_dxgarden/fn_77_5564.c:
 mo_stub/st_dxgarden/fn_77_5E80.c:
 	.text       start:0x00005E80 end:0x00005E88
 
+mo_stub/st_dxgarden/fn_77_5F9C.c:
+	.text       start:0x00005F9C end:0x00005FC4
+
+mo_stub/st_dxgarden/fn_77_5FC4.c:
+	.text       start:0x00005FC4 end:0x00005FEC
+
+mo_stub/st_dxgarden/fn_77_5FEC.c:
+	.text       start:0x00005FEC end:0x00006014
+
+mo_stub/st_dxgarden/fn_77_6014.c:
+	.text       start:0x00006014 end:0x00006034
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000065E8 end:0x00006684
 	.data       start:0x00002098 end:0x000020A5

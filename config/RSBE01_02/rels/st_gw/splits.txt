@@ -146,6 +146,15 @@ mo_stub/st_gw/fn_63_3984.c:
 mo_stub/st_gw/fn_63_3988.c:
 	.text       start:0x00003988 end:0x0000398C
 
+mo_stub/st_gw/fn_63_3A94.c:
+	.text       start:0x00003A94 end:0x00003A98
+
+mo_stub/st_gw/fn_63_518C.c:
+	.text       start:0x0000518C end:0x00005190
+
+mo_stub/st_gw/fn_63_5528.c:
+	.text       start:0x00005528 end:0x0000552C
+
 mo_stub/st_gw/fn_63_933C.c:
 	.text       start:0x0000933C end:0x00009344
 
@@ -245,11 +254,56 @@ mo_stub/st_gw/fn_63_EF70.c:
 mo_stub/st_gw/fn_63_F88C.c:
 	.text       start:0x0000F88C end:0x0000F894
 
+mo_stub/st_gw/fn_63_FA10.c:
+	.text       start:0x0000FA10 end:0x0000FA20
+
+mo_stub/st_gw/fn_63_FA20.c:
+	.text       start:0x0000FA20 end:0x0000FA48
+
+mo_stub/st_gw/fn_63_FA48.c:
+	.text       start:0x0000FA48 end:0x0000FA70
+
+mo_stub/st_gw/fn_63_FA70.c:
+	.text       start:0x0000FA70 end:0x0000FA98
+
+mo_stub/st_gw/fn_63_FA98.c:
+	.text       start:0x0000FA98 end:0x0000FAC0
+
+mo_stub/st_gw/fn_63_FAC0.c:
+	.text       start:0x0000FAC0 end:0x0000FAE8
+
+mo_stub/st_gw/fn_63_FAE8.c:
+	.text       start:0x0000FAE8 end:0x0000FB10
+
+mo_stub/st_gw/fn_63_FB10.c:
+	.text       start:0x0000FB10 end:0x0000FB38
+
+mo_stub/st_gw/fn_63_FB38.c:
+	.text       start:0x0000FB38 end:0x0000FB60
+
+mo_stub/st_gw/fn_63_FB60.c:
+	.text       start:0x0000FB60 end:0x0000FB88
+
+mo_stub/st_gw/fn_63_FB88.c:
+	.text       start:0x0000FB88 end:0x0000FB90
+
 mo_stub/st_gw/fn_63_10AE4.c:
 	.text       start:0x00010AE4 end:0x00010AEC
 
+mo_stub/st_gw/fn_63_10B84.c:
+	.text       start:0x00010B84 end:0x00010BA4
+
+mo_stub/st_gw/fn_63_10BA4.c:
+	.text       start:0x00010BA4 end:0x00010BB4
+
 mo_stub/st_gw/fn_63_11F5C.c:
 	.text       start:0x00011F5C end:0x00011F64
+
+mo_stub/st_gw/fn_63_11FFC.c:
+	.text       start:0x00011FFC end:0x00012014
+
+mo_stub/st_gw/fn_63_12014.c:
+	.text       start:0x00012014 end:0x0001202C
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388

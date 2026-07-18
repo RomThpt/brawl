@@ -152,6 +152,21 @@ mo_stub/st_ice/fn_62_79D0.c:
 mo_stub/st_ice/fn_62_82EC.c:
 	.text       start:0x000082EC end:0x000082F4
 
+mo_stub/st_ice/fn_62_8408.c:
+	.text       start:0x00008408 end:0x00008430
+
+mo_stub/st_ice/fn_62_8430.c:
+	.text       start:0x00008430 end:0x00008458
+
+mo_stub/st_ice/fn_62_8458.c:
+	.text       start:0x00008458 end:0x00008480
+
+mo_stub/st_ice/fn_62_8480.c:
+	.text       start:0x00008480 end:0x000084A8
+
+mo_stub/st_ice/fn_62_84A8.c:
+	.text       start:0x000084A8 end:0x000084B8
+
 mo_stub/st_ice/fn_62_9C90.c:
 	.text       start:0x00009C90 end:0x00009C98
 
@@ -200,8 +215,32 @@ mo_stub/st_ice/fn_62_BE04.c:
 mo_stub/st_ice/fn_62_CA3C.c:
 	.text       start:0x0000CA3C end:0x0000CA44
 
+mo_stub/st_ice/fn_62_CD0C.c:
+	.text       start:0x0000CD0C end:0x0000CD24
+
+mo_stub/st_ice/fn_62_CD24.c:
+	.text       start:0x0000CD24 end:0x0000CD4C
+
+mo_stub/st_ice/fn_62_CD4C.c:
+	.text       start:0x0000CD4C end:0x0000CD74
+
+mo_stub/st_ice/fn_62_CD74.c:
+	.text       start:0x0000CD74 end:0x0000CD9C
+
+mo_stub/st_ice/fn_62_CD9C.c:
+	.text       start:0x0000CD9C end:0x0000CDC4
+
+mo_stub/st_ice/fn_62_CDC4.c:
+	.text       start:0x0000CDC4 end:0x0000CDCC
+
 mo_stub/st_ice/fn_62_EFE0.c:
 	.text       start:0x0000EFE0 end:0x0000EFE8
+
+mo_stub/st_ice/fn_62_F080.c:
+	.text       start:0x0000F080 end:0x0000F0A0
+
+mo_stub/st_ice/fn_62_F0A0.c:
+	.text       start:0x0000F0A0 end:0x0000F0B0
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001184C end:0x000118E8

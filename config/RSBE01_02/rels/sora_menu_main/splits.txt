@@ -27,6 +27,9 @@ mo_stub/sora_menu_main/fn_2_1EF68.c:
 mo_stub/sora_menu_main/fn_2_1EF90.c:
 	.text       start:0x0001EF90 end:0x0001EFA8
 
+mo_stub/sora_menu_main/fn_2_2393C.c:
+	.text       start:0x0002393C end:0x00023940
+
 mo_stub/sora_menu_main/fn_2_2650C.c:
 	.text       start:0x0002650C end:0x0002651C
 
@@ -60,6 +63,9 @@ mo_stub/sora_menu_main/fn_2_2ADB4.c:
 mo_stub/sora_menu_main/fn_2_2B578.c:
 	.text       start:0x0002B578 end:0x0002B57C
 
+mo_stub/sora_menu_main/fn_2_30560.c:
+	.text       start:0x00030560 end:0x00030568
+
 mo_stub/sora_menu_main/fn_2_38DE4.c:
 	.text       start:0x00038DE4 end:0x00038DE8
 
@@ -68,6 +74,9 @@ mo_stub/sora_menu_main/fn_2_390F4.c:
 
 mo_stub/sora_menu_main/fn_2_39C40.c:
 	.text       start:0x00039C40 end:0x00039C44
+
+mo_stub/sora_menu_main/fn_2_3BF08.c:
+	.text       start:0x0003BF08 end:0x0003BF0C
 
 mo_stub/sora_menu_main/fn_2_3CBA4.c:
 	.text       start:0x0003CBA4 end:0x0003CBB4

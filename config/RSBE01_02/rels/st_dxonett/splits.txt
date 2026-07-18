@@ -158,6 +158,21 @@ mo_stub/st_dxonett/fn_78_7040.c:
 mo_stub/st_dxonett/fn_78_795C.c:
 	.text       start:0x0000795C end:0x00007964
 
+mo_stub/st_dxonett/fn_78_7A78.c:
+	.text       start:0x00007A78 end:0x00007AA0
+
+mo_stub/st_dxonett/fn_78_7AA0.c:
+	.text       start:0x00007AA0 end:0x00007AC8
+
+mo_stub/st_dxonett/fn_78_7AC8.c:
+	.text       start:0x00007AC8 end:0x00007AF0
+
+mo_stub/st_dxonett/fn_78_7AF0.c:
+	.text       start:0x00007AF0 end:0x00007B18
+
+mo_stub/st_dxonett/fn_78_7B18.c:
+	.text       start:0x00007B18 end:0x00007B28
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000089F0 end:0x00008A8C
 	.data       start:0x00002788 end:0x00002795
