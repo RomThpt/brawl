@@ -182,6 +182,9 @@ mo_stub/st_greenhill/fn_72_9CA4.c:
 mo_stub/st_greenhill/fn_72_9CCC.c:
 	.text       start:0x00009CCC end:0x00009CF4
 
+mo_stub/st_greenhill/fn_72_9CF4.c:
+	.text       start:0x00009CF4 end:0x00009D1C
+
 mo_stub/st_greenhill/fn_72_BE44.c:
 	.text       start:0x0000BE44 end:0x0000BE4C
 
