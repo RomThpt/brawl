@@ -140,6 +140,9 @@ mo_stub/ft_samus/fn_94_F4BC.c:
 mo_stub/ft_samus/fn_94_F510.c:
 	.text       start:0x0000F510 end:0x0000F514
 
+mo_stub/ft_samus/fn_94_F514.c:
+	.text       start:0x0000F514 end:0x0000F518
+
 mo_stub/ft_samus/fn_94_18804.c:
 	.text       start:0x00018804 end:0x0001880C
 
