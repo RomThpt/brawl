@@ -4959,6 +4959,10 @@ config.libs = [
             Object(Matching, "mo_stub/sora_enemy/fn_41_43C5C.c"),
             Object(Matching, "mo_stub/sora_enemy/fn_41_4869C.c"),
             Object(Matching, "mo_stub/sora_enemy/fn_41_48B2C.c"),
+            Object(Matching, "mo_stub/sora_enemy/fn_41_48FC4.c"),
+            Object(Matching, "mo_stub/sora_enemy/fn_41_4955C.c"),
+            Object(Matching, "mo_stub/sora_enemy/fn_41_499C0.c"),
+            Object(Matching, "mo_stub/sora_enemy/fn_41_4AE40.c"),
         ],
     },
     {

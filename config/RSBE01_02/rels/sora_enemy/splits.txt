@@ -700,6 +700,9 @@ mo_enemy/sora_enemy/flows/em_flows_param_accesser.cpp:
 	.data       start:0x0000F238 end:0x0000F2B8
 	.bss        start:0x00000550 end:0x00000568
 
+mo_stub/sora_enemy/fn_41_48FC4.c:
+	.text       start:0x00048FC4 end:0x00048FCC
+
 mo_enemy/sora_enemy/tautau/em_tautau_param_accesser.cpp:
 	.text       start:0x00048FCC end:0x00049370
 	.ctors      start:0x0000008C end:0x00000090
@@ -707,12 +710,18 @@ mo_enemy/sora_enemy/tautau/em_tautau_param_accesser.cpp:
 	.data       start:0x0000F508 end:0x0000F588
 	.bss        start:0x00000568 end:0x00000580
 
+mo_stub/sora_enemy/fn_41_4955C.c:
+	.text       start:0x0004955C end:0x00049564
+
 mo_enemy/sora_enemy/shelly/em_shelly_param_accesser.cpp:
 	.text       start:0x00049564 end:0x000497D4
 	.ctors      start:0x00000090 end:0x00000094
 	.rodata     start:0x00001058 end:0x00001060
 	.data       start:0x0000F7D8 end:0x0000F838
 	.bss        start:0x00000580 end:0x00000598
+
+mo_stub/sora_enemy/fn_41_499C0.c:
+	.text       start:0x000499C0 end:0x000499C8
 
 mo_enemy/sora_enemy/teckin/em_teckin_param_accesser.cpp:
 	.text       start:0x000499C8 end:0x00049C24
@@ -726,6 +735,9 @@ mo_stub/sora_enemy/fn_41_4ADF8.c:
 
 mo_stub/sora_enemy/fn_41_4AE00.c:
 	.text       start:0x0004AE00 end:0x0004AE08
+
+mo_stub/sora_enemy/fn_41_4AE40.c:
+	.text       start:0x0004AE40 end:0x0004AE50
 
 mo_enemy/sora_enemy/spar/em_spar_param_accesser.cpp:
 	.text       start:0x0004AE58 end:0x0004B130
