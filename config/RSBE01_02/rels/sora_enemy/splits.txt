@@ -948,12 +948,18 @@ mo_stub/sora_enemy/fn_41_5A620.c:
 mo_stub/sora_enemy/fn_41_5A658.c:
 	.text       start:0x0005A658 end:0x0005A660
 
+mo_stub/sora_enemy/fn_41_5A660.c:
+	.text       start:0x0005A660 end:0x0005A678
+
 mo_enemy/sora_enemy/bosspackun/em_bosspackun_param_accesser.cpp:
 	.text       start:0x0005A678 end:0x0005AA0C
 	.ctors      start:0x000000DC end:0x000000E0
 	.rodata     start:0x00001118 end:0x00001128
 	.data       start:0x00017BA0 end:0x00017C48
 	.bss        start:0x00000740 end:0x00000758
+
+mo_stub/sora_enemy/fn_41_5ABF8.c:
+	.text       start:0x0005ABF8 end:0x0005AC00
 
 mo_enemy/sora_enemy/ghamghabase/em_ghamghabase_param_accesser.cpp:
 	.text       start:0x0005AC00 end:0x0005AE88
@@ -964,6 +970,9 @@ mo_enemy/sora_enemy/ghamghabase/em_ghamghabase_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_5C0EC.c:
 	.text       start:0x0005C0EC end:0x0005C0FC
+
+mo_stub/sora_enemy/fn_41_5C154.c:
+	.text       start:0x0005C154 end:0x0005C15C
 
 mo_enemy/sora_enemy/galleom/em_galleom_param_accesser.cpp:
 	.text       start:0x0005C16C end:0x0005C4C8
