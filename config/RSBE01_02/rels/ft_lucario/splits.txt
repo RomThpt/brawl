@@ -128,6 +128,9 @@ mo_stub/ft_lucario/fn_118_D15C.c:
 mo_stub/ft_lucario/fn_118_D244.c:
 	.text       start:0x0000D244 end:0x0000D24C
 
+mo_stub/ft_lucario/fn_118_D720.c:
+	.text       start:0x0000D720 end:0x0000D724
+
 mo_stub/ft_lucario/fn_118_D724.c:
 	.text       start:0x0000D724 end:0x0000D72C
 
