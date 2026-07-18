@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_koopa/fn_102_61A8.c:
 	.text       start:0x000061A8 end:0x000061B0
 
+mo_stub/ft_koopa/fn_102_8A2C.c:
+	.text       start:0x00008A2C end:0x00008A30
+
 mo_stub/ft_koopa/fn_102_8D74.c:
 	.text       start:0x00008D74 end:0x00008D84
 
