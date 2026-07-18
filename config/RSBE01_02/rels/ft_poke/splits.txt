@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_poke/fn_116_7384.c:
 	.text       start:0x00007384 end:0x0000738C
 
+mo_stub/ft_poke/fn_116_9718.c:
+	.text       start:0x00009718 end:0x0000971C
+
 mo_stub/ft_poke/fn_116_A40C.c:
 	.text       start:0x0000A40C end:0x0000A418
 
