@@ -380,8 +380,14 @@ mo_stub/ft_kirby/fn_96_2860C.c:
 mo_stub/ft_kirby/fn_96_2AF14.c:
 	.text       start:0x0002AF14 end:0x0002AF2C
 
+mo_stub/ft_kirby/fn_96_2AF2C.c:
+	.text       start:0x0002AF2C end:0x0002AF4C
+
 mo_stub/ft_kirby/fn_96_2D124.c:
 	.text       start:0x0002D124 end:0x0002D12C
+
+mo_stub/ft_kirby/fn_96_2D1D8.c:
+	.text       start:0x0002D1D8 end:0x0002D1E0
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
