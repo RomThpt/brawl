@@ -176,6 +176,9 @@ mo_stub/st_famicom/fn_68_BB44.c:
 mo_stub/st_famicom/fn_68_C6FC.c:
 	.text       start:0x0000C6FC end:0x0000C700
 
+mo_stub/st_famicom/fn_68_C700.c:
+	.text       start:0x0000C700 end:0x0000C704
+
 mo_stub/st_famicom/fn_68_C708.c:
 	.text       start:0x0000C708 end:0x0000C718
 
