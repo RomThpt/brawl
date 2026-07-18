@@ -2006,6 +2006,12 @@ mo_stub/sora_melee/fn_27_7F39C.c:
 mo_stub/sora_melee/fn_27_7F3A8.c:
 	.text       start:0x0007F3A8 end:0x0007F3C8
 
+mo_stub/sora_melee/fn_27_7F3C8.c:
+	.text       start:0x0007F3C8 end:0x0007F3D0
+
+mo_stub/sora_melee/fn_27_7F458.c:
+	.text       start:0x0007F458 end:0x0007F470
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
