@@ -125,6 +125,18 @@ mo_stub/ft_zelda/fn_104_DE44.c:
 mo_stub/ft_zelda/fn_104_DE8C.c:
 	.text       start:0x0000DE8C end:0x0000DE94
 
+mo_stub/ft_zelda/fn_104_DE94.c:
+	.text       start:0x0000DE94 end:0x0000DEA4
+
+mo_stub/ft_zelda/fn_104_DEEC.c:
+	.text       start:0x0000DEEC end:0x0000DEF4
+
+mo_stub/ft_zelda/fn_104_DEFC.c:
+	.text       start:0x0000DEFC end:0x0000DF04
+
+mo_stub/ft_zelda/fn_104_DF14.c:
+	.text       start:0x0000DF14 end:0x0000DF1C
+
 mo_stub/ft_zelda/fn_104_E028.c:
 	.text       start:0x0000E028 end:0x0000E030
 
