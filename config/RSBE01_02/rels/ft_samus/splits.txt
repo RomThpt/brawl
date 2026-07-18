@@ -254,6 +254,18 @@ mo_stub/ft_samus/fn_94_1DCD0.c:
 mo_stub/ft_samus/fn_94_1DCE8.c:
 	.text       start:0x0001DCE8 end:0x0001DCF0
 
+mo_stub/ft_samus/fn_94_1DCF0.c:
+	.text       start:0x0001DCF0 end:0x0001DCF8
+
+mo_stub/ft_samus/fn_94_1DD08.c:
+	.text       start:0x0001DD08 end:0x0001DD10
+
+mo_stub/ft_samus/fn_94_1DD38.c:
+	.text       start:0x0001DD38 end:0x0001DD48
+
+mo_stub/ft_samus/fn_94_1DD78.c:
+	.text       start:0x0001DD78 end:0x0001DD80
+
 mo_stub/ft_samus/fn_94_20274.c:
 	.text       start:0x00020274 end:0x0002027C
 
