@@ -889,12 +889,18 @@ mo_enemy/sora_enemy/robodistance/em_robodistance_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_56530.c:
 	.text       start:0x00056530 end:0x00056540
 
+mo_stub/sora_enemy/fn_41_56598.c:
+	.text       start:0x00056598 end:0x000565B0
+
 mo_enemy/sora_enemy/robohoming/em_robohoming_param_accesser.cpp:
 	.text       start:0x000565B0 end:0x000567FC
 	.ctors      start:0x000000CC end:0x000000D0
 	.rodata     start:0x000010F0 end:0x000010F8
 	.data       start:0x00015DA0 end:0x00015E08
 	.bss        start:0x000006E0 end:0x000006F8
+
+mo_stub/sora_enemy/fn_41_569E8.c:
+	.text       start:0x000569E8 end:0x000569F0
 
 mo_enemy/sora_enemy/robopunch/em_robopunch_param_accesser.cpp:
 	.text       start:0x000569F0 end:0x00056C24
@@ -908,6 +914,9 @@ mo_stub/sora_enemy/fn_41_584F8.c:
 
 mo_stub/sora_enemy/fn_41_58500.c:
 	.text       start:0x00058500 end:0x00058508
+
+mo_stub/sora_enemy/fn_41_58588.c:
+	.text       start:0x00058588 end:0x00058590
 
 mo_enemy/sora_enemy/arman/em_arman_param_accesser.cpp:
 	.text       start:0x000585A8 end:0x00058878
