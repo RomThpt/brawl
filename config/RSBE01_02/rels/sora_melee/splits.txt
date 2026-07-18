@@ -3468,6 +3468,21 @@ mo_stub/sora_melee/fn_27_C5E88.c:
 mo_stub/sora_melee/fn_27_C60D8.c:
 	.text       start:0x000C60D8 end:0x000C60DC
 
+mo_stub/sora_melee/fn_27_C6304.c:
+	.text       start:0x000C6304 end:0x000C6308
+
+mo_stub/sora_melee/fn_27_C6528.c:
+	.text       start:0x000C6528 end:0x000C652C
+
+mo_stub/sora_melee/fn_27_C6EEC.c:
+	.text       start:0x000C6EEC end:0x000C6EF4
+
+mo_stub/sora_melee/fn_27_C6FBC.c:
+	.text       start:0x000C6FBC end:0x000C6FC4
+
+mo_stub/sora_melee/fn_27_C6FFC.c:
+	.text       start:0x000C6FFC end:0x000C7004
+
 mo_melee/sora_melee/so/so_photo_call_back.cpp:
 	.text       start:0x000C7024 end:0x000C7124
 
