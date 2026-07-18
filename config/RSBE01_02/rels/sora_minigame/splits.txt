@@ -20,6 +20,9 @@ mo_stub/sora_minigame/fn_20_256C.c:
 mo_stub/sora_minigame/fn_20_2CE8.c:
 	.text       start:0x00002CE8 end:0x00002CEC
 
+mo_stub/sora_minigame/fn_20_2CEC.c:
+	.text       start:0x00002CEC end:0x00002CF4
+
 mo_stub/sora_minigame/fn_20_2E58.c:
 	.text       start:0x00002E58 end:0x00002E5C
 
@@ -29,8 +32,14 @@ mo_stub/sora_minigame/fn_20_2EC4.c:
 mo_stub/sora_minigame/fn_20_2ED8.c:
 	.text       start:0x00002ED8 end:0x00002EE0
 
+mo_stub/sora_minigame/fn_20_2EE8.c:
+	.text       start:0x00002EE8 end:0x00002EF8
+
 mo_stub/sora_minigame/fn_20_6DB8.c:
 	.text       start:0x00006DB8 end:0x00006DC4
+
+mo_stub/sora_minigame/fn_20_6DC4.c:
+	.text       start:0x00006DC4 end:0x00006DD4
 
 mo_stub/sora_minigame/fn_20_DB8C.c:
 	.text       start:0x0000DB8C end:0x0000DB94
