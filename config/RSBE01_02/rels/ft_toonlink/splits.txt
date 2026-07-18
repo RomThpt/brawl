@@ -242,6 +242,12 @@ mo_stub/ft_toonlink/fn_121_14A10.c:
 mo_stub/ft_toonlink/fn_121_14A38.c:
 	.text       start:0x00014A38 end:0x00014A40
 
+mo_stub/ft_toonlink/fn_121_14A40.c:
+	.text       start:0x00014A40 end:0x00014A60
+
+mo_stub/ft_toonlink/fn_121_14A70.c:
+	.text       start:0x00014A70 end:0x00014A78
+
 mo_stub/ft_toonlink/fn_121_185AC.c:
 	.text       start:0x000185AC end:0x000185BC
 
