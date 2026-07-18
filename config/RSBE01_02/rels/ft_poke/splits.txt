@@ -119,6 +119,9 @@ mo_stub/ft_poke/fn_116_D6DC.c:
 mo_stub/ft_poke/fn_116_D7C4.c:
 	.text       start:0x0000D7C4 end:0x0000D7CC
 
+mo_stub/ft_poke/fn_116_D8AC.c:
+	.text       start:0x0000D8AC end:0x0000D8B4
+
 mo_stub/ft_poke/fn_116_DD44.c:
 	.text       start:0x0000DD44 end:0x0000DD48
 
