@@ -224,6 +224,18 @@ mo_stub/ft_falco/fn_108_10EF4.c:
 mo_stub/ft_falco/fn_108_10F24.c:
 	.text       start:0x00010F24 end:0x00010F34
 
+mo_stub/ft_falco/fn_108_10F64.c:
+	.text       start:0x00010F64 end:0x00010F74
+
+mo_stub/ft_falco/fn_108_10FBC.c:
+	.text       start:0x00010FBC end:0x00010FC4
+
+mo_stub/ft_falco/fn_108_10FCC.c:
+	.text       start:0x00010FCC end:0x00010FD4
+
+mo_stub/ft_falco/fn_108_10FDC.c:
+	.text       start:0x00010FDC end:0x00010FE4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FE4 end:0x00011080
 	.data       start:0x00007B58 end:0x00007B67
