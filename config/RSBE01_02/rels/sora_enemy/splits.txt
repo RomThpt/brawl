@@ -918,6 +918,9 @@ mo_stub/sora_enemy/fn_41_58500.c:
 mo_stub/sora_enemy/fn_41_58588.c:
 	.text       start:0x00058588 end:0x00058590
 
+mo_stub/sora_enemy/fn_41_58590.c:
+	.text       start:0x00058590 end:0x000585A8
+
 mo_enemy/sora_enemy/arman/em_arman_param_accesser.cpp:
 	.text       start:0x000585A8 end:0x00058878
 	.ctors      start:0x000000D4 end:0x000000D8
@@ -929,6 +932,9 @@ mo_enemy/sora_enemy/arman/wnem_proc_arman.cpp:
 	.text       start:0x00058878 end:0x00058B0C
 	.data       start:0x00017030 end:0x000170B8
 
+mo_stub/sora_enemy/fn_41_58DA8.c:
+	.text       start:0x00058DA8 end:0x00058DB0
+
 mo_enemy/sora_enemy/galfire/em_galfire_param_accesser.cpp:
 	.text       start:0x00058DB0 end:0x00059078
 	.ctors      start:0x000000D8 end:0x000000DC
@@ -938,6 +944,9 @@ mo_enemy/sora_enemy/galfire/em_galfire_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_5A620.c:
 	.text       start:0x0005A620 end:0x0005A630
+
+mo_stub/sora_enemy/fn_41_5A658.c:
+	.text       start:0x0005A658 end:0x0005A660
 
 mo_enemy/sora_enemy/bosspackun/em_bosspackun_param_accesser.cpp:
 	.text       start:0x0005A678 end:0x0005AA0C
