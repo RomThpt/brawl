@@ -197,6 +197,9 @@ mo_stub/sora_melee/fn_27_1F040.c:
 mo_stub/sora_melee/fn_27_1F048.c:
 	.text       start:0x0001F048 end:0x0001F070
 
+mo_stub/sora_melee/fn_27_1F070.c:
+	.text       start:0x0001F070 end:0x0001F098
+
 mo_melee/sora_melee/so/anim/so_anim_chr.cpp:
 	.text       start:0x0001F2D0 end:0x0001F980
 	.rodata     start:0x00000360 end:0x00000370
