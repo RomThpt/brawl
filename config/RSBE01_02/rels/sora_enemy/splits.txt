@@ -834,6 +834,9 @@ mo_enemy/sora_enemy/patapata/em_patapata_param_accesser.cpp:
 	.data       start:0x00013350 end:0x000133D0
 	.bss        start:0x00000668 end:0x00000680
 
+mo_stub/sora_enemy/fn_41_514BC.c:
+	.text       start:0x000514BC end:0x000514C4
+
 mo_enemy/sora_enemy/jdus/em_jdus_param_accesser.cpp:
 	.text       start:0x000514C4 end:0x00051734
 	.ctors      start:0x000000BC end:0x000000C0
@@ -844,6 +847,9 @@ mo_enemy/sora_enemy/jdus/em_jdus_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_529F0.c:
 	.text       start:0x000529F0 end:0x00052A00
 
+mo_stub/sora_enemy/fn_41_52A58.c:
+	.text       start:0x00052A58 end:0x00052A70
+
 mo_enemy/sora_enemy/ghamgha/em_ghamgha_param_accesser.cpp:
 	.text       start:0x00052A70 end:0x00052CF0
 	.ctors      start:0x000000C0 end:0x000000C4
@@ -853,6 +859,9 @@ mo_enemy/sora_enemy/ghamgha/em_ghamgha_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_53E80.c:
 	.text       start:0x00053E80 end:0x00053E90
+
+mo_stub/sora_enemy/fn_41_53EE8.c:
+	.text       start:0x00053EE8 end:0x00053EF0
 
 mo_enemy/sora_enemy/robobeam/em_robobeam_param_accesser.cpp:
 	.text       start:0x00053F00 end:0x0005416C
