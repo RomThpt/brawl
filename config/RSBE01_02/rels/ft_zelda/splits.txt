@@ -137,6 +137,9 @@ mo_stub/ft_zelda/fn_104_DEFC.c:
 mo_stub/ft_zelda/fn_104_DF14.c:
 	.text       start:0x0000DF14 end:0x0000DF1C
 
+mo_stub/ft_zelda/fn_104_DF1C.c:
+	.text       start:0x0000DF1C end:0x0000DF24
+
 mo_stub/ft_zelda/fn_104_E028.c:
 	.text       start:0x0000E028 end:0x0000E030
 
@@ -214,6 +217,9 @@ mo_stub/ft_zelda/fn_104_12A28.c:
 
 mo_stub/ft_zelda/fn_104_1322C.c:
 	.text       start:0x0001322C end:0x00013240
+
+mo_stub/ft_zelda/fn_104_132A8.c:
+	.text       start:0x000132A8 end:0x000132C8
 
 mo_stub/ft_zelda/fn_104_1563C.c:
 	.text       start:0x0001563C end:0x00015644
