@@ -197,6 +197,9 @@ mo_stub/st_mansion/fn_47_8D88.c:
 mo_stub/st_mansion/fn_47_96A4.c:
 	.text       start:0x000096A4 end:0x000096AC
 
+mo_stub/st_mansion/fn_47_9828.c:
+	.text       start:0x00009828 end:0x00009850
+
 mo_stub/st_mansion/fn_47_9BB8.c:
 	.text       start:0x00009BB8 end:0x00009BBC
 
