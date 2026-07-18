@@ -17,6 +17,9 @@ mo_stub/ft_koopa/fn_102_61A8.c:
 mo_stub/ft_koopa/fn_102_8A2C.c:
 	.text       start:0x00008A2C end:0x00008A30
 
+mo_stub/ft_koopa/fn_102_8A30.c:
+	.text       start:0x00008A30 end:0x00008A38
+
 mo_stub/ft_koopa/fn_102_8D74.c:
 	.text       start:0x00008D74 end:0x00008D84
 
