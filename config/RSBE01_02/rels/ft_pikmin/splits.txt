@@ -158,6 +158,9 @@ mo_stub/ft_pikmin/fn_113_FFD0.c:
 mo_stub/ft_pikmin/fn_113_10060.c:
 	.text       start:0x00010060 end:0x00010068
 
+mo_stub/ft_pikmin/fn_113_100C0.c:
+	.text       start:0x000100C0 end:0x000100C8
+
 mo_stub/ft_pikmin/fn_113_116BC.c:
 	.text       start:0x000116BC end:0x000116C0
 
@@ -166,6 +169,9 @@ mo_stub/ft_pikmin/fn_113_11E6C.c:
 
 mo_stub/ft_pikmin/fn_113_12414.c:
 	.text       start:0x00012414 end:0x0001241C
+
+mo_stub/ft_pikmin/fn_113_124B8.c:
+	.text       start:0x000124B8 end:0x000124D8
 
 mo_stub/ft_pikmin/fn_113_125E0.c:
 	.text       start:0x000125E0 end:0x000125E4
