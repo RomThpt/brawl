@@ -149,6 +149,12 @@ mo_stub/ft_ganon/fn_109_C410.c:
 mo_stub/ft_ganon/fn_109_C610.c:
 	.text       start:0x0000C610 end:0x0000C614
 
+mo_stub/ft_ganon/fn_109_CCF0.c:
+	.text       start:0x0000CCF0 end:0x0000CCF8
+
+mo_stub/ft_ganon/fn_109_CDA4.c:
+	.text       start:0x0000CDA4 end:0x0000CDAC
+
 mo_stub/ft_ganon/fn_109_D384.c:
 	.text       start:0x0000D384 end:0x0000D388
 
@@ -157,6 +163,9 @@ mo_stub/ft_ganon/fn_109_D388.c:
 
 mo_stub/ft_ganon/fn_109_DC40.c:
 	.text       start:0x0000DC40 end:0x0000DC48
+
+mo_stub/ft_ganon/fn_109_DCB4.c:
+	.text       start:0x0000DCB4 end:0x0000DCBC
 
 mo_stub/ft_ganon/fn_109_11428.c:
 	.text       start:0x00011428 end:0x00011430
