@@ -110,6 +110,9 @@ mo_stub/ft_wolf/fn_125_E0AC.c:
 mo_stub/ft_wolf/fn_125_E194.c:
 	.text       start:0x0000E194 end:0x0000E19C
 
+mo_stub/ft_wolf/fn_125_E27C.c:
+	.text       start:0x0000E27C end:0x0000E284
+
 mo_stub/ft_wolf/fn_125_108B0.c:
 	.text       start:0x000108B0 end:0x000108C0
 
