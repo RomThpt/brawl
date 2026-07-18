@@ -272,6 +272,9 @@ mo_stub/ft_gamewatch/fn_107_1AF58.c:
 mo_stub/ft_gamewatch/fn_107_1CD58.c:
 	.text       start:0x0001CD58 end:0x0001CD80
 
+mo_stub/ft_gamewatch/fn_107_1CD80.c:
+	.text       start:0x0001CD80 end:0x0001CD90
+
 mo_stub/ft_gamewatch/fn_107_1F8EC.c:
 	.text       start:0x0001F8EC end:0x0001F8F8
 
@@ -304,6 +307,9 @@ mo_stub/ft_gamewatch/fn_107_1F9C4.c:
 
 mo_stub/ft_gamewatch/fn_107_1F9DC.c:
 	.text       start:0x0001F9DC end:0x0001F9FC
+
+mo_stub/ft_gamewatch/fn_107_1FB00.c:
+	.text       start:0x0001FB00 end:0x0001FB18
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00021D7C end:0x00021E18
