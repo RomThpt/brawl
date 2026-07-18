@@ -4127,6 +4127,12 @@ mo_stub/sora_melee/fn_27_106C94.c:
 mo_stub/sora_melee/fn_27_106CA4.c:
 	.text       start:0x00106CA4 end:0x00106CC4
 
+mo_stub/sora_melee/fn_27_106CC4.c:
+	.text       start:0x00106CC4 end:0x00106CDC
+
+mo_stub/sora_melee/fn_27_106CE4.c:
+	.text       start:0x00106CE4 end:0x00106CF4
+
 mo_melee/sora_melee/ft/ft_class_info.cpp:
 	.text       start:0x001254D4 end:0x001257EC
 	.ctors      start:0x0000005C end:0x00000060
