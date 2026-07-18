@@ -215,6 +215,9 @@ mo_stub/ft_dedede/fn_117_1550C.c:
 mo_stub/ft_dedede/fn_117_155BC.c:
 	.text       start:0x000155BC end:0x000155D4
 
+mo_stub/ft_dedede/fn_117_155DC.c:
+	.text       start:0x000155DC end:0x00015604
+
 mo_stub/ft_dedede/fn_117_15724.c:
 	.text       start:0x00015724 end:0x00015728
 
