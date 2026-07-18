@@ -4491,7 +4491,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/sora_menu_tour/fn_3_EDF4.c"),
+        ],
     },
     {
         "lib": "sora_menu_watch",
