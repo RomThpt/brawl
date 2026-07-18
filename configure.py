@@ -6060,6 +6060,10 @@ config.libs = [
             Object(Matching, "mo_stub/st_gw/fn_63_F88C.c"),
             Object(Matching, "mo_stub/st_gw/fn_63_10AE4.c"),
             Object(Matching, "mo_stub/st_gw/fn_63_11F5C.c"),
+            Object(Matching, "mo_stub/st_gw/fn_63_3A94.c"),
+            Object(Matching, "mo_stub/st_gw/fn_63_518C.c"),
+            Object(Matching, "mo_stub/st_gw/fn_63_5528.c"),
+            Object(Matching, "mo_stub/st_gw/fn_63_FA10.c"),
         ],
     },
     {
