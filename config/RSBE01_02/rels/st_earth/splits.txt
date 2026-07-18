@@ -212,11 +212,17 @@ mo_stub/st_earth/fn_66_F040.c:
 mo_stub/st_earth/fn_66_F068.c:
 	.text       start:0x0000F068 end:0x0000F090
 
+mo_stub/st_earth/fn_66_F090.c:
+	.text       start:0x0000F090 end:0x0000F0A0
+
 mo_stub/st_earth/fn_66_11158.c:
 	.text       start:0x00011158 end:0x00011160
 
 mo_stub/st_earth/fn_66_112F8.c:
 	.text       start:0x000112F8 end:0x00011300
+
+mo_stub/st_earth/fn_66_11398.c:
+	.text       start:0x00011398 end:0x000113B0
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x000139C4 end:0x00013A60
