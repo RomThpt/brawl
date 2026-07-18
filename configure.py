@@ -3362,6 +3362,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_poke/fn_116_213C4.c"),
             Object(Matching, "mo_stub/ft_poke/fn_116_23BA4.c"),
             Object(Matching, "mo_stub/ft_poke/fn_116_265EC.c"),
+            Object(Matching, "mo_stub/ft_poke/fn_116_DB98.c"),
+            Object(Matching, "mo_stub/ft_poke/fn_116_DBC0.c"),
         ],
     },
     {
