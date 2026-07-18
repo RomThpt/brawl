@@ -14,6 +14,12 @@ global_destructor_chain.c:
 mo_stub/ft_falco/fn_108_8008.c:
 	.text       start:0x00008008 end:0x00008010
 
+mo_stub/ft_falco/fn_108_AA94.c:
+	.text       start:0x0000AA94 end:0x0000AA9C
+
+mo_stub/ft_falco/fn_108_AD8C.c:
+	.text       start:0x0000AD8C end:0x0000AD90
+
 mo_stub/ft_falco/fn_108_AD90.c:
 	.text       start:0x0000AD90 end:0x0000AD9C
 
@@ -28,6 +34,9 @@ mo_stub/ft_falco/fn_108_AE98.c:
 
 mo_stub/ft_falco/fn_108_AEA8.c:
 	.text       start:0x0000AEA8 end:0x0000AEBC
+
+mo_stub/ft_falco/fn_108_AEBC.c:
+	.text       start:0x0000AEBC end:0x0000AEC0
 
 mo_stub/ft_falco/fn_108_AEC0.c:
 	.text       start:0x0000AEC0 end:0x0000AED4
@@ -79,6 +88,42 @@ mo_stub/ft_falco/fn_108_D5F4.c:
 
 mo_stub/ft_falco/fn_108_DD00.c:
 	.text       start:0x0000DD00 end:0x0000DD04
+
+mo_stub/ft_falco/fn_108_DD3C.c:
+	.text       start:0x0000DD3C end:0x0000DD44
+
+mo_stub/ft_falco/fn_108_DE30.c:
+	.text       start:0x0000DE30 end:0x0000DE38
+
+mo_stub/ft_falco/fn_108_DF18.c:
+	.text       start:0x0000DF18 end:0x0000DF20
+
+mo_stub/ft_falco/fn_108_E000.c:
+	.text       start:0x0000E000 end:0x0000E008
+
+mo_stub/ft_falco/fn_108_E0E8.c:
+	.text       start:0x0000E0E8 end:0x0000E0F0
+
+mo_stub/ft_falco/fn_108_E1D0.c:
+	.text       start:0x0000E1D0 end:0x0000E1D8
+
+mo_stub/ft_falco/fn_108_E2B8.c:
+	.text       start:0x0000E2B8 end:0x0000E2C0
+
+mo_stub/ft_falco/fn_108_E3A0.c:
+	.text       start:0x0000E3A0 end:0x0000E3A8
+
+mo_stub/ft_falco/fn_108_E488.c:
+	.text       start:0x0000E488 end:0x0000E490
+
+mo_stub/ft_falco/fn_108_10900.c:
+	.text       start:0x00010900 end:0x00010908
+
+mo_stub/ft_falco/fn_108_10908.c:
+	.text       start:0x00010908 end:0x00010910
+
+mo_stub/ft_falco/fn_108_10910.c:
+	.text       start:0x00010910 end:0x00010918
 
 mo_stub/ft_falco/fn_108_10968.c:
 	.text       start:0x00010968 end:0x00010978

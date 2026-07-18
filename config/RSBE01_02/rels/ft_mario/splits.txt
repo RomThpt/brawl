@@ -14,6 +14,15 @@ global_destructor_chain.c:
 mo_stub/ft_mario/fn_91_22B4.c:
 	.text       start:0x000022B4 end:0x000022BC
 
+mo_stub/ft_mario/fn_91_A0AC.c:
+	.text       start:0x0000A0AC end:0x0000A0B4
+
+mo_stub/ft_mario/fn_91_A0B4.c:
+	.text       start:0x0000A0B4 end:0x0000A0BC
+
+mo_stub/ft_mario/fn_91_A184.c:
+	.text       start:0x0000A184 end:0x0000A188
+
 mo_stub/ft_mario/fn_91_A394.c:
 	.text       start:0x0000A394 end:0x0000A39C
 
@@ -28,6 +37,9 @@ mo_stub/ft_mario/fn_91_A498.c:
 
 mo_stub/ft_mario/fn_91_A4A8.c:
 	.text       start:0x0000A4A8 end:0x0000A4BC
+
+mo_stub/ft_mario/fn_91_A4BC.c:
+	.text       start:0x0000A4BC end:0x0000A4C0
 
 mo_stub/ft_mario/fn_91_A4C0.c:
 	.text       start:0x0000A4C0 end:0x0000A4D0
@@ -82,6 +94,42 @@ mo_stub/ft_mario/fn_91_CC18.c:
 
 mo_stub/ft_mario/fn_91_D328.c:
 	.text       start:0x0000D328 end:0x0000D32C
+
+mo_stub/ft_mario/fn_91_D364.c:
+	.text       start:0x0000D364 end:0x0000D36C
+
+mo_stub/ft_mario/fn_91_D458.c:
+	.text       start:0x0000D458 end:0x0000D460
+
+mo_stub/ft_mario/fn_91_D540.c:
+	.text       start:0x0000D540 end:0x0000D548
+
+mo_stub/ft_mario/fn_91_D628.c:
+	.text       start:0x0000D628 end:0x0000D630
+
+mo_stub/ft_mario/fn_91_D710.c:
+	.text       start:0x0000D710 end:0x0000D718
+
+mo_stub/ft_mario/fn_91_D7F8.c:
+	.text       start:0x0000D7F8 end:0x0000D800
+
+mo_stub/ft_mario/fn_91_D8E0.c:
+	.text       start:0x0000D8E0 end:0x0000D8E8
+
+mo_stub/ft_mario/fn_91_D9C8.c:
+	.text       start:0x0000D9C8 end:0x0000D9D0
+
+mo_stub/ft_mario/fn_91_DAB0.c:
+	.text       start:0x0000DAB0 end:0x0000DAB8
+
+mo_stub/ft_mario/fn_91_E0D0.c:
+	.text       start:0x0000E0D0 end:0x0000E0D4
+
+mo_stub/ft_mario/fn_91_E0D4.c:
+	.text       start:0x0000E0D4 end:0x0000E0D8
+
+mo_stub/ft_mario/fn_91_E0D8.c:
+	.text       start:0x0000E0D8 end:0x0000E0E0
 
 mo_stub/ft_mario/fn_91_E0E0.c:
 	.text       start:0x0000E0E0 end:0x0000E0FC
@@ -145,6 +193,18 @@ mo_stub/ft_mario/fn_91_10310.c:
 
 mo_stub/ft_mario/fn_91_10348.c:
 	.text       start:0x00010348 end:0x00010360
+
+mo_stub/ft_mario/fn_91_10360.c:
+	.text       start:0x00010360 end:0x00010364
+
+mo_stub/ft_mario/fn_91_10380.c:
+	.text       start:0x00010380 end:0x00010388
+
+mo_stub/ft_mario/fn_91_103D0.c:
+	.text       start:0x000103D0 end:0x000103D4
+
+mo_stub/ft_mario/fn_91_14124.c:
+	.text       start:0x00014124 end:0x0001412C
 
 mo_stub/ft_mario/fn_91_16B14.c:
 	.text       start:0x00016B14 end:0x00016B2C

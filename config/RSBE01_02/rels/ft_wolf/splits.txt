@@ -14,6 +14,12 @@ global_destructor_chain.c:
 mo_stub/ft_wolf/fn_125_8060.c:
 	.text       start:0x00008060 end:0x00008068
 
+mo_stub/ft_wolf/fn_125_AAEC.c:
+	.text       start:0x0000AAEC end:0x0000AAF4
+
+mo_stub/ft_wolf/fn_125_AE00.c:
+	.text       start:0x0000AE00 end:0x0000AE04
+
 mo_stub/ft_wolf/fn_125_AE04.c:
 	.text       start:0x0000AE04 end:0x0000AE10
 
@@ -28,6 +34,9 @@ mo_stub/ft_wolf/fn_125_AF0C.c:
 
 mo_stub/ft_wolf/fn_125_AF1C.c:
 	.text       start:0x0000AF1C end:0x0000AF30
+
+mo_stub/ft_wolf/fn_125_AF30.c:
+	.text       start:0x0000AF30 end:0x0000AF34
 
 mo_stub/ft_wolf/fn_125_AF34.c:
 	.text       start:0x0000AF34 end:0x0000AF48
@@ -85,6 +94,42 @@ mo_stub/ft_wolf/fn_125_D69C.c:
 
 mo_stub/ft_wolf/fn_125_DDAC.c:
 	.text       start:0x0000DDAC end:0x0000DDB0
+
+mo_stub/ft_wolf/fn_125_DDE8.c:
+	.text       start:0x0000DDE8 end:0x0000DDF0
+
+mo_stub/ft_wolf/fn_125_DEDC.c:
+	.text       start:0x0000DEDC end:0x0000DEE4
+
+mo_stub/ft_wolf/fn_125_DFC4.c:
+	.text       start:0x0000DFC4 end:0x0000DFCC
+
+mo_stub/ft_wolf/fn_125_E0AC.c:
+	.text       start:0x0000E0AC end:0x0000E0B4
+
+mo_stub/ft_wolf/fn_125_E194.c:
+	.text       start:0x0000E194 end:0x0000E19C
+
+mo_stub/ft_wolf/fn_125_E27C.c:
+	.text       start:0x0000E27C end:0x0000E284
+
+mo_stub/ft_wolf/fn_125_E364.c:
+	.text       start:0x0000E364 end:0x0000E36C
+
+mo_stub/ft_wolf/fn_125_E44C.c:
+	.text       start:0x0000E44C end:0x0000E454
+
+mo_stub/ft_wolf/fn_125_E534.c:
+	.text       start:0x0000E534 end:0x0000E53C
+
+mo_stub/ft_wolf/fn_125_10848.c:
+	.text       start:0x00010848 end:0x00010850
+
+mo_stub/ft_wolf/fn_125_10850.c:
+	.text       start:0x00010850 end:0x00010858
+
+mo_stub/ft_wolf/fn_125_10858.c:
+	.text       start:0x00010858 end:0x00010860
 
 mo_stub/ft_wolf/fn_125_108B0.c:
 	.text       start:0x000108B0 end:0x000108C0

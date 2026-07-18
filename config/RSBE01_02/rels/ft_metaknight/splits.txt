@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_metaknight/fn_111_5F38.c:
+	.text       start:0x00005F38 end:0x00005F40
+
+mo_stub/ft_metaknight/fn_111_819C.c:
+	.text       start:0x0000819C end:0x000081A0
+
+mo_stub/ft_metaknight/fn_111_81A0.c:
+	.text       start:0x000081A0 end:0x000081A8
+
+mo_stub/ft_metaknight/fn_111_8470.c:
+	.text       start:0x00008470 end:0x00008474
+
+mo_stub/ft_metaknight/fn_111_8474.c:
+	.text       start:0x00008474 end:0x0000847C
+
+mo_stub/ft_metaknight/fn_111_847C.c:
+	.text       start:0x0000847C end:0x00008480
+
+mo_stub/ft_metaknight/fn_111_84BC.c:
+	.text       start:0x000084BC end:0x000084C0
+
 mo_stub/ft_metaknight/fn_111_84C0.c:
 	.text       start:0x000084C0 end:0x000084C4
 

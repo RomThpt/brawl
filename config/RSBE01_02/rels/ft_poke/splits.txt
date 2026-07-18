@@ -11,6 +11,30 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_poke/fn_116_7384.c:
+	.text       start:0x00007384 end:0x0000738C
+
+mo_stub/ft_poke/fn_116_9718.c:
+	.text       start:0x00009718 end:0x0000971C
+
+mo_stub/ft_poke/fn_116_9A98.c:
+	.text       start:0x00009A98 end:0x00009A9C
+
+mo_stub/ft_poke/fn_116_9DA4.c:
+	.text       start:0x00009DA4 end:0x00009DA8
+
+mo_stub/ft_poke/fn_116_9EC4.c:
+	.text       start:0x00009EC4 end:0x00009EC8
+
+mo_stub/ft_poke/fn_116_A148.c:
+	.text       start:0x0000A148 end:0x0000A150
+
+mo_stub/ft_poke/fn_116_A150.c:
+	.text       start:0x0000A150 end:0x0000A158
+
+mo_stub/ft_poke/fn_116_A408.c:
+	.text       start:0x0000A408 end:0x0000A40C
+
 mo_stub/ft_poke/fn_116_A40C.c:
 	.text       start:0x0000A40C end:0x0000A418
 
@@ -67,6 +91,42 @@ mo_stub/ft_poke/fn_116_A994.c:
 
 mo_stub/ft_poke/fn_116_BC58.c:
 	.text       start:0x0000BC58 end:0x0000BC60
+
+mo_stub/ft_poke/fn_116_CB00.c:
+	.text       start:0x0000CB00 end:0x0000CB04
+
+mo_stub/ft_poke/fn_116_D20C.c:
+	.text       start:0x0000D20C end:0x0000D210
+
+mo_stub/ft_poke/fn_116_D248.c:
+	.text       start:0x0000D248 end:0x0000D250
+
+mo_stub/ft_poke/fn_116_D33C.c:
+	.text       start:0x0000D33C end:0x0000D344
+
+mo_stub/ft_poke/fn_116_D424.c:
+	.text       start:0x0000D424 end:0x0000D42C
+
+mo_stub/ft_poke/fn_116_D50C.c:
+	.text       start:0x0000D50C end:0x0000D514
+
+mo_stub/ft_poke/fn_116_D5F4.c:
+	.text       start:0x0000D5F4 end:0x0000D5FC
+
+mo_stub/ft_poke/fn_116_D6DC.c:
+	.text       start:0x0000D6DC end:0x0000D6E4
+
+mo_stub/ft_poke/fn_116_D7C4.c:
+	.text       start:0x0000D7C4 end:0x0000D7CC
+
+mo_stub/ft_poke/fn_116_D8AC.c:
+	.text       start:0x0000D8AC end:0x0000D8B4
+
+mo_stub/ft_poke/fn_116_D994.c:
+	.text       start:0x0000D994 end:0x0000D99C
+
+mo_stub/ft_poke/fn_116_DD40.c:
+	.text       start:0x0000DD40 end:0x0000DD44
 
 mo_stub/ft_poke/fn_116_DD44.c:
 	.text       start:0x0000DD44 end:0x0000DD48
@@ -145,6 +205,57 @@ mo_stub/ft_poke/fn_116_11534.c:
 
 mo_stub/ft_poke/fn_116_11560.c:
 	.text       start:0x00011560 end:0x00011568
+
+mo_stub/ft_poke/fn_116_115B0.c:
+	.text       start:0x000115B0 end:0x000115B4
+
+mo_stub/ft_poke/fn_116_1892C.c:
+	.text       start:0x0001892C end:0x00018934
+
+mo_stub/ft_poke/fn_116_19600.c:
+	.text       start:0x00019600 end:0x00019608
+
+mo_stub/ft_poke/fn_116_19CEC.c:
+	.text       start:0x00019CEC end:0x00019CF0
+
+mo_stub/ft_poke/fn_116_19D28.c:
+	.text       start:0x00019D28 end:0x00019D30
+
+mo_stub/ft_poke/fn_116_19E04.c:
+	.text       start:0x00019E04 end:0x00019E0C
+
+mo_stub/ft_poke/fn_116_19E9C.c:
+	.text       start:0x00019E9C end:0x00019EA4
+
+mo_stub/ft_poke/fn_116_19F6C.c:
+	.text       start:0x00019F6C end:0x00019F74
+
+mo_stub/ft_poke/fn_116_1A004.c:
+	.text       start:0x0001A004 end:0x0001A00C
+
+mo_stub/ft_poke/fn_116_1A0D4.c:
+	.text       start:0x0001A0D4 end:0x0001A0DC
+
+mo_stub/ft_poke/fn_116_1A1A4.c:
+	.text       start:0x0001A1A4 end:0x0001A1AC
+
+mo_stub/ft_poke/fn_116_1A274.c:
+	.text       start:0x0001A274 end:0x0001A27C
+
+mo_stub/ft_poke/fn_116_1A344.c:
+	.text       start:0x0001A344 end:0x0001A34C
+
+mo_stub/ft_poke/fn_116_204D4.c:
+	.text       start:0x000204D4 end:0x000204DC
+
+mo_stub/ft_poke/fn_116_213C4.c:
+	.text       start:0x000213C4 end:0x000213CC
+
+mo_stub/ft_poke/fn_116_23BA4.c:
+	.text       start:0x00023BA4 end:0x00023BA8
+
+mo_stub/ft_poke/fn_116_265EC.c:
+	.text       start:0x000265EC end:0x000265F4
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00026738 end:0x000267D4

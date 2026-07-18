@@ -14,6 +14,12 @@ global_destructor_chain.c:
 mo_stub/ft_zako/fn_126_51C8.c:
 	.text       start:0x000051C8 end:0x000051D0
 
+mo_stub/ft_zako/fn_126_6F20.c:
+	.text       start:0x00006F20 end:0x00006F24
+
+mo_stub/ft_zako/fn_126_6F24.c:
+	.text       start:0x00006F24 end:0x00006F2C
+
 mo_stub/ft_zako/fn_126_70CC.c:
 	.text       start:0x000070CC end:0x000070DC
 
@@ -31,6 +37,9 @@ mo_stub/ft_zako/fn_126_71D8.c:
 
 mo_stub/ft_zako/fn_126_71E4.c:
 	.text       start:0x000071E4 end:0x000071F8
+
+mo_stub/ft_zako/fn_126_71F8.c:
+	.text       start:0x000071F8 end:0x000071FC
 
 mo_stub/ft_zako/fn_126_71FC.c:
 	.text       start:0x000071FC end:0x00007210
@@ -76,6 +85,42 @@ mo_stub/ft_zako/fn_126_76AC.c:
 
 mo_stub/ft_zako/fn_126_7A3C.c:
 	.text       start:0x00007A3C end:0x00007A44
+
+mo_stub/ft_zako/fn_126_7A54.c:
+	.text       start:0x00007A54 end:0x00007A5C
+
+mo_stub/ft_zako/fn_126_87EC.c:
+	.text       start:0x000087EC end:0x000087F0
+
+mo_stub/ft_zako/fn_126_8EFC.c:
+	.text       start:0x00008EFC end:0x00008F00
+
+mo_stub/ft_zako/fn_126_8F38.c:
+	.text       start:0x00008F38 end:0x00008F40
+
+mo_stub/ft_zako/fn_126_902C.c:
+	.text       start:0x0000902C end:0x00009034
+
+mo_stub/ft_zako/fn_126_9114.c:
+	.text       start:0x00009114 end:0x0000911C
+
+mo_stub/ft_zako/fn_126_91FC.c:
+	.text       start:0x000091FC end:0x00009204
+
+mo_stub/ft_zako/fn_126_92E4.c:
+	.text       start:0x000092E4 end:0x000092EC
+
+mo_stub/ft_zako/fn_126_93CC.c:
+	.text       start:0x000093CC end:0x000093D4
+
+mo_stub/ft_zako/fn_126_94B4.c:
+	.text       start:0x000094B4 end:0x000094BC
+
+mo_stub/ft_zako/fn_126_959C.c:
+	.text       start:0x0000959C end:0x000095A4
+
+mo_stub/ft_zako/fn_126_9684.c:
+	.text       start:0x00009684 end:0x0000968C
 
 mo_stub/ft_zako/fn_126_B6F0.c:
 	.text       start:0x0000B6F0 end:0x0000B708

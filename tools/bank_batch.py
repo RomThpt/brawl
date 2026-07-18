@@ -92,6 +92,12 @@ def kind(a, sz):
                 return ("binop", "|")
             if xop == 0x7C0000F8 and f2 == 3 and f1 == 3 and f3 == 3:  # nor => not
                 return ("unop", "~")
+            if xop == 0x7C000030 and f2 == 3 and f1 == 3 and f3 == 4:  # slw => a0<<a1
+                return ("shl", None)
+            if xop == 0x7C000430 and f2 == 3 and f1 == 3 and f3 == 4:  # srw => (unsigned)a0>>a1
+                return ("shr", None)
+            if xop == 0x7C000050 and f1 == 3 and f2 == 4 and f3 == 3:  # subf = rB-rA => a0-a1
+                return ("sub2", None)
     return None
 
 
@@ -156,6 +162,12 @@ for g in groups:
             body.append(f"int {n}(int a0, int a1) {{\n    return a0 {v} a1;\n}}\n")
         elif kk == "unop":
             body.append(f"int {n}(int a0) {{\n    return {v}a0;\n}}\n")
+        elif kk == "shl":
+            body.append(f"int {n}(int a0, int a1) {{\n    return a0 << a1;\n}}\n")
+        elif kk == "shr":
+            body.append(f"unsigned int {n}(unsigned int a0, int a1) {{\n    return a0 >> a1;\n}}\n")
+        elif kk == "sub2":
+            body.append(f"int {n}(int a0, int a1) {{\n    return a0 - a1;\n}}\n")
     src = "\n".join(body)
     path = f"stub/{g[0][2]}.c"
     add_unit.add(path, start, end, src)

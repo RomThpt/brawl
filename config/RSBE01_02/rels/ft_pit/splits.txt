@@ -14,6 +14,12 @@ global_destructor_chain.c:
 mo_stub/ft_pit/fn_112_774C.c:
 	.text       start:0x0000774C end:0x00007754
 
+mo_stub/ft_pit/fn_112_A2E0.c:
+	.text       start:0x0000A2E0 end:0x0000A2E8
+
+mo_stub/ft_pit/fn_112_A5C0.c:
+	.text       start:0x0000A5C0 end:0x0000A5C4
+
 mo_stub/ft_pit/fn_112_A5C4.c:
 	.text       start:0x0000A5C4 end:0x0000A5D0
 
@@ -28,6 +34,9 @@ mo_stub/ft_pit/fn_112_A6CC.c:
 
 mo_stub/ft_pit/fn_112_A6DC.c:
 	.text       start:0x0000A6DC end:0x0000A6F0
+
+mo_stub/ft_pit/fn_112_A6F0.c:
+	.text       start:0x0000A6F0 end:0x0000A6F4
 
 mo_stub/ft_pit/fn_112_A6F4.c:
 	.text       start:0x0000A6F4 end:0x0000A708
@@ -79,6 +88,30 @@ mo_stub/ft_pit/fn_112_CC00.c:
 
 mo_stub/ft_pit/fn_112_D30C.c:
 	.text       start:0x0000D30C end:0x0000D310
+
+mo_stub/ft_pit/fn_112_D348.c:
+	.text       start:0x0000D348 end:0x0000D350
+
+mo_stub/ft_pit/fn_112_D43C.c:
+	.text       start:0x0000D43C end:0x0000D444
+
+mo_stub/ft_pit/fn_112_D524.c:
+	.text       start:0x0000D524 end:0x0000D52C
+
+mo_stub/ft_pit/fn_112_D5D4.c:
+	.text       start:0x0000D5D4 end:0x0000D5DC
+
+mo_stub/ft_pit/fn_112_D6BC.c:
+	.text       start:0x0000D6BC end:0x0000D6C4
+
+mo_stub/ft_pit/fn_112_D7A4.c:
+	.text       start:0x0000D7A4 end:0x0000D7AC
+
+mo_stub/ft_pit/fn_112_D88C.c:
+	.text       start:0x0000D88C end:0x0000D894
+
+mo_stub/ft_pit/fn_112_D974.c:
+	.text       start:0x0000D974 end:0x0000D97C
 
 mo_stub/ft_pit/fn_112_DA5C.c:
 	.text       start:0x0000DA5C end:0x0000DA64
@@ -202,6 +235,24 @@ mo_stub/ft_pit/fn_112_121DC.c:
 
 mo_stub/ft_pit/fn_112_12204.c:
 	.text       start:0x00012204 end:0x00012208
+
+mo_stub/ft_pit/fn_112_12208.c:
+	.text       start:0x00012208 end:0x00012210
+
+mo_stub/ft_pit/fn_112_122FC.c:
+	.text       start:0x000122FC end:0x00012304
+
+mo_stub/ft_pit/fn_112_123E4.c:
+	.text       start:0x000123E4 end:0x000123EC
+
+mo_stub/ft_pit/fn_112_124CC.c:
+	.text       start:0x000124CC end:0x000124D4
+
+mo_stub/ft_pit/fn_112_125B4.c:
+	.text       start:0x000125B4 end:0x000125BC
+
+mo_stub/ft_pit/fn_112_15EEC.c:
+	.text       start:0x00015EEC end:0x00015EF4
 
 mo_stub/ft_pit/fn_112_15EF4.c:
 	.text       start:0x00015EF4 end:0x00015F08

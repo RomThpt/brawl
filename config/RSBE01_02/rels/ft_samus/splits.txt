@@ -14,6 +14,15 @@ global_destructor_chain.c:
 mo_stub/ft_samus/fn_94_6CF8.c:
 	.text       start:0x00006CF8 end:0x00006D00
 
+mo_stub/ft_samus/fn_94_A630.c:
+	.text       start:0x0000A630 end:0x0000A638
+
+mo_stub/ft_samus/fn_94_A82C.c:
+	.text       start:0x0000A82C end:0x0000A830
+
+mo_stub/ft_samus/fn_94_A8CC.c:
+	.text       start:0x0000A8CC end:0x0000A8D0
+
 mo_stub/ft_samus/fn_94_A8D0.c:
 	.text       start:0x0000A8D0 end:0x0000A8DC
 
@@ -28,6 +37,9 @@ mo_stub/ft_samus/fn_94_A9D8.c:
 
 mo_stub/ft_samus/fn_94_A9E8.c:
 	.text       start:0x0000A9E8 end:0x0000A9FC
+
+mo_stub/ft_samus/fn_94_A9FC.c:
+	.text       start:0x0000A9FC end:0x0000AA00
 
 mo_stub/ft_samus/fn_94_AA00.c:
 	.text       start:0x0000AA00 end:0x0000AA14
@@ -53,6 +65,18 @@ mo_stub/ft_samus/fn_94_AAAC.c:
 mo_stub/ft_samus/fn_94_AB84.c:
 	.text       start:0x0000AB84 end:0x0000AB8C
 
+mo_stub/ft_samus/fn_94_ADEC.c:
+	.text       start:0x0000ADEC end:0x0000ADF4
+
+mo_stub/ft_samus/fn_94_ADF4.c:
+	.text       start:0x0000ADF4 end:0x0000ADFC
+
+mo_stub/ft_samus/fn_94_ADFC.c:
+	.text       start:0x0000ADFC end:0x0000AE04
+
+mo_stub/ft_samus/fn_94_AE04.c:
+	.text       start:0x0000AE04 end:0x0000AE0C
+
 mo_stub/ft_samus/fn_94_AE0C.c:
 	.text       start:0x0000AE0C end:0x0000AE34
 
@@ -71,11 +95,56 @@ mo_stub/ft_samus/fn_94_B010.c:
 mo_stub/ft_samus/fn_94_B0D0.c:
 	.text       start:0x0000B0D0 end:0x0000B0D8
 
+mo_stub/ft_samus/fn_94_CCDC.c:
+	.text       start:0x0000CCDC end:0x0000CCE4
+
+mo_stub/ft_samus/fn_94_DC2C.c:
+	.text       start:0x0000DC2C end:0x0000DC30
+
+mo_stub/ft_samus/fn_94_E338.c:
+	.text       start:0x0000E338 end:0x0000E33C
+
+mo_stub/ft_samus/fn_94_E374.c:
+	.text       start:0x0000E374 end:0x0000E37C
+
+mo_stub/ft_samus/fn_94_E468.c:
+	.text       start:0x0000E468 end:0x0000E470
+
+mo_stub/ft_samus/fn_94_E550.c:
+	.text       start:0x0000E550 end:0x0000E558
+
+mo_stub/ft_samus/fn_94_E638.c:
+	.text       start:0x0000E638 end:0x0000E640
+
+mo_stub/ft_samus/fn_94_E720.c:
+	.text       start:0x0000E720 end:0x0000E728
+
+mo_stub/ft_samus/fn_94_E808.c:
+	.text       start:0x0000E808 end:0x0000E810
+
+mo_stub/ft_samus/fn_94_E8F0.c:
+	.text       start:0x0000E8F0 end:0x0000E8F8
+
+mo_stub/ft_samus/fn_94_E9D8.c:
+	.text       start:0x0000E9D8 end:0x0000E9E0
+
+mo_stub/ft_samus/fn_94_EAC0.c:
+	.text       start:0x0000EAC0 end:0x0000EAC8
+
 mo_stub/ft_samus/fn_94_F49C.c:
 	.text       start:0x0000F49C end:0x0000F4BC
 
 mo_stub/ft_samus/fn_94_F4BC.c:
 	.text       start:0x0000F4BC end:0x0000F4D0
+
+mo_stub/ft_samus/fn_94_F510.c:
+	.text       start:0x0000F510 end:0x0000F514
+
+mo_stub/ft_samus/fn_94_F514.c:
+	.text       start:0x0000F514 end:0x0000F518
+
+mo_stub/ft_samus/fn_94_F518.c:
+	.text       start:0x0000F518 end:0x0000F51C
 
 mo_stub/ft_samus/fn_94_18804.c:
 	.text       start:0x00018804 end:0x0001880C

@@ -14,6 +14,12 @@ global_destructor_chain.c:
 mo_stub/ft_luigi/fn_99_6178.c:
 	.text       start:0x00006178 end:0x00006180
 
+mo_stub/ft_luigi/fn_99_83A0.c:
+	.text       start:0x000083A0 end:0x000083A8
+
+mo_stub/ft_luigi/fn_99_868C.c:
+	.text       start:0x0000868C end:0x00008690
+
 mo_stub/ft_luigi/fn_99_8690.c:
 	.text       start:0x00008690 end:0x0000869C
 
@@ -28,6 +34,9 @@ mo_stub/ft_luigi/fn_99_8798.c:
 
 mo_stub/ft_luigi/fn_99_87A8.c:
 	.text       start:0x000087A8 end:0x000087BC
+
+mo_stub/ft_luigi/fn_99_87BC.c:
+	.text       start:0x000087BC end:0x000087C0
 
 mo_stub/ft_luigi/fn_99_87C0.c:
 	.text       start:0x000087C0 end:0x000087D4
@@ -76,6 +85,33 @@ mo_stub/ft_luigi/fn_99_9C28.c:
 
 mo_stub/ft_luigi/fn_99_AA44.c:
 	.text       start:0x0000AA44 end:0x0000AA48
+
+mo_stub/ft_luigi/fn_99_B154.c:
+	.text       start:0x0000B154 end:0x0000B158
+
+mo_stub/ft_luigi/fn_99_B190.c:
+	.text       start:0x0000B190 end:0x0000B198
+
+mo_stub/ft_luigi/fn_99_B284.c:
+	.text       start:0x0000B284 end:0x0000B28C
+
+mo_stub/ft_luigi/fn_99_B334.c:
+	.text       start:0x0000B334 end:0x0000B33C
+
+mo_stub/ft_luigi/fn_99_B41C.c:
+	.text       start:0x0000B41C end:0x0000B424
+
+mo_stub/ft_luigi/fn_99_B4CC.c:
+	.text       start:0x0000B4CC end:0x0000B4D4
+
+mo_stub/ft_luigi/fn_99_B5B4.c:
+	.text       start:0x0000B5B4 end:0x0000B5BC
+
+mo_stub/ft_luigi/fn_99_B69C.c:
+	.text       start:0x0000B69C end:0x0000B6A4
+
+mo_stub/ft_luigi/fn_99_B784.c:
+	.text       start:0x0000B784 end:0x0000B78C
 
 mo_stub/ft_luigi/fn_99_B86C.c:
 	.text       start:0x0000B86C end:0x0000B874

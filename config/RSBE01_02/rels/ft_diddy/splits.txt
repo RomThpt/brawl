@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_diddy/fn_115_672C.c:
+	.text       start:0x0000672C end:0x00006734
+
+mo_stub/ft_diddy/fn_115_9A1C.c:
+	.text       start:0x00009A1C end:0x00009A20
+
+mo_stub/ft_diddy/fn_115_9B48.c:
+	.text       start:0x00009B48 end:0x00009B50
+
+mo_stub/ft_diddy/fn_115_9ED4.c:
+	.text       start:0x00009ED4 end:0x00009ED8
+
+mo_stub/ft_diddy/fn_115_9ED8.c:
+	.text       start:0x00009ED8 end:0x00009EE0
+
+mo_stub/ft_diddy/fn_115_9EE0.c:
+	.text       start:0x00009EE0 end:0x00009EE4
+
+mo_stub/ft_diddy/fn_115_9F20.c:
+	.text       start:0x00009F20 end:0x00009F24
+
 mo_stub/ft_diddy/fn_115_9F24.c:
 	.text       start:0x00009F24 end:0x00009F28
 
@@ -71,6 +92,42 @@ mo_stub/ft_diddy/fn_115_B97C.c:
 mo_stub/ft_diddy/fn_115_C880.c:
 	.text       start:0x0000C880 end:0x0000C884
 
+mo_stub/ft_diddy/fn_115_CF8C.c:
+	.text       start:0x0000CF8C end:0x0000CF90
+
+mo_stub/ft_diddy/fn_115_CFC8.c:
+	.text       start:0x0000CFC8 end:0x0000CFD0
+
+mo_stub/ft_diddy/fn_115_D0BC.c:
+	.text       start:0x0000D0BC end:0x0000D0C4
+
+mo_stub/ft_diddy/fn_115_D1A4.c:
+	.text       start:0x0000D1A4 end:0x0000D1AC
+
+mo_stub/ft_diddy/fn_115_D28C.c:
+	.text       start:0x0000D28C end:0x0000D294
+
+mo_stub/ft_diddy/fn_115_D374.c:
+	.text       start:0x0000D374 end:0x0000D37C
+
+mo_stub/ft_diddy/fn_115_D45C.c:
+	.text       start:0x0000D45C end:0x0000D464
+
+mo_stub/ft_diddy/fn_115_D544.c:
+	.text       start:0x0000D544 end:0x0000D54C
+
+mo_stub/ft_diddy/fn_115_D62C.c:
+	.text       start:0x0000D62C end:0x0000D634
+
+mo_stub/ft_diddy/fn_115_D714.c:
+	.text       start:0x0000D714 end:0x0000D71C
+
+mo_stub/ft_diddy/fn_115_DC9C.c:
+	.text       start:0x0000DC9C end:0x0000DCA0
+
+mo_stub/ft_diddy/fn_115_DCA0.c:
+	.text       start:0x0000DCA0 end:0x0000DCA4
+
 mo_stub/ft_diddy/fn_115_DCA4.c:
 	.text       start:0x0000DCA4 end:0x0000DCC0
 
@@ -94,6 +151,18 @@ mo_stub/ft_diddy/fn_115_EF8C.c:
 
 mo_stub/ft_diddy/fn_115_F024.c:
 	.text       start:0x0000F024 end:0x0000F028
+
+mo_stub/ft_diddy/fn_115_F93C.c:
+	.text       start:0x0000F93C end:0x0000F940
+
+mo_stub/ft_diddy/fn_115_10BA8.c:
+	.text       start:0x00010BA8 end:0x00010BAC
+
+mo_stub/ft_diddy/fn_115_10BAC.c:
+	.text       start:0x00010BAC end:0x00010BB0
+
+mo_stub/ft_diddy/fn_115_1107C.c:
+	.text       start:0x0001107C end:0x00011080
 
 mo_stub/ft_diddy/fn_115_11080.c:
 	.text       start:0x00011080 end:0x00011084
@@ -178,6 +247,24 @@ mo_stub/ft_diddy/fn_115_1737C.c:
 
 mo_stub/ft_diddy/fn_115_173CC.c:
 	.text       start:0x000173CC end:0x000173D0
+
+mo_stub/ft_diddy/fn_115_181FC.c:
+	.text       start:0x000181FC end:0x00018200
+
+mo_stub/ft_diddy/fn_115_18224.c:
+	.text       start:0x00018224 end:0x00018228
+
+mo_stub/ft_diddy/fn_115_18228.c:
+	.text       start:0x00018228 end:0x00018230
+
+mo_stub/ft_diddy/fn_115_1836C.c:
+	.text       start:0x0001836C end:0x00018374
+
+mo_stub/ft_diddy/fn_115_18454.c:
+	.text       start:0x00018454 end:0x0001845C
+
+mo_stub/ft_diddy/fn_115_185E4.c:
+	.text       start:0x000185E4 end:0x000185EC
 
 mo_stub/ft_diddy/fn_115_186CC.c:
 	.text       start:0x000186CC end:0x000186D4

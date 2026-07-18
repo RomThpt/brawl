@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_link/fn_93_22F8.c:
+	.text       start:0x000022F8 end:0x00002300
+
+mo_stub/ft_link/fn_93_9978.c:
+	.text       start:0x00009978 end:0x0000997C
+
+mo_stub/ft_link/fn_93_AA2C.c:
+	.text       start:0x0000AA2C end:0x0000AA34
+
+mo_stub/ft_link/fn_93_AC04.c:
+	.text       start:0x0000AC04 end:0x0000AC0C
+
+mo_stub/ft_link/fn_93_AC1C.c:
+	.text       start:0x0000AC1C end:0x0000AC24
+
+mo_stub/ft_link/fn_93_AE34.c:
+	.text       start:0x0000AE34 end:0x0000AE38
+
+mo_stub/ft_link/fn_93_AE38.c:
+	.text       start:0x0000AE38 end:0x0000AE40
+
 mo_stub/ft_link/fn_93_AE40.c:
 	.text       start:0x0000AE40 end:0x0000AE44
 
@@ -71,6 +92,42 @@ mo_stub/ft_link/fn_93_B304.c:
 mo_stub/ft_link/fn_93_B3C4.c:
 	.text       start:0x0000B3C4 end:0x0000B3CC
 
+mo_stub/ft_link/fn_93_CBB0.c:
+	.text       start:0x0000CBB0 end:0x0000CBB8
+
+mo_stub/ft_link/fn_93_DAB0.c:
+	.text       start:0x0000DAB0 end:0x0000DAB4
+
+mo_stub/ft_link/fn_93_E1BC.c:
+	.text       start:0x0000E1BC end:0x0000E1C0
+
+mo_stub/ft_link/fn_93_E1F8.c:
+	.text       start:0x0000E1F8 end:0x0000E200
+
+mo_stub/ft_link/fn_93_E2EC.c:
+	.text       start:0x0000E2EC end:0x0000E2F4
+
+mo_stub/ft_link/fn_93_E3D4.c:
+	.text       start:0x0000E3D4 end:0x0000E3DC
+
+mo_stub/ft_link/fn_93_E4BC.c:
+	.text       start:0x0000E4BC end:0x0000E4C4
+
+mo_stub/ft_link/fn_93_E5A4.c:
+	.text       start:0x0000E5A4 end:0x0000E5AC
+
+mo_stub/ft_link/fn_93_E68C.c:
+	.text       start:0x0000E68C end:0x0000E694
+
+mo_stub/ft_link/fn_93_E774.c:
+	.text       start:0x0000E774 end:0x0000E77C
+
+mo_stub/ft_link/fn_93_E85C.c:
+	.text       start:0x0000E85C end:0x0000E864
+
+mo_stub/ft_link/fn_93_E944.c:
+	.text       start:0x0000E944 end:0x0000E94C
+
 mo_stub/ft_link/fn_93_F26C.c:
 	.text       start:0x0000F26C end:0x0000F288
 
@@ -85,6 +142,18 @@ mo_stub/ft_link/fn_93_F2EC.c:
 
 mo_stub/ft_link/fn_93_F420.c:
 	.text       start:0x0000F420 end:0x0000F424
+
+mo_stub/ft_link/fn_93_F62C.c:
+	.text       start:0x0000F62C end:0x0000F630
+
+mo_stub/ft_link/fn_93_F74C.c:
+	.text       start:0x0000F74C end:0x0000F750
+
+mo_stub/ft_link/fn_93_144B0.c:
+	.text       start:0x000144B0 end:0x000144B8
+
+mo_stub/ft_link/fn_93_144B8.c:
+	.text       start:0x000144B8 end:0x000144C0
 
 mo_stub/ft_link/fn_93_145C4.c:
 	.text       start:0x000145C4 end:0x000145DC

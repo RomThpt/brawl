@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_robot/fn_120_5CB0.c:
+	.text       start:0x00005CB0 end:0x00005CB8
+
+mo_stub/ft_robot/fn_120_90D0.c:
+	.text       start:0x000090D0 end:0x000090D4
+
+mo_stub/ft_robot/fn_120_9234.c:
+	.text       start:0x00009234 end:0x0000923C
+
+mo_stub/ft_robot/fn_120_95E4.c:
+	.text       start:0x000095E4 end:0x000095E8
+
+mo_stub/ft_robot/fn_120_95E8.c:
+	.text       start:0x000095E8 end:0x000095F0
+
+mo_stub/ft_robot/fn_120_95F0.c:
+	.text       start:0x000095F0 end:0x000095F4
+
+mo_stub/ft_robot/fn_120_9630.c:
+	.text       start:0x00009630 end:0x00009634
+
 mo_stub/ft_robot/fn_120_9634.c:
 	.text       start:0x00009634 end:0x00009638
 
@@ -70,6 +91,42 @@ mo_stub/ft_robot/fn_120_AF30.c:
 
 mo_stub/ft_robot/fn_120_BD80.c:
 	.text       start:0x0000BD80 end:0x0000BD84
+
+mo_stub/ft_robot/fn_120_C48C.c:
+	.text       start:0x0000C48C end:0x0000C490
+
+mo_stub/ft_robot/fn_120_C4C8.c:
+	.text       start:0x0000C4C8 end:0x0000C4D0
+
+mo_stub/ft_robot/fn_120_C5BC.c:
+	.text       start:0x0000C5BC end:0x0000C5C4
+
+mo_stub/ft_robot/fn_120_C6A4.c:
+	.text       start:0x0000C6A4 end:0x0000C6AC
+
+mo_stub/ft_robot/fn_120_C78C.c:
+	.text       start:0x0000C78C end:0x0000C794
+
+mo_stub/ft_robot/fn_120_C874.c:
+	.text       start:0x0000C874 end:0x0000C87C
+
+mo_stub/ft_robot/fn_120_C95C.c:
+	.text       start:0x0000C95C end:0x0000C964
+
+mo_stub/ft_robot/fn_120_CA44.c:
+	.text       start:0x0000CA44 end:0x0000CA4C
+
+mo_stub/ft_robot/fn_120_CB2C.c:
+	.text       start:0x0000CB2C end:0x0000CB34
+
+mo_stub/ft_robot/fn_120_CC14.c:
+	.text       start:0x0000CC14 end:0x0000CC1C
+
+mo_stub/ft_robot/fn_120_E018.c:
+	.text       start:0x0000E018 end:0x0000E020
+
+mo_stub/ft_robot/fn_120_E020.c:
+	.text       start:0x0000E020 end:0x0000E024
 
 mo_stub/ft_robot/fn_120_E024.c:
 	.text       start:0x0000E024 end:0x0000E040

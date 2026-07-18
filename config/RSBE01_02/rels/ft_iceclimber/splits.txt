@@ -11,6 +11,33 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_iceclimber/fn_105_8130.c:
+	.text       start:0x00008130 end:0x00008138
+
+mo_stub/ft_iceclimber/fn_105_AF48.c:
+	.text       start:0x0000AF48 end:0x0000AF4C
+
+mo_stub/ft_iceclimber/fn_105_AF4C.c:
+	.text       start:0x0000AF4C end:0x0000AF54
+
+mo_stub/ft_iceclimber/fn_105_BF14.c:
+	.text       start:0x0000BF14 end:0x0000BF18
+
+mo_stub/ft_iceclimber/fn_105_D540.c:
+	.text       start:0x0000D540 end:0x0000D548
+
+mo_stub/ft_iceclimber/fn_105_D8E4.c:
+	.text       start:0x0000D8E4 end:0x0000D8E8
+
+mo_stub/ft_iceclimber/fn_105_D924.c:
+	.text       start:0x0000D924 end:0x0000D928
+
+mo_stub/ft_iceclimber/fn_105_D928.c:
+	.text       start:0x0000D928 end:0x0000D92C
+
+mo_stub/ft_iceclimber/fn_105_D9E0.c:
+	.text       start:0x0000D9E0 end:0x0000D9E4
+
 mo_stub/ft_iceclimber/fn_105_D9E4.c:
 	.text       start:0x0000D9E4 end:0x0000D9F8
 
@@ -95,6 +122,18 @@ mo_stub/ft_iceclimber/fn_105_120D0.c:
 mo_stub/ft_iceclimber/fn_105_124AC.c:
 	.text       start:0x000124AC end:0x000124B4
 
+mo_stub/ft_iceclimber/fn_105_12888.c:
+	.text       start:0x00012888 end:0x00012890
+
+mo_stub/ft_iceclimber/fn_105_12C64.c:
+	.text       start:0x00012C64 end:0x00012C6C
+
+mo_stub/ft_iceclimber/fn_105_12FF4.c:
+	.text       start:0x00012FF4 end:0x00012FFC
+
+mo_stub/ft_iceclimber/fn_105_12FFC.c:
+	.text       start:0x00012FFC end:0x00013000
+
 mo_stub/ft_iceclimber/fn_105_13000.c:
 	.text       start:0x00013000 end:0x0001301C
 
@@ -173,6 +212,18 @@ mo_stub/ft_iceclimber/fn_105_1853C.c:
 mo_stub/ft_iceclimber/fn_105_18544.c:
 	.text       start:0x00018544 end:0x00018558
 
+mo_stub/ft_iceclimber/fn_105_18574.c:
+	.text       start:0x00018574 end:0x0001857C
+
+mo_stub/ft_iceclimber/fn_105_185C4.c:
+	.text       start:0x000185C4 end:0x000185C8
+
+mo_stub/ft_iceclimber/fn_105_1BD8C.c:
+	.text       start:0x0001BD8C end:0x0001BD90
+
+mo_stub/ft_iceclimber/fn_105_1BD90.c:
+	.text       start:0x0001BD90 end:0x0001BD94
+
 mo_stub/ft_iceclimber/fn_105_1BD94.c:
 	.text       start:0x0001BD94 end:0x0001BDA8
 
@@ -211,6 +262,9 @@ mo_stub/ft_iceclimber/fn_105_1C320.c:
 
 mo_stub/ft_iceclimber/fn_105_1C348.c:
 	.text       start:0x0001C348 end:0x0001C354
+
+mo_stub/ft_iceclimber/fn_105_1C440.c:
+	.text       start:0x0001C440 end:0x0001C448
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000210B0 end:0x0002114C

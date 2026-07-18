@@ -14,6 +14,12 @@ global_destructor_chain.c:
 mo_stub/ft_lucas/fn_114_8BC0.c:
 	.text       start:0x00008BC0 end:0x00008BC8
 
+mo_stub/ft_lucas/fn_114_C6AC.c:
+	.text       start:0x0000C6AC end:0x0000C6B4
+
+mo_stub/ft_lucas/fn_114_C6B4.c:
+	.text       start:0x0000C6B4 end:0x0000C6BC
+
 mo_stub/ft_lucas/fn_114_C9CC.c:
 	.text       start:0x0000C9CC end:0x0000C9DC
 
@@ -31,6 +37,9 @@ mo_stub/ft_lucas/fn_114_CAD8.c:
 
 mo_stub/ft_lucas/fn_114_CAE4.c:
 	.text       start:0x0000CAE4 end:0x0000CAF8
+
+mo_stub/ft_lucas/fn_114_CAF8.c:
+	.text       start:0x0000CAF8 end:0x0000CAFC
 
 mo_stub/ft_lucas/fn_114_CAFC.c:
 	.text       start:0x0000CAFC end:0x0000CB10
@@ -82,6 +91,42 @@ mo_stub/ft_lucas/fn_114_E6E8.c:
 
 mo_stub/ft_lucas/fn_114_F680.c:
 	.text       start:0x0000F680 end:0x0000F684
+
+mo_stub/ft_lucas/fn_114_FD90.c:
+	.text       start:0x0000FD90 end:0x0000FD94
+
+mo_stub/ft_lucas/fn_114_FDCC.c:
+	.text       start:0x0000FDCC end:0x0000FDD4
+
+mo_stub/ft_lucas/fn_114_FEC0.c:
+	.text       start:0x0000FEC0 end:0x0000FEC8
+
+mo_stub/ft_lucas/fn_114_FFA8.c:
+	.text       start:0x0000FFA8 end:0x0000FFB0
+
+mo_stub/ft_lucas/fn_114_10090.c:
+	.text       start:0x00010090 end:0x00010098
+
+mo_stub/ft_lucas/fn_114_10178.c:
+	.text       start:0x00010178 end:0x00010180
+
+mo_stub/ft_lucas/fn_114_10260.c:
+	.text       start:0x00010260 end:0x00010268
+
+mo_stub/ft_lucas/fn_114_10348.c:
+	.text       start:0x00010348 end:0x00010350
+
+mo_stub/ft_lucas/fn_114_10430.c:
+	.text       start:0x00010430 end:0x00010438
+
+mo_stub/ft_lucas/fn_114_10518.c:
+	.text       start:0x00010518 end:0x00010520
+
+mo_stub/ft_lucas/fn_114_1098C.c:
+	.text       start:0x0001098C end:0x00010990
+
+mo_stub/ft_lucas/fn_114_10990.c:
+	.text       start:0x00010990 end:0x00010998
 
 mo_stub/ft_lucas/fn_114_10998.c:
 	.text       start:0x00010998 end:0x000109B4
@@ -187,6 +232,18 @@ mo_stub/ft_lucas/fn_114_15CAC.c:
 
 mo_stub/ft_lucas/fn_114_15CC4.c:
 	.text       start:0x00015CC4 end:0x00015CD8
+
+mo_stub/ft_lucas/fn_114_15CD8.c:
+	.text       start:0x00015CD8 end:0x00015CDC
+
+mo_stub/ft_lucas/fn_114_15CDC.c:
+	.text       start:0x00015CDC end:0x00015CE0
+
+mo_stub/ft_lucas/fn_114_15CFC.c:
+	.text       start:0x00015CFC end:0x00015D04
+
+mo_stub/ft_lucas/fn_114_15D4C.c:
+	.text       start:0x00015D4C end:0x00015D50
 
 mo_stub/ft_lucas/fn_114_19AB0.c:
 	.text       start:0x00019AB0 end:0x00019AB8

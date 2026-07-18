@@ -14,6 +14,12 @@ global_destructor_chain.c:
 mo_stub/ft_yoshi/fn_95_8008.c:
 	.text       start:0x00008008 end:0x00008010
 
+mo_stub/ft_yoshi/fn_95_AF98.c:
+	.text       start:0x0000AF98 end:0x0000AFA0
+
+mo_stub/ft_yoshi/fn_95_B424.c:
+	.text       start:0x0000B424 end:0x0000B428
+
 mo_stub/ft_yoshi/fn_95_B428.c:
 	.text       start:0x0000B428 end:0x0000B434
 
@@ -28,6 +34,9 @@ mo_stub/ft_yoshi/fn_95_B530.c:
 
 mo_stub/ft_yoshi/fn_95_B540.c:
 	.text       start:0x0000B540 end:0x0000B554
+
+mo_stub/ft_yoshi/fn_95_B554.c:
+	.text       start:0x0000B554 end:0x0000B558
 
 mo_stub/ft_yoshi/fn_95_B558.c:
 	.text       start:0x0000B558 end:0x0000B56C
@@ -80,11 +89,50 @@ mo_stub/ft_yoshi/fn_95_DECC.c:
 mo_stub/ft_yoshi/fn_95_E5D8.c:
 	.text       start:0x0000E5D8 end:0x0000E5DC
 
+mo_stub/ft_yoshi/fn_95_E614.c:
+	.text       start:0x0000E614 end:0x0000E61C
+
+mo_stub/ft_yoshi/fn_95_E708.c:
+	.text       start:0x0000E708 end:0x0000E710
+
+mo_stub/ft_yoshi/fn_95_E7F0.c:
+	.text       start:0x0000E7F0 end:0x0000E7F8
+
+mo_stub/ft_yoshi/fn_95_E8D8.c:
+	.text       start:0x0000E8D8 end:0x0000E8E0
+
+mo_stub/ft_yoshi/fn_95_E9C0.c:
+	.text       start:0x0000E9C0 end:0x0000E9C8
+
+mo_stub/ft_yoshi/fn_95_EAA8.c:
+	.text       start:0x0000EAA8 end:0x0000EAB0
+
+mo_stub/ft_yoshi/fn_95_EB90.c:
+	.text       start:0x0000EB90 end:0x0000EB98
+
+mo_stub/ft_yoshi/fn_95_EC78.c:
+	.text       start:0x0000EC78 end:0x0000EC80
+
+mo_stub/ft_yoshi/fn_95_ED60.c:
+	.text       start:0x0000ED60 end:0x0000ED68
+
+mo_stub/ft_yoshi/fn_95_F2F0.c:
+	.text       start:0x0000F2F0 end:0x0000F2F8
+
+mo_stub/ft_yoshi/fn_95_F2F8.c:
+	.text       start:0x0000F2F8 end:0x0000F300
+
+mo_stub/ft_yoshi/fn_95_F300.c:
+	.text       start:0x0000F300 end:0x0000F304
+
 mo_stub/ft_yoshi/fn_95_F304.c:
 	.text       start:0x0000F304 end:0x0000F31C
 
 mo_stub/ft_yoshi/fn_95_F35C.c:
 	.text       start:0x0000F35C end:0x0000F370
+
+mo_stub/ft_yoshi/fn_95_10374.c:
+	.text       start:0x00010374 end:0x00010378
 
 mo_stub/ft_yoshi/fn_95_142D8.c:
 	.text       start:0x000142D8 end:0x000142E0

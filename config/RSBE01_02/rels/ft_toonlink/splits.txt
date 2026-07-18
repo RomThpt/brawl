@@ -11,6 +11,27 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_toonlink/fn_121_22F8.c:
+	.text       start:0x000022F8 end:0x00002300
+
+mo_stub/ft_toonlink/fn_121_9978.c:
+	.text       start:0x00009978 end:0x0000997C
+
+mo_stub/ft_toonlink/fn_121_AA2C.c:
+	.text       start:0x0000AA2C end:0x0000AA34
+
+mo_stub/ft_toonlink/fn_121_AC00.c:
+	.text       start:0x0000AC00 end:0x0000AC08
+
+mo_stub/ft_toonlink/fn_121_AC18.c:
+	.text       start:0x0000AC18 end:0x0000AC20
+
+mo_stub/ft_toonlink/fn_121_AE30.c:
+	.text       start:0x0000AE30 end:0x0000AE34
+
+mo_stub/ft_toonlink/fn_121_AE34.c:
+	.text       start:0x0000AE34 end:0x0000AE3C
+
 mo_stub/ft_toonlink/fn_121_AE3C.c:
 	.text       start:0x0000AE3C end:0x0000AE40
 
@@ -71,6 +92,42 @@ mo_stub/ft_toonlink/fn_121_B300.c:
 mo_stub/ft_toonlink/fn_121_B3C0.c:
 	.text       start:0x0000B3C0 end:0x0000B3C8
 
+mo_stub/ft_toonlink/fn_121_CBAC.c:
+	.text       start:0x0000CBAC end:0x0000CBB4
+
+mo_stub/ft_toonlink/fn_121_DAAC.c:
+	.text       start:0x0000DAAC end:0x0000DAB0
+
+mo_stub/ft_toonlink/fn_121_E1B8.c:
+	.text       start:0x0000E1B8 end:0x0000E1BC
+
+mo_stub/ft_toonlink/fn_121_E1F4.c:
+	.text       start:0x0000E1F4 end:0x0000E1FC
+
+mo_stub/ft_toonlink/fn_121_E2E8.c:
+	.text       start:0x0000E2E8 end:0x0000E2F0
+
+mo_stub/ft_toonlink/fn_121_E3D0.c:
+	.text       start:0x0000E3D0 end:0x0000E3D8
+
+mo_stub/ft_toonlink/fn_121_E4B8.c:
+	.text       start:0x0000E4B8 end:0x0000E4C0
+
+mo_stub/ft_toonlink/fn_121_E5A0.c:
+	.text       start:0x0000E5A0 end:0x0000E5A8
+
+mo_stub/ft_toonlink/fn_121_E688.c:
+	.text       start:0x0000E688 end:0x0000E690
+
+mo_stub/ft_toonlink/fn_121_E770.c:
+	.text       start:0x0000E770 end:0x0000E778
+
+mo_stub/ft_toonlink/fn_121_E858.c:
+	.text       start:0x0000E858 end:0x0000E860
+
+mo_stub/ft_toonlink/fn_121_E940.c:
+	.text       start:0x0000E940 end:0x0000E948
+
 mo_stub/ft_toonlink/fn_121_F224.c:
 	.text       start:0x0000F224 end:0x0000F240
 
@@ -85,6 +142,18 @@ mo_stub/ft_toonlink/fn_121_F2A4.c:
 
 mo_stub/ft_toonlink/fn_121_F3D8.c:
 	.text       start:0x0000F3D8 end:0x0000F3DC
+
+mo_stub/ft_toonlink/fn_121_F5E4.c:
+	.text       start:0x0000F5E4 end:0x0000F5E8
+
+mo_stub/ft_toonlink/fn_121_144FC.c:
+	.text       start:0x000144FC end:0x00014504
+
+mo_stub/ft_toonlink/fn_121_14504.c:
+	.text       start:0x00014504 end:0x0001450C
+
+mo_stub/ft_toonlink/fn_121_14610.c:
+	.text       start:0x00014610 end:0x00014614
 
 mo_stub/ft_toonlink/fn_121_14614.c:
 	.text       start:0x00014614 end:0x00014630

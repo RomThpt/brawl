@@ -11,6 +11,30 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_lucario/fn_118_6D04.c:
+	.text       start:0x00006D04 end:0x00006D0C
+
+mo_stub/ft_lucario/fn_118_8B34.c:
+	.text       start:0x00008B34 end:0x00008B38
+
+mo_stub/ft_lucario/fn_118_8B38.c:
+	.text       start:0x00008B38 end:0x00008B3C
+
+mo_stub/ft_lucario/fn_118_9C50.c:
+	.text       start:0x00009C50 end:0x00009C58
+
+mo_stub/ft_lucario/fn_118_9FE8.c:
+	.text       start:0x00009FE8 end:0x00009FEC
+
+mo_stub/ft_lucario/fn_118_9FEC.c:
+	.text       start:0x00009FEC end:0x00009FF4
+
+mo_stub/ft_lucario/fn_118_9FF4.c:
+	.text       start:0x00009FF4 end:0x00009FF8
+
+mo_stub/ft_lucario/fn_118_A034.c:
+	.text       start:0x0000A034 end:0x0000A038
+
 mo_stub/ft_lucario/fn_118_A038.c:
 	.text       start:0x0000A038 end:0x0000A03C
 
@@ -70,6 +94,42 @@ mo_stub/ft_lucario/fn_118_A578.c:
 
 mo_stub/ft_lucario/fn_118_B584.c:
 	.text       start:0x0000B584 end:0x0000B594
+
+mo_stub/ft_lucario/fn_118_C3B0.c:
+	.text       start:0x0000C3B0 end:0x0000C3B4
+
+mo_stub/ft_lucario/fn_118_CABC.c:
+	.text       start:0x0000CABC end:0x0000CAC0
+
+mo_stub/ft_lucario/fn_118_CAF8.c:
+	.text       start:0x0000CAF8 end:0x0000CB00
+
+mo_stub/ft_lucario/fn_118_CBEC.c:
+	.text       start:0x0000CBEC end:0x0000CBF4
+
+mo_stub/ft_lucario/fn_118_CCD4.c:
+	.text       start:0x0000CCD4 end:0x0000CCDC
+
+mo_stub/ft_lucario/fn_118_CDBC.c:
+	.text       start:0x0000CDBC end:0x0000CDC4
+
+mo_stub/ft_lucario/fn_118_CEA4.c:
+	.text       start:0x0000CEA4 end:0x0000CEAC
+
+mo_stub/ft_lucario/fn_118_CF8C.c:
+	.text       start:0x0000CF8C end:0x0000CF94
+
+mo_stub/ft_lucario/fn_118_D074.c:
+	.text       start:0x0000D074 end:0x0000D07C
+
+mo_stub/ft_lucario/fn_118_D15C.c:
+	.text       start:0x0000D15C end:0x0000D164
+
+mo_stub/ft_lucario/fn_118_D244.c:
+	.text       start:0x0000D244 end:0x0000D24C
+
+mo_stub/ft_lucario/fn_118_D720.c:
+	.text       start:0x0000D720 end:0x0000D724
 
 mo_stub/ft_lucario/fn_118_D724.c:
 	.text       start:0x0000D724 end:0x0000D72C

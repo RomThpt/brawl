@@ -11,6 +11,30 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_kirby/fn_96_28D0.c:
+	.text       start:0x000028D0 end:0x000028D8
+
+mo_stub/ft_kirby/fn_96_AF94.c:
+	.text       start:0x0000AF94 end:0x0000AF98
+
+mo_stub/ft_kirby/fn_96_BC64.c:
+	.text       start:0x0000BC64 end:0x0000BC6C
+
+mo_stub/ft_kirby/fn_96_BC6C.c:
+	.text       start:0x0000BC6C end:0x0000BC74
+
+mo_stub/ft_kirby/fn_96_C17C.c:
+	.text       start:0x0000C17C end:0x0000C184
+
+mo_stub/ft_kirby/fn_96_E240.c:
+	.text       start:0x0000E240 end:0x0000E248
+
+mo_stub/ft_kirby/fn_96_F014.c:
+	.text       start:0x0000F014 end:0x0000F018
+
+mo_stub/ft_kirby/fn_96_F018.c:
+	.text       start:0x0000F018 end:0x0000F020
+
 mo_stub/ft_kirby/fn_96_F020.c:
 	.text       start:0x0000F020 end:0x0000F024
 
@@ -83,6 +107,42 @@ mo_stub/ft_kirby/fn_96_12530.c:
 mo_stub/ft_kirby/fn_96_12C28.c:
 	.text       start:0x00012C28 end:0x00012C2C
 
+mo_stub/ft_kirby/fn_96_12C64.c:
+	.text       start:0x00012C64 end:0x00012C6C
+
+mo_stub/ft_kirby/fn_96_12D58.c:
+	.text       start:0x00012D58 end:0x00012D60
+
+mo_stub/ft_kirby/fn_96_12E08.c:
+	.text       start:0x00012E08 end:0x00012E10
+
+mo_stub/ft_kirby/fn_96_12EB8.c:
+	.text       start:0x00012EB8 end:0x00012EC0
+
+mo_stub/ft_kirby/fn_96_12F68.c:
+	.text       start:0x00012F68 end:0x00012F70
+
+mo_stub/ft_kirby/fn_96_13050.c:
+	.text       start:0x00013050 end:0x00013058
+
+mo_stub/ft_kirby/fn_96_13138.c:
+	.text       start:0x00013138 end:0x00013140
+
+mo_stub/ft_kirby/fn_96_13220.c:
+	.text       start:0x00013220 end:0x00013228
+
+mo_stub/ft_kirby/fn_96_13308.c:
+	.text       start:0x00013308 end:0x00013310
+
+mo_stub/ft_kirby/fn_96_1390C.c:
+	.text       start:0x0001390C end:0x00013910
+
+mo_stub/ft_kirby/fn_96_13D04.c:
+	.text       start:0x00013D04 end:0x00013D0C
+
+mo_stub/ft_kirby/fn_96_13D0C.c:
+	.text       start:0x00013D0C end:0x00013D10
+
 mo_stub/ft_kirby/fn_96_13D10.c:
 	.text       start:0x00013D10 end:0x00013D2C
 
@@ -145,6 +205,12 @@ mo_stub/ft_kirby/fn_96_1F798.c:
 
 mo_stub/ft_kirby/fn_96_20B48.c:
 	.text       start:0x00020B48 end:0x00020B50
+
+mo_stub/ft_kirby/fn_96_23A08.c:
+	.text       start:0x00023A08 end:0x00023A10
+
+mo_stub/ft_kirby/fn_96_23A10.c:
+	.text       start:0x00023A10 end:0x00023A18
 
 mo_stub/ft_kirby/fn_96_23B1C.c:
 	.text       start:0x00023B1C end:0x00023B34
