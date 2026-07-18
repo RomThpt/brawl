@@ -113,6 +113,9 @@ mo_stub/ft_pikmin/fn_113_CDE4.c:
 mo_stub/ft_pikmin/fn_113_E000.c:
 	.text       start:0x0000E000 end:0x0000E008
 
+mo_stub/ft_pikmin/fn_113_EEFC.c:
+	.text       start:0x0000EEFC end:0x0000EF00
+
 mo_stub/ft_pikmin/fn_113_11E6C.c:
 	.text       start:0x00011E6C end:0x00011E74
 
