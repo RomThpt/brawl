@@ -974,12 +974,18 @@ mo_stub/sora_enemy/fn_41_5C0EC.c:
 mo_stub/sora_enemy/fn_41_5C154.c:
 	.text       start:0x0005C154 end:0x0005C15C
 
+mo_stub/sora_enemy/fn_41_5C15C.c:
+	.text       start:0x0005C15C end:0x0005C16C
+
 mo_enemy/sora_enemy/galleom/em_galleom_param_accesser.cpp:
 	.text       start:0x0005C16C end:0x0005C4C8
 	.ctors      start:0x000000E4 end:0x000000E8
 	.rodata     start:0x00001130 end:0x00001138
 	.data       start:0x000188F8 end:0x000189C0
 	.bss        start:0x00000770 end:0x00000788
+
+mo_stub/sora_enemy/fn_41_5C9F4.c:
+	.text       start:0x0005C9F4 end:0x0005C9FC
 
 mo_enemy/sora_enemy/ridley/em_ridley_param_accesser.cpp:
 	.text       start:0x0005C9FC end:0x0005CD04
@@ -990,6 +996,9 @@ mo_enemy/sora_enemy/ridley/em_ridley_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_5DFC0.c:
 	.text       start:0x0005DFC0 end:0x0005DFD0
+
+mo_stub/sora_enemy/fn_41_5E028.c:
+	.text       start:0x0005E028 end:0x0005E038
 
 mo_enemy/sora_enemy/rayquaza/em_rayquaza_param_accesser.cpp:
 	.text       start:0x0005E040 end:0x0005E3A4
