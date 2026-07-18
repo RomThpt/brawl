@@ -38,6 +38,9 @@ mo_stub/ft_lucas/fn_114_CAD8.c:
 mo_stub/ft_lucas/fn_114_CAE4.c:
 	.text       start:0x0000CAE4 end:0x0000CAF8
 
+mo_stub/ft_lucas/fn_114_CAF8.c:
+	.text       start:0x0000CAF8 end:0x0000CAFC
+
 mo_stub/ft_lucas/fn_114_CAFC.c:
 	.text       start:0x0000CAFC end:0x0000CB10
 
