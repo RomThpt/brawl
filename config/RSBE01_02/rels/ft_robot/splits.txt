@@ -248,6 +248,15 @@ mo_stub/ft_robot/fn_120_13F18.c:
 mo_stub/ft_robot/fn_120_13F58.c:
 	.text       start:0x00013F58 end:0x00013F68
 
+mo_stub/ft_robot/fn_120_13FB0.c:
+	.text       start:0x00013FB0 end:0x00013FB8
+
+mo_stub/ft_robot/fn_120_13FC0.c:
+	.text       start:0x00013FC0 end:0x00013FC8
+
+mo_stub/ft_robot/fn_120_13FD0.c:
+	.text       start:0x00013FD0 end:0x00013FD8
+
 mo_stub/ft_robot/fn_120_13FD8.c:
 	.text       start:0x00013FD8 end:0x00013FE0
 
@@ -256,6 +265,9 @@ mo_stub/ft_robot/fn_120_13FE0.c:
 
 mo_stub/ft_robot/fn_120_15DD8.c:
 	.text       start:0x00015DD8 end:0x00015DDC
+
+mo_stub/ft_robot/fn_120_16000.c:
+	.text       start:0x00016000 end:0x00016010
 
 mo_stub/ft_robot/fn_120_183CC.c:
 	.text       start:0x000183CC end:0x000183D4
