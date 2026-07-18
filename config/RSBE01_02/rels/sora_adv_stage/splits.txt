@@ -194,6 +194,9 @@ mo_stub/sora_adv_stage/fn_40_21E88.c:
 mo_stub/sora_adv_stage/fn_40_21FD8.c:
 	.text       start:0x00021FD8 end:0x00021FF0
 
+mo_stub/sora_adv_stage/fn_40_21FF0.c:
+	.text       start:0x00021FF0 end:0x00022018
+
 mo_stub/sora_adv_stage/fn_40_2363C.c:
 	.text       start:0x0002363C end:0x00023644
 
