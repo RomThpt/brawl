@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_ike/fn_119_58E4.c:
 	.text       start:0x000058E4 end:0x000058EC
 
+mo_stub/ft_ike/fn_119_913C.c:
+	.text       start:0x0000913C end:0x00009144
+
 mo_stub/ft_ike/fn_119_956C.c:
 	.text       start:0x0000956C end:0x00009570
 
