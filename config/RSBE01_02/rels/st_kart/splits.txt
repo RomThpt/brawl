@@ -191,6 +191,9 @@ mo_stub/st_kart/fn_49_B824.c:
 mo_stub/st_kart/fn_49_B84C.c:
 	.text       start:0x0000B84C end:0x0000B874
 
+mo_stub/st_kart/fn_49_B874.c:
+	.text       start:0x0000B874 end:0x0000B89C
+
 mo_stub/st_kart/fn_49_C07C.c:
 	.text       start:0x0000C07C end:0x0000C084
 
