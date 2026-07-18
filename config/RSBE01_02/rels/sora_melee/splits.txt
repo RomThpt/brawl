@@ -1985,6 +1985,12 @@ mo_stub/sora_melee/fn_27_7F250.c:
 mo_stub/sora_melee/fn_27_7F298.c:
 	.text       start:0x0007F298 end:0x0007F2B0
 
+mo_stub/sora_melee/fn_27_7F2B0.c:
+	.text       start:0x0007F2B0 end:0x0007F2D0
+
+mo_stub/sora_melee/fn_27_7F31C.c:
+	.text       start:0x0007F31C end:0x0007F324
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
