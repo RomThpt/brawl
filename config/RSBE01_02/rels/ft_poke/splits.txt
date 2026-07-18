@@ -338,11 +338,17 @@ mo_stub/ft_poke/fn_116_23B5C.c:
 mo_stub/ft_poke/fn_116_23B6C.c:
 	.text       start:0x00023B6C end:0x00023B94
 
+mo_stub/ft_poke/fn_116_23B94.c:
+	.text       start:0x00023B94 end:0x00023BA4
+
 mo_stub/ft_poke/fn_116_23BA4.c:
 	.text       start:0x00023BA4 end:0x00023BA8
 
 mo_stub/ft_poke/fn_116_265EC.c:
 	.text       start:0x000265EC end:0x000265F4
+
+mo_stub/ft_poke/fn_116_266F8.c:
+	.text       start:0x000266F8 end:0x00026710
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00026738 end:0x000267D4
