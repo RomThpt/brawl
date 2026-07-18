@@ -215,6 +215,9 @@ mo_stub/st_jungle/fn_51_B0D4.c:
 mo_stub/st_jungle/fn_51_B0FC.c:
 	.text       start:0x0000B0FC end:0x0000B124
 
+mo_stub/st_jungle/fn_51_B124.c:
+	.text       start:0x0000B124 end:0x0000B14C
+
 mo_stub/st_jungle/fn_51_C024.c:
 	.text       start:0x0000C024 end:0x0000C034
 
