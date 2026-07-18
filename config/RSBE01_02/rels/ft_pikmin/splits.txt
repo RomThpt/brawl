@@ -323,6 +323,15 @@ mo_stub/ft_pikmin/fn_113_1D540.c:
 mo_stub/ft_pikmin/fn_113_1D558.c:
 	.text       start:0x0001D558 end:0x0001D568
 
+mo_stub/ft_pikmin/fn_113_1D568.c:
+	.text       start:0x0001D568 end:0x0001D580
+
+mo_stub/ft_pikmin/fn_113_1D590.c:
+	.text       start:0x0001D590 end:0x0001D598
+
+mo_stub/ft_pikmin/fn_113_1D5C0.c:
+	.text       start:0x0001D5C0 end:0x0001D5C8
+
 mo_stub/ft_pikmin/fn_113_230C4.c:
 	.text       start:0x000230C4 end:0x000230CC
 
