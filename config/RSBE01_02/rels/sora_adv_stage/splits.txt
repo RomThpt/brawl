@@ -245,6 +245,9 @@ mo_stub/sora_adv_stage/fn_40_2C1A8.c:
 mo_stub/sora_adv_stage/fn_40_2E3C8.c:
 	.text       start:0x0002E3C8 end:0x0002E3CC
 
+mo_stub/sora_adv_stage/fn_40_2E624.c:
+	.text       start:0x0002E624 end:0x0002E628
+
 mo_stub/sora_adv_stage/fn_40_30920.c:
 	.text       start:0x00030920 end:0x00030928
 
