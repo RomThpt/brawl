@@ -350,11 +350,17 @@ mo_stub/ft_kirby/fn_96_24064.c:
 mo_stub/ft_kirby/fn_96_24074.c:
 	.text       start:0x00024074 end:0x0002407C
 
+mo_stub/ft_kirby/fn_96_24084.c:
+	.text       start:0x00024084 end:0x0002408C
+
 mo_stub/ft_kirby/fn_96_2408C.c:
 	.text       start:0x0002408C end:0x00024090
 
 mo_stub/ft_kirby/fn_96_2439C.c:
 	.text       start:0x0002439C end:0x000243A0
+
+mo_stub/ft_kirby/fn_96_25E8C.c:
+	.text       start:0x00025E8C end:0x00025EAC
 
 mo_stub/ft_kirby/fn_96_28230.c:
 	.text       start:0x00028230 end:0x0002823C
