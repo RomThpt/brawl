@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_zelda/fn_104_7930.c:
 	.text       start:0x00007930 end:0x00007938
 
+mo_stub/ft_zelda/fn_104_A024.c:
+	.text       start:0x0000A024 end:0x0000A028
+
 mo_stub/ft_zelda/fn_104_A5CC.c:
 	.text       start:0x0000A5CC end:0x0000A5DC
 
