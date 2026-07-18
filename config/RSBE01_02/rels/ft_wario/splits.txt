@@ -92,6 +92,9 @@ mo_stub/ft_wario/fn_110_BF34.c:
 mo_stub/ft_wario/fn_110_BF70.c:
 	.text       start:0x0000BF70 end:0x0000BF78
 
+mo_stub/ft_wario/fn_110_C064.c:
+	.text       start:0x0000C064 end:0x0000C06C
+
 mo_stub/ft_wario/fn_110_CFB4.c:
 	.text       start:0x0000CFB4 end:0x0000CFD0
 
