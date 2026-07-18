@@ -3288,6 +3288,12 @@ mo_stub/sora_melee/fn_27_B75C4.c:
 mo_stub/sora_melee/fn_27_B7D58.c:
 	.text       start:0x000B7D58 end:0x000B7D5C
 
+mo_stub/sora_melee/fn_27_B7D5C.c:
+	.text       start:0x000B7D5C end:0x000B7D6C
+
+mo_stub/sora_melee/fn_27_B7D84.c:
+	.text       start:0x000B7D84 end:0x000B7D88
+
 mo_melee/sora_melee/so/so_photo_call_back.cpp:
 	.text       start:0x000C7024 end:0x000C7124
 
