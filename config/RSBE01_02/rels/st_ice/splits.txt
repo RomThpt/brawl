@@ -227,6 +227,9 @@ mo_stub/st_ice/fn_62_CD4C.c:
 mo_stub/st_ice/fn_62_CD74.c:
 	.text       start:0x0000CD74 end:0x0000CD9C
 
+mo_stub/st_ice/fn_62_CD9C.c:
+	.text       start:0x0000CD9C end:0x0000CDC4
+
 mo_stub/st_ice/fn_62_EFE0.c:
 	.text       start:0x0000EFE0 end:0x0000EFE8
 

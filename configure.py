@@ -6144,6 +6144,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_ice/fn_62_CD24.c"),
             Object(Matching, "mo_stub/st_ice/fn_62_CD4C.c"),
             Object(Matching, "mo_stub/st_ice/fn_62_CD74.c"),
+            Object(Matching, "mo_stub/st_ice/fn_62_CD9C.c"),
         ],
     },
     {
