@@ -122,6 +122,12 @@ mo_stub/ft_gamewatch/fn_107_FC74.c:
 mo_stub/ft_gamewatch/fn_107_FD5C.c:
 	.text       start:0x0000FD5C end:0x0000FD64
 
+mo_stub/ft_gamewatch/fn_107_FF8C.c:
+	.text       start:0x0000FF8C end:0x0000FFAC
+
+mo_stub/ft_gamewatch/fn_107_FFD4.c:
+	.text       start:0x0000FFD4 end:0x0000FFDC
+
 mo_stub/ft_gamewatch/fn_107_11DBC.c:
 	.text       start:0x00011DBC end:0x00011DC4
 
