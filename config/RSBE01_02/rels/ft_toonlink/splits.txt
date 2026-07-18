@@ -20,6 +20,9 @@ mo_stub/ft_toonlink/fn_121_9978.c:
 mo_stub/ft_toonlink/fn_121_AA2C.c:
 	.text       start:0x0000AA2C end:0x0000AA34
 
+mo_stub/ft_toonlink/fn_121_AC00.c:
+	.text       start:0x0000AC00 end:0x0000AC08
+
 mo_stub/ft_toonlink/fn_121_AE3C.c:
 	.text       start:0x0000AE3C end:0x0000AE40
 
