@@ -1238,6 +1238,12 @@ mo_stub/sora_melee/fn_27_7CD58.c:
 mo_stub/sora_melee/fn_27_7CD60.c:
 	.text       start:0x0007CD60 end:0x0007CD80
 
+mo_stub/sora_melee/fn_27_7CD80.c:
+	.text       start:0x0007CD80 end:0x0007CD8C
+
+mo_stub/sora_melee/fn_27_7CE0C.c:
+	.text       start:0x0007CE0C end:0x0007CE18
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
