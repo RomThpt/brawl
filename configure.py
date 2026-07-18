@@ -1663,6 +1663,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_ganon/fn_109_11CB8.c"),
             Object(Matching, "mo_stub/ft_ganon/fn_109_11CC8.c"),
             Object(Matching, "mo_stub/ft_ganon/fn_109_11CD8.c"),
+            Object(Matching, "mo_stub/ft_ganon/fn_109_CCF0.c"),
+            Object(Matching, "mo_stub/ft_ganon/fn_109_CDA4.c"),
+            Object(Matching, "mo_stub/ft_ganon/fn_109_DCB4.c"),
         ],
     },
     {
@@ -2286,6 +2289,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_lucario/fn_118_14084.c"),
             Object(Matching, "mo_stub/ft_lucario/fn_118_14094.c"),
             Object(Matching, "mo_stub/ft_lucario/fn_118_140A4.c"),
+            Object(Matching, "mo_stub/ft_lucario/fn_118_EFD8.c"),
+            Object(Matching, "mo_stub/ft_lucario/fn_118_10BF4.c"),
+            Object(Matching, "mo_stub/ft_lucario/fn_118_10D14.c"),
         ],
     },
     {
@@ -3028,6 +3034,11 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikachu/fn_98_19188.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_1BB80.c"),
             Object(Matching, "mo_stub/ft_pikachu/fn_98_1BBA8.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_98B0.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_113A0.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_1BC08.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_1BC50.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fn_98_1BCA4.c"),
         ],
     },
     {
@@ -3163,6 +3174,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikmin/fn_113_2A4A4.c"),
             Object(Matching, "mo_stub/ft_pikmin/fn_113_2D624.c"),
             Object(Matching, "mo_stub/ft_pikmin/fn_113_2D644.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_24D34.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_24D8C.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fn_113_25314.c"),
         ],
     },
     {
@@ -4245,6 +4259,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_yoshi/fn_95_1B930.c"),
             Object(Matching, "mo_stub/ft_yoshi/fn_95_1D990.c"),
             Object(Matching, "mo_stub/ft_yoshi/fn_95_1D9B0.c"),
+            Object(Matching, "mo_stub/ft_yoshi/fn_95_10DA4.c"),
         ],
     },
     {
