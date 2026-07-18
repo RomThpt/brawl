@@ -149,6 +149,9 @@ mo_stub/st_gw/fn_63_3988.c:
 mo_stub/st_gw/fn_63_933C.c:
 	.text       start:0x0000933C end:0x00009344
 
+mo_stub/st_gw/fn_63_9344.c:
+	.text       start:0x00009344 end:0x00009348
+
 mo_stub/st_gw/fn_63_9348.c:
 	.text       start:0x00009348 end:0x00009358
 
