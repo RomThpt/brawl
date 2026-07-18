@@ -17,6 +17,9 @@ mo_stub/ft_zako/fn_126_51C8.c:
 mo_stub/ft_zako/fn_126_6F20.c:
 	.text       start:0x00006F20 end:0x00006F24
 
+mo_stub/ft_zako/fn_126_6F24.c:
+	.text       start:0x00006F24 end:0x00006F2C
+
 mo_stub/ft_zako/fn_126_70CC.c:
 	.text       start:0x000070CC end:0x000070DC
 
