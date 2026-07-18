@@ -122,6 +122,9 @@ mo_stub/ft_kirby/fn_96_12EB8.c:
 mo_stub/ft_kirby/fn_96_12F68.c:
 	.text       start:0x00012F68 end:0x00012F70
 
+mo_stub/ft_kirby/fn_96_13050.c:
+	.text       start:0x00013050 end:0x00013058
+
 mo_stub/ft_kirby/fn_96_13D10.c:
 	.text       start:0x00013D10 end:0x00013D2C
 
