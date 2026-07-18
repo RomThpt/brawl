@@ -251,6 +251,9 @@ mo_stub/st_jungle/fn_51_10FAC.c:
 mo_stub/st_jungle/fn_51_11900.c:
 	.text       start:0x00011900 end:0x00011908
 
+mo_stub/st_jungle/fn_51_16074.c:
+	.text       start:0x00016074 end:0x00016078
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
 	.data       start:0x00009A00 end:0x00009A0D
