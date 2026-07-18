@@ -29,6 +29,9 @@ mo_stub/ft_poke/fn_116_9EC4.c:
 mo_stub/ft_poke/fn_116_A148.c:
 	.text       start:0x0000A148 end:0x0000A150
 
+mo_stub/ft_poke/fn_116_A150.c:
+	.text       start:0x0000A150 end:0x0000A158
+
 mo_stub/ft_poke/fn_116_A40C.c:
 	.text       start:0x0000A40C end:0x0000A418
 
