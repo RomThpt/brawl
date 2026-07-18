@@ -101,6 +101,9 @@ mo_stub/ft_peach/fn_103_C880.c:
 mo_stub/ft_peach/fn_103_C93C.c:
 	.text       start:0x0000C93C end:0x0000C944
 
+mo_stub/ft_peach/fn_103_CA24.c:
+	.text       start:0x0000CA24 end:0x0000CA2C
+
 mo_stub/ft_peach/fn_103_D350.c:
 	.text       start:0x0000D350 end:0x0000D36C
 
