@@ -197,6 +197,9 @@ mo_stub/st_pictchat/fn_73_CFEC.c:
 mo_stub/st_pictchat/fn_73_D014.c:
 	.text       start:0x0000D014 end:0x0000D03C
 
+mo_stub/st_pictchat/fn_73_D03C.c:
+	.text       start:0x0000D03C end:0x0000D064
+
 mo_stub/st_pictchat/fn_73_EFFC.c:
 	.text       start:0x0000EFFC end:0x0000F000
 
