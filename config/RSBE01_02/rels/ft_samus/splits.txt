@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_samus/fn_94_6CF8.c:
 	.text       start:0x00006CF8 end:0x00006D00
 
+mo_stub/ft_samus/fn_94_A630.c:
+	.text       start:0x0000A630 end:0x0000A638
+
 mo_stub/ft_samus/fn_94_A8D0.c:
 	.text       start:0x0000A8D0 end:0x0000A8DC
 
