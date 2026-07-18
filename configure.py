@@ -3413,6 +3413,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_wario/fn_110_C5D4.c"),
             Object(Matching, "mo_stub/ft_wario/fn_110_C6BC.c"),
             Object(Matching, "mo_stub/ft_wario/fn_110_CFAC.c"),
+            Object(Matching, "mo_stub/ft_wario/fn_110_137BC.c"),
         ],
     },
     {
