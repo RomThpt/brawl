@@ -2972,6 +2972,9 @@ mo_melee/sora_melee/so/so_general_work_simple.cpp:
 mo_stub/sora_melee/fn_27_8F01C.c:
 	.text       start:0x0008F01C end:0x0008F034
 
+mo_stub/sora_melee/fn_27_8F034.c:
+	.text       start:0x0008F034 end:0x0008F05C
+
 mo_melee/sora_melee/so/anim/so_anim_cmd_interpreter_effect.cpp:
 	.text       start:0x000A1D18 end:0x000A1DA4
 	.data       start:0x00015450 end:0x000154C0
