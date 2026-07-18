@@ -86,6 +86,9 @@ mo_stub/sora_adv_stage/fn_40_153BC.c:
 mo_stub/sora_adv_stage/fn_40_1643C.c:
 	.text       start:0x0001643C end:0x00016444
 
+mo_stub/sora_adv_stage/fn_40_16444.c:
+	.text       start:0x00016444 end:0x0001644C
+
 mo_stub/sora_adv_stage/fn_40_173A0.c:
 	.text       start:0x000173A0 end:0x000173B0
 
