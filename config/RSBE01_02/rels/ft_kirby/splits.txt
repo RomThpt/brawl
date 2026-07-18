@@ -317,6 +317,12 @@ mo_stub/ft_kirby/fn_96_23DCC.c:
 mo_stub/ft_kirby/fn_96_23E1C.c:
 	.text       start:0x00023E1C end:0x00023E20
 
+mo_stub/ft_kirby/fn_96_23F24.c:
+	.text       start:0x00023F24 end:0x00023F3C
+
+mo_stub/ft_kirby/fn_96_23F44.c:
+	.text       start:0x00023F44 end:0x00023F54
+
 mo_stub/ft_kirby/fn_96_2408C.c:
 	.text       start:0x0002408C end:0x00024090
 
