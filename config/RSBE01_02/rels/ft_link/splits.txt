@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_link/fn_93_22F8.c:
 	.text       start:0x000022F8 end:0x00002300
 
+mo_stub/ft_link/fn_93_9978.c:
+	.text       start:0x00009978 end:0x0000997C
+
 mo_stub/ft_link/fn_93_AE40.c:
 	.text       start:0x0000AE40 end:0x0000AE44
 
