@@ -1808,6 +1808,9 @@ mo_stub/sora_melee/fn_27_7E97C.c:
 mo_stub/sora_melee/fn_27_7E994.c:
 	.text       start:0x0007E994 end:0x0007E9A8
 
+mo_stub/sora_melee/fn_27_7E9A8.c:
+	.text       start:0x0007E9A8 end:0x0007E9BC
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
