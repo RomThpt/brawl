@@ -128,6 +128,15 @@ mo_stub/ft_diddy/fn_115_D918.c:
 mo_stub/ft_diddy/fn_115_D950.c:
 	.text       start:0x0000D950 end:0x0000D958
 
+mo_stub/ft_diddy/fn_115_D960.c:
+	.text       start:0x0000D960 end:0x0000D978
+
+mo_stub/ft_diddy/fn_115_DA40.c:
+	.text       start:0x0000DA40 end:0x0000DA48
+
+mo_stub/ft_diddy/fn_115_DA50.c:
+	.text       start:0x0000DA50 end:0x0000DA58
+
 mo_stub/ft_diddy/fn_115_DC9C.c:
 	.text       start:0x0000DC9C end:0x0000DCA0
 
