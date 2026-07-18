@@ -233,6 +233,9 @@ mo_stub/ft_poke/fn_116_19F6C.c:
 mo_stub/ft_poke/fn_116_1A004.c:
 	.text       start:0x0001A004 end:0x0001A00C
 
+mo_stub/ft_poke/fn_116_1A0D4.c:
+	.text       start:0x0001A0D4 end:0x0001A0DC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00026738 end:0x000267D4
 	.data       start:0x0000C638 end:0x0000C647
