@@ -128,6 +128,9 @@ mo_stub/ft_zelda/fn_104_E030.c:
 mo_stub/ft_zelda/fn_104_E04C.c:
 	.text       start:0x0000E04C end:0x0000E060
 
+mo_stub/ft_zelda/fn_104_E060.c:
+	.text       start:0x0000E060 end:0x0000E064
+
 mo_stub/ft_zelda/fn_104_126B4.c:
 	.text       start:0x000126B4 end:0x000126C4
 
