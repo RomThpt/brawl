@@ -1037,6 +1037,9 @@ mo_stub/sora_enemy/fn_41_61B6C.c:
 mo_stub/sora_enemy/fn_41_61BEC.c:
 	.text       start:0x00061BEC end:0x00061BF4
 
+mo_stub/sora_enemy/fn_41_61BF4.c:
+	.text       start:0x00061BF4 end:0x00061C04
+
 mo_enemy/sora_enemy/porky/em_porky_param_accesser.cpp:
 	.text       start:0x00061C04 end:0x000620C4
 	.ctors      start:0x000000F4 end:0x000000F8
@@ -1046,6 +1049,9 @@ mo_enemy/sora_enemy/porky/em_porky_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_63DB4.c:
 	.text       start:0x00063DB4 end:0x00063DC4
+
+mo_stub/sora_enemy/fn_41_63F0C.c:
+	.text       start:0x00063F0C end:0x00063F24
 
 mo_enemy/sora_enemy/metaridley/em_metaridley_param_accesser.cpp:
 	.text       start:0x00063F34 end:0x0006427C
