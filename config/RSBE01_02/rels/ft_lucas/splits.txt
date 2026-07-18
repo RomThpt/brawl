@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_lucas/fn_114_8BC0.c:
 	.text       start:0x00008BC0 end:0x00008BC8
 
+mo_stub/ft_lucas/fn_114_C6AC.c:
+	.text       start:0x0000C6AC end:0x0000C6B4
+
 mo_stub/ft_lucas/fn_114_C9CC.c:
 	.text       start:0x0000C9CC end:0x0000C9DC
 
