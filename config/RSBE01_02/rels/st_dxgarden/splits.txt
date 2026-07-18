@@ -38,6 +38,9 @@ mo_stub/st_dxgarden/fn_77_C18.c:
 mo_stub/st_dxgarden/fn_77_C20.c:
 	.text       start:0x00000C20 end:0x00000C44
 
+mo_stub/st_dxgarden/fn_77_C60.c:
+	.text       start:0x00000C60 end:0x00000C68
+
 mo_stub/st_dxgarden/fn_77_C68.c:
 	.text       start:0x00000C68 end:0x00000C80
 
