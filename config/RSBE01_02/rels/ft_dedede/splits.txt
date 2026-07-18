@@ -269,6 +269,9 @@ mo_stub/ft_dedede/fn_117_1A6D8.c:
 mo_stub/ft_dedede/fn_117_1C47C.c:
 	.text       start:0x0001C47C end:0x0001C49C
 
+mo_stub/ft_dedede/fn_117_1C49C.c:
+	.text       start:0x0001C49C end:0x0001C4B4
+
 mo_stub/ft_dedede/fn_117_1C8A8.c:
 	.text       start:0x0001C8A8 end:0x0001C8AC
 
@@ -298,6 +301,9 @@ mo_stub/ft_dedede/fn_117_21EF8.c:
 
 mo_stub/ft_dedede/fn_117_21FE0.c:
 	.text       start:0x00021FE0 end:0x00021FE8
+
+mo_stub/ft_dedede/fn_117_21FF4.c:
+	.text       start:0x00021FF4 end:0x00022004
 
 mo_stub/ft_dedede/fn_117_23D0C.c:
 	.text       start:0x00023D0C end:0x00023D14
