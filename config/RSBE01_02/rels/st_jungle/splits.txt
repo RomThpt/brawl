@@ -266,6 +266,9 @@ mo_stub/st_jungle/fn_51_DAC4.c:
 mo_stub/st_jungle/fn_51_DAEC.c:
 	.text       start:0x0000DAEC end:0x0000DB14
 
+mo_stub/st_jungle/fn_51_DB14.c:
+	.text       start:0x0000DB14 end:0x0000DB3C
+
 mo_stub/st_jungle/fn_51_E294.c:
 	.text       start:0x0000E294 end:0x0000E29C
 
