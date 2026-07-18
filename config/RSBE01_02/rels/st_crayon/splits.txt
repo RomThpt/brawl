@@ -118,6 +118,9 @@ mo_stub/st_crayon/fn_56_B164.c:
 mo_stub/st_crayon/fn_56_B18C.c:
 	.text       start:0x0000B18C end:0x0000B1B4
 
+mo_stub/st_crayon/fn_56_B1B4.c:
+	.text       start:0x0000B1B4 end:0x0000B1DC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B2B4 end:0x0000B350
 	.data       start:0x00002960 end:0x0000296D
