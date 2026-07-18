@@ -1928,6 +1928,15 @@ mo_stub/sora_melee/fn_27_7EFC8.c:
 mo_stub/sora_melee/fn_27_7EFDC.c:
 	.text       start:0x0007EFDC end:0x0007EFEC
 
+mo_stub/sora_melee/fn_27_7EFEC.c:
+	.text       start:0x0007EFEC end:0x0007EFF4
+
+mo_stub/sora_melee/fn_27_7F00C.c:
+	.text       start:0x0007F00C end:0x0007F010
+
+mo_stub/sora_melee/fn_27_7F01C.c:
+	.text       start:0x0007F01C end:0x0007F024
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
