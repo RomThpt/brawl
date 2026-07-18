@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_snake/fn_122_ABB4.c:
+	.text       start:0x0000ABB4 end:0x0000ABBC
+
 mo_stub/ft_snake/fn_122_F39C.c:
 	.text       start:0x0000F39C end:0x0000F3A0
 
