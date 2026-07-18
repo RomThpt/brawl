@@ -206,6 +206,12 @@ mo_stub/ft_falco/fn_108_10D74.c:
 mo_stub/ft_falco/fn_108_10E7C.c:
 	.text       start:0x00010E7C end:0x00010E84
 
+mo_stub/ft_falco/fn_108_10E84.c:
+	.text       start:0x00010E84 end:0x00010E94
+
+mo_stub/ft_falco/fn_108_10E9C.c:
+	.text       start:0x00010E9C end:0x00010EB4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FE4 end:0x00011080
 	.data       start:0x00007B58 end:0x00007B67
