@@ -6193,6 +6193,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/st_kart/fn_49_B7FC.c"),
+            Object(Matching, "mo_stub/st_kart/fn_49_B824.c"),
         ],
     },
     {
