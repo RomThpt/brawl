@@ -314,6 +314,9 @@ mo_stub/ft_pikmin/fn_113_2A370.c:
 mo_stub/ft_pikmin/fn_113_2A374.c:
 	.text       start:0x0002A374 end:0x0002A37C
 
+mo_stub/ft_pikmin/fn_113_2A450.c:
+	.text       start:0x0002A450 end:0x0002A458
+
 mo_stub/ft_pikmin/fn_113_2D500.c:
 	.text       start:0x0002D500 end:0x0002D514
 
