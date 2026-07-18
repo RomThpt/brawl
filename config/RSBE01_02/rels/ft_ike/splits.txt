@@ -38,6 +38,9 @@ mo_stub/ft_ike/fn_119_966C.c:
 mo_stub/ft_ike/fn_119_9680.c:
 	.text       start:0x00009680 end:0x00009694
 
+mo_stub/ft_ike/fn_119_9694.c:
+	.text       start:0x00009694 end:0x00009698
+
 mo_stub/ft_ike/fn_119_9698.c:
 	.text       start:0x00009698 end:0x000096B0
 
