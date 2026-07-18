@@ -4777,6 +4777,7 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/st_dolpic/fn_46_435C.c"),
             Object(Matching, "mo_stub/st_dolpic/fn_46_6800.c"),
+            Object(Matching, "mo_stub/st_dolpic/fn_46_6804.c"),
         ],
     },
     {
