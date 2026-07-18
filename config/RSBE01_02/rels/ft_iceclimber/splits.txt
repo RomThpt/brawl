@@ -128,6 +128,12 @@ mo_stub/ft_iceclimber/fn_105_12888.c:
 mo_stub/ft_iceclimber/fn_105_12C64.c:
 	.text       start:0x00012C64 end:0x00012C6C
 
+mo_stub/ft_iceclimber/fn_105_12E68.c:
+	.text       start:0x00012E68 end:0x00012E88
+
+mo_stub/ft_iceclimber/fn_105_12EA8.c:
+	.text       start:0x00012EA8 end:0x00012EB0
+
 mo_stub/ft_iceclimber/fn_105_12FF4.c:
 	.text       start:0x00012FF4 end:0x00012FFC
 
