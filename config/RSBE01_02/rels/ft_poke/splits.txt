@@ -134,6 +134,18 @@ mo_stub/ft_poke/fn_116_DBC0.c:
 mo_stub/ft_poke/fn_116_DBF0.c:
 	.text       start:0x0000DBF0 end:0x0000DC18
 
+mo_stub/ft_poke/fn_116_DC20.c:
+	.text       start:0x0000DC20 end:0x0000DC30
+
+mo_stub/ft_poke/fn_116_DCE0.c:
+	.text       start:0x0000DCE0 end:0x0000DCE8
+
+mo_stub/ft_poke/fn_116_DCF0.c:
+	.text       start:0x0000DCF0 end:0x0000DCF8
+
+mo_stub/ft_poke/fn_116_DD00.c:
+	.text       start:0x0000DD00 end:0x0000DD08
+
 mo_stub/ft_poke/fn_116_DD40.c:
 	.text       start:0x0000DD40 end:0x0000DD44
 
