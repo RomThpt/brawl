@@ -5644,7 +5644,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_donkey/fn_50_8674.c"),
+        ],
     },
     {
         "lib": "st_dxbigblue",
