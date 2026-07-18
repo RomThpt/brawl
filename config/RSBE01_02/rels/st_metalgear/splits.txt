@@ -218,6 +218,9 @@ mo_stub/st_metalgear/fn_71_103E4.c:
 mo_stub/st_metalgear/fn_71_106B8.c:
 	.text       start:0x000106B8 end:0x000106D8
 
+mo_stub/st_metalgear/fn_71_106D8.c:
+	.text       start:0x000106D8 end:0x00010700
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010718 end:0x000107B4
 	.data       start:0x00003EA0 end:0x00003EAD
