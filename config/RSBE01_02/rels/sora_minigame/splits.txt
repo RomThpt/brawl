@@ -41,6 +41,12 @@ mo_stub/sora_minigame/fn_20_6DB8.c:
 mo_stub/sora_minigame/fn_20_6DC4.c:
 	.text       start:0x00006DC4 end:0x00006DD4
 
+mo_stub/sora_minigame/fn_20_6DD4.c:
+	.text       start:0x00006DD4 end:0x00006DF4
+
+mo_stub/sora_minigame/fn_20_D6A4.c:
+	.text       start:0x0000D6A4 end:0x0000D6AC
+
 mo_stub/sora_minigame/fn_20_DB8C.c:
 	.text       start:0x0000DB8C end:0x0000DB94
 
