@@ -35,6 +35,9 @@ mo_stub/ft_pit/fn_112_A6CC.c:
 mo_stub/ft_pit/fn_112_A6DC.c:
 	.text       start:0x0000A6DC end:0x0000A6F0
 
+mo_stub/ft_pit/fn_112_A6F0.c:
+	.text       start:0x0000A6F0 end:0x0000A6F4
+
 mo_stub/ft_pit/fn_112_A6F4.c:
 	.text       start:0x0000A6F4 end:0x0000A708
 
