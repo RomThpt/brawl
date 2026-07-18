@@ -272,6 +272,9 @@ mo_stub/ft_mario/fn_91_16B2C.c:
 mo_stub/ft_mario/fn_91_16C40.c:
 	.text       start:0x00016C40 end:0x00016C50
 
+mo_stub/ft_mario/fn_91_16C50.c:
+	.text       start:0x00016C50 end:0x00016C78
+
 mo_stub/ft_mario/fn_91_18F3C.c:
 	.text       start:0x00018F3C end:0x00018F44
 
