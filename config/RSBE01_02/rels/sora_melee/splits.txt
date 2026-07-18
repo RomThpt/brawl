@@ -119,8 +119,17 @@ mo_stub/sora_melee/fn_27_13604.c:
 mo_stub/sora_melee/fn_27_13620.c:
 	.text       start:0x00013620 end:0x00013628
 
+mo_stub/sora_melee/fn_27_136E8.c:
+	.text       start:0x000136E8 end:0x00013700
+
+mo_stub/sora_melee/fn_27_1412C.c:
+	.text       start:0x0001412C end:0x00014134
+
 mo_stub/sora_melee/fn_27_14A20.c:
 	.text       start:0x00014A20 end:0x00014A28
+
+mo_stub/sora_melee/fn_27_14B80.c:
+	.text       start:0x00014B80 end:0x00014B88
 
 mo_stub/sora_melee/fn_27_166F8.c:
 	.text       start:0x000166F8 end:0x000166FC
