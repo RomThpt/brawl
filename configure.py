@@ -4417,7 +4417,10 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/sora_adv_menu_game_over/fn_33_E4C.c"),
+            Object(Matching, "mo_stub/sora_adv_menu_game_over/fn_33_31CC.c"),
+        ],
     },
     {
         "lib": "sora_adv_menu_name",

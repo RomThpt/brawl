@@ -6,8 +6,14 @@ Sections:
 	.data       type:data align:32
 	.bss        type:bss align:8
 
+mo_stub/sora_adv_menu_game_over/fn_33_E4C.c:
+	.text       start:0x00000E4C end:0x00000E50
+
 mo_stub/sora_adv_menu_game_over/fn_33_2CC0.c:
 	.text       start:0x00002CC0 end:0x00002CC4
+
+mo_stub/sora_adv_menu_game_over/fn_33_31CC.c:
+	.text       start:0x000031CC end:0x000031D0
 
 mo_stub/sora_adv_menu_game_over/fn_33_34B8.c:
 	.text       start:0x000034B8 end:0x000034C8
