@@ -185,8 +185,14 @@ mo_stub/st_fzero/fn_61_CA68.c:
 mo_stub/st_fzero/fn_61_CA90.c:
 	.text       start:0x0000CA90 end:0x0000CAB8
 
+mo_stub/st_fzero/fn_61_CAB8.c:
+	.text       start:0x0000CAB8 end:0x0000CAC8
+
 mo_stub/st_fzero/fn_61_E730.c:
 	.text       start:0x0000E730 end:0x0000E738
+
+mo_stub/st_fzero/fn_61_E7D0.c:
+	.text       start:0x0000E7D0 end:0x0000E7E8
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000E800 end:0x0000E89C
