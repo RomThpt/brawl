@@ -260,6 +260,12 @@ mo_stub/ft_gamewatch/fn_107_16BAC.c:
 mo_stub/ft_gamewatch/fn_107_18C44.c:
 	.text       start:0x00018C44 end:0x00018C64
 
+mo_stub/ft_gamewatch/fn_107_18C64.c:
+	.text       start:0x00018C64 end:0x00018C7C
+
+mo_stub/ft_gamewatch/fn_107_1AF48.c:
+	.text       start:0x0001AF48 end:0x0001AF58
+
 mo_stub/ft_gamewatch/fn_107_1F8EC.c:
 	.text       start:0x0001F8EC end:0x0001F8F8
 
