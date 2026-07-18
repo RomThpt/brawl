@@ -194,6 +194,9 @@ mo_stub/st_dxgreens/fn_79_A500.c:
 mo_stub/st_dxgreens/fn_79_A528.c:
 	.text       start:0x0000A528 end:0x0000A550
 
+mo_stub/st_dxgreens/fn_79_A550.c:
+	.text       start:0x0000A550 end:0x0000A578
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C1DC end:0x0000C278
 	.data       start:0x00003098 end:0x000030A5
