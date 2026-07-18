@@ -173,6 +173,9 @@ mo_stub/st_famicom/fn_68_9EE4.c:
 mo_stub/st_famicom/fn_68_9F0C.c:
 	.text       start:0x00009F0C end:0x00009F34
 
+mo_stub/st_famicom/fn_68_9F34.c:
+	.text       start:0x00009F34 end:0x00009F5C
+
 mo_stub/st_famicom/fn_68_A28C.c:
 	.text       start:0x0000A28C end:0x0000A290
 
