@@ -74,6 +74,9 @@ mo_stub/ft_samus/fn_94_ADF4.c:
 mo_stub/ft_samus/fn_94_ADFC.c:
 	.text       start:0x0000ADFC end:0x0000AE04
 
+mo_stub/ft_samus/fn_94_AE04.c:
+	.text       start:0x0000AE04 end:0x0000AE0C
+
 mo_stub/ft_samus/fn_94_AE0C.c:
 	.text       start:0x0000AE0C end:0x0000AE34
 
