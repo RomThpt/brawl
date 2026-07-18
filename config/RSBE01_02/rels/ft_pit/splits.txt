@@ -107,6 +107,9 @@ mo_stub/ft_pit/fn_112_D6BC.c:
 mo_stub/ft_pit/fn_112_D7A4.c:
 	.text       start:0x0000D7A4 end:0x0000D7AC
 
+mo_stub/ft_pit/fn_112_D88C.c:
+	.text       start:0x0000D88C end:0x0000D894
+
 mo_stub/ft_pit/fn_112_DA5C.c:
 	.text       start:0x0000DA5C end:0x0000DA64
 
