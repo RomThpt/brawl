@@ -209,6 +209,12 @@ mo_stub/sora_adv_stage/fn_40_22068.c:
 mo_stub/sora_adv_stage/fn_40_22090.c:
 	.text       start:0x00022090 end:0x000220B8
 
+mo_stub/sora_adv_stage/fn_40_220B8.c:
+	.text       start:0x000220B8 end:0x000220D0
+
+mo_stub/sora_adv_stage/fn_40_22E14.c:
+	.text       start:0x00022E14 end:0x00022E24
+
 mo_stub/sora_adv_stage/fn_40_2363C.c:
 	.text       start:0x0002363C end:0x00023644
 
