@@ -23,6 +23,9 @@ mo_stub/ft_toonlink/fn_121_AA2C.c:
 mo_stub/ft_toonlink/fn_121_AC00.c:
 	.text       start:0x0000AC00 end:0x0000AC08
 
+mo_stub/ft_toonlink/fn_121_AC18.c:
+	.text       start:0x0000AC18 end:0x0000AC20
+
 mo_stub/ft_toonlink/fn_121_AE3C.c:
 	.text       start:0x0000AE3C end:0x0000AE40
 
