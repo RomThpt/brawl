@@ -269,8 +269,14 @@ mo_stub/ft_yoshi/fn_95_1B8F8.c:
 mo_stub/ft_yoshi/fn_95_1B908.c:
 	.text       start:0x0001B908 end:0x0001B930
 
+mo_stub/ft_yoshi/fn_95_1B930.c:
+	.text       start:0x0001B930 end:0x0001B938
+
 mo_stub/ft_yoshi/fn_95_1D884.c:
 	.text       start:0x0001D884 end:0x0001D88C
+
+mo_stub/ft_yoshi/fn_95_1D990.c:
+	.text       start:0x0001D990 end:0x0001D9B0
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001D9D0 end:0x0001DA6C
