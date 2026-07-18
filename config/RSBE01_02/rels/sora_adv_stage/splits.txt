@@ -74,6 +74,9 @@ mo_stub/sora_adv_stage/fn_40_11708.c:
 mo_stub/sora_adv_stage/fn_40_11DA4.c:
 	.text       start:0x00011DA4 end:0x00011DAC
 
+mo_stub/sora_adv_stage/fn_40_12240.c:
+	.text       start:0x00012240 end:0x00012268
+
 mo_stub/sora_adv_stage/fn_40_14070.c:
 	.text       start:0x00014070 end:0x00014074
 
