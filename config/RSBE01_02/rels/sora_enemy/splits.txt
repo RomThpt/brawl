@@ -245,6 +245,9 @@ mo_stub/sora_enemy/fn_41_2B414.c:
 mo_stub/sora_enemy/fn_41_2B8A4.c:
 	.text       start:0x0002B8A4 end:0x0002B8AC
 
+mo_stub/sora_enemy/fn_41_2B8C4.c:
+	.text       start:0x0002B8C4 end:0x0002B8CC
+
 mo_enemy/sora_enemy/wnem/wn_em_resource_module_impl.cpp:
 	.text       start:0x0002CF98 end:0x0002D038
 	.data       start:0x00003EA8 end:0x00003F20
