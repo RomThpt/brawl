@@ -3325,6 +3325,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_toonlink/fn_121_E5A0.c"),
             Object(Matching, "mo_stub/ft_toonlink/fn_121_E688.c"),
             Object(Matching, "mo_stub/ft_toonlink/fn_121_E770.c"),
+            Object(Matching, "mo_stub/ft_toonlink/fn_121_E858.c"),
         ],
     },
     {
