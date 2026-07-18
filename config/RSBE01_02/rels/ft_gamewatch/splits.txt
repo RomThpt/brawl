@@ -230,6 +230,18 @@ mo_stub/ft_gamewatch/fn_107_1694C.c:
 mo_stub/ft_gamewatch/fn_107_16A54.c:
 	.text       start:0x00016A54 end:0x00016A74
 
+mo_stub/ft_gamewatch/fn_107_16A74.c:
+	.text       start:0x00016A74 end:0x00016A84
+
+mo_stub/ft_gamewatch/fn_107_16A8C.c:
+	.text       start:0x00016A8C end:0x00016A94
+
+mo_stub/ft_gamewatch/fn_107_16AC4.c:
+	.text       start:0x00016AC4 end:0x00016ACC
+
+mo_stub/ft_gamewatch/fn_107_16AF4.c:
+	.text       start:0x00016AF4 end:0x00016AFC
+
 mo_stub/ft_gamewatch/fn_107_1F8EC.c:
 	.text       start:0x0001F8EC end:0x0001F8F8
 
