@@ -251,6 +251,12 @@ mo_stub/ft_yoshi/fn_95_1794C.c:
 mo_stub/ft_yoshi/fn_95_1795C.c:
 	.text       start:0x0001795C end:0x00017964
 
+mo_stub/ft_yoshi/fn_95_1796C.c:
+	.text       start:0x0001796C end:0x00017974
+
+mo_stub/ft_yoshi/fn_95_19A50.c:
+	.text       start:0x00019A50 end:0x00019A70
+
 mo_stub/ft_yoshi/fn_95_1B7EC.c:
 	.text       start:0x0001B7EC end:0x0001B7F4
 
