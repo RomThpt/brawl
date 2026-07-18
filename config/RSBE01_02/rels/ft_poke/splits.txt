@@ -308,6 +308,9 @@ mo_stub/ft_poke/fn_116_1A344.c:
 mo_stub/ft_poke/fn_116_1A548.c:
 	.text       start:0x0001A548 end:0x0001A570
 
+mo_stub/ft_poke/fn_116_1A570.c:
+	.text       start:0x0001A570 end:0x0001A598
+
 mo_stub/ft_poke/fn_116_204D4.c:
 	.text       start:0x000204D4 end:0x000204DC
 
