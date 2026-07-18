@@ -125,6 +125,9 @@ mo_stub/ft_koopa/fn_102_C084.c:
 mo_stub/ft_koopa/fn_102_C0B4.c:
 	.text       start:0x0000C0B4 end:0x0000C0BC
 
+mo_stub/ft_koopa/fn_102_C0BC.c:
+	.text       start:0x0000C0BC end:0x0000C0D4
+
 mo_stub/ft_koopa/fn_102_D554.c:
 	.text       start:0x0000D554 end:0x0000D55C
 
@@ -151,6 +154,9 @@ mo_stub/ft_koopa/fn_102_14174.c:
 
 mo_stub/ft_koopa/fn_102_14D34.c:
 	.text       start:0x00014D34 end:0x00014D3C
+
+mo_stub/ft_koopa/fn_102_14FDC.c:
+	.text       start:0x00014FDC end:0x00014FEC
 
 mo_stub/ft_koopa/fn_102_15624.c:
 	.text       start:0x00015624 end:0x00015628
