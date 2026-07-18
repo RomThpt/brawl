@@ -167,8 +167,17 @@ mo_stub/ft_lucario/fn_118_DA30.c:
 mo_stub/ft_lucario/fn_118_DA74.c:
 	.text       start:0x0000DA74 end:0x0000DA78
 
+mo_stub/ft_lucario/fn_118_EFD8.c:
+	.text       start:0x0000EFD8 end:0x0000EFE0
+
 mo_stub/ft_lucario/fn_118_109A4.c:
 	.text       start:0x000109A4 end:0x000109A8
+
+mo_stub/ft_lucario/fn_118_10BF4.c:
+	.text       start:0x00010BF4 end:0x00010BFC
+
+mo_stub/ft_lucario/fn_118_10D14.c:
+	.text       start:0x00010D14 end:0x00010D24
 
 mo_stub/ft_lucario/fn_118_139F0.c:
 	.text       start:0x000139F0 end:0x00013A00
