@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_pikachu/fn_98_744C.c:
 	.text       start:0x0000744C end:0x00007454
 
+mo_stub/ft_pikachu/fn_98_98C0.c:
+	.text       start:0x000098C0 end:0x000098C8
+
 mo_stub/ft_pikachu/fn_98_9C28.c:
 	.text       start:0x00009C28 end:0x00009C34
 
