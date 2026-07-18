@@ -2975,6 +2975,18 @@ mo_stub/sora_melee/fn_27_8F01C.c:
 mo_stub/sora_melee/fn_27_8F034.c:
 	.text       start:0x0008F034 end:0x0008F05C
 
+mo_stub/sora_melee/fn_27_8F05C.c:
+	.text       start:0x0008F05C end:0x0008F064
+
+mo_stub/sora_melee/fn_27_92794.c:
+	.text       start:0x00092794 end:0x0009279C
+
+mo_stub/sora_melee/fn_27_92E60.c:
+	.text       start:0x00092E60 end:0x00092E68
+
+mo_stub/sora_melee/fn_27_92EE0.c:
+	.text       start:0x00092EE0 end:0x00092EF0
+
 mo_melee/sora_melee/so/anim/so_anim_cmd_interpreter_effect.cpp:
 	.text       start:0x000A1D18 end:0x000A1DA4
 	.data       start:0x00015450 end:0x000154C0
