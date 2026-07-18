@@ -3047,6 +3047,9 @@ mo_stub/sora_melee/fn_27_A1C34.c:
 mo_stub/sora_melee/fn_27_A1CB8.c:
 	.text       start:0x000A1CB8 end:0x000A1CE0
 
+mo_stub/sora_melee/fn_27_A1CE8.c:
+	.text       start:0x000A1CE8 end:0x000A1D10
+
 mo_melee/sora_melee/so/anim/so_anim_cmd_interpreter_effect.cpp:
 	.text       start:0x000A1D18 end:0x000A1DA4
 	.data       start:0x00015450 end:0x000154C0
