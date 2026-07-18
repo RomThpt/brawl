@@ -191,6 +191,9 @@ mo_stub/st_metalgear/fn_71_DBC8.c:
 mo_stub/st_metalgear/fn_71_DBF0.c:
 	.text       start:0x0000DBF0 end:0x0000DC18
 
+mo_stub/st_metalgear/fn_71_DC18.c:
+	.text       start:0x0000DC18 end:0x0000DC40
+
 mo_stub/st_metalgear/fn_71_F1A4.c:
 	.text       start:0x0000F1A4 end:0x0000F1AC
 
