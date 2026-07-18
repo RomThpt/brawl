@@ -92,6 +92,9 @@ mo_stub/ft_ike/fn_119_BD9C.c:
 mo_stub/ft_ike/fn_119_BDD8.c:
 	.text       start:0x0000BDD8 end:0x0000BDE0
 
+mo_stub/ft_ike/fn_119_BECC.c:
+	.text       start:0x0000BECC end:0x0000BED4
+
 mo_stub/ft_ike/fn_119_D26C.c:
 	.text       start:0x0000D26C end:0x0000D288
 
