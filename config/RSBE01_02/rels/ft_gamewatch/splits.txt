@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_gamewatch/fn_107_8720.c:
 	.text       start:0x00008720 end:0x00008728
 
+mo_stub/ft_gamewatch/fn_107_B648.c:
+	.text       start:0x0000B648 end:0x0000B64C
+
 mo_stub/ft_gamewatch/fn_107_C140.c:
 	.text       start:0x0000C140 end:0x0000C150
 
