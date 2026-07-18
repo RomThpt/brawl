@@ -240,6 +240,9 @@ mo_stub/sora_melee/fn_27_37C78.c:
 mo_stub/sora_melee/fn_27_38DE8.c:
 	.text       start:0x00038DE8 end:0x00038DF0
 
+mo_stub/sora_melee/fn_27_394A4.c:
+	.text       start:0x000394A4 end:0x000394AC
+
 mo_stub/sora_melee/fn_27_3BA38.c:
 	.text       start:0x0003BA38 end:0x0003BA40
 
