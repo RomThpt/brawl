@@ -95,6 +95,9 @@ mo_stub/ft_lucas/fn_114_F680.c:
 mo_stub/ft_lucas/fn_114_FD90.c:
 	.text       start:0x0000FD90 end:0x0000FD94
 
+mo_stub/ft_lucas/fn_114_FDCC.c:
+	.text       start:0x0000FDCC end:0x0000FDD4
+
 mo_stub/ft_lucas/fn_114_10998.c:
 	.text       start:0x00010998 end:0x000109B4
 
