@@ -107,6 +107,9 @@ mo_stub/ft_luigi/fn_99_B4CC.c:
 mo_stub/ft_luigi/fn_99_B5B4.c:
 	.text       start:0x0000B5B4 end:0x0000B5BC
 
+mo_stub/ft_luigi/fn_99_B69C.c:
+	.text       start:0x0000B69C end:0x0000B6A4
+
 mo_stub/ft_luigi/fn_99_B86C.c:
 	.text       start:0x0000B86C end:0x0000B874
 
