@@ -80,6 +80,9 @@ mo_stub/st_tengan/fn_60_65A4.c:
 mo_stub/st_tengan/fn_60_65AC.c:
 	.text       start:0x000065AC end:0x000065B4
 
+mo_stub/st_tengan/fn_60_65B4.c:
+	.text       start:0x000065B4 end:0x000065BC
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000077B4 end:0x00007850
 	.data       start:0x00001208 end:0x00001215
