@@ -4001,6 +4001,21 @@ mo_stub/sora_melee/fn_27_FE4C4.c:
 mo_stub/sora_melee/fn_27_FE57C.c:
 	.text       start:0x000FE57C end:0x000FE584
 
+mo_stub/sora_melee/fn_27_FE634.c:
+	.text       start:0x000FE634 end:0x000FE63C
+
+mo_stub/sora_melee/fn_27_FE6EC.c:
+	.text       start:0x000FE6EC end:0x000FE6F4
+
+mo_stub/sora_melee/fn_27_FE7A4.c:
+	.text       start:0x000FE7A4 end:0x000FE7AC
+
+mo_stub/sora_melee/fn_27_FE85C.c:
+	.text       start:0x000FE85C end:0x000FE864
+
+mo_stub/sora_melee/fn_27_FE914.c:
+	.text       start:0x000FE914 end:0x000FE91C
+
 mo_melee/sora_melee/ft/ft_class_info.cpp:
 	.text       start:0x001254D4 end:0x001257EC
 	.ctors      start:0x0000005C end:0x00000060
