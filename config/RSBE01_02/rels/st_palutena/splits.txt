@@ -176,6 +176,9 @@ mo_stub/st_palutena/fn_67_8C38.c:
 mo_stub/st_palutena/fn_67_8C60.c:
 	.text       start:0x00008C60 end:0x00008C88
 
+mo_stub/st_palutena/fn_67_8C88.c:
+	.text       start:0x00008C88 end:0x00008CB0
+
 mo_stub/st_palutena/fn_67_B444.c:
 	.text       start:0x0000B444 end:0x0000B448
 
