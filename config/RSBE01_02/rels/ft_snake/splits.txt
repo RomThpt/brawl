@@ -359,6 +359,9 @@ mo_stub/ft_snake/fn_122_2726C.c:
 mo_stub/ft_snake/fn_122_27274.c:
 	.text       start:0x00027274 end:0x0002729C
 
+mo_stub/ft_snake/fn_122_2729C.c:
+	.text       start:0x0002729C end:0x000272C4
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00027B24 end:0x00027BC0
 	.data       start:0x000107D8 end:0x000107E7
