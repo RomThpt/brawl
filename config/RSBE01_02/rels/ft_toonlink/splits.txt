@@ -275,6 +275,9 @@ mo_stub/ft_toonlink/fn_121_1863C.c:
 mo_stub/ft_toonlink/fn_121_1864C.c:
 	.text       start:0x0001864C end:0x00018674
 
+mo_stub/ft_toonlink/fn_121_18674.c:
+	.text       start:0x00018674 end:0x00018684
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018684 end:0x00018720
 	.data       start:0x00009BF0 end:0x00009BFF
