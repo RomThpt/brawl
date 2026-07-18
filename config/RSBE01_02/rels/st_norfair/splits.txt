@@ -230,11 +230,17 @@ mo_stub/st_norfair/fn_54_E4AC.c:
 mo_stub/st_norfair/fn_54_E54C.c:
 	.text       start:0x0000E54C end:0x0000E564
 
+mo_stub/st_norfair/fn_54_E564.c:
+	.text       start:0x0000E564 end:0x0000E57C
+
 mo_stub/st_norfair/fn_54_EFC8.c:
 	.text       start:0x0000EFC8 end:0x0000EFD0
 
 mo_stub/st_norfair/fn_54_10140.c:
 	.text       start:0x00010140 end:0x00010148
+
+mo_stub/st_norfair/fn_54_101E0.c:
+	.text       start:0x000101E0 end:0x000101F0
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x00010210 end:0x000102AC
