@@ -104,6 +104,12 @@ mo_stub/st_homerun/fn_88_4498.c:
 mo_stub/st_homerun/fn_88_4888.c:
 	.text       start:0x00004888 end:0x0000488C
 
+mo_stub/st_homerun/fn_88_4CF4.c:
+	.text       start:0x00004CF4 end:0x00004CFC
+
+mo_stub/st_homerun/fn_88_4DCC.c:
+	.text       start:0x00004DCC end:0x00004DD0
+
 mo_stub/st_homerun/fn_88_7A54.c:
 	.text       start:0x00007A54 end:0x00007A58
 

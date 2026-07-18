@@ -93,6 +93,15 @@ mo_stub/sora_scene/fn_1_10584.c:
 mo_stub/sora_scene/fn_1_10598.c:
 	.text       start:0x00010598 end:0x000105A0
 
+mo_stub/sora_scene/fn_1_1067C.c:
+	.text       start:0x0001067C end:0x00010684
+
+mo_stub/sora_scene/fn_1_10A38.c:
+	.text       start:0x00010A38 end:0x00010A3C
+
+mo_stub/sora_scene/fn_1_13880.c:
+	.text       start:0x00013880 end:0x00013884
+
 mo_stub/sora_scene/fn_1_1BD14.c:
 	.text       start:0x0001BD14 end:0x0001BD18
 

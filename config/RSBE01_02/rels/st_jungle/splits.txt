@@ -68,6 +68,9 @@ mo_stub/st_jungle/fn_51_26AC.c:
 mo_stub/st_jungle/fn_51_26D0.c:
 	.text       start:0x000026D0 end:0x000026D8
 
+mo_stub/st_jungle/fn_51_26D8.c:
+	.text       start:0x000026D8 end:0x000026E0
+
 mo_stub/st_jungle/fn_51_26E0.c:
 	.text       start:0x000026E0 end:0x000026F0
 
@@ -194,6 +197,15 @@ mo_stub/st_jungle/fn_51_7FE0.c:
 mo_stub/st_jungle/fn_51_8C18.c:
 	.text       start:0x00008C18 end:0x00008C20
 
+mo_stub/st_jungle/fn_51_98BC.c:
+	.text       start:0x000098BC end:0x000098C4
+
+mo_stub/st_jungle/fn_51_A60C.c:
+	.text       start:0x0000A60C end:0x0000A614
+
+mo_stub/st_jungle/fn_51_AF28.c:
+	.text       start:0x0000AF28 end:0x0000AF30
+
 mo_stub/st_jungle/fn_51_C024.c:
 	.text       start:0x0000C024 end:0x0000C034
 
@@ -217,6 +229,30 @@ mo_stub/st_jungle/fn_51_D8FC.c:
 
 mo_stub/st_jungle/fn_51_D9C4.c:
 	.text       start:0x0000D9C4 end:0x0000D9CC
+
+mo_stub/st_jungle/fn_51_E294.c:
+	.text       start:0x0000E294 end:0x0000E29C
+
+mo_stub/st_jungle/fn_51_F4A4.c:
+	.text       start:0x0000F4A4 end:0x0000F4AC
+
+mo_stub/st_jungle/fn_51_10790.c:
+	.text       start:0x00010790 end:0x00010794
+
+mo_stub/st_jungle/fn_51_10794.c:
+	.text       start:0x00010794 end:0x0001079C
+
+mo_stub/st_jungle/fn_51_1079C.c:
+	.text       start:0x0001079C end:0x000107A4
+
+mo_stub/st_jungle/fn_51_10FAC.c:
+	.text       start:0x00010FAC end:0x00010FB4
+
+mo_stub/st_jungle/fn_51_11900.c:
+	.text       start:0x00011900 end:0x00011908
+
+mo_stub/st_jungle/fn_51_16074.c:
+	.text       start:0x00016074 end:0x00016078
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
