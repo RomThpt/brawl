@@ -739,6 +739,15 @@ mo_stub/sora_melee/fn_27_68868.c:
 mo_stub/sora_melee/fn_27_68874.c:
 	.text       start:0x00068874 end:0x00068888
 
+mo_stub/sora_melee/fn_27_693E4.c:
+	.text       start:0x000693E4 end:0x000693F4
+
+mo_stub/sora_melee/fn_27_69EBC.c:
+	.text       start:0x00069EBC end:0x00069EC0
+
+mo_stub/sora_melee/fn_27_6A22C.c:
+	.text       start:0x0006A22C end:0x0006A23C
+
 mo_melee/sora_melee/so/so_resource_module_impl.cpp:
 	.text       start:0x0006F850 end:0x0006FCF4
 	.data       start:0x00008028 end:0x000080F8
