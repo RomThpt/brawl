@@ -62,6 +62,9 @@ mo_stub/sora_melee/fn_27_6CA4.c:
 mo_stub/sora_melee/fn_27_76FC.c:
 	.text       start:0x000076FC end:0x00007700
 
+mo_stub/sora_melee/fn_27_77BC.c:
+	.text       start:0x000077BC end:0x000077DC
+
 mo_stub/sora_melee/fn_27_81EC.c:
 	.text       start:0x000081EC end:0x000081F0
 
@@ -73,6 +76,9 @@ mo_stub/sora_melee/fn_27_8D34.c:
 
 mo_stub/sora_melee/fn_27_8D3C.c:
 	.text       start:0x00008D3C end:0x00008D44
+
+mo_stub/sora_melee/fn_27_E260.c:
+	.text       start:0x0000E260 end:0x0000E268
 
 mo_melee/sora_melee/so/model/so_model_module_simple.cpp:
 	.text       start:0x0000E268 end:0x0000EEAC
