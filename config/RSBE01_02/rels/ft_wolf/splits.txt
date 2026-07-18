@@ -122,6 +122,12 @@ mo_stub/ft_wolf/fn_125_E44C.c:
 mo_stub/ft_wolf/fn_125_E534.c:
 	.text       start:0x0000E534 end:0x0000E53C
 
+mo_stub/ft_wolf/fn_125_E83C.c:
+	.text       start:0x0000E83C end:0x0000E85C
+
+mo_stub/ft_wolf/fn_125_E874.c:
+	.text       start:0x0000E874 end:0x0000E87C
+
 mo_stub/ft_wolf/fn_125_10848.c:
 	.text       start:0x00010848 end:0x00010850
 
