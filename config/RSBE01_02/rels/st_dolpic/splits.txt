@@ -86,6 +86,9 @@ mo_stub/st_dolpic/fn_46_487C.c:
 mo_stub/st_dolpic/fn_46_488C.c:
 	.text       start:0x0000488C end:0x00004894
 
+mo_stub/st_dolpic/fn_46_6800.c:
+	.text       start:0x00006800 end:0x00006804
+
 mo_stub/st_dolpic/fn_46_6808.c:
 	.text       start:0x00006808 end:0x00006810
 
