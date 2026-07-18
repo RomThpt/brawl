@@ -191,6 +191,9 @@ mo_stub/sora_enemy/fn_41_1378C.c:
 mo_stub/sora_enemy/fn_41_1AC5C.c:
 	.text       start:0x0001AC5C end:0x0001AC68
 
+mo_stub/sora_enemy/fn_41_1AD04.c:
+	.text       start:0x0001AD04 end:0x0001AD14
+
 mo_stub/sora_enemy/fn_41_1F4F8.c:
 	.text       start:0x0001F4F8 end:0x0001F500
 
@@ -219,6 +222,9 @@ mo_enemy/sora_enemy/em_extend_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_27750.c:
 	.text       start:0x00027750 end:0x00027758
 
+mo_stub/sora_enemy/fn_41_27760.c:
+	.text       start:0x00027760 end:0x00027770
+
 mo_stub/sora_enemy/fn_41_27974.c:
 	.text       start:0x00027974 end:0x0002797C
 
@@ -236,6 +242,9 @@ mo_stub/sora_enemy/fn_41_28588.c:
 
 mo_stub/sora_enemy/fn_41_28590.c:
 	.text       start:0x00028590 end:0x00028598
+
+mo_stub/sora_enemy/fn_41_28598.c:
+	.text       start:0x00028598 end:0x000285A0
 
 mo_enemy/sora_enemy/em_external_value_accesser.cpp:
 	.text       start:0x000285A8 end:0x0002893C
