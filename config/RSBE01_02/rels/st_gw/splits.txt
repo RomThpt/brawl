@@ -242,6 +242,9 @@ mo_stub/st_gw/fn_63_E220.c:
 mo_stub/st_gw/fn_63_EF70.c:
 	.text       start:0x0000EF70 end:0x0000EF78
 
+mo_stub/st_gw/fn_63_F88C.c:
+	.text       start:0x0000F88C end:0x0000F894
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000172EC end:0x00017388
 	.data       start:0x00006878 end:0x00006885
