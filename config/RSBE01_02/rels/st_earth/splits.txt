@@ -197,6 +197,9 @@ mo_stub/st_earth/fn_66_EF78.c:
 mo_stub/st_earth/fn_66_EFA0.c:
 	.text       start:0x0000EFA0 end:0x0000EFC8
 
+mo_stub/st_earth/fn_66_EFC8.c:
+	.text       start:0x0000EFC8 end:0x0000EFF0
+
 mo_stub/st_earth/fn_66_11158.c:
 	.text       start:0x00011158 end:0x00011160
 
