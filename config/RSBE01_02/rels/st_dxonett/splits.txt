@@ -167,6 +167,9 @@ mo_stub/st_dxonett/fn_78_7AA0.c:
 mo_stub/st_dxonett/fn_78_7AC8.c:
 	.text       start:0x00007AC8 end:0x00007AF0
 
+mo_stub/st_dxonett/fn_78_7AF0.c:
+	.text       start:0x00007AF0 end:0x00007B18
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000089F0 end:0x00008A8C
 	.data       start:0x00002788 end:0x00002795
