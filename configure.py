@@ -5361,6 +5361,8 @@ config.libs = [
             Object(Matching, "mo_stub/sora_minigame/fn_20_6DC4.c"),
             Object(Matching, "mo_stub/sora_minigame/fn_20_6DD4.c"),
             Object(Matching, "mo_stub/sora_minigame/fn_20_D6A4.c"),
+            Object(Matching, "mo_stub/sora_minigame/fn_20_D6AC.c"),
+            Object(Matching, "mo_stub/sora_minigame/fn_20_DE50.c"),
         ],
     },
     {
