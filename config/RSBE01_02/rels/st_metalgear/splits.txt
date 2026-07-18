@@ -65,6 +65,9 @@ mo_stub/st_metalgear/fn_71_2484.c:
 mo_stub/st_metalgear/fn_71_24B4.c:
 	.text       start:0x000024B4 end:0x000024BC
 
+mo_stub/st_metalgear/fn_71_24BC.c:
+	.text       start:0x000024BC end:0x000024C4
+
 mo_stub/st_metalgear/fn_71_24C4.c:
 	.text       start:0x000024C4 end:0x000024CC
 
