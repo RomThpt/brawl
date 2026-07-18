@@ -2918,6 +2918,21 @@ mo_stub/sora_melee/fn_27_894B4.c:
 mo_stub/sora_melee/fn_27_895B4.c:
 	.text       start:0x000895B4 end:0x000895B8
 
+mo_stub/sora_melee/fn_27_8A550.c:
+	.text       start:0x0008A550 end:0x0008A554
+
+mo_stub/sora_melee/fn_27_8A9C4.c:
+	.text       start:0x0008A9C4 end:0x0008A9C8
+
+mo_stub/sora_melee/fn_27_8A9F4.c:
+	.text       start:0x0008A9F4 end:0x0008A9F8
+
+mo_stub/sora_melee/fn_27_8B144.c:
+	.text       start:0x0008B144 end:0x0008B148
+
+mo_stub/sora_melee/fn_27_8C024.c:
+	.text       start:0x0008C024 end:0x0008C02C
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
