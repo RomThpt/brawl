@@ -122,6 +122,12 @@ mo_stub/ft_wario/fn_110_C8EC.c:
 mo_stub/ft_wario/fn_110_C92C.c:
 	.text       start:0x0000C92C end:0x0000C934
 
+mo_stub/ft_wario/fn_110_C934.c:
+	.text       start:0x0000C934 end:0x0000C954
+
+mo_stub/ft_wario/fn_110_C9BC.c:
+	.text       start:0x0000C9BC end:0x0000C9C4
+
 mo_stub/ft_wario/fn_110_CFAC.c:
 	.text       start:0x0000CFAC end:0x0000CFB4
 
