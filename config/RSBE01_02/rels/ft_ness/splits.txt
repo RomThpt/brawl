@@ -326,8 +326,14 @@ mo_stub/ft_ness/fn_101_20CB4.c:
 mo_stub/ft_ness/fn_101_20CBC.c:
 	.text       start:0x00020CBC end:0x00020CE4
 
+mo_stub/ft_ness/fn_101_20CE4.c:
+	.text       start:0x00020CE4 end:0x00020CF4
+
 mo_stub/ft_ness/fn_101_20F68.c:
 	.text       start:0x00020F68 end:0x00020F6C
+
+mo_stub/ft_ness/fn_101_23DF0.c:
+	.text       start:0x00023DF0 end:0x00023E08
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00024B28 end:0x00024BC4
