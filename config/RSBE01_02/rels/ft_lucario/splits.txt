@@ -29,6 +29,9 @@ mo_stub/ft_lucario/fn_118_9FE8.c:
 mo_stub/ft_lucario/fn_118_9FEC.c:
 	.text       start:0x00009FEC end:0x00009FF4
 
+mo_stub/ft_lucario/fn_118_9FF4.c:
+	.text       start:0x00009FF4 end:0x00009FF8
+
 mo_stub/ft_lucario/fn_118_A038.c:
 	.text       start:0x0000A038 end:0x0000A03C
 
