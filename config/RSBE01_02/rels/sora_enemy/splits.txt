@@ -269,6 +269,9 @@ mo_stub/sora_enemy/fn_41_2A4F0.c:
 mo_stub/sora_enemy/fn_41_2B030.c:
 	.text       start:0x0002B030 end:0x0002B040
 
+mo_stub/sora_enemy/fn_41_2B040.c:
+	.text       start:0x0002B040 end:0x0002B058
+
 mo_stub/sora_enemy/fn_41_2B3F8.c:
 	.text       start:0x0002B3F8 end:0x0002B400
 
@@ -277,6 +280,12 @@ mo_stub/sora_enemy/fn_41_2B40C.c:
 
 mo_stub/sora_enemy/fn_41_2B414.c:
 	.text       start:0x0002B414 end:0x0002B41C
+
+mo_stub/sora_enemy/fn_41_2B41C.c:
+	.text       start:0x0002B41C end:0x0002B424
+
+mo_stub/sora_enemy/fn_41_2B42C.c:
+	.text       start:0x0002B42C end:0x0002B434
 
 mo_stub/sora_enemy/fn_41_2B8A4.c:
 	.text       start:0x0002B8A4 end:0x0002B8AC
