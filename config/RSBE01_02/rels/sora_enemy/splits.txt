@@ -573,6 +573,9 @@ mo_stub/sora_enemy/fn_41_3B938.c:
 mo_stub/sora_enemy/fn_41_3B9B0.c:
 	.text       start:0x0003B9B0 end:0x0003B9B8
 
+mo_stub/sora_enemy/fn_41_3B9B8.c:
+	.text       start:0x0003B9B8 end:0x0003B9C8
+
 mo_enemy/sora_enemy/deathpod/em_deathpod_param_accesser.cpp:
 	.text       start:0x0003B9C8 end:0x0003BC58
 	.ctors      start:0x00000058 end:0x0000005C
@@ -580,12 +583,18 @@ mo_enemy/sora_enemy/deathpod/em_deathpod_param_accesser.cpp:
 	.data       start:0x0000A4E0 end:0x0000A578
 	.bss        start:0x000003A0 end:0x000003B8
 
+mo_stub/sora_enemy/fn_41_3BFD0.c:
+	.text       start:0x0003BFD0 end:0x0003BFE0
+
 mo_enemy/sora_enemy/dekakuribo/em_dekakuribo_param_accesser.cpp:
 	.text       start:0x0003BFE0 end:0x0003C27C
 	.ctors      start:0x0000005C end:0x00000060
 	.rodata     start:0x00000EE8 end:0x00000EF0
 	.data       start:0x0000A7D0 end:0x0000A838
 	.bss        start:0x000003B8 end:0x000003D0
+
+mo_stub/sora_enemy/fn_41_3C788.c:
+	.text       start:0x0003C788 end:0x0003C790
 
 mo_enemy/sora_enemy/bucyulus/em_bucyulus_param_accesser.cpp:
 	.text       start:0x0003C7A0 end:0x0003CA40
