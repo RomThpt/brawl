@@ -128,6 +128,15 @@ mo_stub/ft_fox/fn_97_E924.c:
 mo_stub/ft_fox/fn_97_E95C.c:
 	.text       start:0x0000E95C end:0x0000E964
 
+mo_stub/ft_fox/fn_97_E96C.c:
+	.text       start:0x0000E96C end:0x0000E97C
+
+mo_stub/ft_fox/fn_97_E9BC.c:
+	.text       start:0x0000E9BC end:0x0000E9C4
+
+mo_stub/ft_fox/fn_97_E9CC.c:
+	.text       start:0x0000E9CC end:0x0000E9D4
+
 mo_stub/ft_fox/fn_97_10930.c:
 	.text       start:0x00010930 end:0x00010938
 
@@ -196,6 +205,9 @@ mo_stub/ft_fox/fn_97_10D2C.c:
 
 mo_stub/ft_fox/fn_97_10D7C.c:
 	.text       start:0x00010D7C end:0x00010D80
+
+mo_stub/ft_fox/fn_97_10E84.c:
+	.text       start:0x00010E84 end:0x00010E8C
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088
