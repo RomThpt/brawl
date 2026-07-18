@@ -113,6 +113,9 @@ mo_stub/ft_gamewatch/fn_107_F9BC.c:
 mo_stub/ft_gamewatch/fn_107_FAA4.c:
 	.text       start:0x0000FAA4 end:0x0000FAAC
 
+mo_stub/ft_gamewatch/fn_107_FB8C.c:
+	.text       start:0x0000FB8C end:0x0000FB94
+
 mo_stub/ft_gamewatch/fn_107_11DD0.c:
 	.text       start:0x00011DD0 end:0x00011DE8
 
