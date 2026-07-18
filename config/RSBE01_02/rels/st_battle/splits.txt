@@ -41,6 +41,9 @@ mo_stub/st_battle/fn_43_950.c:
 mo_stub/st_battle/fn_43_980.c:
 	.text       start:0x00000980 end:0x00000988
 
+mo_stub/st_battle/fn_43_988.c:
+	.text       start:0x00000988 end:0x00000990
+
 mo_stub/st_battle/fn_43_990.c:
 	.text       start:0x00000990 end:0x00000998
 
