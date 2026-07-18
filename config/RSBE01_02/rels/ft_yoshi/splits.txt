@@ -92,6 +92,9 @@ mo_stub/ft_yoshi/fn_95_E5D8.c:
 mo_stub/ft_yoshi/fn_95_E614.c:
 	.text       start:0x0000E614 end:0x0000E61C
 
+mo_stub/ft_yoshi/fn_95_E708.c:
+	.text       start:0x0000E708 end:0x0000E710
+
 mo_stub/ft_yoshi/fn_95_F304.c:
 	.text       start:0x0000F304 end:0x0000F31C
 
