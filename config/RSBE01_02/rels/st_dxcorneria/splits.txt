@@ -41,6 +41,9 @@ mo_stub/st_dxcorneria/fn_82_3DCC.c:
 mo_stub/st_dxcorneria/fn_82_3E04.c:
 	.text       start:0x00003E04 end:0x00003E0C
 
+mo_stub/st_dxcorneria/fn_82_3E0C.c:
+	.text       start:0x00003E0C end:0x00003E14
+
 mo_stub/st_dxcorneria/fn_82_3E14.c:
 	.text       start:0x00003E14 end:0x00003E24
 
