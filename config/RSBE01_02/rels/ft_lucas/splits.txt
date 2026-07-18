@@ -275,6 +275,15 @@ mo_stub/ft_lucas/fn_114_15E9C.c:
 mo_stub/ft_lucas/fn_114_15EB4.c:
 	.text       start:0x00015EB4 end:0x00015EBC
 
+mo_stub/ft_lucas/fn_114_15ECC.c:
+	.text       start:0x00015ECC end:0x00015EDC
+
+mo_stub/ft_lucas/fn_114_15F04.c:
+	.text       start:0x00015F04 end:0x00015F14
+
+mo_stub/ft_lucas/fn_114_15F44.c:
+	.text       start:0x00015F44 end:0x00015F4C
+
 mo_stub/ft_lucas/fn_114_19AB0.c:
 	.text       start:0x00019AB0 end:0x00019AB8
 
