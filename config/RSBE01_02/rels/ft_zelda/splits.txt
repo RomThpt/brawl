@@ -290,8 +290,14 @@ mo_stub/ft_zelda/fn_104_21CC4.c:
 mo_stub/ft_zelda/fn_104_21CD4.c:
 	.text       start:0x00021CD4 end:0x00021CFC
 
+mo_stub/ft_zelda/fn_104_21CFC.c:
+	.text       start:0x00021CFC end:0x00021D04
+
 mo_stub/ft_zelda/fn_104_241EC.c:
 	.text       start:0x000241EC end:0x000241F4
+
+mo_stub/ft_zelda/fn_104_24454.c:
+	.text       start:0x00024454 end:0x00024474
 
 mo_stub/ft_zelda/fn_104_24494.c:
 	.text       start:0x00024494 end:0x0002449C
