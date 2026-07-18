@@ -245,6 +245,15 @@ mo_stub/ft_wario/fn_110_13A80.c:
 mo_stub/ft_wario/fn_110_13AA8.c:
 	.text       start:0x00013AA8 end:0x00013AC0
 
+mo_stub/ft_wario/fn_110_13AC8.c:
+	.text       start:0x00013AC8 end:0x00013AD8
+
+mo_stub/ft_wario/fn_110_13AE0.c:
+	.text       start:0x00013AE0 end:0x00013AF0
+
+mo_stub/ft_wario/fn_110_13B00.c:
+	.text       start:0x00013B00 end:0x00013B08
+
 mo_stub/ft_wario/fn_110_15470.c:
 	.text       start:0x00015470 end:0x00015478
 
