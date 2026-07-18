@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_sonic/fn_123_6E08.c:
+	.text       start:0x00006E08 end:0x00006E10
+
 mo_stub/ft_sonic/fn_123_A050.c:
 	.text       start:0x0000A050 end:0x0000A054
 
