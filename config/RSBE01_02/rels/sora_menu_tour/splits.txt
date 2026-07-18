@@ -12,6 +12,9 @@ mo_stub/sora_menu_tour/fn_3_EDF4.c:
 mo_stub/sora_menu_tour/fn_3_EE5C.c:
 	.text       start:0x0000EE5C end:0x0000EE60
 
+mo_stub/sora_menu_tour/fn_3_EE60.c:
+	.text       start:0x0000EE60 end:0x0000EE64
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x0000EE90 end:0x0000EF2C
 	.data       start:0x00000E88 end:0x00000E94

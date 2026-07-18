@@ -4494,6 +4494,7 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/sora_menu_tour/fn_3_EDF4.c"),
             Object(Matching, "mo_stub/sora_menu_tour/fn_3_EE5C.c"),
+            Object(Matching, "mo_stub/sora_menu_tour/fn_3_EE60.c"),
         ],
     },
     {
