@@ -275,8 +275,23 @@ mo_stub/ft_ness/fn_101_163B4.c:
 mo_stub/ft_ness/fn_101_163F4.c:
 	.text       start:0x000163F4 end:0x000163FC
 
+mo_stub/ft_ness/fn_101_163FC.c:
+	.text       start:0x000163FC end:0x00016404
+
+mo_stub/ft_ness/fn_101_1644C.c:
+	.text       start:0x0001644C end:0x00016454
+
+mo_stub/ft_ness/fn_101_1645C.c:
+	.text       start:0x0001645C end:0x00016464
+
+mo_stub/ft_ness/fn_101_1646C.c:
+	.text       start:0x0001646C end:0x00016474
+
 mo_stub/ft_ness/fn_101_19F48.c:
 	.text       start:0x00019F48 end:0x00019F50
+
+mo_stub/ft_ness/fn_101_1A030.c:
+	.text       start:0x0001A030 end:0x0001A038
 
 mo_stub/ft_ness/fn_101_1C520.c:
 	.text       start:0x0001C520 end:0x0001C528
