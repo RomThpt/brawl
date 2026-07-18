@@ -168,6 +168,9 @@ mo_melee/sora_melee/so/anim/so_anim_chr.cpp:
 	.text       start:0x0001F2D0 end:0x0001F980
 	.rodata     start:0x00000360 end:0x00000370
 
+mo_stub/sora_melee/fn_27_21258.c:
+	.text       start:0x00021258 end:0x00021260
+
 mo_stub/sora_melee/fn_27_254FC.c:
 	.text       start:0x000254FC end:0x00025510
 
