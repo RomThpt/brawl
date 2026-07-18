@@ -38,6 +38,9 @@ mo_stub/ft_samus/fn_94_A9D8.c:
 mo_stub/ft_samus/fn_94_A9E8.c:
 	.text       start:0x0000A9E8 end:0x0000A9FC
 
+mo_stub/ft_samus/fn_94_A9FC.c:
+	.text       start:0x0000A9FC end:0x0000AA00
+
 mo_stub/ft_samus/fn_94_AA00.c:
 	.text       start:0x0000AA00 end:0x0000AA14
 
