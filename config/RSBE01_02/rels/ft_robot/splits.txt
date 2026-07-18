@@ -20,6 +20,9 @@ mo_stub/ft_robot/fn_120_90D0.c:
 mo_stub/ft_robot/fn_120_9234.c:
 	.text       start:0x00009234 end:0x0000923C
 
+mo_stub/ft_robot/fn_120_95E4.c:
+	.text       start:0x000095E4 end:0x000095E8
+
 mo_stub/ft_robot/fn_120_9634.c:
 	.text       start:0x00009634 end:0x00009638
 
