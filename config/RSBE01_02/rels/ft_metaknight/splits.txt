@@ -20,6 +20,9 @@ mo_stub/ft_metaknight/fn_111_819C.c:
 mo_stub/ft_metaknight/fn_111_81A0.c:
 	.text       start:0x000081A0 end:0x000081A8
 
+mo_stub/ft_metaknight/fn_111_8470.c:
+	.text       start:0x00008470 end:0x00008474
+
 mo_stub/ft_metaknight/fn_111_84C0.c:
 	.text       start:0x000084C0 end:0x000084C4
 
