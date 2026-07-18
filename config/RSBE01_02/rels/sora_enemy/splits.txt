@@ -426,6 +426,9 @@ mo_stub/sora_enemy/fn_41_34948.c:
 mo_stub/sora_enemy/fn_41_34968.c:
 	.text       start:0x00034968 end:0x00034990
 
+mo_stub/sora_enemy/fn_41_34990.c:
+	.text       start:0x00034990 end:0x000349B8
+
 mo_enemy/sora_enemy/wnem/wn_em_heap_module_impl.cpp:
 	.text       start:0x000349D0 end:0x00034AE8
 	.ctors      start:0x00000020 end:0x00000024
