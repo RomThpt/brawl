@@ -5191,6 +5191,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_jungle/fn_51_10790.c"),
             Object(Matching, "mo_stub/st_jungle/fn_51_10794.c"),
             Object(Matching, "mo_stub/st_jungle/fn_51_1079C.c"),
+            Object(Matching, "mo_stub/st_jungle/fn_51_10FAC.c"),
         ],
     },
     {
