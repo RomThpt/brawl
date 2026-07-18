@@ -266,8 +266,20 @@ mo_stub/ft_link/fn_93_14A74.c:
 mo_stub/ft_link/fn_93_14AB4.c:
 	.text       start:0x00014AB4 end:0x00014AC4
 
+mo_stub/ft_link/fn_93_14B0C.c:
+	.text       start:0x00014B0C end:0x00014B14
+
+mo_stub/ft_link/fn_93_14B1C.c:
+	.text       start:0x00014B1C end:0x00014B24
+
+mo_stub/ft_link/fn_93_14B2C.c:
+	.text       start:0x00014B2C end:0x00014B34
+
 mo_stub/ft_link/fn_93_18560.c:
 	.text       start:0x00018560 end:0x00018570
+
+mo_stub/ft_link/fn_93_185F0.c:
+	.text       start:0x000185F0 end:0x00018600
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018638 end:0x000186D4
