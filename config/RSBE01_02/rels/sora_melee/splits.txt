@@ -760,6 +760,12 @@ mo_stub/sora_melee/fn_27_6D79C.c:
 mo_stub/sora_melee/fn_27_6E1AC.c:
 	.text       start:0x0006E1AC end:0x0006E1BC
 
+mo_stub/sora_melee/fn_27_6F2CC.c:
+	.text       start:0x0006F2CC end:0x0006F2DC
+
+mo_stub/sora_melee/fn_27_6F2EC.c:
+	.text       start:0x0006F2EC end:0x0006F304
+
 mo_melee/sora_melee/so/so_resource_module_impl.cpp:
 	.text       start:0x0006F850 end:0x0006FCF4
 	.data       start:0x00008028 end:0x000080F8
