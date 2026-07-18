@@ -158,6 +158,9 @@ mo_stub/ft_koopa/fn_102_1BC90.c:
 mo_stub/ft_koopa/fn_102_1BC98.c:
 	.text       start:0x0001BC98 end:0x0001BCA0
 
+mo_stub/ft_koopa/fn_102_1BCD4.c:
+	.text       start:0x0001BCD4 end:0x0001BCDC
+
 mo_stub/ft_koopa/fn_102_1BDE8.c:
 	.text       start:0x0001BDE8 end:0x0001BE00
 
