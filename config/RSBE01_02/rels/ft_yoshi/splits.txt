@@ -35,6 +35,9 @@ mo_stub/ft_yoshi/fn_95_B530.c:
 mo_stub/ft_yoshi/fn_95_B540.c:
 	.text       start:0x0000B540 end:0x0000B554
 
+mo_stub/ft_yoshi/fn_95_B554.c:
+	.text       start:0x0000B554 end:0x0000B558
+
 mo_stub/ft_yoshi/fn_95_B558.c:
 	.text       start:0x0000B558 end:0x0000B56C
 
