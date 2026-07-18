@@ -195,6 +195,9 @@ mo_stub/sora_melee/fn_27_25538.c:
 mo_stub/sora_melee/fn_27_25560.c:
 	.text       start:0x00025560 end:0x00025564
 
+mo_stub/sora_melee/fn_27_25564.c:
+	.text       start:0x00025564 end:0x00025568
+
 mo_stub/sora_melee/fn_27_30CBC.c:
 	.text       start:0x00030CBC end:0x00030CC0
 
