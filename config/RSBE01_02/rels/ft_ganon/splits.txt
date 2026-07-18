@@ -251,6 +251,15 @@ mo_stub/ft_ganon/fn_109_11A70.c:
 mo_stub/ft_ganon/fn_109_11B78.c:
 	.text       start:0x00011B78 end:0x00011B90
 
+mo_stub/ft_ganon/fn_109_11B98.c:
+	.text       start:0x00011B98 end:0x00011BB0
+
+mo_stub/ft_ganon/fn_109_11BB8.c:
+	.text       start:0x00011BB8 end:0x00011BC0
+
+mo_stub/ft_ganon/fn_109_11BD0.c:
+	.text       start:0x00011BD0 end:0x00011BD8
+
 mo_stub/ft_ganon/fn_109_11D9C.c:
 	.text       start:0x00011D9C end:0x00011DA0
 
