@@ -360,8 +360,14 @@ mo_stub/sora_melee/fn_27_4550C.c:
 mo_stub/sora_melee/fn_27_457BC.c:
 	.text       start:0x000457BC end:0x000457C0
 
+mo_stub/sora_melee/fn_27_45948.c:
+	.text       start:0x00045948 end:0x00045958
+
 mo_stub/sora_melee/fn_27_46544.c:
 	.text       start:0x00046544 end:0x00046550
+
+mo_stub/sora_melee/fn_27_46568.c:
+	.text       start:0x00046568 end:0x00046580
 
 mo_stub/sora_melee/fn_27_47AEC.c:
 	.text       start:0x00047AEC end:0x00047AF8
