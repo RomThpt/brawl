@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_poke/fn_116_7384.c:
+	.text       start:0x00007384 end:0x0000738C
+
 mo_stub/ft_poke/fn_116_A40C.c:
 	.text       start:0x0000A40C end:0x0000A418
 
