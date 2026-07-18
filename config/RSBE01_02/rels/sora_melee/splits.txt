@@ -2567,6 +2567,9 @@ mo_stub/sora_melee/fn_27_85170.c:
 mo_stub/sora_melee/fn_27_851EC.c:
 	.text       start:0x000851EC end:0x00085204
 
+mo_stub/sora_melee/fn_27_85270.c:
+	.text       start:0x00085270 end:0x00085284
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
