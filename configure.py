@@ -6442,6 +6442,7 @@ config.libs = [
             Object(Matching, "mo_stub/sora_melee/fn_27_1073DC.c"),
             Object(Matching, "mo_stub/sora_melee/fn_27_107404.c"),
             Object(Matching, "mo_stub/sora_melee/fn_27_10742C.c"),
+            Object(Matching, "mo_stub/sora_melee/fn_27_107454.c"),
         ],
     },
     {
