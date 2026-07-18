@@ -4339,6 +4339,7 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/sora_menu_collect_viewer/fn_6_817C.c"),
             Object(Matching, "mo_stub/sora_menu_collect_viewer/fn_6_A360.c"),
+            Object(Matching, "mo_stub/sora_menu_collect_viewer/fn_6_B0FC.c"),
         ],
     },
     {
