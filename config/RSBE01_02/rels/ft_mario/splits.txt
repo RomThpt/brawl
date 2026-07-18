@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_mario/fn_91_22B4.c:
 	.text       start:0x000022B4 end:0x000022BC
 
+mo_stub/ft_mario/fn_91_A0AC.c:
+	.text       start:0x0000A0AC end:0x0000A0B4
+
 mo_stub/ft_mario/fn_91_A394.c:
 	.text       start:0x0000A394 end:0x0000A39C
 
