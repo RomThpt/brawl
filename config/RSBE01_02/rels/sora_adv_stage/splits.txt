@@ -281,6 +281,9 @@ mo_stub/sora_adv_stage/fn_40_295F8.c:
 mo_stub/sora_adv_stage/fn_40_298CC.c:
 	.text       start:0x000298CC end:0x000298EC
 
+mo_stub/sora_adv_stage/fn_40_298EC.c:
+	.text       start:0x000298EC end:0x00029914
+
 mo_stub/sora_adv_stage/fn_40_29E20.c:
 	.text       start:0x00029E20 end:0x00029E24
 
