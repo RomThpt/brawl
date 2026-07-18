@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_iceclimber/fn_105_8130.c:
+	.text       start:0x00008130 end:0x00008138
+
 mo_stub/ft_iceclimber/fn_105_D9E4.c:
 	.text       start:0x0000D9E4 end:0x0000D9F8
 
