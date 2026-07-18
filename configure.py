@@ -4338,6 +4338,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/sora_menu_collect_viewer/fn_6_817C.c"),
+            Object(Matching, "mo_stub/sora_menu_collect_viewer/fn_6_A360.c"),
         ],
     },
     {
