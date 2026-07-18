@@ -296,8 +296,14 @@ mo_stub/ft_ness/fn_101_1A030.c:
 mo_stub/ft_ness/fn_101_1A038.c:
 	.text       start:0x0001A038 end:0x0001A060
 
+mo_stub/ft_ness/fn_101_1A060.c:
+	.text       start:0x0001A060 end:0x0001A078
+
 mo_stub/ft_ness/fn_101_1C520.c:
 	.text       start:0x0001C520 end:0x0001C528
+
+mo_stub/ft_ness/fn_101_1C748.c:
+	.text       start:0x0001C748 end:0x0001C758
 
 mo_stub/ft_ness/fn_101_1E970.c:
 	.text       start:0x0001E970 end:0x0001E978
