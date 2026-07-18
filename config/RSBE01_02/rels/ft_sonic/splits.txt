@@ -239,6 +239,18 @@ mo_stub/ft_sonic/fn_123_142E0.c:
 mo_stub/ft_sonic/fn_123_14300.c:
 	.text       start:0x00014300 end:0x00014308
 
+mo_stub/ft_sonic/fn_123_14310.c:
+	.text       start:0x00014310 end:0x00014318
+
+mo_stub/ft_sonic/fn_123_14338.c:
+	.text       start:0x00014338 end:0x00014340
+
+mo_stub/ft_sonic/fn_123_14368.c:
+	.text       start:0x00014368 end:0x00014378
+
+mo_stub/ft_sonic/fn_123_143A8.c:
+	.text       start:0x000143A8 end:0x000143B0
+
 mo_stub/ft_sonic/fn_123_145B8.c:
 	.text       start:0x000145B8 end:0x000145C0
 
