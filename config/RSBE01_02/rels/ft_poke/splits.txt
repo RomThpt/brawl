@@ -248,6 +248,15 @@ mo_stub/ft_poke/fn_116_11640.c:
 mo_stub/ft_poke/fn_116_11670.c:
 	.text       start:0x00011670 end:0x00011680
 
+mo_stub/ft_poke/fn_116_116A8.c:
+	.text       start:0x000116A8 end:0x000116B8
+
+mo_stub/ft_poke/fn_116_116E8.c:
+	.text       start:0x000116E8 end:0x000116F8
+
+mo_stub/ft_poke/fn_116_11740.c:
+	.text       start:0x00011740 end:0x00011748
+
 mo_stub/ft_poke/fn_116_1892C.c:
 	.text       start:0x0001892C end:0x00018934
 
