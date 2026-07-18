@@ -215,6 +215,9 @@ mo_stub/ft_wario/fn_110_137BC.c:
 mo_stub/ft_wario/fn_110_138C8.c:
 	.text       start:0x000138C8 end:0x000138D0
 
+mo_stub/ft_wario/fn_110_13978.c:
+	.text       start:0x00013978 end:0x00013980
+
 mo_stub/ft_wario/fn_110_15478.c:
 	.text       start:0x00015478 end:0x0001549C
 
