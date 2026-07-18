@@ -233,6 +233,9 @@ mo_stub/st_mariopast/fn_48_C1F4.c:
 mo_stub/st_mariopast/fn_48_C21C.c:
 	.text       start:0x0000C21C end:0x0000C244
 
+mo_stub/st_mariopast/fn_48_C244.c:
+	.text       start:0x0000C244 end:0x0000C26C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C758 end:0x0000C7F4
 	.data       start:0x00003440 end:0x0000344D
