@@ -2144,6 +2144,15 @@ mo_stub/sora_melee/fn_27_7FAF0.c:
 mo_stub/sora_melee/fn_27_7FB04.c:
 	.text       start:0x0007FB04 end:0x0007FB2C
 
+mo_stub/sora_melee/fn_27_7FB2C.c:
+	.text       start:0x0007FB2C end:0x0007FB34
+
+mo_stub/sora_melee/fn_27_7FBB0.c:
+	.text       start:0x0007FBB0 end:0x0007FBBC
+
+mo_stub/sora_melee/fn_27_7FBD4.c:
+	.text       start:0x0007FBD4 end:0x0007FBE4
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
