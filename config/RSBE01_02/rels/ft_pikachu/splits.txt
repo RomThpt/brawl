@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_pikachu/fn_98_744C.c:
 	.text       start:0x0000744C end:0x00007454
 
+mo_stub/ft_pikachu/fn_98_98B0.c:
+	.text       start:0x000098B0 end:0x000098C0
+
 mo_stub/ft_pikachu/fn_98_98C0.c:
 	.text       start:0x000098C0 end:0x000098C8
 
@@ -146,6 +149,9 @@ mo_stub/ft_pikachu/fn_98_FFDC.c:
 mo_stub/ft_pikachu/fn_98_10060.c:
 	.text       start:0x00010060 end:0x00010064
 
+mo_stub/ft_pikachu/fn_98_113A0.c:
+	.text       start:0x000113A0 end:0x000113A8
+
 mo_stub/ft_pikachu/fn_98_1154C.c:
 	.text       start:0x0001154C end:0x00011550
 
@@ -274,6 +280,12 @@ mo_stub/ft_pikachu/fn_98_1BB80.c:
 
 mo_stub/ft_pikachu/fn_98_1BBA8.c:
 	.text       start:0x0001BBA8 end:0x0001BBC8
+
+mo_stub/ft_pikachu/fn_98_1BC08.c:
+	.text       start:0x0001BC08 end:0x0001BC10
+
+mo_stub/ft_pikachu/fn_98_1BC50.c:
+	.text       start:0x0001BC50 end:0x0001BC58
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390
