@@ -140,6 +140,9 @@ mo_stub/ft_kirby/fn_96_1390C.c:
 mo_stub/ft_kirby/fn_96_13D04.c:
 	.text       start:0x00013D04 end:0x00013D0C
 
+mo_stub/ft_kirby/fn_96_13D0C.c:
+	.text       start:0x00013D0C end:0x00013D10
+
 mo_stub/ft_kirby/fn_96_13D10.c:
 	.text       start:0x00013D10 end:0x00013D2C
 
