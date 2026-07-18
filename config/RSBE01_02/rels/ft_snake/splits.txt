@@ -281,6 +281,9 @@ mo_stub/ft_snake/fn_122_1D610.c:
 mo_stub/ft_snake/fn_122_1D6C4.c:
 	.text       start:0x0001D6C4 end:0x0001D6D4
 
+mo_stub/ft_snake/fn_122_1D6D4.c:
+	.text       start:0x0001D6D4 end:0x0001D6FC
+
 mo_stub/ft_snake/fn_122_20438.c:
 	.text       start:0x00020438 end:0x00020440
 
