@@ -152,6 +152,9 @@ mo_stub/st_ice/fn_62_79D0.c:
 mo_stub/st_ice/fn_62_82EC.c:
 	.text       start:0x000082EC end:0x000082F4
 
+mo_stub/st_ice/fn_62_8408.c:
+	.text       start:0x00008408 end:0x00008430
+
 mo_stub/st_ice/fn_62_9C90.c:
 	.text       start:0x00009C90 end:0x00009C98
 

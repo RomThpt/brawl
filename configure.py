@@ -6134,7 +6134,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_ice/fn_62_8408.c"),
+        ],
     },
     {
         "lib": "st_jungle",
