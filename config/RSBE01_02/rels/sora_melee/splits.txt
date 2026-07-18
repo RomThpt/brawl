@@ -291,6 +291,9 @@ mo_stub/sora_melee/fn_27_4C030.c:
 mo_stub/sora_melee/fn_27_4CB90.c:
 	.text       start:0x0004CB90 end:0x0004CB98
 
+mo_stub/sora_melee/fn_27_4D60C.c:
+	.text       start:0x0004D60C end:0x0004D614
+
 mo_stub/sora_melee/fn_27_5108C.c:
 	.text       start:0x0005108C end:0x00051094
 
