@@ -35,6 +35,9 @@ mo_stub/ft_wario/fn_110_9570.c:
 mo_stub/ft_wario/fn_110_9580.c:
 	.text       start:0x00009580 end:0x00009594
 
+mo_stub/ft_wario/fn_110_9594.c:
+	.text       start:0x00009594 end:0x00009598
+
 mo_stub/ft_wario/fn_110_9598.c:
 	.text       start:0x00009598 end:0x000095AC
 
