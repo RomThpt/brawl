@@ -5858,6 +5858,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/st_dxonett/fn_78_7A78.c"),
+            Object(Matching, "mo_stub/st_dxonett/fn_78_7AA0.c"),
         ],
     },
     {
