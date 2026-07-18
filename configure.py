@@ -7355,6 +7355,7 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/st_palutena/fn_67_8BC0.c"),
             Object(Matching, "mo_stub/st_palutena/fn_67_8BE8.c"),
+            Object(Matching, "mo_stub/st_palutena/fn_67_8C10.c"),
         ],
     },
     {
