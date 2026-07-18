@@ -1116,6 +1116,9 @@ mo_stub/sora_enemy/fn_41_6B11C.c:
 mo_stub/sora_enemy/fn_41_6B274.c:
 	.text       start:0x0006B274 end:0x0006B284
 
+mo_stub/sora_enemy/fn_41_6B284.c:
+	.text       start:0x0006B284 end:0x0006B29C
+
 mo_enemy/sora_enemy/crazyhand/em_crazyhand_param_accesser.cpp:
 	.text       start:0x0006B29C end:0x0006B5F4
 	.ctors      start:0x00000108 end:0x0000010C
