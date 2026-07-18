@@ -278,6 +278,9 @@ mo_stub/st_gw/fn_63_FAE8.c:
 mo_stub/st_gw/fn_63_FB10.c:
 	.text       start:0x0000FB10 end:0x0000FB38
 
+mo_stub/st_gw/fn_63_FB38.c:
+	.text       start:0x0000FB38 end:0x0000FB60
+
 mo_stub/st_gw/fn_63_10AE4.c:
 	.text       start:0x00010AE4 end:0x00010AEC
 
