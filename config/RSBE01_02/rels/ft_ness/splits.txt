@@ -122,6 +122,15 @@ mo_stub/ft_ness/fn_101_10EBC.c:
 mo_stub/ft_ness/fn_101_10F0C.c:
 	.text       start:0x00010F0C end:0x00010F14
 
+mo_stub/ft_ness/fn_101_10F1C.c:
+	.text       start:0x00010F1C end:0x00010F34
+
+mo_stub/ft_ness/fn_101_10F6C.c:
+	.text       start:0x00010F6C end:0x00010F74
+
+mo_stub/ft_ness/fn_101_10F7C.c:
+	.text       start:0x00010F7C end:0x00010F84
+
 mo_stub/ft_ness/fn_101_1130C.c:
 	.text       start:0x0001130C end:0x00011314
 
