@@ -311,11 +311,17 @@ mo_stub/ft_poke/fn_116_1A548.c:
 mo_stub/ft_poke/fn_116_1A570.c:
 	.text       start:0x0001A570 end:0x0001A598
 
+mo_stub/ft_poke/fn_116_1A598.c:
+	.text       start:0x0001A598 end:0x0001A5B8
+
 mo_stub/ft_poke/fn_116_204D4.c:
 	.text       start:0x000204D4 end:0x000204DC
 
 mo_stub/ft_poke/fn_116_213C4.c:
 	.text       start:0x000213C4 end:0x000213CC
+
+mo_stub/ft_poke/fn_116_21678.c:
+	.text       start:0x00021678 end:0x00021680
 
 mo_stub/ft_poke/fn_116_23BA4.c:
 	.text       start:0x00023BA4 end:0x00023BA8
