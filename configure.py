@@ -4447,7 +4447,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/sora_menu_sel_stage/fn_11_85E8.c"),
+        ],
     },
     {
         "lib": "sora_menu_simple_ending",
