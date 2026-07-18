@@ -140,6 +140,9 @@ mo_stub/ft_ganon/fn_109_C410.c:
 mo_stub/ft_ganon/fn_109_C610.c:
 	.text       start:0x0000C610 end:0x0000C614
 
+mo_stub/ft_ganon/fn_109_D384.c:
+	.text       start:0x0000D384 end:0x0000D388
+
 mo_stub/ft_ganon/fn_109_D388.c:
 	.text       start:0x0000D388 end:0x0000D38C
 
