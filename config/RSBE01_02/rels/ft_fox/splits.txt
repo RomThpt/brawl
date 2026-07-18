@@ -125,6 +125,9 @@ mo_stub/ft_fox/fn_97_E61C.c:
 mo_stub/ft_fox/fn_97_10930.c:
 	.text       start:0x00010930 end:0x00010938
 
+mo_stub/ft_fox/fn_97_10938.c:
+	.text       start:0x00010938 end:0x00010940
+
 mo_stub/ft_fox/fn_97_10998.c:
 	.text       start:0x00010998 end:0x000109A8
 
