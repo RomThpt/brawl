@@ -4955,6 +4955,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_dxgarden/fn_77_5564.c"),
             Object(Matching, "mo_stub/st_dxgarden/fn_77_5E80.c"),
             Object(Matching, "mo_stub/st_dxgarden/fn_77_6D0.c"),
+            Object(Matching, "mo_stub/st_dxgarden/fn_77_79C.c"),
         ],
     },
     {
