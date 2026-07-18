@@ -122,11 +122,20 @@ mo_stub/ft_zako/fn_126_959C.c:
 mo_stub/ft_zako/fn_126_9684.c:
 	.text       start:0x00009684 end:0x0000968C
 
+mo_stub/ft_zako/fn_126_9888.c:
+	.text       start:0x00009888 end:0x00009898
+
+mo_stub/ft_zako/fn_126_98A0.c:
+	.text       start:0x000098A0 end:0x000098A8
+
 mo_stub/ft_zako/fn_126_B6F0.c:
 	.text       start:0x0000B6F0 end:0x0000B708
 
 mo_stub/ft_zako/fn_126_B718.c:
 	.text       start:0x0000B718 end:0x0000B720
+
+mo_stub/ft_zako/fn_126_B91C.c:
+	.text       start:0x0000B91C end:0x0000B92C
 
 mo_stub/ft_zako/fn_126_D664.c:
 	.text       start:0x0000D664 end:0x0000D66C
