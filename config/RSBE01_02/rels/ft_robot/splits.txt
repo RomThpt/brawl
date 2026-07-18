@@ -122,6 +122,21 @@ mo_stub/ft_robot/fn_120_CB2C.c:
 mo_stub/ft_robot/fn_120_CC14.c:
 	.text       start:0x0000CC14 end:0x0000CC1C
 
+mo_stub/ft_robot/fn_120_CE44.c:
+	.text       start:0x0000CE44 end:0x0000CE64
+
+mo_stub/ft_robot/fn_120_CE8C.c:
+	.text       start:0x0000CE8C end:0x0000CE94
+
+mo_stub/ft_robot/fn_120_CE94.c:
+	.text       start:0x0000CE94 end:0x0000CEBC
+
+mo_stub/ft_robot/fn_120_CF7C.c:
+	.text       start:0x0000CF7C end:0x0000CF84
+
+mo_stub/ft_robot/fn_120_CF8C.c:
+	.text       start:0x0000CF8C end:0x0000CF94
+
 mo_stub/ft_robot/fn_120_E018.c:
 	.text       start:0x0000E018 end:0x0000E020
 
@@ -215,6 +230,33 @@ mo_stub/ft_robot/fn_120_13D70.c:
 mo_stub/ft_robot/fn_120_13DC0.c:
 	.text       start:0x00013DC0 end:0x00013DC4
 
+mo_stub/ft_robot/fn_120_13E70.c:
+	.text       start:0x00013E70 end:0x00013E88
+
+mo_stub/ft_robot/fn_120_13E90.c:
+	.text       start:0x00013E90 end:0x00013EA8
+
+mo_stub/ft_robot/fn_120_13EB0.c:
+	.text       start:0x00013EB0 end:0x00013EC0
+
+mo_stub/ft_robot/fn_120_13EE8.c:
+	.text       start:0x00013EE8 end:0x00013EF0
+
+mo_stub/ft_robot/fn_120_13F18.c:
+	.text       start:0x00013F18 end:0x00013F28
+
+mo_stub/ft_robot/fn_120_13F58.c:
+	.text       start:0x00013F58 end:0x00013F68
+
+mo_stub/ft_robot/fn_120_13FB0.c:
+	.text       start:0x00013FB0 end:0x00013FB8
+
+mo_stub/ft_robot/fn_120_13FC0.c:
+	.text       start:0x00013FC0 end:0x00013FC8
+
+mo_stub/ft_robot/fn_120_13FD0.c:
+	.text       start:0x00013FD0 end:0x00013FD8
+
 mo_stub/ft_robot/fn_120_13FD8.c:
 	.text       start:0x00013FD8 end:0x00013FE0
 
@@ -224,8 +266,23 @@ mo_stub/ft_robot/fn_120_13FE0.c:
 mo_stub/ft_robot/fn_120_15DD8.c:
 	.text       start:0x00015DD8 end:0x00015DDC
 
+mo_stub/ft_robot/fn_120_16000.c:
+	.text       start:0x00016000 end:0x00016010
+
+mo_stub/ft_robot/fn_120_16010.c:
+	.text       start:0x00016010 end:0x00016038
+
+mo_stub/ft_robot/fn_120_16038.c:
+	.text       start:0x00016038 end:0x00016040
+
 mo_stub/ft_robot/fn_120_183CC.c:
 	.text       start:0x000183CC end:0x000183D4
+
+mo_stub/ft_robot/fn_120_18480.c:
+	.text       start:0x00018480 end:0x000184A0
+
+mo_stub/ft_robot/fn_120_184A0.c:
+	.text       start:0x000184A0 end:0x000184C8
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000184C8 end:0x00018564

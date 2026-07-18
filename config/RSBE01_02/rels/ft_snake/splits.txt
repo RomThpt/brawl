@@ -125,6 +125,21 @@ mo_stub/ft_snake/fn_122_13A34.c:
 mo_stub/ft_snake/fn_122_13B1C.c:
 	.text       start:0x00013B1C end:0x00013B24
 
+mo_stub/ft_snake/fn_122_13D20.c:
+	.text       start:0x00013D20 end:0x00013D40
+
+mo_stub/ft_snake/fn_122_13D68.c:
+	.text       start:0x00013D68 end:0x00013D70
+
+mo_stub/ft_snake/fn_122_13D78.c:
+	.text       start:0x00013D78 end:0x00013D98
+
+mo_stub/ft_snake/fn_122_13DF8.c:
+	.text       start:0x00013DF8 end:0x00013E00
+
+mo_stub/ft_snake/fn_122_13E60.c:
+	.text       start:0x00013E60 end:0x00013E68
+
 mo_stub/ft_snake/fn_122_14238.c:
 	.text       start:0x00014238 end:0x0001423C
 
@@ -215,8 +230,62 @@ mo_stub/ft_snake/fn_122_18F94.c:
 mo_stub/ft_snake/fn_122_18FE4.c:
 	.text       start:0x00018FE4 end:0x00018FE8
 
+mo_stub/ft_snake/fn_122_19094.c:
+	.text       start:0x00019094 end:0x000190AC
+
+mo_stub/ft_snake/fn_122_190C4.c:
+	.text       start:0x000190C4 end:0x000190CC
+
+mo_stub/ft_snake/fn_122_190CC.c:
+	.text       start:0x000190CC end:0x000190DC
+
+mo_stub/ft_snake/fn_122_190E4.c:
+	.text       start:0x000190E4 end:0x000190FC
+
+mo_stub/ft_snake/fn_122_190FC.c:
+	.text       start:0x000190FC end:0x00019104
+
+mo_stub/ft_snake/fn_122_1911C.c:
+	.text       start:0x0001911C end:0x00019124
+
+mo_stub/ft_snake/fn_122_1914C.c:
+	.text       start:0x0001914C end:0x0001915C
+
+mo_stub/ft_snake/fn_122_1918C.c:
+	.text       start:0x0001918C end:0x00019194
+
+mo_stub/ft_snake/fn_122_19194.c:
+	.text       start:0x00019194 end:0x0001919C
+
+mo_stub/ft_snake/fn_122_191E4.c:
+	.text       start:0x000191E4 end:0x000191EC
+
+mo_stub/ft_snake/fn_122_191F4.c:
+	.text       start:0x000191F4 end:0x000191FC
+
+mo_stub/ft_snake/fn_122_19204.c:
+	.text       start:0x00019204 end:0x00019214
+
+mo_stub/ft_snake/fn_122_19214.c:
+	.text       start:0x00019214 end:0x0001921C
+
+mo_stub/ft_snake/fn_122_1A5A4.c:
+	.text       start:0x0001A5A4 end:0x0001A5C4
+
+mo_stub/ft_snake/fn_122_1A5C4.c:
+	.text       start:0x0001A5C4 end:0x0001A5DC
+
 mo_stub/ft_snake/fn_122_1D610.c:
 	.text       start:0x0001D610 end:0x0001D618
+
+mo_stub/ft_snake/fn_122_1D6C4.c:
+	.text       start:0x0001D6C4 end:0x0001D6D4
+
+mo_stub/ft_snake/fn_122_1D6D4.c:
+	.text       start:0x0001D6D4 end:0x0001D6FC
+
+mo_stub/ft_snake/fn_122_1D6FC.c:
+	.text       start:0x0001D6FC end:0x0001D704
 
 mo_stub/ft_snake/fn_122_20438.c:
 	.text       start:0x00020438 end:0x00020440
@@ -251,8 +320,26 @@ mo_stub/ft_snake/fn_122_20510.c:
 mo_stub/ft_snake/fn_122_20520.c:
 	.text       start:0x00020520 end:0x00020548
 
+mo_stub/ft_snake/fn_122_2064C.c:
+	.text       start:0x0002064C end:0x0002066C
+
+mo_stub/ft_snake/fn_122_2066C.c:
+	.text       start:0x0002066C end:0x00020694
+
+mo_stub/ft_snake/fn_122_20694.c:
+	.text       start:0x00020694 end:0x000206A4
+
 mo_stub/ft_snake/fn_122_23AA8.c:
 	.text       start:0x00023AA8 end:0x00023AB8
+
+mo_stub/ft_snake/fn_122_23AF0.c:
+	.text       start:0x00023AF0 end:0x00023B08
+
+mo_stub/ft_snake/fn_122_23B08.c:
+	.text       start:0x00023B08 end:0x00023B30
+
+mo_stub/ft_snake/fn_122_23B30.c:
+	.text       start:0x00023B30 end:0x00023B40
 
 mo_stub/ft_snake/fn_122_23F40.c:
 	.text       start:0x00023F40 end:0x00023F48
@@ -262,6 +349,21 @@ mo_stub/ft_snake/fn_122_24410.c:
 
 mo_stub/ft_snake/fn_122_245E8.c:
 	.text       start:0x000245E8 end:0x000245F0
+
+mo_stub/ft_snake/fn_122_245FC.c:
+	.text       start:0x000245FC end:0x0002460C
+
+mo_stub/ft_snake/fn_122_2726C.c:
+	.text       start:0x0002726C end:0x00027274
+
+mo_stub/ft_snake/fn_122_27274.c:
+	.text       start:0x00027274 end:0x0002729C
+
+mo_stub/ft_snake/fn_122_2729C.c:
+	.text       start:0x0002729C end:0x000272C4
+
+mo_stub/ft_snake/fn_122_272C4.c:
+	.text       start:0x000272C4 end:0x000272CC
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00027B24 end:0x00027BC0

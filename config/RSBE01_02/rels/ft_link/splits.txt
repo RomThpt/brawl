@@ -128,6 +128,24 @@ mo_stub/ft_link/fn_93_E85C.c:
 mo_stub/ft_link/fn_93_E944.c:
 	.text       start:0x0000E944 end:0x0000E94C
 
+mo_stub/ft_link/fn_93_EB48.c:
+	.text       start:0x0000EB48 end:0x0000EB68
+
+mo_stub/ft_link/fn_93_EBA0.c:
+	.text       start:0x0000EBA0 end:0x0000EBA8
+
+mo_stub/ft_link/fn_93_EBB0.c:
+	.text       start:0x0000EBB0 end:0x0000EBC8
+
+mo_stub/ft_link/fn_93_EBE0.c:
+	.text       start:0x0000EBE0 end:0x0000EBF0
+
+mo_stub/ft_link/fn_93_EBF8.c:
+	.text       start:0x0000EBF8 end:0x0000EC00
+
+mo_stub/ft_link/fn_93_EC28.c:
+	.text       start:0x0000EC28 end:0x0000EC38
+
 mo_stub/ft_link/fn_93_F26C.c:
 	.text       start:0x0000F26C end:0x0000F288
 
@@ -148,6 +166,12 @@ mo_stub/ft_link/fn_93_F62C.c:
 
 mo_stub/ft_link/fn_93_F74C.c:
 	.text       start:0x0000F74C end:0x0000F750
+
+mo_stub/ft_link/fn_93_10F5C.c:
+	.text       start:0x00010F5C end:0x00010F64
+
+mo_stub/ft_link/fn_93_10FE8.c:
+	.text       start:0x00010FE8 end:0x00010FEC
 
 mo_stub/ft_link/fn_93_144B0.c:
 	.text       start:0x000144B0 end:0x000144B8
@@ -221,8 +245,47 @@ mo_stub/ft_link/fn_93_14894.c:
 mo_stub/ft_link/fn_93_148B8.c:
 	.text       start:0x000148B8 end:0x000148C0
 
+mo_stub/ft_link/fn_93_149C4.c:
+	.text       start:0x000149C4 end:0x000149DC
+
+mo_stub/ft_link/fn_93_149EC.c:
+	.text       start:0x000149EC end:0x000149F4
+
+mo_stub/ft_link/fn_93_149F4.c:
+	.text       start:0x000149F4 end:0x00014A14
+
+mo_stub/ft_link/fn_93_14A24.c:
+	.text       start:0x00014A24 end:0x00014A2C
+
+mo_stub/ft_link/fn_93_14A44.c:
+	.text       start:0x00014A44 end:0x00014A4C
+
+mo_stub/ft_link/fn_93_14A74.c:
+	.text       start:0x00014A74 end:0x00014A84
+
+mo_stub/ft_link/fn_93_14AB4.c:
+	.text       start:0x00014AB4 end:0x00014AC4
+
+mo_stub/ft_link/fn_93_14B0C.c:
+	.text       start:0x00014B0C end:0x00014B14
+
+mo_stub/ft_link/fn_93_14B1C.c:
+	.text       start:0x00014B1C end:0x00014B24
+
+mo_stub/ft_link/fn_93_14B2C.c:
+	.text       start:0x00014B2C end:0x00014B34
+
 mo_stub/ft_link/fn_93_18560.c:
 	.text       start:0x00018560 end:0x00018570
+
+mo_stub/ft_link/fn_93_185F0.c:
+	.text       start:0x000185F0 end:0x00018600
+
+mo_stub/ft_link/fn_93_18600.c:
+	.text       start:0x00018600 end:0x00018628
+
+mo_stub/ft_link/fn_93_18628.c:
+	.text       start:0x00018628 end:0x00018638
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018638 end:0x000186D4

@@ -128,6 +128,24 @@ mo_stub/ft_toonlink/fn_121_E858.c:
 mo_stub/ft_toonlink/fn_121_E940.c:
 	.text       start:0x0000E940 end:0x0000E948
 
+mo_stub/ft_toonlink/fn_121_EB44.c:
+	.text       start:0x0000EB44 end:0x0000EB64
+
+mo_stub/ft_toonlink/fn_121_EB9C.c:
+	.text       start:0x0000EB9C end:0x0000EBA4
+
+mo_stub/ft_toonlink/fn_121_EBAC.c:
+	.text       start:0x0000EBAC end:0x0000EBC4
+
+mo_stub/ft_toonlink/fn_121_EBDC.c:
+	.text       start:0x0000EBDC end:0x0000EBEC
+
+mo_stub/ft_toonlink/fn_121_EBF4.c:
+	.text       start:0x0000EBF4 end:0x0000EBFC
+
+mo_stub/ft_toonlink/fn_121_EC24.c:
+	.text       start:0x0000EC24 end:0x0000EC34
+
 mo_stub/ft_toonlink/fn_121_F224.c:
 	.text       start:0x0000F224 end:0x0000F240
 
@@ -145,6 +163,12 @@ mo_stub/ft_toonlink/fn_121_F3D8.c:
 
 mo_stub/ft_toonlink/fn_121_F5E4.c:
 	.text       start:0x0000F5E4 end:0x0000F5E8
+
+mo_stub/ft_toonlink/fn_121_10FA8.c:
+	.text       start:0x00010FA8 end:0x00010FB0
+
+mo_stub/ft_toonlink/fn_121_11034.c:
+	.text       start:0x00011034 end:0x00011038
 
 mo_stub/ft_toonlink/fn_121_144FC.c:
 	.text       start:0x000144FC end:0x00014504
@@ -212,8 +236,47 @@ mo_stub/ft_toonlink/fn_121_148D8.c:
 mo_stub/ft_toonlink/fn_121_148E8.c:
 	.text       start:0x000148E8 end:0x0001490C
 
+mo_stub/ft_toonlink/fn_121_14A10.c:
+	.text       start:0x00014A10 end:0x00014A28
+
+mo_stub/ft_toonlink/fn_121_14A38.c:
+	.text       start:0x00014A38 end:0x00014A40
+
+mo_stub/ft_toonlink/fn_121_14A40.c:
+	.text       start:0x00014A40 end:0x00014A60
+
+mo_stub/ft_toonlink/fn_121_14A70.c:
+	.text       start:0x00014A70 end:0x00014A78
+
+mo_stub/ft_toonlink/fn_121_14A90.c:
+	.text       start:0x00014A90 end:0x00014A98
+
+mo_stub/ft_toonlink/fn_121_14AC0.c:
+	.text       start:0x00014AC0 end:0x00014AD0
+
+mo_stub/ft_toonlink/fn_121_14B00.c:
+	.text       start:0x00014B00 end:0x00014B10
+
+mo_stub/ft_toonlink/fn_121_14B58.c:
+	.text       start:0x00014B58 end:0x00014B60
+
+mo_stub/ft_toonlink/fn_121_14B68.c:
+	.text       start:0x00014B68 end:0x00014B70
+
+mo_stub/ft_toonlink/fn_121_14B78.c:
+	.text       start:0x00014B78 end:0x00014B80
+
 mo_stub/ft_toonlink/fn_121_185AC.c:
 	.text       start:0x000185AC end:0x000185BC
+
+mo_stub/ft_toonlink/fn_121_1863C.c:
+	.text       start:0x0001863C end:0x0001864C
+
+mo_stub/ft_toonlink/fn_121_1864C.c:
+	.text       start:0x0001864C end:0x00018674
+
+mo_stub/ft_toonlink/fn_121_18674.c:
+	.text       start:0x00018674 end:0x00018684
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00018684 end:0x00018720

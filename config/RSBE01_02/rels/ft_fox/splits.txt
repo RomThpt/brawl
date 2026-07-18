@@ -122,6 +122,21 @@ mo_stub/ft_fox/fn_97_E534.c:
 mo_stub/ft_fox/fn_97_E61C.c:
 	.text       start:0x0000E61C end:0x0000E624
 
+mo_stub/ft_fox/fn_97_E924.c:
+	.text       start:0x0000E924 end:0x0000E944
+
+mo_stub/ft_fox/fn_97_E95C.c:
+	.text       start:0x0000E95C end:0x0000E964
+
+mo_stub/ft_fox/fn_97_E96C.c:
+	.text       start:0x0000E96C end:0x0000E97C
+
+mo_stub/ft_fox/fn_97_E9BC.c:
+	.text       start:0x0000E9BC end:0x0000E9C4
+
+mo_stub/ft_fox/fn_97_E9CC.c:
+	.text       start:0x0000E9CC end:0x0000E9D4
+
 mo_stub/ft_fox/fn_97_10930.c:
 	.text       start:0x00010930 end:0x00010938
 
@@ -190,6 +205,39 @@ mo_stub/ft_fox/fn_97_10D2C.c:
 
 mo_stub/ft_fox/fn_97_10D7C.c:
 	.text       start:0x00010D7C end:0x00010D80
+
+mo_stub/ft_fox/fn_97_10E84.c:
+	.text       start:0x00010E84 end:0x00010E8C
+
+mo_stub/ft_fox/fn_97_10E8C.c:
+	.text       start:0x00010E8C end:0x00010E9C
+
+mo_stub/ft_fox/fn_97_10EA4.c:
+	.text       start:0x00010EA4 end:0x00010EBC
+
+mo_stub/ft_fox/fn_97_10EC4.c:
+	.text       start:0x00010EC4 end:0x00010ECC
+
+mo_stub/ft_fox/fn_97_10EDC.c:
+	.text       start:0x00010EDC end:0x00010EE4
+
+mo_stub/ft_fox/fn_97_10EFC.c:
+	.text       start:0x00010EFC end:0x00010F04
+
+mo_stub/ft_fox/fn_97_10F2C.c:
+	.text       start:0x00010F2C end:0x00010F3C
+
+mo_stub/ft_fox/fn_97_10F6C.c:
+	.text       start:0x00010F6C end:0x00010F7C
+
+mo_stub/ft_fox/fn_97_10FC4.c:
+	.text       start:0x00010FC4 end:0x00010FCC
+
+mo_stub/ft_fox/fn_97_10FD4.c:
+	.text       start:0x00010FD4 end:0x00010FDC
+
+mo_stub/ft_fox/fn_97_10FE4.c:
+	.text       start:0x00010FE4 end:0x00010FEC
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FEC end:0x00011088

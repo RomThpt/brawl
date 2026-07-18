@@ -122,6 +122,24 @@ mo_stub/ft_sonic/fn_123_E928.c:
 mo_stub/ft_sonic/fn_123_ED2C.c:
 	.text       start:0x0000ED2C end:0x0000ED34
 
+mo_stub/ft_sonic/fn_123_EF30.c:
+	.text       start:0x0000EF30 end:0x0000EF50
+
+mo_stub/ft_sonic/fn_123_EF80.c:
+	.text       start:0x0000EF80 end:0x0000EF88
+
+mo_stub/ft_sonic/fn_123_EF90.c:
+	.text       start:0x0000EF90 end:0x0000EFB8
+
+mo_stub/ft_sonic/fn_123_F010.c:
+	.text       start:0x0000F010 end:0x0000F018
+
+mo_stub/ft_sonic/fn_123_F070.c:
+	.text       start:0x0000F070 end:0x0000F078
+
+mo_stub/ft_sonic/fn_123_F080.c:
+	.text       start:0x0000F080 end:0x0000F088
+
 mo_stub/ft_sonic/fn_123_FC4C.c:
 	.text       start:0x0000FC4C end:0x0000FC64
 
@@ -209,6 +227,42 @@ mo_stub/ft_sonic/fn_123_14168.c:
 mo_stub/ft_sonic/fn_123_141B8.c:
 	.text       start:0x000141B8 end:0x000141BC
 
+mo_stub/ft_sonic/fn_123_142C0.c:
+	.text       start:0x000142C0 end:0x000142D0
+
+mo_stub/ft_sonic/fn_123_142D0.c:
+	.text       start:0x000142D0 end:0x000142D8
+
+mo_stub/ft_sonic/fn_123_142E0.c:
+	.text       start:0x000142E0 end:0x000142F8
+
+mo_stub/ft_sonic/fn_123_14300.c:
+	.text       start:0x00014300 end:0x00014308
+
+mo_stub/ft_sonic/fn_123_14310.c:
+	.text       start:0x00014310 end:0x00014318
+
+mo_stub/ft_sonic/fn_123_14338.c:
+	.text       start:0x00014338 end:0x00014340
+
+mo_stub/ft_sonic/fn_123_14368.c:
+	.text       start:0x00014368 end:0x00014378
+
+mo_stub/ft_sonic/fn_123_143A8.c:
+	.text       start:0x000143A8 end:0x000143B0
+
+mo_stub/ft_sonic/fn_123_143B0.c:
+	.text       start:0x000143B0 end:0x000143B8
+
+mo_stub/ft_sonic/fn_123_14400.c:
+	.text       start:0x00014400 end:0x00014408
+
+mo_stub/ft_sonic/fn_123_14410.c:
+	.text       start:0x00014410 end:0x00014418
+
+mo_stub/ft_sonic/fn_123_14420.c:
+	.text       start:0x00014420 end:0x00014430
+
 mo_stub/ft_sonic/fn_123_145B8.c:
 	.text       start:0x000145B8 end:0x000145C0
 
@@ -226,6 +280,12 @@ mo_stub/ft_sonic/fn_123_17A34.c:
 
 mo_stub/ft_sonic/fn_123_17AE4.c:
 	.text       start:0x00017AE4 end:0x00017AEC
+
+mo_stub/ft_sonic/fn_123_17AF8.c:
+	.text       start:0x00017AF8 end:0x00017B20
+
+mo_stub/ft_sonic/fn_123_17B20.c:
+	.text       start:0x00017B20 end:0x00017B48
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000185A0 end:0x0001863C

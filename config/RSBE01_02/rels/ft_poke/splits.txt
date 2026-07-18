@@ -125,6 +125,30 @@ mo_stub/ft_poke/fn_116_D8AC.c:
 mo_stub/ft_poke/fn_116_D994.c:
 	.text       start:0x0000D994 end:0x0000D99C
 
+mo_stub/ft_poke/fn_116_DB98.c:
+	.text       start:0x0000DB98 end:0x0000DBB8
+
+mo_stub/ft_poke/fn_116_DBC0.c:
+	.text       start:0x0000DBC0 end:0x0000DBC8
+
+mo_stub/ft_poke/fn_116_DBF0.c:
+	.text       start:0x0000DBF0 end:0x0000DC18
+
+mo_stub/ft_poke/fn_116_DC20.c:
+	.text       start:0x0000DC20 end:0x0000DC30
+
+mo_stub/ft_poke/fn_116_DCE0.c:
+	.text       start:0x0000DCE0 end:0x0000DCE8
+
+mo_stub/ft_poke/fn_116_DCF0.c:
+	.text       start:0x0000DCF0 end:0x0000DCF8
+
+mo_stub/ft_poke/fn_116_DD00.c:
+	.text       start:0x0000DD00 end:0x0000DD08
+
+mo_stub/ft_poke/fn_116_DD08.c:
+	.text       start:0x0000DD08 end:0x0000DD20
+
 mo_stub/ft_poke/fn_116_DD40.c:
 	.text       start:0x0000DD40 end:0x0000DD44
 
@@ -209,6 +233,42 @@ mo_stub/ft_poke/fn_116_11560.c:
 mo_stub/ft_poke/fn_116_115B0.c:
 	.text       start:0x000115B0 end:0x000115B4
 
+mo_stub/ft_poke/fn_116_115E8.c:
+	.text       start:0x000115E8 end:0x000115F8
+
+mo_stub/ft_poke/fn_116_115F8.c:
+	.text       start:0x000115F8 end:0x00011600
+
+mo_stub/ft_poke/fn_116_11620.c:
+	.text       start:0x00011620 end:0x00011640
+
+mo_stub/ft_poke/fn_116_11640.c:
+	.text       start:0x00011640 end:0x00011658
+
+mo_stub/ft_poke/fn_116_11670.c:
+	.text       start:0x00011670 end:0x00011680
+
+mo_stub/ft_poke/fn_116_116A8.c:
+	.text       start:0x000116A8 end:0x000116B8
+
+mo_stub/ft_poke/fn_116_116E8.c:
+	.text       start:0x000116E8 end:0x000116F8
+
+mo_stub/ft_poke/fn_116_11740.c:
+	.text       start:0x00011740 end:0x00011748
+
+mo_stub/ft_poke/fn_116_11750.c:
+	.text       start:0x00011750 end:0x00011758
+
+mo_stub/ft_poke/fn_116_11760.c:
+	.text       start:0x00011760 end:0x00011768
+
+mo_stub/ft_poke/fn_116_13B68.c:
+	.text       start:0x00013B68 end:0x00013B80
+
+mo_stub/ft_poke/fn_116_13B80.c:
+	.text       start:0x00013B80 end:0x00013BA8
+
 mo_stub/ft_poke/fn_116_1892C.c:
 	.text       start:0x0001892C end:0x00018934
 
@@ -245,17 +305,53 @@ mo_stub/ft_poke/fn_116_1A274.c:
 mo_stub/ft_poke/fn_116_1A344.c:
 	.text       start:0x0001A344 end:0x0001A34C
 
+mo_stub/ft_poke/fn_116_1A548.c:
+	.text       start:0x0001A548 end:0x0001A570
+
+mo_stub/ft_poke/fn_116_1A570.c:
+	.text       start:0x0001A570 end:0x0001A598
+
+mo_stub/ft_poke/fn_116_1A598.c:
+	.text       start:0x0001A598 end:0x0001A5B8
+
 mo_stub/ft_poke/fn_116_204D4.c:
 	.text       start:0x000204D4 end:0x000204DC
 
 mo_stub/ft_poke/fn_116_213C4.c:
 	.text       start:0x000213C4 end:0x000213CC
 
+mo_stub/ft_poke/fn_116_21678.c:
+	.text       start:0x00021678 end:0x00021680
+
+mo_stub/ft_poke/fn_116_21680.c:
+	.text       start:0x00021680 end:0x000216A8
+
+mo_stub/ft_poke/fn_116_216A8.c:
+	.text       start:0x000216A8 end:0x000216D0
+
+mo_stub/ft_poke/fn_116_216D0.c:
+	.text       start:0x000216D0 end:0x000216E8
+
+mo_stub/ft_poke/fn_116_23B5C.c:
+	.text       start:0x00023B5C end:0x00023B6C
+
+mo_stub/ft_poke/fn_116_23B6C.c:
+	.text       start:0x00023B6C end:0x00023B94
+
+mo_stub/ft_poke/fn_116_23B94.c:
+	.text       start:0x00023B94 end:0x00023BA4
+
 mo_stub/ft_poke/fn_116_23BA4.c:
 	.text       start:0x00023BA4 end:0x00023BA8
 
 mo_stub/ft_poke/fn_116_265EC.c:
 	.text       start:0x000265EC end:0x000265F4
+
+mo_stub/ft_poke/fn_116_266F8.c:
+	.text       start:0x000266F8 end:0x00026710
+
+mo_stub/ft_poke/fn_116_26710.c:
+	.text       start:0x00026710 end:0x00026738
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00026738 end:0x000267D4

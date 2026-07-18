@@ -116,6 +116,18 @@ mo_stub/ft_pikachu/fn_98_DF64.c:
 mo_stub/ft_pikachu/fn_98_E200.c:
 	.text       start:0x0000E200 end:0x0000E208
 
+mo_stub/ft_pikachu/fn_98_E404.c:
+	.text       start:0x0000E404 end:0x0000E424
+
+mo_stub/ft_pikachu/fn_98_E42C.c:
+	.text       start:0x0000E42C end:0x0000E434
+
+mo_stub/ft_pikachu/fn_98_E43C.c:
+	.text       start:0x0000E43C end:0x0000E444
+
+mo_stub/ft_pikachu/fn_98_E44C.c:
+	.text       start:0x0000E44C end:0x0000E454
+
 mo_stub/ft_pikachu/fn_98_FF64.c:
 	.text       start:0x0000FF64 end:0x0000FF6C
 
@@ -209,8 +221,59 @@ mo_stub/ft_pikachu/fn_98_14F2C.c:
 mo_stub/ft_pikachu/fn_98_14F7C.c:
 	.text       start:0x00014F7C end:0x00014F80
 
+mo_stub/ft_pikachu/fn_98_150C4.c:
+	.text       start:0x000150C4 end:0x000150DC
+
+mo_stub/ft_pikachu/fn_98_150EC.c:
+	.text       start:0x000150EC end:0x000150F4
+
+mo_stub/ft_pikachu/fn_98_150FC.c:
+	.text       start:0x000150FC end:0x0001510C
+
+mo_stub/ft_pikachu/fn_98_15114.c:
+	.text       start:0x00015114 end:0x0001511C
+
+mo_stub/ft_pikachu/fn_98_1512C.c:
+	.text       start:0x0001512C end:0x00015134
+
+mo_stub/ft_pikachu/fn_98_15134.c:
+	.text       start:0x00015134 end:0x0001513C
+
+mo_stub/ft_pikachu/fn_98_1514C.c:
+	.text       start:0x0001514C end:0x00015154
+
+mo_stub/ft_pikachu/fn_98_1517C.c:
+	.text       start:0x0001517C end:0x0001518C
+
+mo_stub/ft_pikachu/fn_98_151BC.c:
+	.text       start:0x000151BC end:0x000151C4
+
+mo_stub/ft_pikachu/fn_98_151C4.c:
+	.text       start:0x000151C4 end:0x000151CC
+
+mo_stub/ft_pikachu/fn_98_15214.c:
+	.text       start:0x00015214 end:0x0001521C
+
+mo_stub/ft_pikachu/fn_98_15224.c:
+	.text       start:0x00015224 end:0x0001523C
+
+mo_stub/ft_pikachu/fn_98_17F20.c:
+	.text       start:0x00017F20 end:0x00017F24
+
 mo_stub/ft_pikachu/fn_98_19064.c:
 	.text       start:0x00019064 end:0x0001906C
+
+mo_stub/ft_pikachu/fn_98_19168.c:
+	.text       start:0x00019168 end:0x00019188
+
+mo_stub/ft_pikachu/fn_98_19188.c:
+	.text       start:0x00019188 end:0x000191B0
+
+mo_stub/ft_pikachu/fn_98_1BB80.c:
+	.text       start:0x0001BB80 end:0x0001BBA8
+
+mo_stub/ft_pikachu/fn_98_1BBA8.c:
+	.text       start:0x0001BBA8 end:0x0001BBC8
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390

@@ -116,6 +116,21 @@ mo_stub/ft_falco/fn_108_E3A0.c:
 mo_stub/ft_falco/fn_108_E488.c:
 	.text       start:0x0000E488 end:0x0000E490
 
+mo_stub/ft_falco/fn_108_E68C.c:
+	.text       start:0x0000E68C end:0x0000E6AC
+
+mo_stub/ft_falco/fn_108_E6C4.c:
+	.text       start:0x0000E6C4 end:0x0000E6CC
+
+mo_stub/ft_falco/fn_108_E6D4.c:
+	.text       start:0x0000E6D4 end:0x0000E6E4
+
+mo_stub/ft_falco/fn_108_E724.c:
+	.text       start:0x0000E724 end:0x0000E72C
+
+mo_stub/ft_falco/fn_108_E734.c:
+	.text       start:0x0000E734 end:0x0000E73C
+
 mo_stub/ft_falco/fn_108_10900.c:
 	.text       start:0x00010900 end:0x00010908
 
@@ -187,6 +202,39 @@ mo_stub/ft_falco/fn_108_10D24.c:
 
 mo_stub/ft_falco/fn_108_10D74.c:
 	.text       start:0x00010D74 end:0x00010D78
+
+mo_stub/ft_falco/fn_108_10E7C.c:
+	.text       start:0x00010E7C end:0x00010E84
+
+mo_stub/ft_falco/fn_108_10E84.c:
+	.text       start:0x00010E84 end:0x00010E94
+
+mo_stub/ft_falco/fn_108_10E9C.c:
+	.text       start:0x00010E9C end:0x00010EB4
+
+mo_stub/ft_falco/fn_108_10EBC.c:
+	.text       start:0x00010EBC end:0x00010EC4
+
+mo_stub/ft_falco/fn_108_10ED4.c:
+	.text       start:0x00010ED4 end:0x00010EDC
+
+mo_stub/ft_falco/fn_108_10EF4.c:
+	.text       start:0x00010EF4 end:0x00010EFC
+
+mo_stub/ft_falco/fn_108_10F24.c:
+	.text       start:0x00010F24 end:0x00010F34
+
+mo_stub/ft_falco/fn_108_10F64.c:
+	.text       start:0x00010F64 end:0x00010F74
+
+mo_stub/ft_falco/fn_108_10FBC.c:
+	.text       start:0x00010FBC end:0x00010FC4
+
+mo_stub/ft_falco/fn_108_10FCC.c:
+	.text       start:0x00010FCC end:0x00010FD4
+
+mo_stub/ft_falco/fn_108_10FDC.c:
+	.text       start:0x00010FDC end:0x00010FE4
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010FE4 end:0x00011080

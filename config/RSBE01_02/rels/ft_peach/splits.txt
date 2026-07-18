@@ -122,6 +122,27 @@ mo_stub/ft_peach/fn_103_CE3C.c:
 mo_stub/ft_peach/fn_103_CF24.c:
 	.text       start:0x0000CF24 end:0x0000CF2C
 
+mo_stub/ft_peach/fn_103_D128.c:
+	.text       start:0x0000D128 end:0x0000D148
+
+mo_stub/ft_peach/fn_103_D178.c:
+	.text       start:0x0000D178 end:0x0000D180
+
+mo_stub/ft_peach/fn_103_D188.c:
+	.text       start:0x0000D188 end:0x0000D190
+
+mo_stub/ft_peach/fn_103_D198.c:
+	.text       start:0x0000D198 end:0x0000D1A8
+
+mo_stub/ft_peach/fn_103_D1C0.c:
+	.text       start:0x0000D1C0 end:0x0000D1C8
+
+mo_stub/ft_peach/fn_103_D1D0.c:
+	.text       start:0x0000D1D0 end:0x0000D1D8
+
+mo_stub/ft_peach/fn_103_D200.c:
+	.text       start:0x0000D200 end:0x0000D210
+
 mo_stub/ft_peach/fn_103_D348.c:
 	.text       start:0x0000D348 end:0x0000D350
 
@@ -139,6 +160,12 @@ mo_stub/ft_peach/fn_103_F75C.c:
 
 mo_stub/ft_peach/fn_103_FD14.c:
 	.text       start:0x0000FD14 end:0x0000FD1C
+
+mo_stub/ft_peach/fn_103_FE10.c:
+	.text       start:0x0000FE10 end:0x0000FE28
+
+mo_stub/ft_peach/fn_103_FE28.c:
+	.text       start:0x0000FE28 end:0x0000FE40
 
 mo_stub/ft_peach/fn_103_1301C.c:
 	.text       start:0x0001301C end:0x0001302C
@@ -205,6 +232,33 @@ mo_stub/ft_peach/fn_103_13438.c:
 
 mo_stub/ft_peach/fn_103_13488.c:
 	.text       start:0x00013488 end:0x0001348C
+
+mo_stub/ft_peach/fn_103_13590.c:
+	.text       start:0x00013590 end:0x000135A0
+
+mo_stub/ft_peach/fn_103_135A0.c:
+	.text       start:0x000135A0 end:0x000135C0
+
+mo_stub/ft_peach/fn_103_135C8.c:
+	.text       start:0x000135C8 end:0x000135D0
+
+mo_stub/ft_peach/fn_103_13600.c:
+	.text       start:0x00013600 end:0x00013608
+
+mo_stub/ft_peach/fn_103_13630.c:
+	.text       start:0x00013630 end:0x00013640
+
+mo_stub/ft_peach/fn_103_13670.c:
+	.text       start:0x00013670 end:0x00013680
+
+mo_stub/ft_peach/fn_103_136C8.c:
+	.text       start:0x000136C8 end:0x000136D0
+
+mo_stub/ft_peach/fn_103_136D8.c:
+	.text       start:0x000136D8 end:0x000136E0
+
+mo_stub/ft_peach/fn_103_136E8.c:
+	.text       start:0x000136E8 end:0x000136F0
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000136F0 end:0x0001378C

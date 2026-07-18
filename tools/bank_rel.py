@@ -37,15 +37,32 @@ def soff(w0):
     return o - 0x10000 if o >= 0x8000 else o
 
 
+def btarget(a_of_branch, w):  # resolve unconditional-branch (b) target to a same-module symbol
+    if (w >> 26) != 18 or (w & 3) != 0:  # opcode 18 = b, AA=0 LK=0
+        return None
+    off = w & 0x03FFFFFC
+    if off >= 0x02000000:
+        off -= 0x04000000
+    return SYMADDR.get(a_of_branch + off)
+
+
 def kind(a, sz):
     if sz == 4:
-        if struct.unpack('>I', rdb(a, 4))[0] == 0x4E800020:
+        w0 = struct.unpack('>I', rdb(a, 4))[0]
+        if w0 == 0x4E800020:
             return ("empty", None)
+        t = btarget(a, w0)  # b target => void thunk
+        if t:
+            return ("tailcall0", t)
     if sz == 8:
         b = rdb(a, 8)
         if len(b) < 8:
             return None
         w0, w1 = struct.unpack('>II', b)
+        if (w0 & 0xFFFF0000) == 0x38630000:  # addi r3,r3,imm ; b target => return target(p+imm)
+            t = btarget(a + 4, w1)
+            if t:
+                return ("tailcall", (t, struct.unpack('>h', struct.pack('>H', w0 & 0xFFFF))[0]))
         if w1 != 0x4E800020:
             return None
         hi = w0 >> 16
@@ -105,6 +122,13 @@ if os.path.exists(BADFILE):
         if m2 == module:
             bad.add(int(a2, 16))
 
+# address -> name map for ALL functions (used to resolve tail-call branch targets)
+SYMADDR = {}
+for line in open(os.path.join(ROOT, "config/RSBE01_02/rels", module, "symbols.txt")):
+    m = re.match(r'(\S+)\s*=\s*\.text:0x([0-9A-Fa-f]+);.*type:function', line)
+    if m and re.match(r'^[A-Za-z_]\w*$', m.group(1)) and not m.group(1).startswith("_unresolved"):
+        SYMADDR[int(m.group(2), 16)] = m.group(1)
+
 funcs = []
 for line in open(os.path.join(ROOT, "config/RSBE01_02/rels", module, "symbols.txt")):
     m = re.match(r'(\S+)\s*=\s*\.text:0x([0-9A-Fa-f]+);.*type:function size:0x([0-9A-Fa-f]+)', line)
@@ -158,6 +182,11 @@ def gen(n, kk, v):
         return f"unsigned int {n}(unsigned int a0, int a1) {{\n    return a0 >> a1;\n}}\n"
     if kk == "sub2":
         return f"int {n}(int a0, int a1) {{\n    return a0 - a1;\n}}\n"
+    if kk == "tailcall":
+        t, imm = v
+        return f"int {n}(void* p) {{\n    return {t}((char*)p + ({imm}));\n}}\n"
+    if kk == "tailcall0":
+        return f"void {n}(void) {{\n    {v}();\n}}\n"
     t, off = v
     return f"void {n}(void* p, int q) {{\n    *({t}*)((char*)p + {off}) = q;\n}}\n"
 
@@ -169,7 +198,15 @@ for g in groups:
         break
     start = g[0][0]
     end = g[-1][0] + g[-1][1]
-    src = "\n".join(gen(n, kk, v) for a, sz, n, (kk, v) in g)
+    defined = {fn[2] for fn in g}  # names defined in this unit
+    externs, seen_ext = [], set()
+    for a, sz, n, (kk, v) in g:
+        tname = v[0] if kk == "tailcall" else v if kk == "tailcall0" else None
+        if tname and tname not in defined and tname not in seen_ext:
+            seen_ext.add(tname)
+            externs.append(f"extern int {tname}();" if kk == "tailcall" else f"extern void {tname}(void);")
+    body = "\n".join(gen(n, kk, v) for a, sz, n, (kk, v) in g)
+    src = ("\n".join(externs) + "\n\n" if externs else "") + body
     path = f"mo_stub/{module}/{g[0][2]}.c"
     add_unit_rel.add(module, path, start, end, src)
     addrs.extend(f"{module}:{f[0]:08X}" for f in g)

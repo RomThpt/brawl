@@ -122,6 +122,24 @@ mo_stub/ft_lucas/fn_114_10430.c:
 mo_stub/ft_lucas/fn_114_10518.c:
 	.text       start:0x00010518 end:0x00010520
 
+mo_stub/ft_lucas/fn_114_1071C.c:
+	.text       start:0x0001071C end:0x0001073C
+
+mo_stub/ft_lucas/fn_114_1076C.c:
+	.text       start:0x0001076C end:0x00010774
+
+mo_stub/ft_lucas/fn_114_1077C.c:
+	.text       start:0x0001077C end:0x00010794
+
+mo_stub/ft_lucas/fn_114_107CC.c:
+	.text       start:0x000107CC end:0x000107D4
+
+mo_stub/ft_lucas/fn_114_107DC.c:
+	.text       start:0x000107DC end:0x000107E4
+
+mo_stub/ft_lucas/fn_114_107E4.c:
+	.text       start:0x000107E4 end:0x000107F4
+
 mo_stub/ft_lucas/fn_114_1098C.c:
 	.text       start:0x0001098C end:0x00010990
 
@@ -245,14 +263,77 @@ mo_stub/ft_lucas/fn_114_15CFC.c:
 mo_stub/ft_lucas/fn_114_15D4C.c:
 	.text       start:0x00015D4C end:0x00015D50
 
+mo_stub/ft_lucas/fn_114_15E54.c:
+	.text       start:0x00015E54 end:0x00015E6C
+
+mo_stub/ft_lucas/fn_114_15E7C.c:
+	.text       start:0x00015E7C end:0x00015E94
+
+mo_stub/ft_lucas/fn_114_15E9C.c:
+	.text       start:0x00015E9C end:0x00015EA4
+
+mo_stub/ft_lucas/fn_114_15EB4.c:
+	.text       start:0x00015EB4 end:0x00015EBC
+
+mo_stub/ft_lucas/fn_114_15ECC.c:
+	.text       start:0x00015ECC end:0x00015EDC
+
+mo_stub/ft_lucas/fn_114_15F04.c:
+	.text       start:0x00015F04 end:0x00015F14
+
+mo_stub/ft_lucas/fn_114_15F44.c:
+	.text       start:0x00015F44 end:0x00015F4C
+
+mo_stub/ft_lucas/fn_114_15F4C.c:
+	.text       start:0x00015F4C end:0x00015F54
+
+mo_stub/ft_lucas/fn_114_15F9C.c:
+	.text       start:0x00015F9C end:0x00015FA4
+
+mo_stub/ft_lucas/fn_114_15FAC.c:
+	.text       start:0x00015FAC end:0x00015FB4
+
+mo_stub/ft_lucas/fn_114_15FBC.c:
+	.text       start:0x00015FBC end:0x00015FC4
+
 mo_stub/ft_lucas/fn_114_19AB0.c:
 	.text       start:0x00019AB0 end:0x00019AB8
+
+mo_stub/ft_lucas/fn_114_19B98.c:
+	.text       start:0x00019B98 end:0x00019BA0
+
+mo_stub/ft_lucas/fn_114_19BA0.c:
+	.text       start:0x00019BA0 end:0x00019BC8
+
+mo_stub/ft_lucas/fn_114_19BC8.c:
+	.text       start:0x00019BC8 end:0x00019BE8
 
 mo_stub/ft_lucas/fn_114_1C0FC.c:
 	.text       start:0x0001C0FC end:0x0001C104
 
+mo_stub/ft_lucas/fn_114_1C324.c:
+	.text       start:0x0001C324 end:0x0001C32C
+
+mo_stub/ft_lucas/fn_114_1C32C.c:
+	.text       start:0x0001C32C end:0x0001C354
+
+mo_stub/ft_lucas/fn_114_1C354.c:
+	.text       start:0x0001C354 end:0x0001C364
+
 mo_stub/ft_lucas/fn_114_1E54C.c:
 	.text       start:0x0001E54C end:0x0001E554
+
+mo_stub/ft_lucas/fn_114_1E658.c:
+	.text       start:0x0001E658 end:0x0001E670
+
+mo_stub/ft_lucas/fn_114_1E670.c:
+	.text       start:0x0001E670 end:0x0001E698
+
+mo_stub/ft_lucas/fn_114_20D04.c:
+	.text       start:0x00020D04 end:0x00020D2C
+
+mo_stub/ft_lucas/fn_114_20D2C.c:
+	.text       start:0x00020D2C end:0x00020D3C
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00020EA4 end:0x00020F40

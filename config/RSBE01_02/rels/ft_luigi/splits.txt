@@ -116,6 +116,18 @@ mo_stub/ft_luigi/fn_99_B784.c:
 mo_stub/ft_luigi/fn_99_B86C.c:
 	.text       start:0x0000B86C end:0x0000B874
 
+mo_stub/ft_luigi/fn_99_BA70.c:
+	.text       start:0x0000BA70 end:0x0000BA90
+
+mo_stub/ft_luigi/fn_99_BAA8.c:
+	.text       start:0x0000BAA8 end:0x0000BAB0
+
+mo_stub/ft_luigi/fn_99_BAB0.c:
+	.text       start:0x0000BAB0 end:0x0000BAC8
+
+mo_stub/ft_luigi/fn_99_BAD0.c:
+	.text       start:0x0000BAD0 end:0x0000BAD8
+
 mo_stub/ft_luigi/fn_99_CA80.c:
 	.text       start:0x0000CA80 end:0x0000CA84
 
@@ -199,6 +211,36 @@ mo_stub/ft_luigi/fn_99_10AC4.c:
 
 mo_stub/ft_luigi/fn_99_10B14.c:
 	.text       start:0x00010B14 end:0x00010B18
+
+mo_stub/ft_luigi/fn_99_10C1C.c:
+	.text       start:0x00010C1C end:0x00010C24
+
+mo_stub/ft_luigi/fn_99_10C24.c:
+	.text       start:0x00010C24 end:0x00010C4C
+
+mo_stub/ft_luigi/fn_99_10C54.c:
+	.text       start:0x00010C54 end:0x00010C5C
+
+mo_stub/ft_luigi/fn_99_10C8C.c:
+	.text       start:0x00010C8C end:0x00010C94
+
+mo_stub/ft_luigi/fn_99_10CBC.c:
+	.text       start:0x00010CBC end:0x00010CCC
+
+mo_stub/ft_luigi/fn_99_10CFC.c:
+	.text       start:0x00010CFC end:0x00010D04
+
+mo_stub/ft_luigi/fn_99_10D04.c:
+	.text       start:0x00010D04 end:0x00010D0C
+
+mo_stub/ft_luigi/fn_99_10D54.c:
+	.text       start:0x00010D54 end:0x00010D5C
+
+mo_stub/ft_luigi/fn_99_10D64.c:
+	.text       start:0x00010D64 end:0x00010D6C
+
+mo_stub/ft_luigi/fn_99_10D74.c:
+	.text       start:0x00010D74 end:0x00010D7C
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010EAC end:0x00010F48

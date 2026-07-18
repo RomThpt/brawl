@@ -134,6 +134,36 @@ mo_stub/ft_kirby/fn_96_13220.c:
 mo_stub/ft_kirby/fn_96_13308.c:
 	.text       start:0x00013308 end:0x00013310
 
+mo_stub/ft_kirby/fn_96_1350C.c:
+	.text       start:0x0001350C end:0x00013534
+
+mo_stub/ft_kirby/fn_96_1358C.c:
+	.text       start:0x0001358C end:0x00013594
+
+mo_stub/ft_kirby/fn_96_1359C.c:
+	.text       start:0x0001359C end:0x000135BC
+
+mo_stub/ft_kirby/fn_96_135BC.c:
+	.text       start:0x000135BC end:0x000135C4
+
+mo_stub/ft_kirby/fn_96_135D4.c:
+	.text       start:0x000135D4 end:0x000135DC
+
+mo_stub/ft_kirby/fn_96_135E4.c:
+	.text       start:0x000135E4 end:0x000135F4
+
+mo_stub/ft_kirby/fn_96_135FC.c:
+	.text       start:0x000135FC end:0x00013604
+
+mo_stub/ft_kirby/fn_96_13614.c:
+	.text       start:0x00013614 end:0x00013624
+
+mo_stub/ft_kirby/fn_96_13684.c:
+	.text       start:0x00013684 end:0x0001369C
+
+mo_stub/ft_kirby/fn_96_1369C.c:
+	.text       start:0x0001369C end:0x000136A4
+
 mo_stub/ft_kirby/fn_96_1390C.c:
 	.text       start:0x0001390C end:0x00013910
 
@@ -202,6 +232,18 @@ mo_stub/ft_kirby/fn_96_1F0DC.c:
 
 mo_stub/ft_kirby/fn_96_1F798.c:
 	.text       start:0x0001F798 end:0x0001F7A0
+
+mo_stub/ft_kirby/fn_96_2098C.c:
+	.text       start:0x0002098C end:0x000209AC
+
+mo_stub/ft_kirby/fn_96_209AC.c:
+	.text       start:0x000209AC end:0x000209D4
+
+mo_stub/ft_kirby/fn_96_209D4.c:
+	.text       start:0x000209D4 end:0x000209FC
+
+mo_stub/ft_kirby/fn_96_209FC.c:
+	.text       start:0x000209FC end:0x00020A24
 
 mo_stub/ft_kirby/fn_96_20B48.c:
 	.text       start:0x00020B48 end:0x00020B50
@@ -275,17 +317,92 @@ mo_stub/ft_kirby/fn_96_23DCC.c:
 mo_stub/ft_kirby/fn_96_23E1C.c:
 	.text       start:0x00023E1C end:0x00023E20
 
+mo_stub/ft_kirby/fn_96_23F24.c:
+	.text       start:0x00023F24 end:0x00023F3C
+
+mo_stub/ft_kirby/fn_96_23F44.c:
+	.text       start:0x00023F44 end:0x00023F54
+
+mo_stub/ft_kirby/fn_96_23F54.c:
+	.text       start:0x00023F54 end:0x00023F5C
+
+mo_stub/ft_kirby/fn_96_23F64.c:
+	.text       start:0x00023F64 end:0x00023F6C
+
+mo_stub/ft_kirby/fn_96_23F7C.c:
+	.text       start:0x00023F7C end:0x00023F84
+
+mo_stub/ft_kirby/fn_96_23F9C.c:
+	.text       start:0x00023F9C end:0x00023FA4
+
+mo_stub/ft_kirby/fn_96_23FCC.c:
+	.text       start:0x00023FCC end:0x00023FD4
+
+mo_stub/ft_kirby/fn_96_23FD4.c:
+	.text       start:0x00023FD4 end:0x00023FDC
+
+mo_stub/ft_kirby/fn_96_2400C.c:
+	.text       start:0x0002400C end:0x0002401C
+
+mo_stub/ft_kirby/fn_96_24064.c:
+	.text       start:0x00024064 end:0x0002406C
+
+mo_stub/ft_kirby/fn_96_24074.c:
+	.text       start:0x00024074 end:0x0002407C
+
+mo_stub/ft_kirby/fn_96_24084.c:
+	.text       start:0x00024084 end:0x0002408C
+
 mo_stub/ft_kirby/fn_96_2408C.c:
 	.text       start:0x0002408C end:0x00024090
 
 mo_stub/ft_kirby/fn_96_2439C.c:
 	.text       start:0x0002439C end:0x000243A0
 
+mo_stub/ft_kirby/fn_96_25E8C.c:
+	.text       start:0x00025E8C end:0x00025EAC
+
+mo_stub/ft_kirby/fn_96_25EAC.c:
+	.text       start:0x00025EAC end:0x00025EC4
+
 mo_stub/ft_kirby/fn_96_28230.c:
 	.text       start:0x00028230 end:0x0002823C
 
+mo_stub/ft_kirby/fn_96_285D4.c:
+	.text       start:0x000285D4 end:0x000285E4
+
+mo_stub/ft_kirby/fn_96_285E4.c:
+	.text       start:0x000285E4 end:0x0002860C
+
+mo_stub/ft_kirby/fn_96_2860C.c:
+	.text       start:0x0002860C end:0x0002861C
+
+mo_stub/ft_kirby/fn_96_2AF14.c:
+	.text       start:0x0002AF14 end:0x0002AF2C
+
+mo_stub/ft_kirby/fn_96_2AF2C.c:
+	.text       start:0x0002AF2C end:0x0002AF4C
+
 mo_stub/ft_kirby/fn_96_2D124.c:
 	.text       start:0x0002D124 end:0x0002D12C
+
+mo_stub/ft_kirby/fn_96_2D1D8.c:
+	.text       start:0x0002D1D8 end:0x0002D1E0
+
+mo_stub/ft_kirby/fn_96_2D1E0.c:
+	.text       start:0x0002D1E0 end:0x0002D208
+
+mo_stub/ft_kirby/fn_96_2D208.c:
+	.text       start:0x0002D208 end:0x0002D220
+
+mo_stub/ft_kirby/fn_96_2F860.c:
+	.text       start:0x0002F860 end:0x0002F870
+
+mo_stub/ft_kirby/fn_96_2F870.c:
+	.text       start:0x0002F870 end:0x0002F898
+
+mo_stub/ft_kirby/fn_96_2F898.c:
+	.text       start:0x0002F898 end:0x0002F8A0
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
