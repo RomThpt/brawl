@@ -1598,6 +1598,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_iceclimber/fn_105_BF14.c"),
             Object(Matching, "mo_stub/ft_iceclimber/fn_105_D540.c"),
             Object(Matching, "mo_stub/ft_iceclimber/fn_105_D8E4.c"),
+            Object(Matching, "mo_stub/ft_iceclimber/fn_105_D924.c"),
         ],
     },
     {
