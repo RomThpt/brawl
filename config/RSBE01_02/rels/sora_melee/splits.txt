@@ -3497,6 +3497,15 @@ mo_melee/sora_melee/so/so_common_data_accesser.cpp:
 mo_stub/sora_melee/fn_27_C76A8.c:
 	.text       start:0x000C76A8 end:0x000C76B0
 
+mo_stub/sora_melee/fn_27_C79D4.c:
+	.text       start:0x000C79D4 end:0x000C79DC
+
+mo_stub/sora_melee/fn_27_C8038.c:
+	.text       start:0x000C8038 end:0x000C8048
+
+mo_stub/sora_melee/fn_27_C8D6C.c:
+	.text       start:0x000C8D6C end:0x000C8D7C
+
 mo_melee/sora_melee/ft/ft_class_info.cpp:
 	.text       start:0x001254D4 end:0x001257EC
 	.ctors      start:0x0000005C end:0x00000060
