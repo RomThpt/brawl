@@ -17,6 +17,9 @@ mo_stub/st_dxgarden/fn_77_16C.c:
 mo_stub/st_dxgarden/fn_77_478.c:
 	.text       start:0x00000478 end:0x00000480
 
+mo_stub/st_dxgarden/fn_77_6D0.c:
+	.text       start:0x000006D0 end:0x000006D8
+
 mo_stub/st_dxgarden/fn_77_B94.c:
 	.text       start:0x00000B94 end:0x00000BB0
 
