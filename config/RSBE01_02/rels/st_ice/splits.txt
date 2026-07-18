@@ -230,8 +230,14 @@ mo_stub/st_ice/fn_62_CD74.c:
 mo_stub/st_ice/fn_62_CD9C.c:
 	.text       start:0x0000CD9C end:0x0000CDC4
 
+mo_stub/st_ice/fn_62_CDC4.c:
+	.text       start:0x0000CDC4 end:0x0000CDCC
+
 mo_stub/st_ice/fn_62_EFE0.c:
 	.text       start:0x0000EFE0 end:0x0000EFE8
+
+mo_stub/st_ice/fn_62_F080.c:
+	.text       start:0x0000F080 end:0x0000F0A0
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x0001184C end:0x000118E8
