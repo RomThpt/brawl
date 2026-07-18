@@ -92,6 +92,9 @@ mo_stub/st_norfair/fn_54_2AF8.c:
 mo_stub/st_norfair/fn_54_2C3C.c:
 	.text       start:0x00002C3C end:0x00002C40
 
+mo_stub/st_norfair/fn_54_2C40.c:
+	.text       start:0x00002C40 end:0x00002C48
+
 mo_stub/st_norfair/fn_54_333C.c:
 	.text       start:0x0000333C end:0x00003354
 
