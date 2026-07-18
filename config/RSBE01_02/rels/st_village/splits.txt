@@ -74,6 +74,9 @@ mo_stub/st_village/fn_70_22C4.c:
 mo_stub/st_village/fn_70_22CC.c:
 	.text       start:0x000022CC end:0x000022D4
 
+mo_stub/st_village/fn_70_22D4.c:
+	.text       start:0x000022D4 end:0x000022DC
+
 mo_stub/st_village/fn_70_5D20.c:
 	.text       start:0x00005D20 end:0x00005D24
 
