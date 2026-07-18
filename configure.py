@@ -5069,6 +5069,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/st_fzero/fn_61_21BC.c"),
+            Object(Matching, "mo_stub/st_fzero/fn_61_962C.c"),
         ],
     },
     {

@@ -116,6 +116,9 @@ mo_stub/st_fzero/fn_61_3A6C.c:
 mo_stub/st_fzero/fn_61_3A7C.c:
 	.text       start:0x00003A7C end:0x00003A84
 
+mo_stub/st_fzero/fn_61_962C.c:
+	.text       start:0x0000962C end:0x00009634
+
 mo_stub/st_fzero/fn_61_9640.c:
 	.text       start:0x00009640 end:0x00009648
 
