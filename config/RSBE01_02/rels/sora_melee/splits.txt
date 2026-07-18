@@ -1733,6 +1733,15 @@ mo_stub/sora_melee/fn_27_7E574.c:
 mo_stub/sora_melee/fn_27_7E57C.c:
 	.text       start:0x0007E57C end:0x0007E594
 
+mo_stub/sora_melee/fn_27_7E594.c:
+	.text       start:0x0007E594 end:0x0007E59C
+
+mo_stub/sora_melee/fn_27_7E5A8.c:
+	.text       start:0x0007E5A8 end:0x0007E5B0
+
+mo_stub/sora_melee/fn_27_7E5C8.c:
+	.text       start:0x0007E5C8 end:0x0007E5CC
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
