@@ -116,6 +116,12 @@ mo_stub/ft_luigi/fn_99_B784.c:
 mo_stub/ft_luigi/fn_99_B86C.c:
 	.text       start:0x0000B86C end:0x0000B874
 
+mo_stub/ft_luigi/fn_99_BA70.c:
+	.text       start:0x0000BA70 end:0x0000BA90
+
+mo_stub/ft_luigi/fn_99_BAA8.c:
+	.text       start:0x0000BAA8 end:0x0000BAB0
+
 mo_stub/ft_luigi/fn_99_CA80.c:
 	.text       start:0x0000CA80 end:0x0000CA84
 
