@@ -242,6 +242,9 @@ mo_stub/st_jungle/fn_51_10790.c:
 mo_stub/st_jungle/fn_51_10794.c:
 	.text       start:0x00010794 end:0x0001079C
 
+mo_stub/st_jungle/fn_51_1079C.c:
+	.text       start:0x0001079C end:0x000107A4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000166A4 end:0x00016740
 	.data       start:0x00009A00 end:0x00009A0D
