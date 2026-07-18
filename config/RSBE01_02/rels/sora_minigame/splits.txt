@@ -38,6 +38,9 @@ mo_stub/sora_minigame/fn_20_DB8C.c:
 mo_stub/sora_minigame/fn_20_DB94.c:
 	.text       start:0x0000DB94 end:0x0000DB9C
 
+mo_stub/sora_minigame/fn_20_DE48.c:
+	.text       start:0x0000DE48 end:0x0000DE50
+
 mo_menu/mo_menu.cpp:
 	.text       start:0x0000DE60 end:0x0000DEFC
 	.data       start:0x00000BA8 end:0x00000BB4
