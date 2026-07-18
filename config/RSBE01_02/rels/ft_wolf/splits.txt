@@ -128,6 +128,9 @@ mo_stub/ft_wolf/fn_125_10848.c:
 mo_stub/ft_wolf/fn_125_10850.c:
 	.text       start:0x00010850 end:0x00010858
 
+mo_stub/ft_wolf/fn_125_10858.c:
+	.text       start:0x00010858 end:0x00010860
+
 mo_stub/ft_wolf/fn_125_108B0.c:
 	.text       start:0x000108B0 end:0x000108C0
 
