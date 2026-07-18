@@ -3002,6 +3002,9 @@ mo_stub/sora_melee/fn_27_9745C.c:
 mo_stub/sora_melee/fn_27_97464.c:
 	.text       start:0x00097464 end:0x0009746C
 
+mo_stub/sora_melee/fn_27_9746C.c:
+	.text       start:0x0009746C end:0x00097474
+
 mo_melee/sora_melee/so/anim/so_anim_cmd_interpreter_effect.cpp:
 	.text       start:0x000A1D18 end:0x000A1DA4
 	.data       start:0x00015450 end:0x000154C0
