@@ -110,6 +110,9 @@ mo_stub/ft_yoshi/fn_95_EAA8.c:
 mo_stub/ft_yoshi/fn_95_EB90.c:
 	.text       start:0x0000EB90 end:0x0000EB98
 
+mo_stub/ft_yoshi/fn_95_EC78.c:
+	.text       start:0x0000EC78 end:0x0000EC80
+
 mo_stub/ft_yoshi/fn_95_F304.c:
 	.text       start:0x0000F304 end:0x0000F31C
 
