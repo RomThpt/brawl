@@ -209,6 +209,9 @@ mo_stub/st_norfair/fn_54_B20C.c:
 mo_stub/st_norfair/fn_54_B234.c:
 	.text       start:0x0000B234 end:0x0000B25C
 
+mo_stub/st_norfair/fn_54_B25C.c:
+	.text       start:0x0000B25C end:0x0000B284
+
 mo_stub/st_norfair/fn_54_E4AC.c:
 	.text       start:0x0000E4AC end:0x0000E4B4
 
