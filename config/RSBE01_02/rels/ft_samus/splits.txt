@@ -104,6 +104,9 @@ mo_stub/ft_samus/fn_94_DC2C.c:
 mo_stub/ft_samus/fn_94_E338.c:
 	.text       start:0x0000E338 end:0x0000E33C
 
+mo_stub/ft_samus/fn_94_E374.c:
+	.text       start:0x0000E374 end:0x0000E37C
+
 mo_stub/ft_samus/fn_94_F49C.c:
 	.text       start:0x0000F49C end:0x0000F4BC
 
