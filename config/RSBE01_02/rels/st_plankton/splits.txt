@@ -164,6 +164,9 @@ mo_stub/st_plankton/fn_74_A560.c:
 mo_stub/st_plankton/fn_74_A588.c:
 	.text       start:0x0000A588 end:0x0000A5B0
 
+mo_stub/st_plankton/fn_74_A5B0.c:
+	.text       start:0x0000A5B0 end:0x0000A5D8
+
 mo_stub/st_plankton/fn_74_B3E8.c:
 	.text       start:0x0000B3E8 end:0x0000B3F0
 
