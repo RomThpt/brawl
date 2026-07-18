@@ -4432,6 +4432,7 @@ config.libs = [
             Object(Matching, "mo_stub/sora_menu_sel_char/fn_10_1C7D8.c"),
             Object(Matching, "mo_stub/sora_menu_sel_char/fn_10_1C840.c"),
             Object(Matching, "mo_stub/sora_menu_sel_char/fn_10_8374.c"),
+            Object(Matching, "mo_stub/sora_menu_sel_char/fn_10_14618.c"),
         ],
     },
     {
