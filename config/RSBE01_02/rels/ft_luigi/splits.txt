@@ -230,6 +230,18 @@ mo_stub/ft_luigi/fn_99_10CBC.c:
 mo_stub/ft_luigi/fn_99_10CFC.c:
 	.text       start:0x00010CFC end:0x00010D04
 
+mo_stub/ft_luigi/fn_99_10D04.c:
+	.text       start:0x00010D04 end:0x00010D0C
+
+mo_stub/ft_luigi/fn_99_10D54.c:
+	.text       start:0x00010D54 end:0x00010D5C
+
+mo_stub/ft_luigi/fn_99_10D64.c:
+	.text       start:0x00010D64 end:0x00010D6C
+
+mo_stub/ft_luigi/fn_99_10D74.c:
+	.text       start:0x00010D74 end:0x00010D7C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00010EAC end:0x00010F48
 	.data       start:0x00006ED8 end:0x00006EE7
