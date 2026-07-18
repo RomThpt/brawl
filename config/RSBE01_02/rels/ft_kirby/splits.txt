@@ -401,6 +401,9 @@ mo_stub/ft_kirby/fn_96_2F860.c:
 mo_stub/ft_kirby/fn_96_2F870.c:
 	.text       start:0x0002F870 end:0x0002F898
 
+mo_stub/ft_kirby/fn_96_2F898.c:
+	.text       start:0x0002F898 end:0x0002F8A0
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002F8A0 end:0x0002F93C
 	.data       start:0x0000EAD8 end:0x0000EAE7
