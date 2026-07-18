@@ -203,6 +203,9 @@ mo_stub/ft_mario/fn_91_10380.c:
 mo_stub/ft_mario/fn_91_103D0.c:
 	.text       start:0x000103D0 end:0x000103D4
 
+mo_stub/ft_mario/fn_91_14124.c:
+	.text       start:0x00014124 end:0x0001412C
+
 mo_stub/ft_mario/fn_91_16B14.c:
 	.text       start:0x00016B14 end:0x00016B2C
 
