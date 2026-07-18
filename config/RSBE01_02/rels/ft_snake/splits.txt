@@ -284,6 +284,9 @@ mo_stub/ft_snake/fn_122_1D6C4.c:
 mo_stub/ft_snake/fn_122_1D6D4.c:
 	.text       start:0x0001D6D4 end:0x0001D6FC
 
+mo_stub/ft_snake/fn_122_1D6FC.c:
+	.text       start:0x0001D6FC end:0x0001D704
+
 mo_stub/ft_snake/fn_122_20438.c:
 	.text       start:0x00020438 end:0x00020440
 
@@ -316,6 +319,9 @@ mo_stub/ft_snake/fn_122_20510.c:
 
 mo_stub/ft_snake/fn_122_20520.c:
 	.text       start:0x00020520 end:0x00020548
+
+mo_stub/ft_snake/fn_122_2064C.c:
+	.text       start:0x0002064C end:0x0002066C
 
 mo_stub/ft_snake/fn_122_23AA8.c:
 	.text       start:0x00023AA8 end:0x00023AB8
