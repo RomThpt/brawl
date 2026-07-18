@@ -305,6 +305,12 @@ mo_stub/ft_pit/fn_112_126B0.c:
 mo_stub/ft_pit/fn_112_12708.c:
 	.text       start:0x00012708 end:0x00012710
 
+mo_stub/ft_pit/fn_112_12718.c:
+	.text       start:0x00012718 end:0x00012720
+
+mo_stub/ft_pit/fn_112_12728.c:
+	.text       start:0x00012728 end:0x00012738
+
 mo_stub/ft_pit/fn_112_15EEC.c:
 	.text       start:0x00015EEC end:0x00015EF4
 
@@ -316,6 +322,9 @@ mo_stub/ft_pit/fn_112_15F08.c:
 
 mo_stub/ft_pit/fn_112_16AA8.c:
 	.text       start:0x00016AA8 end:0x00016AB0
+
+mo_stub/ft_pit/fn_112_16BE4.c:
+	.text       start:0x00016BE4 end:0x00016BF4
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00016C2C end:0x00016CC8
