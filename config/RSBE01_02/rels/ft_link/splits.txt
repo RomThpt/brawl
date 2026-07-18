@@ -251,6 +251,12 @@ mo_stub/ft_link/fn_93_149C4.c:
 mo_stub/ft_link/fn_93_149EC.c:
 	.text       start:0x000149EC end:0x000149F4
 
+mo_stub/ft_link/fn_93_149F4.c:
+	.text       start:0x000149F4 end:0x00014A14
+
+mo_stub/ft_link/fn_93_14A24.c:
+	.text       start:0x00014A24 end:0x00014A2C
+
 mo_stub/ft_link/fn_93_18560.c:
 	.text       start:0x00018560 end:0x00018570
 
