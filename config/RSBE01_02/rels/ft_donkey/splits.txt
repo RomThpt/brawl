@@ -239,8 +239,20 @@ mo_stub/ft_donkey/fn_92_12D20.c:
 mo_stub/ft_donkey/fn_92_12D60.c:
 	.text       start:0x00012D60 end:0x00012D70
 
+mo_stub/ft_donkey/fn_92_12DB8.c:
+	.text       start:0x00012DB8 end:0x00012DC0
+
+mo_stub/ft_donkey/fn_92_12DC8.c:
+	.text       start:0x00012DC8 end:0x00012DD0
+
+mo_stub/ft_donkey/fn_92_12DD8.c:
+	.text       start:0x00012DD8 end:0x00012DE0
+
 mo_stub/ft_donkey/fn_92_15208.c:
 	.text       start:0x00015208 end:0x00015210
+
+mo_stub/ft_donkey/fn_92_154A4.c:
+	.text       start:0x000154A4 end:0x000154B4
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000154E4 end:0x00015580
