@@ -35,6 +35,9 @@ mo_stub/ft_pikmin/fn_113_80F4.c:
 mo_stub/ft_pikmin/fn_113_C534.c:
 	.text       start:0x0000C534 end:0x0000C53C
 
+mo_stub/ft_pikmin/fn_113_C810.c:
+	.text       start:0x0000C810 end:0x0000C814
+
 mo_stub/ft_pikmin/fn_113_C81C.c:
 	.text       start:0x0000C81C end:0x0000C820
 
