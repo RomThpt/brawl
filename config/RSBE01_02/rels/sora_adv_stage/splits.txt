@@ -95,6 +95,9 @@ mo_stub/sora_adv_stage/fn_40_168A0.c:
 mo_stub/sora_adv_stage/fn_40_168A4.c:
 	.text       start:0x000168A4 end:0x000168A8
 
+mo_stub/sora_adv_stage/fn_40_17398.c:
+	.text       start:0x00017398 end:0x000173A0
+
 mo_stub/sora_adv_stage/fn_40_173A0.c:
 	.text       start:0x000173A0 end:0x000173B0
 
