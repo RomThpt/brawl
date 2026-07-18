@@ -131,6 +131,12 @@ mo_stub/ft_samus/fn_94_E9D8.c:
 mo_stub/ft_samus/fn_94_EAC0.c:
 	.text       start:0x0000EAC0 end:0x0000EAC8
 
+mo_stub/ft_samus/fn_94_ECC4.c:
+	.text       start:0x0000ECC4 end:0x0000ECE4
+
+mo_stub/ft_samus/fn_94_ECF4.c:
+	.text       start:0x0000ECF4 end:0x0000ECFC
+
 mo_stub/ft_samus/fn_94_F49C.c:
 	.text       start:0x0000F49C end:0x0000F4BC
 
