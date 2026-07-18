@@ -95,6 +95,9 @@ mo_stub/ft_link/fn_93_B3C4.c:
 mo_stub/ft_link/fn_93_CBB0.c:
 	.text       start:0x0000CBB0 end:0x0000CBB8
 
+mo_stub/ft_link/fn_93_DAB0.c:
+	.text       start:0x0000DAB0 end:0x0000DAB4
+
 mo_stub/ft_link/fn_93_F26C.c:
 	.text       start:0x0000F26C end:0x0000F288
 
