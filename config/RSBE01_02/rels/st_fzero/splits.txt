@@ -167,6 +167,9 @@ mo_stub/st_fzero/fn_61_A804.c:
 mo_stub/st_fzero/fn_61_B290.c:
 	.text       start:0x0000B290 end:0x0000B298
 
+mo_stub/st_fzero/fn_61_BFE0.c:
+	.text       start:0x0000BFE0 end:0x0000BFE8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000E800 end:0x0000E89C
 	.data       start:0x00003C48 end:0x00003C55
