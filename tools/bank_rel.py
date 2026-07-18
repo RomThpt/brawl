@@ -59,10 +59,19 @@ def kind(a, sz):
         if len(b) < 8:
             return None
         w0, w1 = struct.unpack('>II', b)
-        if (w0 & 0xFFFF0000) == 0x38630000:  # addi r3,r3,imm ; b target => return target(p+imm)
-            t = btarget(a + 4, w1)
-            if t:
-                return ("tailcall", (t, struct.unpack('>h', struct.pack('>H', w0 & 0xFFFF))[0]))
+        t = btarget(a + 4, w1)  # <one instruction> ; b target => tail-call variants
+        if t:
+            simm = struct.unpack('>h', struct.pack('>H', w0 & 0xFFFF))[0]
+            if (w0 & 0xFFFF0000) == 0x38630000:  # addi r3,r3,imm => target(p + imm)
+                return ("tailcall", (t, simm))
+            if (w0 & 0xFFFF0000) == 0x38600000:  # li r3,imm => target(imm)
+                return ("tcli", (t, simm))
+            if (w0 & 0xFFFF0000) == 0x80630000:  # lwz r3,off(r3) => target(*(int*)(p+off))
+                return ("tclwz", (t, soff(w0)))
+            if (w0 & 0xFC0007FE) == 0x7C000378:  # mr r3,rX => target(argN)
+                rS, rA, rB = (w0 >> 21) & 0x1F, (w0 >> 16) & 0x1F, (w0 >> 11) & 0x1F
+                if rA == 3 and rS == rB and 4 <= rS <= 10:
+                    return ("tcmr", (t, rS - 3))
         if w1 != 0x4E800020:
             return None
         hi = w0 >> 16
@@ -187,6 +196,16 @@ def gen(n, kk, v):
         return f"int {n}(void* p) {{\n    return {t}((char*)p + ({imm}));\n}}\n"
     if kk == "tailcall0":
         return f"void {n}(void) {{\n    {v}();\n}}\n"
+    if kk == "tcli":
+        t, imm = v
+        return f"int {n}(void) {{\n    return {t}({imm});\n}}\n"
+    if kk == "tclwz":
+        t, off = v
+        return f"int {n}(void* p) {{\n    return {t}(*(int*)((char*)p + {off}));\n}}\n"
+    if kk == "tcmr":
+        t, idx = v
+        params = ", ".join("int a%d" % i for i in range(idx + 1))
+        return f"int {n}({params}) {{\n    return {t}(a{idx});\n}}\n"
     t, off = v
     return f"void {n}(void* p, int q) {{\n    *({t}*)((char*)p + {off}) = q;\n}}\n"
 
@@ -201,10 +220,10 @@ for g in groups:
     defined = {fn[2] for fn in g}  # names defined in this unit
     externs, seen_ext = [], set()
     for a, sz, n, (kk, v) in g:
-        tname = v[0] if kk == "tailcall" else v if kk == "tailcall0" else None
+        tname = v[0] if kk in ("tailcall", "tcli", "tclwz", "tcmr") else v if kk == "tailcall0" else None
         if tname and tname not in defined and tname not in seen_ext:
             seen_ext.add(tname)
-            externs.append(f"extern int {tname}();" if kk == "tailcall" else f"extern void {tname}(void);")
+            externs.append(f"extern void {tname}(void);" if kk == "tailcall0" else f"extern int {tname}();")
     body = "\n".join(gen(n, kk, v) for a, sz, n, (kk, v) in g)
     src = ("\n".join(externs) + "\n\n" if externs else "") + body
     path = f"mo_stub/{module}/{g[0][2]}.c"
