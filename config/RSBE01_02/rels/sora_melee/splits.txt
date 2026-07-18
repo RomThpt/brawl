@@ -3411,6 +3411,9 @@ mo_stub/sora_melee/fn_27_C3B38.c:
 mo_stub/sora_melee/fn_27_C3B40.c:
 	.text       start:0x000C3B40 end:0x000C3B48
 
+mo_stub/sora_melee/fn_27_C3B48.c:
+	.text       start:0x000C3B48 end:0x000C3B50
+
 mo_melee/sora_melee/so/so_photo_call_back.cpp:
 	.text       start:0x000C7024 end:0x000C7124
 
