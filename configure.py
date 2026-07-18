@@ -4967,6 +4967,7 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_stub/st_dxgreens/fn_79_1840.c"),
             Object(Matching, "mo_stub/st_dxgreens/fn_79_8CC0.c"),
+            Object(Matching, "mo_stub/st_dxgreens/fn_79_9A10.c"),
         ],
     },
     {
