@@ -296,6 +296,15 @@ mo_stub/ft_pit/fn_112_12620.c:
 mo_stub/ft_pit/fn_112_12640.c:
 	.text       start:0x00012640 end:0x00012648
 
+mo_stub/ft_pit/fn_112_12670.c:
+	.text       start:0x00012670 end:0x00012680
+
+mo_stub/ft_pit/fn_112_126B0.c:
+	.text       start:0x000126B0 end:0x000126C0
+
+mo_stub/ft_pit/fn_112_12708.c:
+	.text       start:0x00012708 end:0x00012710
+
 mo_stub/ft_pit/fn_112_15EEC.c:
 	.text       start:0x00015EEC end:0x00015EF4
 
