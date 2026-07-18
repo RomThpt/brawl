@@ -5226,7 +5226,11 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/sora_menu_main/fn_2_2393C.c"),
+            Object(Matching, "mo_stub/sora_menu_main/fn_2_30560.c"),
+            Object(Matching, "mo_stub/sora_menu_main/fn_2_3BF08.c"),
+        ],
     },
     {
         "lib": "sora_menu_name",
