@@ -167,6 +167,9 @@ mo_stub/st_pirates/fn_52_8E6C.c:
 mo_stub/st_pirates/fn_52_9788.c:
 	.text       start:0x00009788 end:0x00009790
 
+mo_stub/st_pirates/fn_52_98A4.c:
+	.text       start:0x000098A4 end:0x000098CC
+
 mo_stub/st_pirates/fn_52_128D8.c:
 	.text       start:0x000128D8 end:0x000128DC
 
