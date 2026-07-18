@@ -119,6 +119,9 @@ mo_stub/ft_robot/fn_120_CA44.c:
 mo_stub/ft_robot/fn_120_CB2C.c:
 	.text       start:0x0000CB2C end:0x0000CB34
 
+mo_stub/ft_robot/fn_120_CC14.c:
+	.text       start:0x0000CC14 end:0x0000CC1C
+
 mo_stub/ft_robot/fn_120_E024.c:
 	.text       start:0x0000E024 end:0x0000E040
 
