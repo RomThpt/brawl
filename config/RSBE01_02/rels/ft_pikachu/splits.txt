@@ -287,6 +287,9 @@ mo_stub/ft_pikachu/fn_98_1BC08.c:
 mo_stub/ft_pikachu/fn_98_1BC50.c:
 	.text       start:0x0001BC50 end:0x0001BC58
 
+mo_stub/ft_pikachu/fn_98_1BCA4.c:
+	.text       start:0x0001BCA4 end:0x0001BCAC
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0001C2F4 end:0x0001C390
 	.data       start:0x000099C8 end:0x000099D7
