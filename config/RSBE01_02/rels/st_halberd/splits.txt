@@ -95,6 +95,9 @@ mo_stub/st_halberd/fn_57_3A4C.c:
 mo_stub/st_halberd/fn_57_3A90.c:
 	.text       start:0x00003A90 end:0x00003A9C
 
+mo_stub/st_halberd/fn_57_3AB8.c:
+	.text       start:0x00003AB8 end:0x00003AC0
+
 mo_stub/st_halberd/fn_57_A0C0.c:
 	.text       start:0x0000A0C0 end:0x0000A0DC
 
