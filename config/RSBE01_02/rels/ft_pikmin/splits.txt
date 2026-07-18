@@ -131,6 +131,9 @@ mo_stub/ft_pikmin/fn_113_F80C.c:
 mo_stub/ft_pikmin/fn_113_F8F4.c:
 	.text       start:0x0000F8F4 end:0x0000F8FC
 
+mo_stub/ft_pikmin/fn_113_F9DC.c:
+	.text       start:0x0000F9DC end:0x0000F9E4
+
 mo_stub/ft_pikmin/fn_113_11E6C.c:
 	.text       start:0x00011E6C end:0x00011E74
 
