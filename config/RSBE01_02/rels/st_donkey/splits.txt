@@ -149,6 +149,9 @@ mo_stub/st_donkey/fn_50_869C.c:
 mo_stub/st_donkey/fn_50_86C4.c:
 	.text       start:0x000086C4 end:0x000086EC
 
+mo_stub/st_donkey/fn_50_86EC.c:
+	.text       start:0x000086EC end:0x0000870C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B6A8 end:0x0000B744
 	.data       start:0x00003030 end:0x0000303D
