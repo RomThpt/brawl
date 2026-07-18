@@ -122,6 +122,12 @@ mo_stub/ft_pit/fn_112_DC60.c:
 mo_stub/ft_pit/fn_112_DCB8.c:
 	.text       start:0x0000DCB8 end:0x0000DCC0
 
+mo_stub/ft_pit/fn_112_DCC8.c:
+	.text       start:0x0000DCC8 end:0x0000DCE8
+
+mo_stub/ft_pit/fn_112_DD00.c:
+	.text       start:0x0000DD00 end:0x0000DD08
+
 mo_stub/ft_pit/fn_112_E070.c:
 	.text       start:0x0000E070 end:0x0000E088
 
