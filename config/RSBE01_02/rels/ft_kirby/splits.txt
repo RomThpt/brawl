@@ -239,6 +239,9 @@ mo_stub/ft_kirby/fn_96_2098C.c:
 mo_stub/ft_kirby/fn_96_209AC.c:
 	.text       start:0x000209AC end:0x000209D4
 
+mo_stub/ft_kirby/fn_96_209D4.c:
+	.text       start:0x000209D4 end:0x000209FC
+
 mo_stub/ft_kirby/fn_96_20B48.c:
 	.text       start:0x00020B48 end:0x00020B50
 
