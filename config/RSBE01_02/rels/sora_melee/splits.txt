@@ -1277,6 +1277,12 @@ mo_stub/sora_melee/fn_27_7CFB8.c:
 mo_stub/sora_melee/fn_27_7CFC0.c:
 	.text       start:0x0007CFC0 end:0x0007CFD4
 
+mo_stub/sora_melee/fn_27_7CFD4.c:
+	.text       start:0x0007CFD4 end:0x0007CFE8
+
+mo_stub/sora_melee/fn_27_7D068.c:
+	.text       start:0x0007D068 end:0x0007D070
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
