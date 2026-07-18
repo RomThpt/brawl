@@ -6299,6 +6299,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_metalgear/fn_71_DB50.c"),
             Object(Matching, "mo_stub/st_metalgear/fn_71_DB78.c"),
             Object(Matching, "mo_stub/st_metalgear/fn_71_DBA0.c"),
+            Object(Matching, "mo_stub/st_metalgear/fn_71_DBC8.c"),
         ],
     },
     {
