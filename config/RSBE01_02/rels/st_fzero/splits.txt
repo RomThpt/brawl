@@ -83,6 +83,9 @@ mo_stub/st_fzero/fn_61_2184.c:
 mo_stub/st_fzero/fn_61_21B4.c:
 	.text       start:0x000021B4 end:0x000021BC
 
+mo_stub/st_fzero/fn_61_21BC.c:
+	.text       start:0x000021BC end:0x000021C4
+
 mo_stub/st_fzero/fn_61_21C4.c:
 	.text       start:0x000021C4 end:0x000021CC
 
