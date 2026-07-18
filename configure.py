@@ -6234,6 +6234,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/st_mariopast/fn_48_7870.c"),
+            Object(Matching, "mo_stub/st_mariopast/fn_48_7898.c"),
         ],
     },
     {
