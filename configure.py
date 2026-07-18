@@ -5646,6 +5646,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/st_donkey/fn_50_8674.c"),
+            Object(Matching, "mo_stub/st_donkey/fn_50_869C.c"),
         ],
     },
     {
