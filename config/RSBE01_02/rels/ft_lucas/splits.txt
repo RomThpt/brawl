@@ -314,6 +314,9 @@ mo_stub/ft_lucas/fn_114_1C0FC.c:
 mo_stub/ft_lucas/fn_114_1C324.c:
 	.text       start:0x0001C324 end:0x0001C32C
 
+mo_stub/ft_lucas/fn_114_1C32C.c:
+	.text       start:0x0001C32C end:0x0001C354
+
 mo_stub/ft_lucas/fn_114_1E54C.c:
 	.text       start:0x0001E54C end:0x0001E554
 
