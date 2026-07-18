@@ -191,6 +191,9 @@ mo_stub/st_mariopast/fn_48_BED4.c:
 mo_stub/st_mariopast/fn_48_BFEC.c:
 	.text       start:0x0000BFEC end:0x0000C014
 
+mo_stub/st_mariopast/fn_48_C014.c:
+	.text       start:0x0000C014 end:0x0000C03C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C758 end:0x0000C7F4
 	.data       start:0x00003440 end:0x0000344D
