@@ -6009,6 +6009,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/st_greenhill/fn_72_9BDC.c"),
+            Object(Matching, "mo_stub/st_greenhill/fn_72_9C04.c"),
         ],
     },
     {
