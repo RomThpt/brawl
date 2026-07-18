@@ -182,6 +182,9 @@ mo_stub/st_kart/fn_49_AD5C.c:
 mo_stub/st_kart/fn_49_B678.c:
 	.text       start:0x0000B678 end:0x0000B680
 
+mo_stub/st_kart/fn_49_B7FC.c:
+	.text       start:0x0000B7FC end:0x0000B824
+
 mo_stub/st_kart/fn_49_C07C.c:
 	.text       start:0x0000C07C end:0x0000C084
 
