@@ -1774,6 +1774,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_kirby/fn_96_13138.c"),
             Object(Matching, "mo_stub/ft_kirby/fn_96_13220.c"),
             Object(Matching, "mo_stub/ft_kirby/fn_96_13308.c"),
+            Object(Matching, "mo_stub/ft_kirby/fn_96_1390C.c"),
         ],
     },
     {
