@@ -7429,6 +7429,7 @@ config.libs = [
         "host": False,
         "objects": [
             Object(Matching, "mo_stub/st_plankton/fn_74_A510.c"),
+            Object(Matching, "mo_stub/st_plankton/fn_74_A538.c"),
         ],
     },
     {
