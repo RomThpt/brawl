@@ -395,6 +395,9 @@ mo_stub/ft_pikmin/fn_113_2A464.c:
 mo_stub/ft_pikmin/fn_113_2A47C.c:
 	.text       start:0x0002A47C end:0x0002A4A4
 
+mo_stub/ft_pikmin/fn_113_2A4A4.c:
+	.text       start:0x0002A4A4 end:0x0002A4AC
+
 mo_stub/ft_pikmin/fn_113_2D4F8.c:
 	.text       start:0x0002D4F8 end:0x0002D500
 
@@ -403,6 +406,9 @@ mo_stub/ft_pikmin/fn_113_2D500.c:
 
 mo_stub/ft_pikmin/fn_113_2D514.c:
 	.text       start:0x0002D514 end:0x0002D520
+
+mo_stub/ft_pikmin/fn_113_2D624.c:
+	.text       start:0x0002D624 end:0x0002D644
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x0002DDD8 end:0x0002DE74
