@@ -86,6 +86,9 @@ mo_melee/sora_melee/so/model/so_model_module_impl_variable.cpp:
 	.text       start:0x0000F288 end:0x0000FED0
 	.data       start:0x00000A98 end:0x00000C78
 
+mo_stub/sora_melee/fn_27_FFF0.c:
+	.text       start:0x0000FFF0 end:0x0000FFF4
+
 mo_stub/sora_melee/fn_27_13620.c:
 	.text       start:0x00013620 end:0x00013628
 
