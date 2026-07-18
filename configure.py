@@ -3542,6 +3542,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_robot/fn_120_16010.c"),
             Object(Matching, "mo_stub/ft_robot/fn_120_16038.c"),
             Object(Matching, "mo_stub/ft_robot/fn_120_18480.c"),
+            Object(Matching, "mo_stub/ft_robot/fn_120_184A0.c"),
         ],
     },
     {
