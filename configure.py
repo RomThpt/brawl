@@ -5856,7 +5856,9 @@ config.libs = [
         "mw_version": config.linker_version,
         "cflags": cflags_rel,
         "host": False,
-        "objects": [],
+        "objects": [
+            Object(Matching, "mo_stub/st_dxonett/fn_78_7A78.c"),
+        ],
     },
     {
         "lib": "st_dxpstadium",
