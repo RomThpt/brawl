@@ -544,6 +544,9 @@ mo_enemy/sora_enemy/teckin/em_teckin_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_4ADF8.c:
 	.text       start:0x0004ADF8 end:0x0004AE00
 
+mo_stub/sora_enemy/fn_41_4AE00.c:
+	.text       start:0x0004AE00 end:0x0004AE08
+
 mo_enemy/sora_enemy/spar/em_spar_param_accesser.cpp:
 	.text       start:0x0004AE58 end:0x0004B130
 	.ctors      start:0x00000098 end:0x0000009C
