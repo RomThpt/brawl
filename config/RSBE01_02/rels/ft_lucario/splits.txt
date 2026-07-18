@@ -257,6 +257,18 @@ mo_stub/ft_lucario/fn_118_13FBC.c:
 mo_stub/ft_lucario/fn_118_13FEC.c:
 	.text       start:0x00013FEC end:0x00013FF4
 
+mo_stub/ft_lucario/fn_118_13FF4.c:
+	.text       start:0x00013FF4 end:0x00013FFC
+
+mo_stub/ft_lucario/fn_118_1402C.c:
+	.text       start:0x0001402C end:0x0001403C
+
+mo_stub/ft_lucario/fn_118_14084.c:
+	.text       start:0x00014084 end:0x0001408C
+
+mo_stub/ft_lucario/fn_118_14094.c:
+	.text       start:0x00014094 end:0x0001409C
+
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x000140AC end:0x00014148
 	.data       start:0x00007350 end:0x0000735F
