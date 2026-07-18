@@ -344,6 +344,9 @@ mo_stub/sora_adv_stage/fn_40_310B4.c:
 mo_stub/sora_adv_stage/fn_40_310DC.c:
 	.text       start:0x000310DC end:0x00031104
 
+mo_stub/sora_adv_stage/fn_40_31104.c:
+	.text       start:0x00031104 end:0x0003112C
+
 mo_stub/sora_adv_stage/fn_40_31F14.c:
 	.text       start:0x00031F14 end:0x00031F18
 
