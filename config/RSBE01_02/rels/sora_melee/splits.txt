@@ -2483,6 +2483,15 @@ mo_stub/sora_melee/fn_27_83B78.c:
 mo_stub/sora_melee/fn_27_83B98.c:
 	.text       start:0x00083B98 end:0x00083BAC
 
+mo_stub/sora_melee/fn_27_83BAC.c:
+	.text       start:0x00083BAC end:0x00083BB4
+
+mo_stub/sora_melee/fn_27_83BC0.c:
+	.text       start:0x00083BC0 end:0x00083BD0
+
+mo_stub/sora_melee/fn_27_83C44.c:
+	.text       start:0x00083C44 end:0x00083C4C
+
 mo_melee/sora_melee/so/so_general_work.cpp:
 	.text       start:0x0008D8B4 end:0x0008E230
 	.ctors      start:0x00000028 end:0x0000002C
