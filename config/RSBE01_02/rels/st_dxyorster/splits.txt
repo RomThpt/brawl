@@ -158,6 +158,9 @@ mo_stub/st_dxyorster/fn_76_7A48.c:
 mo_stub/st_dxyorster/fn_76_7A70.c:
 	.text       start:0x00007A70 end:0x00007A98
 
+mo_stub/st_dxyorster/fn_76_7A98.c:
+	.text       start:0x00007A98 end:0x00007AA0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007AC8 end:0x00007B64
 	.data       start:0x00002518 end:0x00002525
