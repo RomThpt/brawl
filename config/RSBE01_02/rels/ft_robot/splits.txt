@@ -89,6 +89,15 @@ mo_stub/ft_robot/fn_120_9BB4.c:
 mo_stub/ft_robot/fn_120_AF30.c:
 	.text       start:0x0000AF30 end:0x0000AF38
 
+mo_stub/ft_robot/gl_fn_120_AF44.c:
+	.text       start:0x0000AF44 end:0x0000AF50
+
+mo_stub/ft_robot/gl_fn_120_AF64.c:
+	.text       start:0x0000AF64 end:0x0000AF70
+
+mo_stub/ft_robot/gl_fn_120_AF70.c:
+	.text       start:0x0000AF70 end:0x0000AF7C
+
 mo_stub/ft_robot/acc_fn_120_AFC0.c:
 	.text       start:0x0000AFC0 end:0x0000AFD8
 
@@ -188,14 +197,32 @@ mo_stub/ft_robot/fn_120_E040.c:
 mo_stub/ft_robot/fn_120_E088.c:
 	.text       start:0x0000E088 end:0x0000E090
 
+mo_stub/ft_robot/gl_fn_120_E0D8.c:
+	.text       start:0x0000E0D8 end:0x0000E0E8
+
 mo_stub/ft_robot/fn_120_E4C0.c:
 	.text       start:0x0000E4C0 end:0x0000E4C4
+
+mo_stub/ft_robot/gl_fn_120_EEA4.c:
+	.text       start:0x0000EEA4 end:0x0000EEB4
+
+mo_stub/ft_robot/gl_fn_120_F1FC.c:
+	.text       start:0x0000F1FC end:0x0000F20C
 
 mo_stub/ft_robot/fn_120_FA0C.c:
 	.text       start:0x0000FA0C end:0x0000FA10
 
+mo_stub/ft_robot/gl_fn_120_FA98.c:
+	.text       start:0x0000FA98 end:0x0000FAA8
+
+mo_stub/ft_robot/gl_fn_120_10434.c:
+	.text       start:0x00010434 end:0x00010444
+
 mo_stub/ft_robot/fn_120_104CC.c:
 	.text       start:0x000104CC end:0x000104D0
+
+mo_stub/ft_robot/gl_fn_120_105F8.c:
+	.text       start:0x000105F8 end:0x00010608
 
 mo_stub/ft_robot/fn_120_13784.c:
 	.text       start:0x00013784 end:0x00013788

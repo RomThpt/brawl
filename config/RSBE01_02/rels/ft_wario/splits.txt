@@ -83,6 +83,15 @@ mo_stub/ft_wario/fn_110_9A00.c:
 mo_stub/ft_wario/fn_110_A9BC.c:
 	.text       start:0x0000A9BC end:0x0000A9CC
 
+mo_stub/ft_wario/gl_fn_110_A9CC.c:
+	.text       start:0x0000A9CC end:0x0000A9D8
+
+mo_stub/ft_wario/gl_fn_110_A9EC.c:
+	.text       start:0x0000A9EC end:0x0000A9F8
+
+mo_stub/ft_wario/gl_fn_110_A9F8.c:
+	.text       start:0x0000A9F8 end:0x0000AA04
+
 mo_stub/ft_wario/acc_fn_110_AA48.c:
 	.text       start:0x0000AA48 end:0x0000AA60
 
@@ -173,14 +182,44 @@ mo_stub/ft_wario/fn_110_CFE4.c:
 mo_stub/ft_wario/fn_110_D028.c:
 	.text       start:0x0000D028 end:0x0000D02C
 
+mo_stub/ft_wario/gl_fn_110_D074.c:
+	.text       start:0x0000D074 end:0x0000D084
+
+mo_stub/ft_wario/gl_fn_110_D720.c:
+	.text       start:0x0000D720 end:0x0000D730
+
 mo_stub/ft_wario/fn_110_D730.c:
 	.text       start:0x0000D730 end:0x0000D734
+
+mo_stub/ft_wario/gl_fn_110_D8FC.c:
+	.text       start:0x0000D8FC end:0x0000D90C
+
+mo_stub/ft_wario/gl_fn_110_DB18.c:
+	.text       start:0x0000DB18 end:0x0000DB28
 
 mo_stub/ft_wario/fn_110_DB28.c:
 	.text       start:0x0000DB28 end:0x0000DB2C
 
 mo_stub/ft_wario/fn_110_DBEC.c:
 	.text       start:0x0000DBEC end:0x0000DBF8
+
+mo_stub/ft_wario/gl_fn_110_DC80.c:
+	.text       start:0x0000DC80 end:0x0000DC90
+
+mo_stub/ft_wario/gl_fn_110_E0E4.c:
+	.text       start:0x0000E0E4 end:0x0000E0F4
+
+mo_stub/ft_wario/gl_fn_110_E2D8.c:
+	.text       start:0x0000E2D8 end:0x0000E2E8
+
+mo_stub/ft_wario/gl_fn_110_E728.c:
+	.text       start:0x0000E728 end:0x0000E738
+
+mo_stub/ft_wario/gl_fn_110_EB44.c:
+	.text       start:0x0000EB44 end:0x0000EB54
+
+mo_stub/ft_wario/gl_fn_110_F16C.c:
+	.text       start:0x0000F16C end:0x0000F17C
 
 mo_stub/ft_wario/fn_110_F3F8.c:
 	.text       start:0x0000F3F8 end:0x0000F400
@@ -401,8 +440,50 @@ mo_stub/ft_wario/fn_110_15520.c:
 mo_stub/ft_wario/fn_110_15548.c:
 	.text       start:0x00015548 end:0x00015550
 
+mo_stub/ft_wario/gl_fn_110_155D8.c:
+	.text       start:0x000155D8 end:0x000155E8
+
+mo_stub/ft_wario/gl_fn_110_16980.c:
+	.text       start:0x00016980 end:0x00016990
+
+mo_stub/ft_wario/gl_fn_110_16E94.c:
+	.text       start:0x00016E94 end:0x00016EA4
+
+mo_stub/ft_wario/gl_fn_110_17A9C.c:
+	.text       start:0x00017A9C end:0x00017AAC
+
+mo_stub/ft_wario/gl_fn_110_1822C.c:
+	.text       start:0x0001822C end:0x0001823C
+
+mo_stub/ft_wario/gl_fn_110_18770.c:
+	.text       start:0x00018770 end:0x00018780
+
+mo_stub/ft_wario/gl_fn_110_18BA8.c:
+	.text       start:0x00018BA8 end:0x00018BB8
+
+mo_stub/ft_wario/gl_fn_110_18FC0.c:
+	.text       start:0x00018FC0 end:0x00018FD0
+
+mo_stub/ft_wario/gl_fn_110_19210.c:
+	.text       start:0x00019210 end:0x00019220
+
+mo_stub/ft_wario/gl_fn_110_19568.c:
+	.text       start:0x00019568 end:0x00019578
+
 mo_stub/ft_wario/fn_110_195C4.c:
 	.text       start:0x000195C4 end:0x000195C8
+
+mo_stub/ft_wario/gl_fn_110_19650.c:
+	.text       start:0x00019650 end:0x00019660
+
+mo_stub/ft_wario/gl_fn_110_198E0.c:
+	.text       start:0x000198E0 end:0x000198F0
+
+mo_stub/ft_wario/gl_fn_110_1A078.c:
+	.text       start:0x0001A078 end:0x0001A088
+
+mo_stub/ft_wario/gl_fn_110_1A480.c:
+	.text       start:0x0001A480 end:0x0001A490
 
 mo_stub/ft_wario/fn_110_1C8CC.c:
 	.text       start:0x0001C8CC end:0x0001C8DC
@@ -430,6 +511,15 @@ mo_stub/ft_wario/fn_110_1FB78.c:
 
 mo_stub/ft_wario/fn_110_20704.c:
 	.text       start:0x00020704 end:0x00020714
+
+mo_stub/ft_wario/gl_fn_110_20714.c:
+	.text       start:0x00020714 end:0x00020720
+
+mo_stub/ft_wario/gl_fn_110_20734.c:
+	.text       start:0x00020734 end:0x00020740
+
+mo_stub/ft_wario/gl_fn_110_20740.c:
+	.text       start:0x00020740 end:0x0002074C
 
 mo_stub/ft_wario/acc_fn_110_2074C.c:
 	.text       start:0x0002074C end:0x00020764

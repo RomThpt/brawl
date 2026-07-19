@@ -95,6 +95,15 @@ mo_stub/ft_lucario/fn_118_A578.c:
 mo_stub/ft_lucario/fn_118_B584.c:
 	.text       start:0x0000B584 end:0x0000B594
 
+mo_stub/ft_lucario/gl_fn_118_B594.c:
+	.text       start:0x0000B594 end:0x0000B5A0
+
+mo_stub/ft_lucario/gl_fn_118_B5B4.c:
+	.text       start:0x0000B5B4 end:0x0000B5C0
+
+mo_stub/ft_lucario/gl_fn_118_B5C0.c:
+	.text       start:0x0000B5C0 end:0x0000B5CC
+
 mo_stub/ft_lucario/acc_fn_118_B610.c:
 	.text       start:0x0000B610 end:0x0000B628
 
@@ -197,17 +206,59 @@ mo_stub/ft_lucario/fn_118_DA30.c:
 mo_stub/ft_lucario/fn_118_DA74.c:
 	.text       start:0x0000DA74 end:0x0000DA78
 
+mo_stub/ft_lucario/gl_fn_118_DADC.c:
+	.text       start:0x0000DADC end:0x0000DAEC
+
+mo_stub/ft_lucario/gl_fn_118_DAEC.c:
+	.text       start:0x0000DAEC end:0x0000DAFC
+
 mo_stub/ft_lucario/fn_118_EFD8.c:
 	.text       start:0x0000EFD8 end:0x0000EFE0
 
+mo_stub/ft_lucario/gl_fn_118_10314.c:
+	.text       start:0x00010314 end:0x00010324
+
+mo_stub/ft_lucario/gl_fn_118_10324.c:
+	.text       start:0x00010324 end:0x00010334
+
+mo_stub/ft_lucario/gl_fn_118_10334.c:
+	.text       start:0x00010334 end:0x00010344
+
+mo_stub/ft_lucario/gl_fn_118_10344.c:
+	.text       start:0x00010344 end:0x00010354
+
 mo_stub/ft_lucario/fn_118_109A4.c:
 	.text       start:0x000109A4 end:0x000109A8
+
+mo_stub/ft_lucario/gl_fn_118_10AE8.c:
+	.text       start:0x00010AE8 end:0x00010AF8
+
+mo_stub/ft_lucario/gl_fn_118_10AF8.c:
+	.text       start:0x00010AF8 end:0x00010B08
+
+mo_stub/ft_lucario/gl_fn_118_10B08.c:
+	.text       start:0x00010B08 end:0x00010B18
 
 mo_stub/ft_lucario/fn_118_10BF4.c:
 	.text       start:0x00010BF4 end:0x00010BFC
 
 mo_stub/ft_lucario/fn_118_10D14.c:
 	.text       start:0x00010D14 end:0x00010D24
+
+mo_stub/ft_lucario/gl_fn_118_1180C.c:
+	.text       start:0x0001180C end:0x0001181C
+
+mo_stub/ft_lucario/gl_fn_118_1181C.c:
+	.text       start:0x0001181C end:0x0001182C
+
+mo_stub/ft_lucario/gl_fn_118_1182C.c:
+	.text       start:0x0001182C end:0x0001183C
+
+mo_stub/ft_lucario/gl_fn_118_1183C.c:
+	.text       start:0x0001183C end:0x0001184C
+
+mo_stub/ft_lucario/gl_fn_118_1184C.c:
+	.text       start:0x0001184C end:0x0001185C
 
 mo_stub/ft_lucario/fn_118_139F0.c:
 	.text       start:0x000139F0 end:0x00013A00

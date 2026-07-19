@@ -83,6 +83,15 @@ mo_stub/ft_captain/fn_100_9A1C.c:
 mo_stub/ft_captain/fn_100_A9D0.c:
 	.text       start:0x0000A9D0 end:0x0000A9E0
 
+mo_stub/ft_captain/gl_fn_100_A9E0.c:
+	.text       start:0x0000A9E0 end:0x0000A9EC
+
+mo_stub/ft_captain/gl_fn_100_AA00.c:
+	.text       start:0x0000AA00 end:0x0000AA0C
+
+mo_stub/ft_captain/gl_fn_100_AA0C.c:
+	.text       start:0x0000AA0C end:0x0000AA18
+
 mo_stub/ft_captain/acc_fn_100_AA5C.c:
 	.text       start:0x0000AA5C end:0x0000AA74
 
@@ -173,11 +182,50 @@ mo_stub/ft_captain/fn_100_D3DC.c:
 mo_stub/ft_captain/fn_100_D424.c:
 	.text       start:0x0000D424 end:0x0000D430
 
+mo_stub/ft_captain/gl_fn_100_D478.c:
+	.text       start:0x0000D478 end:0x0000D488
+
 mo_stub/ft_captain/fn_100_D488.c:
 	.text       start:0x0000D488 end:0x0000D48C
 
 mo_stub/ft_captain/fn_100_D48C.c:
 	.text       start:0x0000D48C end:0x0000D490
+
+mo_stub/ft_captain/gl_fn_100_DAE4.c:
+	.text       start:0x0000DAE4 end:0x0000DAF4
+
+mo_stub/ft_captain/gl_fn_100_DAF4.c:
+	.text       start:0x0000DAF4 end:0x0000DB04
+
+mo_stub/ft_captain/gl_fn_100_DC68.c:
+	.text       start:0x0000DC68 end:0x0000DC78
+
+mo_stub/ft_captain/gl_fn_100_DDA0.c:
+	.text       start:0x0000DDA0 end:0x0000DDB0
+
+mo_stub/ft_captain/gl_fn_100_DF44.c:
+	.text       start:0x0000DF44 end:0x0000DF54
+
+mo_stub/ft_captain/gl_fn_100_F6CC.c:
+	.text       start:0x0000F6CC end:0x0000F6DC
+
+mo_stub/ft_captain/gl_fn_100_F6DC.c:
+	.text       start:0x0000F6DC end:0x0000F6EC
+
+mo_stub/ft_captain/gl_fn_100_F6EC.c:
+	.text       start:0x0000F6EC end:0x0000F6FC
+
+mo_stub/ft_captain/gl_fn_100_F6FC.c:
+	.text       start:0x0000F6FC end:0x0000F70C
+
+mo_stub/ft_captain/gl_fn_100_F70C.c:
+	.text       start:0x0000F70C end:0x0000F71C
+
+mo_stub/ft_captain/gl_fn_100_F71C.c:
+	.text       start:0x0000F71C end:0x0000F72C
+
+mo_stub/ft_captain/gl_fn_100_F72C.c:
+	.text       start:0x0000F72C end:0x0000F73C
 
 mo_stub/ft_captain/fn_100_130B0.c:
 	.text       start:0x000130B0 end:0x000130B8

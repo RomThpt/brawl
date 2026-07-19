@@ -86,6 +86,15 @@ mo_stub/ft_zelda/fn_104_AB68.c:
 mo_stub/ft_zelda/fn_104_BF28.c:
 	.text       start:0x0000BF28 end:0x0000BF30
 
+mo_stub/ft_zelda/gl_fn_104_BF3C.c:
+	.text       start:0x0000BF3C end:0x0000BF48
+
+mo_stub/ft_zelda/gl_fn_104_BF5C.c:
+	.text       start:0x0000BF5C end:0x0000BF68
+
+mo_stub/ft_zelda/gl_fn_104_BF68.c:
+	.text       start:0x0000BF68 end:0x0000BF74
+
 mo_stub/ft_zelda/acc_fn_104_BFB8.c:
 	.text       start:0x0000BFB8 end:0x0000BFD0
 
@@ -190,6 +199,27 @@ mo_stub/ft_zelda/fn_104_E060.c:
 
 mo_stub/ft_zelda/fn_104_E0A4.c:
 	.text       start:0x0000E0A4 end:0x0000E0A8
+
+mo_stub/ft_zelda/gl_fn_104_E0F0.c:
+	.text       start:0x0000E0F0 end:0x0000E100
+
+mo_stub/ft_zelda/gl_fn_104_E31C.c:
+	.text       start:0x0000E31C end:0x0000E32C
+
+mo_stub/ft_zelda/gl_fn_104_EA4C.c:
+	.text       start:0x0000EA4C end:0x0000EA5C
+
+mo_stub/ft_zelda/gl_fn_104_EEB8.c:
+	.text       start:0x0000EEB8 end:0x0000EEC8
+
+mo_stub/ft_zelda/gl_fn_104_F0F4.c:
+	.text       start:0x0000F0F4 end:0x0000F104
+
+mo_stub/ft_zelda/gl_fn_104_F9FC.c:
+	.text       start:0x0000F9FC end:0x0000FA0C
+
+mo_stub/ft_zelda/gl_fn_104_FF50.c:
+	.text       start:0x0000FF50 end:0x0000FF60
 
 mo_stub/ft_zelda/fn_104_12654.c:
 	.text       start:0x00012654 end:0x0001265C
@@ -296,6 +326,12 @@ mo_stub/ft_zelda/fn_104_133F0.c:
 mo_stub/ft_zelda/fn_104_13400.c:
 	.text       start:0x00013400 end:0x00013408
 
+mo_stub/ft_zelda/gl_fn_104_1376C.c:
+	.text       start:0x0001376C end:0x0001377C
+
+mo_stub/ft_zelda/gl_fn_104_1390C.c:
+	.text       start:0x0001390C end:0x0001391C
+
 mo_stub/ft_zelda/fn_104_1563C.c:
 	.text       start:0x0001563C end:0x00015644
 
@@ -311,11 +347,23 @@ mo_stub/ft_zelda/fn_104_15724.c:
 mo_stub/ft_zelda/fn_104_15744.c:
 	.text       start:0x00015744 end:0x0001576C
 
+mo_stub/ft_zelda/gl_fn_104_159C0.c:
+	.text       start:0x000159C0 end:0x000159D0
+
 mo_stub/ft_zelda/fn_104_1BA70.c:
 	.text       start:0x0001BA70 end:0x0001BA78
 
 mo_stub/ft_zelda/fn_104_1D018.c:
 	.text       start:0x0001D018 end:0x0001D020
+
+mo_stub/ft_zelda/gl_fn_104_1D02C.c:
+	.text       start:0x0001D02C end:0x0001D038
+
+mo_stub/ft_zelda/gl_fn_104_1D04C.c:
+	.text       start:0x0001D04C end:0x0001D058
+
+mo_stub/ft_zelda/gl_fn_104_1D058.c:
+	.text       start:0x0001D058 end:0x0001D064
 
 mo_stub/ft_zelda/acc_fn_104_1D064.c:
 	.text       start:0x0001D064 end:0x0001D07C
@@ -344,6 +392,24 @@ mo_stub/ft_zelda/fn_104_1D98C.c:
 mo_stub/ft_zelda/fn_104_1D9B4.c:
 	.text       start:0x0001D9B4 end:0x0001D9CC
 
+mo_stub/ft_zelda/gl_fn_104_1E4C0.c:
+	.text       start:0x0001E4C0 end:0x0001E4D0
+
+mo_stub/ft_zelda/gl_fn_104_1EF40.c:
+	.text       start:0x0001EF40 end:0x0001EF50
+
+mo_stub/ft_zelda/gl_fn_104_1F12C.c:
+	.text       start:0x0001F12C end:0x0001F13C
+
+mo_stub/ft_zelda/gl_fn_104_1F9B4.c:
+	.text       start:0x0001F9B4 end:0x0001F9C4
+
+mo_stub/ft_zelda/gl_fn_104_1FD84.c:
+	.text       start:0x0001FD84 end:0x0001FD94
+
+mo_stub/ft_zelda/gl_fn_104_1FFC0.c:
+	.text       start:0x0001FFC0 end:0x0001FFD0
+
 mo_stub/ft_zelda/fn_104_21BB8.c:
 	.text       start:0x00021BB8 end:0x00021BC0
 
@@ -368,8 +434,23 @@ mo_stub/ft_zelda/fn_104_24474.c:
 mo_stub/ft_zelda/fn_104_24494.c:
 	.text       start:0x00024494 end:0x0002449C
 
+mo_stub/ft_zelda/gl_fn_104_24524.c:
+	.text       start:0x00024524 end:0x00024534
+
+mo_stub/ft_zelda/gl_fn_104_24754.c:
+	.text       start:0x00024754 end:0x00024764
+
 mo_stub/ft_zelda/fn_104_24764.c:
 	.text       start:0x00024764 end:0x0002476C
+
+mo_stub/ft_zelda/gl_fn_104_247F4.c:
+	.text       start:0x000247F4 end:0x00024804
+
+mo_stub/ft_zelda/gl_fn_104_24BAC.c:
+	.text       start:0x00024BAC end:0x00024BBC
+
+mo_stub/ft_zelda/gl_fn_104_24D00.c:
+	.text       start:0x00024D00 end:0x00024D10
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00024D10 end:0x00024DAC

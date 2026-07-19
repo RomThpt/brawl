@@ -89,6 +89,15 @@ mo_stub/ft_fox/fn_97_B4B0.c:
 mo_stub/ft_fox/fn_97_C8F0.c:
 	.text       start:0x0000C8F0 end:0x0000C8F8
 
+mo_stub/ft_fox/gl_fn_97_C904.c:
+	.text       start:0x0000C904 end:0x0000C910
+
+mo_stub/ft_fox/gl_fn_97_C924.c:
+	.text       start:0x0000C924 end:0x0000C930
+
+mo_stub/ft_fox/gl_fn_97_C930.c:
+	.text       start:0x0000C930 end:0x0000C93C
+
 mo_stub/ft_fox/acc_fn_97_C980.c:
 	.text       start:0x0000C980 end:0x0000C998
 
@@ -154,6 +163,9 @@ mo_stub/ft_fox/acc_fn_97_E574.c:
 
 mo_stub/ft_fox/fn_97_E61C.c:
 	.text       start:0x0000E61C end:0x0000E624
+
+mo_stub/ft_fox/gl_fn_97_E7D4.c:
+	.text       start:0x0000E7D4 end:0x0000E7E4
 
 mo_stub/ft_fox/fn_97_E924.c:
 	.text       start:0x0000E924 end:0x0000E944

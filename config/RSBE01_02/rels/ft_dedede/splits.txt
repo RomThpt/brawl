@@ -80,6 +80,15 @@ mo_stub/ft_dedede/fn_117_A888.c:
 mo_stub/ft_dedede/fn_117_C104.c:
 	.text       start:0x0000C104 end:0x0000C10C
 
+mo_stub/ft_dedede/gl_fn_117_C118.c:
+	.text       start:0x0000C118 end:0x0000C124
+
+mo_stub/ft_dedede/gl_fn_117_C138.c:
+	.text       start:0x0000C138 end:0x0000C144
+
+mo_stub/ft_dedede/gl_fn_117_C144.c:
+	.text       start:0x0000C144 end:0x0000C150
+
 mo_stub/ft_dedede/acc_fn_117_C308.c:
 	.text       start:0x0000C308 end:0x0000C350
 
@@ -182,17 +191,44 @@ mo_stub/ft_dedede/fn_117_E708.c:
 mo_stub/ft_dedede/fn_117_E70C.c:
 	.text       start:0x0000E70C end:0x0000E710
 
+mo_stub/ft_dedede/gl_fn_117_E758.c:
+	.text       start:0x0000E758 end:0x0000E768
+
+mo_stub/ft_dedede/gl_fn_117_EF00.c:
+	.text       start:0x0000EF00 end:0x0000EF10
+
+mo_stub/ft_dedede/gl_fn_117_F070.c:
+	.text       start:0x0000F070 end:0x0000F080
+
 mo_stub/ft_dedede/fn_117_F2B8.c:
 	.text       start:0x0000F2B8 end:0x0000F2BC
+
+mo_stub/ft_dedede/gl_fn_117_F3FC.c:
+	.text       start:0x0000F3FC end:0x0000F40C
 
 mo_stub/ft_dedede/fn_117_F40C.c:
 	.text       start:0x0000F40C end:0x0000F410
 
+mo_stub/ft_dedede/gl_fn_117_F588.c:
+	.text       start:0x0000F588 end:0x0000F598
+
+mo_stub/ft_dedede/gl_fn_117_1013C.c:
+	.text       start:0x0001013C end:0x0001014C
+
+mo_stub/ft_dedede/gl_fn_117_10DD4.c:
+	.text       start:0x00010DD4 end:0x00010DE4
+
 mo_stub/ft_dedede/fn_117_1119C.c:
 	.text       start:0x0001119C end:0x000111A0
 
+mo_stub/ft_dedede/gl_fn_117_11310.c:
+	.text       start:0x00011310 end:0x00011320
+
 mo_stub/ft_dedede/fn_117_11694.c:
 	.text       start:0x00011694 end:0x00011698
+
+mo_stub/ft_dedede/gl_fn_117_11BAC.c:
+	.text       start:0x00011BAC end:0x00011BBC
 
 mo_stub/ft_dedede/fn_117_15168.c:
 	.text       start:0x00015168 end:0x00015170
@@ -323,6 +359,9 @@ mo_stub/ft_dedede/fn_117_1C49C.c:
 mo_stub/ft_dedede/fn_117_1C8A8.c:
 	.text       start:0x0001C8A8 end:0x0001C8AC
 
+mo_stub/ft_dedede/gl_fn_117_1C974.c:
+	.text       start:0x0001C974 end:0x0001C984
+
 mo_stub/ft_dedede/fn_117_1CD04.c:
 	.text       start:0x0001CD04 end:0x0001CD0C
 
@@ -383,6 +422,12 @@ mo_stub/ft_dedede/fn_117_2202C.c:
 mo_stub/ft_dedede/fn_117_22054.c:
 	.text       start:0x00022054 end:0x0002205C
 
+mo_stub/ft_dedede/gl_fn_117_22F3C.c:
+	.text       start:0x00022F3C end:0x00022F4C
+
+mo_stub/ft_dedede/gl_fn_117_23B34.c:
+	.text       start:0x00023B34 end:0x00023B44
+
 mo_stub/ft_dedede/gl_fn_117_23B44.c:
 	.text       start:0x00023B44 end:0x00023B50
 
@@ -427,6 +472,9 @@ mo_stub/ft_dedede/gl_fn_117_23DBC.c:
 
 mo_stub/ft_dedede/fn_117_23DC8.c:
 	.text       start:0x00023DC8 end:0x00023DD0
+
+mo_stub/ft_dedede/gl_fn_117_23E58.c:
+	.text       start:0x00023E58 end:0x00023E68
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00023E68 end:0x00023F04

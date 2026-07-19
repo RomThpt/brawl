@@ -83,6 +83,15 @@ mo_stub/ft_donkey/fn_92_9B88.c:
 mo_stub/ft_donkey/fn_92_AB90.c:
 	.text       start:0x0000AB90 end:0x0000AB98
 
+mo_stub/ft_donkey/gl_fn_92_ABA4.c:
+	.text       start:0x0000ABA4 end:0x0000ABB0
+
+mo_stub/ft_donkey/gl_fn_92_ABC4.c:
+	.text       start:0x0000ABC4 end:0x0000ABD0
+
+mo_stub/ft_donkey/gl_fn_92_ABD0.c:
+	.text       start:0x0000ABD0 end:0x0000ABDC
+
 mo_stub/ft_donkey/acc_fn_92_AC20.c:
 	.text       start:0x0000AC20 end:0x0000AC68
 
@@ -176,8 +185,50 @@ mo_stub/ft_donkey/fn_92_CF14.c:
 mo_stub/ft_donkey/fn_92_CF60.c:
 	.text       start:0x0000CF60 end:0x0000CF68
 
+mo_stub/ft_donkey/gl_fn_92_CFB0.c:
+	.text       start:0x0000CFB0 end:0x0000CFC0
+
 mo_stub/ft_donkey/fn_92_D2AC.c:
 	.text       start:0x0000D2AC end:0x0000D2B0
+
+mo_stub/ft_donkey/gl_fn_92_D624.c:
+	.text       start:0x0000D624 end:0x0000D634
+
+mo_stub/ft_donkey/gl_fn_92_D934.c:
+	.text       start:0x0000D934 end:0x0000D944
+
+mo_stub/ft_donkey/gl_fn_92_DB18.c:
+	.text       start:0x0000DB18 end:0x0000DB28
+
+mo_stub/ft_donkey/gl_fn_92_F248.c:
+	.text       start:0x0000F248 end:0x0000F258
+
+mo_stub/ft_donkey/gl_fn_92_F3F4.c:
+	.text       start:0x0000F3F4 end:0x0000F404
+
+mo_stub/ft_donkey/gl_fn_92_F5EC.c:
+	.text       start:0x0000F5EC end:0x0000F5FC
+
+mo_stub/ft_donkey/gl_fn_92_F6F0.c:
+	.text       start:0x0000F6F0 end:0x0000F700
+
+mo_stub/ft_donkey/gl_fn_92_F8E8.c:
+	.text       start:0x0000F8E8 end:0x0000F8F8
+
+mo_stub/ft_donkey/gl_fn_92_FB0C.c:
+	.text       start:0x0000FB0C end:0x0000FB1C
+
+mo_stub/ft_donkey/gl_fn_92_FDBC.c:
+	.text       start:0x0000FDBC end:0x0000FDCC
+
+mo_stub/ft_donkey/gl_fn_92_FF0C.c:
+	.text       start:0x0000FF0C end:0x0000FF1C
+
+mo_stub/ft_donkey/gl_fn_92_10130.c:
+	.text       start:0x00010130 end:0x00010140
+
+mo_stub/ft_donkey/gl_fn_92_10314.c:
+	.text       start:0x00010314 end:0x00010324
 
 mo_stub/ft_donkey/fn_92_1270C.c:
 	.text       start:0x0001270C end:0x00012714
