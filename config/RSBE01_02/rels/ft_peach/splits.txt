@@ -89,6 +89,12 @@ mo_stub/ft_peach/fn_103_A2DC.c:
 mo_stub/ft_peach/fn_103_B328.c:
 	.text       start:0x0000B328 end:0x0000B330
 
+mo_stub/ft_peach/acc_fn_103_B3B8.c:
+	.text       start:0x0000B3B8 end:0x0000B3D0
+
+mo_stub/ft_peach/acc_fn_103_B3D0.c:
+	.text       start:0x0000B3D0 end:0x0000B3E8
+
 mo_stub/ft_peach/fn_103_C138.c:
 	.text       start:0x0000C138 end:0x0000C13C
 
@@ -98,26 +104,50 @@ mo_stub/ft_peach/fn_103_C844.c:
 mo_stub/ft_peach/fn_103_C880.c:
 	.text       start:0x0000C880 end:0x0000C888
 
+mo_stub/ft_peach/acc_fn_103_C894.c:
+	.text       start:0x0000C894 end:0x0000C8AC
+
 mo_stub/ft_peach/fn_103_C93C.c:
 	.text       start:0x0000C93C end:0x0000C944
+
+mo_stub/ft_peach/acc_fn_103_C97C.c:
+	.text       start:0x0000C97C end:0x0000C994
 
 mo_stub/ft_peach/fn_103_CA24.c:
 	.text       start:0x0000CA24 end:0x0000CA2C
 
+mo_stub/ft_peach/acc_fn_103_CA2C.c:
+	.text       start:0x0000CA2C end:0x0000CA44
+
 mo_stub/ft_peach/fn_103_CAD4.c:
 	.text       start:0x0000CAD4 end:0x0000CADC
+
+mo_stub/ft_peach/acc_fn_103_CADC.c:
+	.text       start:0x0000CADC end:0x0000CAF4
 
 mo_stub/ft_peach/fn_103_CB84.c:
 	.text       start:0x0000CB84 end:0x0000CB8C
 
+mo_stub/ft_peach/acc_fn_103_CBC4.c:
+	.text       start:0x0000CBC4 end:0x0000CBDC
+
 mo_stub/ft_peach/fn_103_CC6C.c:
 	.text       start:0x0000CC6C end:0x0000CC74
+
+mo_stub/ft_peach/acc_fn_103_CCAC.c:
+	.text       start:0x0000CCAC end:0x0000CCC4
 
 mo_stub/ft_peach/fn_103_CD54.c:
 	.text       start:0x0000CD54 end:0x0000CD5C
 
+mo_stub/ft_peach/acc_fn_103_CD94.c:
+	.text       start:0x0000CD94 end:0x0000CDAC
+
 mo_stub/ft_peach/fn_103_CE3C.c:
 	.text       start:0x0000CE3C end:0x0000CE44
+
+mo_stub/ft_peach/acc_fn_103_CE7C.c:
+	.text       start:0x0000CE7C end:0x0000CE94
 
 mo_stub/ft_peach/fn_103_CF24.c:
 	.text       start:0x0000CF24 end:0x0000CF2C

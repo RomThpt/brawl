@@ -95,6 +95,12 @@ mo_stub/ft_lucario/fn_118_A578.c:
 mo_stub/ft_lucario/fn_118_B584.c:
 	.text       start:0x0000B584 end:0x0000B594
 
+mo_stub/ft_lucario/acc_fn_118_B610.c:
+	.text       start:0x0000B610 end:0x0000B628
+
+mo_stub/ft_lucario/acc_fn_118_B628.c:
+	.text       start:0x0000B628 end:0x0000B660
+
 mo_stub/ft_lucario/fn_118_C3B0.c:
 	.text       start:0x0000C3B0 end:0x0000C3B4
 
@@ -104,26 +110,50 @@ mo_stub/ft_lucario/fn_118_CABC.c:
 mo_stub/ft_lucario/fn_118_CAF8.c:
 	.text       start:0x0000CAF8 end:0x0000CB00
 
+mo_stub/ft_lucario/acc_fn_118_CB44.c:
+	.text       start:0x0000CB44 end:0x0000CB5C
+
 mo_stub/ft_lucario/fn_118_CBEC.c:
 	.text       start:0x0000CBEC end:0x0000CBF4
+
+mo_stub/ft_lucario/acc_fn_118_CC2C.c:
+	.text       start:0x0000CC2C end:0x0000CC44
 
 mo_stub/ft_lucario/fn_118_CCD4.c:
 	.text       start:0x0000CCD4 end:0x0000CCDC
 
+mo_stub/ft_lucario/acc_fn_118_CD14.c:
+	.text       start:0x0000CD14 end:0x0000CD2C
+
 mo_stub/ft_lucario/fn_118_CDBC.c:
 	.text       start:0x0000CDBC end:0x0000CDC4
+
+mo_stub/ft_lucario/acc_fn_118_CDFC.c:
+	.text       start:0x0000CDFC end:0x0000CE14
 
 mo_stub/ft_lucario/fn_118_CEA4.c:
 	.text       start:0x0000CEA4 end:0x0000CEAC
 
+mo_stub/ft_lucario/acc_fn_118_CEE4.c:
+	.text       start:0x0000CEE4 end:0x0000CEFC
+
 mo_stub/ft_lucario/fn_118_CF8C.c:
 	.text       start:0x0000CF8C end:0x0000CF94
+
+mo_stub/ft_lucario/acc_fn_118_CFCC.c:
+	.text       start:0x0000CFCC end:0x0000CFE4
 
 mo_stub/ft_lucario/fn_118_D074.c:
 	.text       start:0x0000D074 end:0x0000D07C
 
+mo_stub/ft_lucario/acc_fn_118_D0B4.c:
+	.text       start:0x0000D0B4 end:0x0000D0CC
+
 mo_stub/ft_lucario/fn_118_D15C.c:
 	.text       start:0x0000D15C end:0x0000D164
+
+mo_stub/ft_lucario/acc_fn_118_D19C.c:
+	.text       start:0x0000D19C end:0x0000D1B4
 
 mo_stub/ft_lucario/fn_118_D244.c:
 	.text       start:0x0000D244 end:0x0000D24C

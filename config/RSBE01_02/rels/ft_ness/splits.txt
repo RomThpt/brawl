@@ -83,6 +83,18 @@ mo_stub/ft_ness/fn_101_D51C.c:
 mo_stub/ft_ness/fn_101_EE70.c:
 	.text       start:0x0000EE70 end:0x0000EE78
 
+mo_stub/ft_ness/acc_fn_101_EF00.c:
+	.text       start:0x0000EF00 end:0x0000EF18
+
+mo_stub/ft_ness/acc_fn_101_EF18.c:
+	.text       start:0x0000EF18 end:0x0000EF30
+
+mo_stub/ft_ness/acc_fn_101_F090.c:
+	.text       start:0x0000F090 end:0x0000F0B8
+
+mo_stub/ft_ness/acc_fn_101_F0B8.c:
+	.text       start:0x0000F0B8 end:0x0000F0D0
+
 mo_stub/ft_ness/fn_101_FE20.c:
 	.text       start:0x0000FE20 end:0x0000FE24
 
@@ -92,26 +104,50 @@ mo_stub/ft_ness/fn_101_10530.c:
 mo_stub/ft_ness/fn_101_1056C.c:
 	.text       start:0x0001056C end:0x00010574
 
+mo_stub/ft_ness/acc_fn_101_105B8.c:
+	.text       start:0x000105B8 end:0x000105D0
+
 mo_stub/ft_ness/fn_101_10660.c:
 	.text       start:0x00010660 end:0x00010668
+
+mo_stub/ft_ness/acc_fn_101_106A0.c:
+	.text       start:0x000106A0 end:0x000106B8
 
 mo_stub/ft_ness/fn_101_10748.c:
 	.text       start:0x00010748 end:0x00010750
 
+mo_stub/ft_ness/acc_fn_101_10788.c:
+	.text       start:0x00010788 end:0x000107A0
+
 mo_stub/ft_ness/fn_101_10830.c:
 	.text       start:0x00010830 end:0x00010838
+
+mo_stub/ft_ness/acc_fn_101_10870.c:
+	.text       start:0x00010870 end:0x00010888
 
 mo_stub/ft_ness/fn_101_10918.c:
 	.text       start:0x00010918 end:0x00010920
 
+mo_stub/ft_ness/acc_fn_101_10958.c:
+	.text       start:0x00010958 end:0x00010970
+
 mo_stub/ft_ness/fn_101_10A00.c:
 	.text       start:0x00010A00 end:0x00010A08
+
+mo_stub/ft_ness/acc_fn_101_10A40.c:
+	.text       start:0x00010A40 end:0x00010A58
 
 mo_stub/ft_ness/fn_101_10AE8.c:
 	.text       start:0x00010AE8 end:0x00010AF0
 
+mo_stub/ft_ness/acc_fn_101_10B28.c:
+	.text       start:0x00010B28 end:0x00010B40
+
 mo_stub/ft_ness/fn_101_10BD0.c:
 	.text       start:0x00010BD0 end:0x00010BD8
+
+mo_stub/ft_ness/acc_fn_101_10C10.c:
+	.text       start:0x00010C10 end:0x00010C28
 
 mo_stub/ft_ness/fn_101_10CB8.c:
 	.text       start:0x00010CB8 end:0x00010CC0

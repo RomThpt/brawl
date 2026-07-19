@@ -89,6 +89,15 @@ mo_stub/ft_lucas/fn_114_CF58.c:
 mo_stub/ft_lucas/fn_114_E6E8.c:
 	.text       start:0x0000E6E8 end:0x0000E6F0
 
+mo_stub/ft_lucas/acc_fn_114_E778.c:
+	.text       start:0x0000E778 end:0x0000E790
+
+mo_stub/ft_lucas/acc_fn_114_E8F0.c:
+	.text       start:0x0000E8F0 end:0x0000E918
+
+mo_stub/ft_lucas/acc_fn_114_E918.c:
+	.text       start:0x0000E918 end:0x0000E930
+
 mo_stub/ft_lucas/fn_114_F680.c:
 	.text       start:0x0000F680 end:0x0000F684
 
@@ -98,26 +107,50 @@ mo_stub/ft_lucas/fn_114_FD90.c:
 mo_stub/ft_lucas/fn_114_FDCC.c:
 	.text       start:0x0000FDCC end:0x0000FDD4
 
+mo_stub/ft_lucas/acc_fn_114_FE18.c:
+	.text       start:0x0000FE18 end:0x0000FE30
+
 mo_stub/ft_lucas/fn_114_FEC0.c:
 	.text       start:0x0000FEC0 end:0x0000FEC8
+
+mo_stub/ft_lucas/acc_fn_114_FF00.c:
+	.text       start:0x0000FF00 end:0x0000FF18
 
 mo_stub/ft_lucas/fn_114_FFA8.c:
 	.text       start:0x0000FFA8 end:0x0000FFB0
 
+mo_stub/ft_lucas/acc_fn_114_FFE8.c:
+	.text       start:0x0000FFE8 end:0x00010000
+
 mo_stub/ft_lucas/fn_114_10090.c:
 	.text       start:0x00010090 end:0x00010098
+
+mo_stub/ft_lucas/acc_fn_114_100D0.c:
+	.text       start:0x000100D0 end:0x000100E8
 
 mo_stub/ft_lucas/fn_114_10178.c:
 	.text       start:0x00010178 end:0x00010180
 
+mo_stub/ft_lucas/acc_fn_114_101B8.c:
+	.text       start:0x000101B8 end:0x000101D0
+
 mo_stub/ft_lucas/fn_114_10260.c:
 	.text       start:0x00010260 end:0x00010268
+
+mo_stub/ft_lucas/acc_fn_114_102A0.c:
+	.text       start:0x000102A0 end:0x000102B8
 
 mo_stub/ft_lucas/fn_114_10348.c:
 	.text       start:0x00010348 end:0x00010350
 
+mo_stub/ft_lucas/acc_fn_114_10388.c:
+	.text       start:0x00010388 end:0x000103A0
+
 mo_stub/ft_lucas/fn_114_10430.c:
 	.text       start:0x00010430 end:0x00010438
+
+mo_stub/ft_lucas/acc_fn_114_10470.c:
+	.text       start:0x00010470 end:0x00010488
 
 mo_stub/ft_lucas/fn_114_10518.c:
 	.text       start:0x00010518 end:0x00010520
