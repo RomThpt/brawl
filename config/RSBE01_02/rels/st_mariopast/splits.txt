@@ -212,6 +212,21 @@ mo_stub/st_mariopast/fn_48_7870.c:
 mo_stub/st_mariopast/fn_48_7898.c:
 	.text       start:0x00007898 end:0x000078C0
 
+mo_stub/st_mariopast/xm_fn_48_78C0.c:
+	.text       start:0x000078C0 end:0x000078C8
+
+mo_stub/st_mariopast/xm_fn_48_78C8.c:
+	.text       start:0x000078C8 end:0x000078D0
+
+mo_stub/st_mariopast/xm_fn_48_78D0.c:
+	.text       start:0x000078D0 end:0x000078D8
+
+mo_stub/st_mariopast/xm_fn_48_78D8.c:
+	.text       start:0x000078D8 end:0x000078E0
+
+mo_stub/st_mariopast/xm_fn_48_78E0.c:
+	.text       start:0x000078E0 end:0x000078E8
+
 mo_stub/st_mariopast/bf_fn_48_AE5C.c:
 	.text       start:0x0000AE5C end:0x0000AE68
 

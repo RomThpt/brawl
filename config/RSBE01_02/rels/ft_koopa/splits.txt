@@ -158,11 +158,116 @@ mo_stub/ft_koopa/fn_102_BE80.c:
 mo_stub/ft_koopa/fn_102_C084.c:
 	.text       start:0x0000C084 end:0x0000C0A4
 
+mo_stub/ft_koopa/xm_fn_102_C0A4.c:
+	.text       start:0x0000C0A4 end:0x0000C0AC
+
+mo_stub/ft_koopa/xm_fn_102_C0AC.c:
+	.text       start:0x0000C0AC end:0x0000C0B4
+
 mo_stub/ft_koopa/fn_102_C0B4.c:
 	.text       start:0x0000C0B4 end:0x0000C0BC
 
 mo_stub/ft_koopa/fn_102_C0BC.c:
 	.text       start:0x0000C0BC end:0x0000C0D4
+
+mo_stub/ft_koopa/xm_fn_102_C0D4.c:
+	.text       start:0x0000C0D4 end:0x0000C0DC
+
+mo_stub/ft_koopa/xm_fn_102_C0DC.c:
+	.text       start:0x0000C0DC end:0x0000C0E4
+
+mo_stub/ft_koopa/xm_fn_102_C0E4.c:
+	.text       start:0x0000C0E4 end:0x0000C0EC
+
+mo_stub/ft_koopa/xm_fn_102_C0EC.c:
+	.text       start:0x0000C0EC end:0x0000C0F4
+
+mo_stub/ft_koopa/xm_fn_102_C0F4.c:
+	.text       start:0x0000C0F4 end:0x0000C0FC
+
+mo_stub/ft_koopa/xm_fn_102_C0FC.c:
+	.text       start:0x0000C0FC end:0x0000C104
+
+mo_stub/ft_koopa/xm_fn_102_C104.c:
+	.text       start:0x0000C104 end:0x0000C10C
+
+mo_stub/ft_koopa/xm_fn_102_C10C.c:
+	.text       start:0x0000C10C end:0x0000C114
+
+mo_stub/ft_koopa/xm_fn_102_C114.c:
+	.text       start:0x0000C114 end:0x0000C11C
+
+mo_stub/ft_koopa/xm_fn_102_C11C.c:
+	.text       start:0x0000C11C end:0x0000C124
+
+mo_stub/ft_koopa/xm_fn_102_C124.c:
+	.text       start:0x0000C124 end:0x0000C12C
+
+mo_stub/ft_koopa/xm_fn_102_C12C.c:
+	.text       start:0x0000C12C end:0x0000C134
+
+mo_stub/ft_koopa/xm_fn_102_C134.c:
+	.text       start:0x0000C134 end:0x0000C13C
+
+mo_stub/ft_koopa/xm_fn_102_C13C.c:
+	.text       start:0x0000C13C end:0x0000C144
+
+mo_stub/ft_koopa/xm_fn_102_C144.c:
+	.text       start:0x0000C144 end:0x0000C14C
+
+mo_stub/ft_koopa/xm_fn_102_C14C.c:
+	.text       start:0x0000C14C end:0x0000C154
+
+mo_stub/ft_koopa/xm_fn_102_C154.c:
+	.text       start:0x0000C154 end:0x0000C15C
+
+mo_stub/ft_koopa/xm_fn_102_C15C.c:
+	.text       start:0x0000C15C end:0x0000C164
+
+mo_stub/ft_koopa/xm_fn_102_C164.c:
+	.text       start:0x0000C164 end:0x0000C16C
+
+mo_stub/ft_koopa/xm_fn_102_C16C.c:
+	.text       start:0x0000C16C end:0x0000C174
+
+mo_stub/ft_koopa/xm_fn_102_C174.c:
+	.text       start:0x0000C174 end:0x0000C17C
+
+mo_stub/ft_koopa/xm_fn_102_C17C.c:
+	.text       start:0x0000C17C end:0x0000C184
+
+mo_stub/ft_koopa/xm_fn_102_C184.c:
+	.text       start:0x0000C184 end:0x0000C18C
+
+mo_stub/ft_koopa/xm_fn_102_C18C.c:
+	.text       start:0x0000C18C end:0x0000C194
+
+mo_stub/ft_koopa/xm_fn_102_C194.c:
+	.text       start:0x0000C194 end:0x0000C19C
+
+mo_stub/ft_koopa/xm_fn_102_C19C.c:
+	.text       start:0x0000C19C end:0x0000C1A4
+
+mo_stub/ft_koopa/xm_fn_102_C1A4.c:
+	.text       start:0x0000C1A4 end:0x0000C1AC
+
+mo_stub/ft_koopa/xm_fn_102_C1AC.c:
+	.text       start:0x0000C1AC end:0x0000C1B4
+
+mo_stub/ft_koopa/xm_fn_102_C1B4.c:
+	.text       start:0x0000C1B4 end:0x0000C1BC
+
+mo_stub/ft_koopa/xm_fn_102_C1BC.c:
+	.text       start:0x0000C1BC end:0x0000C1C4
+
+mo_stub/ft_koopa/xm_fn_102_C1C4.c:
+	.text       start:0x0000C1C4 end:0x0000C1CC
+
+mo_stub/ft_koopa/xm_fn_102_C1CC.c:
+	.text       start:0x0000C1CC end:0x0000C1D4
+
+mo_stub/ft_koopa/xm_fn_102_C1D4.c:
+	.text       start:0x0000C1D4 end:0x0000C1DC
 
 mo_stub/ft_koopa/fn_102_D554.c:
 	.text       start:0x0000D554 end:0x0000D55C
@@ -347,17 +452,50 @@ mo_stub/ft_koopa/fn_102_1C0C8.c:
 mo_stub/ft_koopa/fn_102_1C0D0.c:
 	.text       start:0x0001C0D0 end:0x0001C0E0
 
+mo_stub/ft_koopa/xm_fn_102_1C0E0.c:
+	.text       start:0x0001C0E0 end:0x0001C0E8
+
+mo_stub/ft_koopa/xm_fn_102_1C0E8.c:
+	.text       start:0x0001C0E8 end:0x0001C0F0
+
 mo_stub/ft_koopa/fn_102_1C0F0.c:
 	.text       start:0x0001C0F0 end:0x0001C108
 
 mo_stub/ft_koopa/fn_102_1C108.c:
 	.text       start:0x0001C108 end:0x0001C118
 
+mo_stub/ft_koopa/xm_fn_102_1C118.c:
+	.text       start:0x0001C118 end:0x0001C120
+
+mo_stub/ft_koopa/xm_fn_102_1C120.c:
+	.text       start:0x0001C120 end:0x0001C128
+
 mo_stub/ft_koopa/fn_102_1C128.c:
 	.text       start:0x0001C128 end:0x0001C130
 
+mo_stub/ft_koopa/xm_fn_102_1C130.c:
+	.text       start:0x0001C130 end:0x0001C138
+
+mo_stub/ft_koopa/xm_fn_102_1C138.c:
+	.text       start:0x0001C138 end:0x0001C140
+
+mo_stub/ft_koopa/xm_fn_102_1C140.c:
+	.text       start:0x0001C140 end:0x0001C148
+
 mo_stub/ft_koopa/fn_102_1C148.c:
 	.text       start:0x0001C148 end:0x0001C150
+
+mo_stub/ft_koopa/xm_fn_102_1C150.c:
+	.text       start:0x0001C150 end:0x0001C158
+
+mo_stub/ft_koopa/xm_fn_102_1C158.c:
+	.text       start:0x0001C158 end:0x0001C160
+
+mo_stub/ft_koopa/xm_fn_102_1C160.c:
+	.text       start:0x0001C160 end:0x0001C168
+
+mo_stub/ft_koopa/xm_fn_102_1C170.c:
+	.text       start:0x0001C170 end:0x0001C178
 
 mo_stub/ft_koopa/fn_102_1C178.c:
 	.text       start:0x0001C178 end:0x0001C180
@@ -365,14 +503,65 @@ mo_stub/ft_koopa/fn_102_1C178.c:
 mo_stub/ft_koopa/fn_102_1C180.c:
 	.text       start:0x0001C180 end:0x0001C188
 
+mo_stub/ft_koopa/xm_fn_102_1C188.c:
+	.text       start:0x0001C188 end:0x0001C190
+
+mo_stub/ft_koopa/xm_fn_102_1C190.c:
+	.text       start:0x0001C190 end:0x0001C198
+
+mo_stub/ft_koopa/xm_fn_102_1C198.c:
+	.text       start:0x0001C198 end:0x0001C1A0
+
+mo_stub/ft_koopa/xm_fn_102_1C1A0.c:
+	.text       start:0x0001C1A0 end:0x0001C1A8
+
+mo_stub/ft_koopa/xm_fn_102_1C1A8.c:
+	.text       start:0x0001C1A8 end:0x0001C1B0
+
+mo_stub/ft_koopa/xm_fn_102_1C1B0.c:
+	.text       start:0x0001C1B0 end:0x0001C1B8
+
 mo_stub/ft_koopa/fn_102_1C1B8.c:
 	.text       start:0x0001C1B8 end:0x0001C1C8
+
+mo_stub/ft_koopa/xm_fn_102_1C1C8.c:
+	.text       start:0x0001C1C8 end:0x0001C1D0
+
+mo_stub/ft_koopa/xm_fn_102_1C1D0.c:
+	.text       start:0x0001C1D0 end:0x0001C1D8
+
+mo_stub/ft_koopa/xm_fn_102_1C1D8.c:
+	.text       start:0x0001C1D8 end:0x0001C1E0
+
+mo_stub/ft_koopa/xm_fn_102_1C1E0.c:
+	.text       start:0x0001C1E0 end:0x0001C1E8
+
+mo_stub/ft_koopa/xm_fn_102_1C1E8.c:
+	.text       start:0x0001C1E8 end:0x0001C1F0
+
+mo_stub/ft_koopa/xm_fn_102_1C1F0.c:
+	.text       start:0x0001C1F0 end:0x0001C1F8
+
+mo_stub/ft_koopa/xm_fn_102_1C1F8.c:
+	.text       start:0x0001C1F8 end:0x0001C200
+
+mo_stub/ft_koopa/xm_fn_102_1C200.c:
+	.text       start:0x0001C200 end:0x0001C208
+
+mo_stub/ft_koopa/xm_fn_102_1C208.c:
+	.text       start:0x0001C208 end:0x0001C210
 
 mo_stub/ft_koopa/fn_102_1C210.c:
 	.text       start:0x0001C210 end:0x0001C218
 
+mo_stub/ft_koopa/xm_fn_102_1C218.c:
+	.text       start:0x0001C218 end:0x0001C220
+
 mo_stub/ft_koopa/fn_102_1C220.c:
 	.text       start:0x0001C220 end:0x0001C228
+
+mo_stub/ft_koopa/xm_fn_102_1C228.c:
+	.text       start:0x0001C228 end:0x0001C230
 
 mo_stub/ft_koopa/fn_102_1C230.c:
 	.text       start:0x0001C230 end:0x0001C238

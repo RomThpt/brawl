@@ -509,6 +509,21 @@ mo_stub/st_jungle/fn_51_B1C4.c:
 mo_stub/st_jungle/fn_51_B1EC.c:
 	.text       start:0x0000B1EC end:0x0000B1FC
 
+mo_stub/st_jungle/xm_fn_51_B1FC.c:
+	.text       start:0x0000B1FC end:0x0000B204
+
+mo_stub/st_jungle/xm_fn_51_B204.c:
+	.text       start:0x0000B204 end:0x0000B20C
+
+mo_stub/st_jungle/xm_fn_51_B20C.c:
+	.text       start:0x0000B20C end:0x0000B214
+
+mo_stub/st_jungle/xm_fn_51_B214.c:
+	.text       start:0x0000B214 end:0x0000B21C
+
+mo_stub/st_jungle/xm_fn_51_B21C.c:
+	.text       start:0x0000B21C end:0x0000B224
+
 mo_stub/st_jungle/fn_51_C024.c:
 	.text       start:0x0000C024 end:0x0000C034
 

@@ -248,3 +248,14 @@ second. Il aurait fallu les marquer différemment dès le départ.
 Corollaire : tester CHAQUE générateur sur UN module avant de dérouler, y compris
 quand on ne fait que "relancer" un générateur déjà éprouvé — le contexte (ici le
 blacklist) a pu changer entre-temps.
+
+## Thunks cross-module (bank_xmod.py) — 2278 fonctions
+`addi r3,r3,X ; b target` où target est dans un autre module ou le DOL.
+- la relocation REL24 donne module_id + offset ;
+- la carte id -> module se lit dans l'en-tête .rel (identifiant à l'offset 0) ;
+- module_id 0 = DOL -> config/RSBE01_02/symbols.txt.
+
+Sur 4492 candidats, 2278 ont une cible déclarable en C. Les autres visent des
+méthodes de templates C++ dont le nom mangé contient `<` `>` : le générateur les
+écarte via un test d'identifiant valide plutôt que de produire du code qui ne
+compile pas.

@@ -488,6 +488,21 @@ mo_stub/st_kart/fn_49_B914.c:
 mo_stub/st_kart/fn_49_B93C.c:
 	.text       start:0x0000B93C end:0x0000B94C
 
+mo_stub/st_kart/xm_fn_49_B94C.c:
+	.text       start:0x0000B94C end:0x0000B954
+
+mo_stub/st_kart/xm_fn_49_B954.c:
+	.text       start:0x0000B954 end:0x0000B95C
+
+mo_stub/st_kart/xm_fn_49_B95C.c:
+	.text       start:0x0000B95C end:0x0000B964
+
+mo_stub/st_kart/xm_fn_49_B964.c:
+	.text       start:0x0000B964 end:0x0000B96C
+
+mo_stub/st_kart/xm_fn_49_B96C.c:
+	.text       start:0x0000B96C end:0x0000B974
+
 mo_stub/st_kart/fn_49_C07C.c:
 	.text       start:0x0000C07C end:0x0000C084
 

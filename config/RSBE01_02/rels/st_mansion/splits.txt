@@ -500,6 +500,21 @@ mo_stub/st_mansion/fn_47_9940.c:
 mo_stub/st_mansion/fn_47_9968.c:
 	.text       start:0x00009968 end:0x00009978
 
+mo_stub/st_mansion/xm_fn_47_9978.c:
+	.text       start:0x00009978 end:0x00009980
+
+mo_stub/st_mansion/xm_fn_47_9980.c:
+	.text       start:0x00009980 end:0x00009988
+
+mo_stub/st_mansion/xm_fn_47_9988.c:
+	.text       start:0x00009988 end:0x00009990
+
+mo_stub/st_mansion/xm_fn_47_9990.c:
+	.text       start:0x00009990 end:0x00009998
+
+mo_stub/st_mansion/xm_fn_47_9998.c:
+	.text       start:0x00009998 end:0x000099A0
+
 mo_stub/st_mansion/fn_47_9BB8.c:
 	.text       start:0x00009BB8 end:0x00009BBC
 

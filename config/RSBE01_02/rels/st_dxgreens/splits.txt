@@ -647,6 +647,21 @@ mo_stub/st_dxgreens/fn_79_A640.c:
 mo_stub/st_dxgreens/fn_79_A668.c:
 	.text       start:0x0000A668 end:0x0000A688
 
+mo_stub/st_dxgreens/xm_fn_79_A688.c:
+	.text       start:0x0000A688 end:0x0000A690
+
+mo_stub/st_dxgreens/xm_fn_79_A690.c:
+	.text       start:0x0000A690 end:0x0000A698
+
+mo_stub/st_dxgreens/xm_fn_79_A698.c:
+	.text       start:0x0000A698 end:0x0000A6A0
+
+mo_stub/st_dxgreens/xm_fn_79_A6A0.c:
+	.text       start:0x0000A6A0 end:0x0000A6A8
+
+mo_stub/st_dxgreens/xm_fn_79_A6A8.c:
+	.text       start:0x0000A6A8 end:0x0000A6B0
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000C1DC end:0x0000C278
 	.data       start:0x00003098 end:0x000030A5

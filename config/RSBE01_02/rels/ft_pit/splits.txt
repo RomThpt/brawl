@@ -155,20 +155,125 @@ mo_stub/ft_pit/fn_112_DA5C.c:
 mo_stub/ft_pit/fn_112_DC60.c:
 	.text       start:0x0000DC60 end:0x0000DC80
 
+mo_stub/ft_pit/xm_fn_112_DC80.c:
+	.text       start:0x0000DC80 end:0x0000DC88
+
+mo_stub/ft_pit/xm_fn_112_DC88.c:
+	.text       start:0x0000DC88 end:0x0000DC90
+
+mo_stub/ft_pit/xm_fn_112_DC90.c:
+	.text       start:0x0000DC90 end:0x0000DC98
+
+mo_stub/ft_pit/xm_fn_112_DC98.c:
+	.text       start:0x0000DC98 end:0x0000DCA0
+
+mo_stub/ft_pit/xm_fn_112_DCA0.c:
+	.text       start:0x0000DCA0 end:0x0000DCA8
+
+mo_stub/ft_pit/xm_fn_112_DCA8.c:
+	.text       start:0x0000DCA8 end:0x0000DCB0
+
+mo_stub/ft_pit/xm_fn_112_DCB0.c:
+	.text       start:0x0000DCB0 end:0x0000DCB8
+
 mo_stub/ft_pit/fn_112_DCB8.c:
 	.text       start:0x0000DCB8 end:0x0000DCC0
+
+mo_stub/ft_pit/xm_fn_112_DCC0.c:
+	.text       start:0x0000DCC0 end:0x0000DCC8
 
 mo_stub/ft_pit/fn_112_DCC8.c:
 	.text       start:0x0000DCC8 end:0x0000DCE8
 
+mo_stub/ft_pit/xm_fn_112_DCE8.c:
+	.text       start:0x0000DCE8 end:0x0000DCF0
+
+mo_stub/ft_pit/xm_fn_112_DCF0.c:
+	.text       start:0x0000DCF0 end:0x0000DCF8
+
+mo_stub/ft_pit/xm_fn_112_DCF8.c:
+	.text       start:0x0000DCF8 end:0x0000DD00
+
 mo_stub/ft_pit/fn_112_DD00.c:
 	.text       start:0x0000DD00 end:0x0000DD08
+
+mo_stub/ft_pit/xm_fn_112_DD08.c:
+	.text       start:0x0000DD08 end:0x0000DD10
 
 mo_stub/ft_pit/fn_112_DD10.c:
 	.text       start:0x0000DD10 end:0x0000DD20
 
+mo_stub/ft_pit/xm_fn_112_DD20.c:
+	.text       start:0x0000DD20 end:0x0000DD28
+
 mo_stub/ft_pit/fn_112_DD28.c:
 	.text       start:0x0000DD28 end:0x0000DD30
+
+mo_stub/ft_pit/xm_fn_112_DD30.c:
+	.text       start:0x0000DD30 end:0x0000DD38
+
+mo_stub/ft_pit/xm_fn_112_DD38.c:
+	.text       start:0x0000DD38 end:0x0000DD40
+
+mo_stub/ft_pit/xm_fn_112_DD40.c:
+	.text       start:0x0000DD40 end:0x0000DD48
+
+mo_stub/ft_pit/xm_fn_112_DD48.c:
+	.text       start:0x0000DD48 end:0x0000DD50
+
+mo_stub/ft_pit/xm_fn_112_DD50.c:
+	.text       start:0x0000DD50 end:0x0000DD58
+
+mo_stub/ft_pit/xm_fn_112_DD58.c:
+	.text       start:0x0000DD58 end:0x0000DD60
+
+mo_stub/ft_pit/xm_fn_112_DD60.c:
+	.text       start:0x0000DD60 end:0x0000DD68
+
+mo_stub/ft_pit/xm_fn_112_DD68.c:
+	.text       start:0x0000DD68 end:0x0000DD70
+
+mo_stub/ft_pit/xm_fn_112_DD70.c:
+	.text       start:0x0000DD70 end:0x0000DD78
+
+mo_stub/ft_pit/xm_fn_112_DD78.c:
+	.text       start:0x0000DD78 end:0x0000DD80
+
+mo_stub/ft_pit/xm_fn_112_DD80.c:
+	.text       start:0x0000DD80 end:0x0000DD88
+
+mo_stub/ft_pit/xm_fn_112_DD88.c:
+	.text       start:0x0000DD88 end:0x0000DD90
+
+mo_stub/ft_pit/xm_fn_112_DD90.c:
+	.text       start:0x0000DD90 end:0x0000DD98
+
+mo_stub/ft_pit/xm_fn_112_DD98.c:
+	.text       start:0x0000DD98 end:0x0000DDA0
+
+mo_stub/ft_pit/xm_fn_112_DDA0.c:
+	.text       start:0x0000DDA0 end:0x0000DDA8
+
+mo_stub/ft_pit/xm_fn_112_DDA8.c:
+	.text       start:0x0000DDA8 end:0x0000DDB0
+
+mo_stub/ft_pit/xm_fn_112_DDB0.c:
+	.text       start:0x0000DDB0 end:0x0000DDB8
+
+mo_stub/ft_pit/xm_fn_112_DDB8.c:
+	.text       start:0x0000DDB8 end:0x0000DDC0
+
+mo_stub/ft_pit/xm_fn_112_DDC0.c:
+	.text       start:0x0000DDC0 end:0x0000DDC8
+
+mo_stub/ft_pit/xm_fn_112_DDC8.c:
+	.text       start:0x0000DDC8 end:0x0000DDD0
+
+mo_stub/ft_pit/xm_fn_112_DDD0.c:
+	.text       start:0x0000DDD0 end:0x0000DDD8
+
+mo_stub/ft_pit/xm_fn_112_DDD8.c:
+	.text       start:0x0000DDD8 end:0x0000DDE0
 
 mo_stub/ft_pit/fn_112_E06C.c:
 	.text       start:0x0000E06C end:0x0000E070
@@ -329,32 +434,116 @@ mo_stub/ft_pit/fn_112_125B4.c:
 mo_stub/ft_pit/fn_112_125C8.c:
 	.text       start:0x000125C8 end:0x000125E0
 
+mo_stub/ft_pit/xm_fn_112_125E0.c:
+	.text       start:0x000125E0 end:0x000125E8
+
 mo_stub/ft_pit/fn_112_125E8.c:
 	.text       start:0x000125E8 end:0x000125F0
 
 mo_stub/ft_pit/fn_112_125F0.c:
 	.text       start:0x000125F0 end:0x00012600
 
+mo_stub/ft_pit/xm_fn_112_12600.c:
+	.text       start:0x00012600 end:0x00012608
+
 mo_stub/ft_pit/fn_112_12608.c:
 	.text       start:0x00012608 end:0x00012610
+
+mo_stub/ft_pit/xm_fn_112_12610.c:
+	.text       start:0x00012610 end:0x00012618
+
+mo_stub/ft_pit/xm_fn_112_12618.c:
+	.text       start:0x00012618 end:0x00012620
 
 mo_stub/ft_pit/fn_112_12620.c:
 	.text       start:0x00012620 end:0x00012628
 
+mo_stub/ft_pit/xm_fn_112_12628.c:
+	.text       start:0x00012628 end:0x00012630
+
+mo_stub/ft_pit/xm_fn_112_12630.c:
+	.text       start:0x00012630 end:0x00012638
+
+mo_stub/ft_pit/xm_fn_112_12638.c:
+	.text       start:0x00012638 end:0x00012640
+
 mo_stub/ft_pit/fn_112_12640.c:
 	.text       start:0x00012640 end:0x00012648
+
+mo_stub/ft_pit/xm_fn_112_12648.c:
+	.text       start:0x00012648 end:0x00012650
+
+mo_stub/ft_pit/xm_fn_112_12650.c:
+	.text       start:0x00012650 end:0x00012658
+
+mo_stub/ft_pit/xm_fn_112_12658.c:
+	.text       start:0x00012658 end:0x00012660
+
+mo_stub/ft_pit/xm_fn_112_12668.c:
+	.text       start:0x00012668 end:0x00012670
 
 mo_stub/ft_pit/fn_112_12670.c:
 	.text       start:0x00012670 end:0x00012680
 
+mo_stub/ft_pit/xm_fn_112_12680.c:
+	.text       start:0x00012680 end:0x00012688
+
+mo_stub/ft_pit/xm_fn_112_12688.c:
+	.text       start:0x00012688 end:0x00012690
+
+mo_stub/ft_pit/xm_fn_112_12690.c:
+	.text       start:0x00012690 end:0x00012698
+
+mo_stub/ft_pit/xm_fn_112_12698.c:
+	.text       start:0x00012698 end:0x000126A0
+
+mo_stub/ft_pit/xm_fn_112_126A0.c:
+	.text       start:0x000126A0 end:0x000126A8
+
+mo_stub/ft_pit/xm_fn_112_126A8.c:
+	.text       start:0x000126A8 end:0x000126B0
+
 mo_stub/ft_pit/fn_112_126B0.c:
 	.text       start:0x000126B0 end:0x000126C0
+
+mo_stub/ft_pit/xm_fn_112_126C0.c:
+	.text       start:0x000126C0 end:0x000126C8
+
+mo_stub/ft_pit/xm_fn_112_126C8.c:
+	.text       start:0x000126C8 end:0x000126D0
+
+mo_stub/ft_pit/xm_fn_112_126D0.c:
+	.text       start:0x000126D0 end:0x000126D8
+
+mo_stub/ft_pit/xm_fn_112_126D8.c:
+	.text       start:0x000126D8 end:0x000126E0
+
+mo_stub/ft_pit/xm_fn_112_126E0.c:
+	.text       start:0x000126E0 end:0x000126E8
+
+mo_stub/ft_pit/xm_fn_112_126E8.c:
+	.text       start:0x000126E8 end:0x000126F0
+
+mo_stub/ft_pit/xm_fn_112_126F0.c:
+	.text       start:0x000126F0 end:0x000126F8
+
+mo_stub/ft_pit/xm_fn_112_126F8.c:
+	.text       start:0x000126F8 end:0x00012700
+
+mo_stub/ft_pit/xm_fn_112_12700.c:
+	.text       start:0x00012700 end:0x00012708
 
 mo_stub/ft_pit/fn_112_12708.c:
 	.text       start:0x00012708 end:0x00012710
 
+mo_stub/ft_pit/xm_fn_112_12710.c:
+	.text       start:0x00012710 end:0x00012718
+
 mo_stub/ft_pit/fn_112_12718.c:
 	.text       start:0x00012718 end:0x00012720
+
+mo_stub/ft_pit/xm_fn_112_12720.c:
+	.text       start:0x00012720 end:0x00012728
 
 mo_stub/ft_pit/fn_112_12728.c:
 	.text       start:0x00012728 end:0x00012738

@@ -167,14 +167,119 @@ mo_stub/ft_pikachu/fn_98_E200.c:
 mo_stub/ft_pikachu/fn_98_E404.c:
 	.text       start:0x0000E404 end:0x0000E424
 
+mo_stub/ft_pikachu/xm_fn_98_E424.c:
+	.text       start:0x0000E424 end:0x0000E42C
+
 mo_stub/ft_pikachu/fn_98_E42C.c:
 	.text       start:0x0000E42C end:0x0000E434
+
+mo_stub/ft_pikachu/xm_fn_98_E434.c:
+	.text       start:0x0000E434 end:0x0000E43C
 
 mo_stub/ft_pikachu/fn_98_E43C.c:
 	.text       start:0x0000E43C end:0x0000E444
 
+mo_stub/ft_pikachu/xm_fn_98_E444.c:
+	.text       start:0x0000E444 end:0x0000E44C
+
 mo_stub/ft_pikachu/fn_98_E44C.c:
 	.text       start:0x0000E44C end:0x0000E454
+
+mo_stub/ft_pikachu/xm_fn_98_E454.c:
+	.text       start:0x0000E454 end:0x0000E45C
+
+mo_stub/ft_pikachu/xm_fn_98_E45C.c:
+	.text       start:0x0000E45C end:0x0000E464
+
+mo_stub/ft_pikachu/xm_fn_98_E464.c:
+	.text       start:0x0000E464 end:0x0000E46C
+
+mo_stub/ft_pikachu/xm_fn_98_E46C.c:
+	.text       start:0x0000E46C end:0x0000E474
+
+mo_stub/ft_pikachu/xm_fn_98_E474.c:
+	.text       start:0x0000E474 end:0x0000E47C
+
+mo_stub/ft_pikachu/xm_fn_98_E47C.c:
+	.text       start:0x0000E47C end:0x0000E484
+
+mo_stub/ft_pikachu/xm_fn_98_E484.c:
+	.text       start:0x0000E484 end:0x0000E48C
+
+mo_stub/ft_pikachu/xm_fn_98_E48C.c:
+	.text       start:0x0000E48C end:0x0000E494
+
+mo_stub/ft_pikachu/xm_fn_98_E494.c:
+	.text       start:0x0000E494 end:0x0000E49C
+
+mo_stub/ft_pikachu/xm_fn_98_E49C.c:
+	.text       start:0x0000E49C end:0x0000E4A4
+
+mo_stub/ft_pikachu/xm_fn_98_E4A4.c:
+	.text       start:0x0000E4A4 end:0x0000E4AC
+
+mo_stub/ft_pikachu/xm_fn_98_E4AC.c:
+	.text       start:0x0000E4AC end:0x0000E4B4
+
+mo_stub/ft_pikachu/xm_fn_98_E4B4.c:
+	.text       start:0x0000E4B4 end:0x0000E4BC
+
+mo_stub/ft_pikachu/xm_fn_98_E4BC.c:
+	.text       start:0x0000E4BC end:0x0000E4C4
+
+mo_stub/ft_pikachu/xm_fn_98_E4C4.c:
+	.text       start:0x0000E4C4 end:0x0000E4CC
+
+mo_stub/ft_pikachu/xm_fn_98_E4CC.c:
+	.text       start:0x0000E4CC end:0x0000E4D4
+
+mo_stub/ft_pikachu/xm_fn_98_E4D4.c:
+	.text       start:0x0000E4D4 end:0x0000E4DC
+
+mo_stub/ft_pikachu/xm_fn_98_E4DC.c:
+	.text       start:0x0000E4DC end:0x0000E4E4
+
+mo_stub/ft_pikachu/xm_fn_98_E4E4.c:
+	.text       start:0x0000E4E4 end:0x0000E4EC
+
+mo_stub/ft_pikachu/xm_fn_98_E4EC.c:
+	.text       start:0x0000E4EC end:0x0000E4F4
+
+mo_stub/ft_pikachu/xm_fn_98_E4F4.c:
+	.text       start:0x0000E4F4 end:0x0000E4FC
+
+mo_stub/ft_pikachu/xm_fn_98_E4FC.c:
+	.text       start:0x0000E4FC end:0x0000E504
+
+mo_stub/ft_pikachu/xm_fn_98_E504.c:
+	.text       start:0x0000E504 end:0x0000E50C
+
+mo_stub/ft_pikachu/xm_fn_98_E50C.c:
+	.text       start:0x0000E50C end:0x0000E514
+
+mo_stub/ft_pikachu/xm_fn_98_E514.c:
+	.text       start:0x0000E514 end:0x0000E51C
+
+mo_stub/ft_pikachu/xm_fn_98_E51C.c:
+	.text       start:0x0000E51C end:0x0000E524
+
+mo_stub/ft_pikachu/xm_fn_98_E524.c:
+	.text       start:0x0000E524 end:0x0000E52C
+
+mo_stub/ft_pikachu/xm_fn_98_E52C.c:
+	.text       start:0x0000E52C end:0x0000E534
+
+mo_stub/ft_pikachu/xm_fn_98_E534.c:
+	.text       start:0x0000E534 end:0x0000E53C
+
+mo_stub/ft_pikachu/xm_fn_98_E53C.c:
+	.text       start:0x0000E53C end:0x0000E544
+
+mo_stub/ft_pikachu/xm_fn_98_E544.c:
+	.text       start:0x0000E544 end:0x0000E54C
+
+mo_stub/ft_pikachu/xm_fn_98_E54C.c:
+	.text       start:0x0000E54C end:0x0000E554
 
 mo_stub/ft_pikachu/fn_98_FF64.c:
 	.text       start:0x0000FF64 end:0x0000FF6C
@@ -332,14 +437,32 @@ mo_stub/ft_pikachu/gl_fn_98_15074.c:
 mo_stub/ft_pikachu/fn_98_150C4.c:
 	.text       start:0x000150C4 end:0x000150DC
 
+mo_stub/ft_pikachu/xm_fn_98_150DC.c:
+	.text       start:0x000150DC end:0x000150E4
+
+mo_stub/ft_pikachu/xm_fn_98_150E4.c:
+	.text       start:0x000150E4 end:0x000150EC
+
 mo_stub/ft_pikachu/fn_98_150EC.c:
 	.text       start:0x000150EC end:0x000150F4
+
+mo_stub/ft_pikachu/xm_fn_98_150F4.c:
+	.text       start:0x000150F4 end:0x000150FC
 
 mo_stub/ft_pikachu/fn_98_150FC.c:
 	.text       start:0x000150FC end:0x0001510C
 
+mo_stub/ft_pikachu/xm_fn_98_1510C.c:
+	.text       start:0x0001510C end:0x00015114
+
 mo_stub/ft_pikachu/fn_98_15114.c:
 	.text       start:0x00015114 end:0x0001511C
+
+mo_stub/ft_pikachu/xm_fn_98_1511C.c:
+	.text       start:0x0001511C end:0x00015124
+
+mo_stub/ft_pikachu/xm_fn_98_15124.c:
+	.text       start:0x00015124 end:0x0001512C
 
 mo_stub/ft_pikachu/fn_98_1512C.c:
 	.text       start:0x0001512C end:0x00015134
@@ -347,11 +470,47 @@ mo_stub/ft_pikachu/fn_98_1512C.c:
 mo_stub/ft_pikachu/fn_98_15134.c:
 	.text       start:0x00015134 end:0x0001513C
 
+mo_stub/ft_pikachu/xm_fn_98_1513C.c:
+	.text       start:0x0001513C end:0x00015144
+
+mo_stub/ft_pikachu/xm_fn_98_15144.c:
+	.text       start:0x00015144 end:0x0001514C
+
 mo_stub/ft_pikachu/fn_98_1514C.c:
 	.text       start:0x0001514C end:0x00015154
 
+mo_stub/ft_pikachu/xm_fn_98_15154.c:
+	.text       start:0x00015154 end:0x0001515C
+
+mo_stub/ft_pikachu/xm_fn_98_1515C.c:
+	.text       start:0x0001515C end:0x00015164
+
+mo_stub/ft_pikachu/xm_fn_98_15164.c:
+	.text       start:0x00015164 end:0x0001516C
+
+mo_stub/ft_pikachu/xm_fn_98_15174.c:
+	.text       start:0x00015174 end:0x0001517C
+
 mo_stub/ft_pikachu/fn_98_1517C.c:
 	.text       start:0x0001517C end:0x0001518C
+
+mo_stub/ft_pikachu/xm_fn_98_1518C.c:
+	.text       start:0x0001518C end:0x00015194
+
+mo_stub/ft_pikachu/xm_fn_98_15194.c:
+	.text       start:0x00015194 end:0x0001519C
+
+mo_stub/ft_pikachu/xm_fn_98_1519C.c:
+	.text       start:0x0001519C end:0x000151A4
+
+mo_stub/ft_pikachu/xm_fn_98_151A4.c:
+	.text       start:0x000151A4 end:0x000151AC
+
+mo_stub/ft_pikachu/xm_fn_98_151AC.c:
+	.text       start:0x000151AC end:0x000151B4
+
+mo_stub/ft_pikachu/xm_fn_98_151B4.c:
+	.text       start:0x000151B4 end:0x000151BC
 
 mo_stub/ft_pikachu/fn_98_151BC.c:
 	.text       start:0x000151BC end:0x000151C4
@@ -359,8 +518,38 @@ mo_stub/ft_pikachu/fn_98_151BC.c:
 mo_stub/ft_pikachu/fn_98_151C4.c:
 	.text       start:0x000151C4 end:0x000151CC
 
+mo_stub/ft_pikachu/xm_fn_98_151CC.c:
+	.text       start:0x000151CC end:0x000151D4
+
+mo_stub/ft_pikachu/xm_fn_98_151D4.c:
+	.text       start:0x000151D4 end:0x000151DC
+
+mo_stub/ft_pikachu/xm_fn_98_151DC.c:
+	.text       start:0x000151DC end:0x000151E4
+
+mo_stub/ft_pikachu/xm_fn_98_151E4.c:
+	.text       start:0x000151E4 end:0x000151EC
+
+mo_stub/ft_pikachu/xm_fn_98_151EC.c:
+	.text       start:0x000151EC end:0x000151F4
+
+mo_stub/ft_pikachu/xm_fn_98_151F4.c:
+	.text       start:0x000151F4 end:0x000151FC
+
+mo_stub/ft_pikachu/xm_fn_98_151FC.c:
+	.text       start:0x000151FC end:0x00015204
+
+mo_stub/ft_pikachu/xm_fn_98_15204.c:
+	.text       start:0x00015204 end:0x0001520C
+
+mo_stub/ft_pikachu/xm_fn_98_1520C.c:
+	.text       start:0x0001520C end:0x00015214
+
 mo_stub/ft_pikachu/fn_98_15214.c:
 	.text       start:0x00015214 end:0x0001521C
+
+mo_stub/ft_pikachu/xm_fn_98_1521C.c:
+	.text       start:0x0001521C end:0x00015224
 
 mo_stub/ft_pikachu/fn_98_15224.c:
 	.text       start:0x00015224 end:0x0001523C

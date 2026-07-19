@@ -173,20 +173,125 @@ mo_stub/ft_lucario/fn_118_D244.c:
 mo_stub/ft_lucario/fn_118_D448.c:
 	.text       start:0x0000D448 end:0x0000D468
 
+mo_stub/ft_lucario/xm_fn_118_D468.c:
+	.text       start:0x0000D468 end:0x0000D470
+
+mo_stub/ft_lucario/xm_fn_118_D470.c:
+	.text       start:0x0000D470 end:0x0000D478
+
+mo_stub/ft_lucario/xm_fn_118_D478.c:
+	.text       start:0x0000D478 end:0x0000D480
+
+mo_stub/ft_lucario/xm_fn_118_D480.c:
+	.text       start:0x0000D480 end:0x0000D488
+
 mo_stub/ft_lucario/fn_118_D488.c:
 	.text       start:0x0000D488 end:0x0000D490
+
+mo_stub/ft_lucario/xm_fn_118_D490.c:
+	.text       start:0x0000D490 end:0x0000D498
 
 mo_stub/ft_lucario/fn_118_D498.c:
 	.text       start:0x0000D498 end:0x0000D4A8
 
+mo_stub/ft_lucario/xm_fn_118_D4A8.c:
+	.text       start:0x0000D4A8 end:0x0000D4B0
+
 mo_stub/ft_lucario/fn_118_D4B0.c:
 	.text       start:0x0000D4B0 end:0x0000D4B8
+
+mo_stub/ft_lucario/xm_fn_118_D4B8.c:
+	.text       start:0x0000D4B8 end:0x0000D4C0
+
+mo_stub/ft_lucario/xm_fn_118_D4C0.c:
+	.text       start:0x0000D4C0 end:0x0000D4C8
+
+mo_stub/ft_lucario/xm_fn_118_D4C8.c:
+	.text       start:0x0000D4C8 end:0x0000D4D0
+
+mo_stub/ft_lucario/xm_fn_118_D4D0.c:
+	.text       start:0x0000D4D0 end:0x0000D4D8
+
+mo_stub/ft_lucario/xm_fn_118_D4D8.c:
+	.text       start:0x0000D4D8 end:0x0000D4E0
 
 mo_stub/ft_lucario/fn_118_D4E0.c:
 	.text       start:0x0000D4E0 end:0x0000D4E8
 
+mo_stub/ft_lucario/xm_fn_118_D4E8.c:
+	.text       start:0x0000D4E8 end:0x0000D4F0
+
+mo_stub/ft_lucario/xm_fn_118_D4F0.c:
+	.text       start:0x0000D4F0 end:0x0000D4F8
+
+mo_stub/ft_lucario/xm_fn_118_D4F8.c:
+	.text       start:0x0000D4F8 end:0x0000D500
+
+mo_stub/ft_lucario/xm_fn_118_D500.c:
+	.text       start:0x0000D500 end:0x0000D508
+
+mo_stub/ft_lucario/xm_fn_118_D508.c:
+	.text       start:0x0000D508 end:0x0000D510
+
+mo_stub/ft_lucario/xm_fn_118_D510.c:
+	.text       start:0x0000D510 end:0x0000D518
+
+mo_stub/ft_lucario/xm_fn_118_D518.c:
+	.text       start:0x0000D518 end:0x0000D520
+
+mo_stub/ft_lucario/xm_fn_118_D520.c:
+	.text       start:0x0000D520 end:0x0000D528
+
+mo_stub/ft_lucario/xm_fn_118_D528.c:
+	.text       start:0x0000D528 end:0x0000D530
+
+mo_stub/ft_lucario/xm_fn_118_D530.c:
+	.text       start:0x0000D530 end:0x0000D538
+
+mo_stub/ft_lucario/xm_fn_118_D538.c:
+	.text       start:0x0000D538 end:0x0000D540
+
+mo_stub/ft_lucario/xm_fn_118_D540.c:
+	.text       start:0x0000D540 end:0x0000D548
+
+mo_stub/ft_lucario/xm_fn_118_D548.c:
+	.text       start:0x0000D548 end:0x0000D550
+
+mo_stub/ft_lucario/xm_fn_118_D550.c:
+	.text       start:0x0000D550 end:0x0000D558
+
+mo_stub/ft_lucario/xm_fn_118_D558.c:
+	.text       start:0x0000D558 end:0x0000D560
+
+mo_stub/ft_lucario/xm_fn_118_D560.c:
+	.text       start:0x0000D560 end:0x0000D568
+
+mo_stub/ft_lucario/xm_fn_118_D568.c:
+	.text       start:0x0000D568 end:0x0000D570
+
+mo_stub/ft_lucario/xm_fn_118_D570.c:
+	.text       start:0x0000D570 end:0x0000D578
+
+mo_stub/ft_lucario/xm_fn_118_D578.c:
+	.text       start:0x0000D578 end:0x0000D580
+
 mo_stub/ft_lucario/fn_118_D580.c:
 	.text       start:0x0000D580 end:0x0000D588
+
+mo_stub/ft_lucario/xm_fn_118_D588.c:
+	.text       start:0x0000D588 end:0x0000D590
+
+mo_stub/ft_lucario/xm_fn_118_D590.c:
+	.text       start:0x0000D590 end:0x0000D598
+
+mo_stub/ft_lucario/xm_fn_118_D598.c:
+	.text       start:0x0000D598 end:0x0000D5A0
+
+mo_stub/ft_lucario/xm_fn_118_D5A0.c:
+	.text       start:0x0000D5A0 end:0x0000D5A8
+
+mo_stub/ft_lucario/xm_fn_118_D5A8.c:
+	.text       start:0x0000D5A8 end:0x0000D5B0
 
 mo_stub/ft_lucario/fn_118_D720.c:
 	.text       start:0x0000D720 end:0x0000D724
@@ -344,20 +449,53 @@ mo_stub/ft_lucario/fn_118_13E3C.c:
 mo_stub/ft_lucario/fn_118_13F44.c:
 	.text       start:0x00013F44 end:0x00013F5C
 
+mo_stub/ft_lucario/xm_fn_118_13F5C.c:
+	.text       start:0x00013F5C end:0x00013F64
+
 mo_stub/ft_lucario/fn_118_13F64.c:
 	.text       start:0x00013F64 end:0x00013F74
 
 mo_stub/ft_lucario/fn_118_13F74.c:
 	.text       start:0x00013F74 end:0x00013F7C
 
+mo_stub/ft_lucario/xm_fn_118_13F7C.c:
+	.text       start:0x00013F7C end:0x00013F84
+
 mo_stub/ft_lucario/fn_118_13F84.c:
 	.text       start:0x00013F84 end:0x00013F8C
+
+mo_stub/ft_lucario/xm_fn_118_13F8C.c:
+	.text       start:0x00013F8C end:0x00013F94
+
+mo_stub/ft_lucario/xm_fn_118_13F94.c:
+	.text       start:0x00013F94 end:0x00013F9C
 
 mo_stub/ft_lucario/fn_118_13F9C.c:
 	.text       start:0x00013F9C end:0x00013FA4
 
+mo_stub/ft_lucario/xm_fn_118_13FA4.c:
+	.text       start:0x00013FA4 end:0x00013FAC
+
+mo_stub/ft_lucario/xm_fn_118_13FAC.c:
+	.text       start:0x00013FAC end:0x00013FB4
+
+mo_stub/ft_lucario/xm_fn_118_13FB4.c:
+	.text       start:0x00013FB4 end:0x00013FBC
+
 mo_stub/ft_lucario/fn_118_13FBC.c:
 	.text       start:0x00013FBC end:0x00013FC4
+
+mo_stub/ft_lucario/xm_fn_118_13FC4.c:
+	.text       start:0x00013FC4 end:0x00013FCC
+
+mo_stub/ft_lucario/xm_fn_118_13FCC.c:
+	.text       start:0x00013FCC end:0x00013FD4
+
+mo_stub/ft_lucario/xm_fn_118_13FD4.c:
+	.text       start:0x00013FD4 end:0x00013FDC
+
+mo_stub/ft_lucario/xm_fn_118_13FE4.c:
+	.text       start:0x00013FE4 end:0x00013FEC
 
 mo_stub/ft_lucario/fn_118_13FEC.c:
 	.text       start:0x00013FEC end:0x00013FF4
@@ -365,14 +503,65 @@ mo_stub/ft_lucario/fn_118_13FEC.c:
 mo_stub/ft_lucario/fn_118_13FF4.c:
 	.text       start:0x00013FF4 end:0x00013FFC
 
+mo_stub/ft_lucario/xm_fn_118_13FFC.c:
+	.text       start:0x00013FFC end:0x00014004
+
+mo_stub/ft_lucario/xm_fn_118_14004.c:
+	.text       start:0x00014004 end:0x0001400C
+
+mo_stub/ft_lucario/xm_fn_118_1400C.c:
+	.text       start:0x0001400C end:0x00014014
+
+mo_stub/ft_lucario/xm_fn_118_14014.c:
+	.text       start:0x00014014 end:0x0001401C
+
+mo_stub/ft_lucario/xm_fn_118_1401C.c:
+	.text       start:0x0001401C end:0x00014024
+
+mo_stub/ft_lucario/xm_fn_118_14024.c:
+	.text       start:0x00014024 end:0x0001402C
+
 mo_stub/ft_lucario/fn_118_1402C.c:
 	.text       start:0x0001402C end:0x0001403C
+
+mo_stub/ft_lucario/xm_fn_118_1403C.c:
+	.text       start:0x0001403C end:0x00014044
+
+mo_stub/ft_lucario/xm_fn_118_14044.c:
+	.text       start:0x00014044 end:0x0001404C
+
+mo_stub/ft_lucario/xm_fn_118_1404C.c:
+	.text       start:0x0001404C end:0x00014054
+
+mo_stub/ft_lucario/xm_fn_118_14054.c:
+	.text       start:0x00014054 end:0x0001405C
+
+mo_stub/ft_lucario/xm_fn_118_1405C.c:
+	.text       start:0x0001405C end:0x00014064
+
+mo_stub/ft_lucario/xm_fn_118_14064.c:
+	.text       start:0x00014064 end:0x0001406C
+
+mo_stub/ft_lucario/xm_fn_118_1406C.c:
+	.text       start:0x0001406C end:0x00014074
+
+mo_stub/ft_lucario/xm_fn_118_14074.c:
+	.text       start:0x00014074 end:0x0001407C
+
+mo_stub/ft_lucario/xm_fn_118_1407C.c:
+	.text       start:0x0001407C end:0x00014084
 
 mo_stub/ft_lucario/fn_118_14084.c:
 	.text       start:0x00014084 end:0x0001408C
 
+mo_stub/ft_lucario/xm_fn_118_1408C.c:
+	.text       start:0x0001408C end:0x00014094
+
 mo_stub/ft_lucario/fn_118_14094.c:
 	.text       start:0x00014094 end:0x0001409C
+
+mo_stub/ft_lucario/xm_fn_118_1409C.c:
+	.text       start:0x0001409C end:0x000140A4
 
 mo_stub/ft_lucario/fn_118_140A4.c:
 	.text       start:0x000140A4 end:0x000140AC

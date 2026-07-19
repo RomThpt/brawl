@@ -32,6 +32,9 @@ mo_stub/sora_minigame/fn_20_2EC4.c:
 mo_stub/sora_minigame/fn_20_2ED8.c:
 	.text       start:0x00002ED8 end:0x00002EE0
 
+mo_stub/sora_minigame/xm_fn_20_2EE0.c:
+	.text       start:0x00002EE0 end:0x00002EE8
+
 mo_stub/sora_minigame/fn_20_2EE8.c:
 	.text       start:0x00002EE8 end:0x00002EF8
 

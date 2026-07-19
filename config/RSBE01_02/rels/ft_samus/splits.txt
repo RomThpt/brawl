@@ -185,11 +185,116 @@ mo_stub/ft_samus/fn_94_EAC0.c:
 mo_stub/ft_samus/fn_94_ECC4.c:
 	.text       start:0x0000ECC4 end:0x0000ECE4
 
+mo_stub/ft_samus/xm_fn_94_ECE4.c:
+	.text       start:0x0000ECE4 end:0x0000ECEC
+
+mo_stub/ft_samus/xm_fn_94_ECEC.c:
+	.text       start:0x0000ECEC end:0x0000ECF4
+
 mo_stub/ft_samus/fn_94_ECF4.c:
 	.text       start:0x0000ECF4 end:0x0000ECFC
 
 mo_stub/ft_samus/fn_94_ECFC.c:
 	.text       start:0x0000ECFC end:0x0000ED14
+
+mo_stub/ft_samus/xm_fn_94_ED14.c:
+	.text       start:0x0000ED14 end:0x0000ED1C
+
+mo_stub/ft_samus/xm_fn_94_ED1C.c:
+	.text       start:0x0000ED1C end:0x0000ED24
+
+mo_stub/ft_samus/xm_fn_94_ED24.c:
+	.text       start:0x0000ED24 end:0x0000ED2C
+
+mo_stub/ft_samus/xm_fn_94_ED2C.c:
+	.text       start:0x0000ED2C end:0x0000ED34
+
+mo_stub/ft_samus/xm_fn_94_ED34.c:
+	.text       start:0x0000ED34 end:0x0000ED3C
+
+mo_stub/ft_samus/xm_fn_94_ED3C.c:
+	.text       start:0x0000ED3C end:0x0000ED44
+
+mo_stub/ft_samus/xm_fn_94_ED44.c:
+	.text       start:0x0000ED44 end:0x0000ED4C
+
+mo_stub/ft_samus/xm_fn_94_ED4C.c:
+	.text       start:0x0000ED4C end:0x0000ED54
+
+mo_stub/ft_samus/xm_fn_94_ED54.c:
+	.text       start:0x0000ED54 end:0x0000ED5C
+
+mo_stub/ft_samus/xm_fn_94_ED5C.c:
+	.text       start:0x0000ED5C end:0x0000ED64
+
+mo_stub/ft_samus/xm_fn_94_ED64.c:
+	.text       start:0x0000ED64 end:0x0000ED6C
+
+mo_stub/ft_samus/xm_fn_94_ED6C.c:
+	.text       start:0x0000ED6C end:0x0000ED74
+
+mo_stub/ft_samus/xm_fn_94_ED74.c:
+	.text       start:0x0000ED74 end:0x0000ED7C
+
+mo_stub/ft_samus/xm_fn_94_ED7C.c:
+	.text       start:0x0000ED7C end:0x0000ED84
+
+mo_stub/ft_samus/xm_fn_94_ED84.c:
+	.text       start:0x0000ED84 end:0x0000ED8C
+
+mo_stub/ft_samus/xm_fn_94_ED8C.c:
+	.text       start:0x0000ED8C end:0x0000ED94
+
+mo_stub/ft_samus/xm_fn_94_ED94.c:
+	.text       start:0x0000ED94 end:0x0000ED9C
+
+mo_stub/ft_samus/xm_fn_94_ED9C.c:
+	.text       start:0x0000ED9C end:0x0000EDA4
+
+mo_stub/ft_samus/xm_fn_94_EDA4.c:
+	.text       start:0x0000EDA4 end:0x0000EDAC
+
+mo_stub/ft_samus/xm_fn_94_EDAC.c:
+	.text       start:0x0000EDAC end:0x0000EDB4
+
+mo_stub/ft_samus/xm_fn_94_EDB4.c:
+	.text       start:0x0000EDB4 end:0x0000EDBC
+
+mo_stub/ft_samus/xm_fn_94_EDBC.c:
+	.text       start:0x0000EDBC end:0x0000EDC4
+
+mo_stub/ft_samus/xm_fn_94_EDC4.c:
+	.text       start:0x0000EDC4 end:0x0000EDCC
+
+mo_stub/ft_samus/xm_fn_94_EDCC.c:
+	.text       start:0x0000EDCC end:0x0000EDD4
+
+mo_stub/ft_samus/xm_fn_94_EDD4.c:
+	.text       start:0x0000EDD4 end:0x0000EDDC
+
+mo_stub/ft_samus/xm_fn_94_EDDC.c:
+	.text       start:0x0000EDDC end:0x0000EDE4
+
+mo_stub/ft_samus/xm_fn_94_EDE4.c:
+	.text       start:0x0000EDE4 end:0x0000EDEC
+
+mo_stub/ft_samus/xm_fn_94_EDEC.c:
+	.text       start:0x0000EDEC end:0x0000EDF4
+
+mo_stub/ft_samus/xm_fn_94_EDF4.c:
+	.text       start:0x0000EDF4 end:0x0000EDFC
+
+mo_stub/ft_samus/xm_fn_94_EDFC.c:
+	.text       start:0x0000EDFC end:0x0000EE04
+
+mo_stub/ft_samus/xm_fn_94_EE04.c:
+	.text       start:0x0000EE04 end:0x0000EE0C
+
+mo_stub/ft_samus/xm_fn_94_EE0C.c:
+	.text       start:0x0000EE0C end:0x0000EE14
+
+mo_stub/ft_samus/xm_fn_94_EE14.c:
+	.text       start:0x0000EE14 end:0x0000EE1C
 
 mo_stub/ft_samus/fn_94_F49C.c:
 	.text       start:0x0000F49C end:0x0000F4BC
@@ -302,14 +407,29 @@ mo_stub/ft_samus/fn_94_1DB78.c:
 mo_stub/ft_samus/fn_94_1DC80.c:
 	.text       start:0x0001DC80 end:0x0001DC98
 
+mo_stub/ft_samus/xm_fn_94_1DC98.c:
+	.text       start:0x0001DC98 end:0x0001DCA0
+
+mo_stub/ft_samus/xm_fn_94_1DCA0.c:
+	.text       start:0x0001DCA0 end:0x0001DCA8
+
+mo_stub/ft_samus/xm_fn_94_1DCA8.c:
+	.text       start:0x0001DCA8 end:0x0001DCB0
+
 mo_stub/ft_samus/fn_94_1DCB0.c:
 	.text       start:0x0001DCB0 end:0x0001DCB8
 
 mo_stub/ft_samus/fn_94_1DCB8.c:
 	.text       start:0x0001DCB8 end:0x0001DCC8
 
+mo_stub/ft_samus/xm_fn_94_1DCC8.c:
+	.text       start:0x0001DCC8 end:0x0001DCD0
+
 mo_stub/ft_samus/fn_94_1DCD0.c:
 	.text       start:0x0001DCD0 end:0x0001DCE0
+
+mo_stub/ft_samus/xm_fn_94_1DCE0.c:
+	.text       start:0x0001DCE0 end:0x0001DCE8
 
 mo_stub/ft_samus/fn_94_1DCE8.c:
 	.text       start:0x0001DCE8 end:0x0001DCF0
@@ -317,11 +437,47 @@ mo_stub/ft_samus/fn_94_1DCE8.c:
 mo_stub/ft_samus/fn_94_1DCF0.c:
 	.text       start:0x0001DCF0 end:0x0001DCF8
 
+mo_stub/ft_samus/xm_fn_94_1DCF8.c:
+	.text       start:0x0001DCF8 end:0x0001DD00
+
+mo_stub/ft_samus/xm_fn_94_1DD00.c:
+	.text       start:0x0001DD00 end:0x0001DD08
+
 mo_stub/ft_samus/fn_94_1DD08.c:
 	.text       start:0x0001DD08 end:0x0001DD10
 
+mo_stub/ft_samus/xm_fn_94_1DD10.c:
+	.text       start:0x0001DD10 end:0x0001DD18
+
+mo_stub/ft_samus/xm_fn_94_1DD18.c:
+	.text       start:0x0001DD18 end:0x0001DD20
+
+mo_stub/ft_samus/xm_fn_94_1DD20.c:
+	.text       start:0x0001DD20 end:0x0001DD28
+
+mo_stub/ft_samus/xm_fn_94_1DD30.c:
+	.text       start:0x0001DD30 end:0x0001DD38
+
 mo_stub/ft_samus/fn_94_1DD38.c:
 	.text       start:0x0001DD38 end:0x0001DD48
+
+mo_stub/ft_samus/xm_fn_94_1DD48.c:
+	.text       start:0x0001DD48 end:0x0001DD50
+
+mo_stub/ft_samus/xm_fn_94_1DD50.c:
+	.text       start:0x0001DD50 end:0x0001DD58
+
+mo_stub/ft_samus/xm_fn_94_1DD58.c:
+	.text       start:0x0001DD58 end:0x0001DD60
+
+mo_stub/ft_samus/xm_fn_94_1DD60.c:
+	.text       start:0x0001DD60 end:0x0001DD68
+
+mo_stub/ft_samus/xm_fn_94_1DD68.c:
+	.text       start:0x0001DD68 end:0x0001DD70
+
+mo_stub/ft_samus/xm_fn_94_1DD70.c:
+	.text       start:0x0001DD70 end:0x0001DD78
 
 mo_stub/ft_samus/fn_94_1DD78.c:
 	.text       start:0x0001DD78 end:0x0001DD80
@@ -329,11 +485,44 @@ mo_stub/ft_samus/fn_94_1DD78.c:
 mo_stub/ft_samus/fn_94_1DD80.c:
 	.text       start:0x0001DD80 end:0x0001DD88
 
+mo_stub/ft_samus/xm_fn_94_1DD88.c:
+	.text       start:0x0001DD88 end:0x0001DD90
+
+mo_stub/ft_samus/xm_fn_94_1DD90.c:
+	.text       start:0x0001DD90 end:0x0001DD98
+
+mo_stub/ft_samus/xm_fn_94_1DD98.c:
+	.text       start:0x0001DD98 end:0x0001DDA0
+
+mo_stub/ft_samus/xm_fn_94_1DDA0.c:
+	.text       start:0x0001DDA0 end:0x0001DDA8
+
+mo_stub/ft_samus/xm_fn_94_1DDA8.c:
+	.text       start:0x0001DDA8 end:0x0001DDB0
+
+mo_stub/ft_samus/xm_fn_94_1DDB0.c:
+	.text       start:0x0001DDB0 end:0x0001DDB8
+
+mo_stub/ft_samus/xm_fn_94_1DDB8.c:
+	.text       start:0x0001DDB8 end:0x0001DDC0
+
+mo_stub/ft_samus/xm_fn_94_1DDC0.c:
+	.text       start:0x0001DDC0 end:0x0001DDC8
+
+mo_stub/ft_samus/xm_fn_94_1DDC8.c:
+	.text       start:0x0001DDC8 end:0x0001DDD0
+
 mo_stub/ft_samus/fn_94_1DDD0.c:
 	.text       start:0x0001DDD0 end:0x0001DDD8
 
+mo_stub/ft_samus/xm_fn_94_1DDD8.c:
+	.text       start:0x0001DDD8 end:0x0001DDE0
+
 mo_stub/ft_samus/fn_94_1DDE0.c:
 	.text       start:0x0001DDE0 end:0x0001DDE8
+
+mo_stub/ft_samus/xm_fn_94_1DDE8.c:
+	.text       start:0x0001DDE8 end:0x0001DDF0
 
 mo_stub/ft_samus/fn_94_1DDF0.c:
 	.text       start:0x0001DDF0 end:0x0001DDF8

@@ -57,6 +57,9 @@ mo_stub/sora_menu_sel_char/fn_10_187C0.c:
 mo_stub/sora_menu_sel_char/fn_10_18E04.c:
 	.text       start:0x00018E04 end:0x00018E1C
 
+mo_stub/sora_menu_sel_char/xm_fn_10_19154.c:
+	.text       start:0x00019154 end:0x0001915C
+
 mo_stub/sora_menu_sel_char/fn_10_1C3E0.c:
 	.text       start:0x0001C3E0 end:0x0001C3E8
 

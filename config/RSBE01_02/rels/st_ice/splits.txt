@@ -338,6 +338,21 @@ mo_stub/st_ice/fn_62_8480.c:
 mo_stub/st_ice/fn_62_84A8.c:
 	.text       start:0x000084A8 end:0x000084B8
 
+mo_stub/st_ice/xm_fn_62_84B8.c:
+	.text       start:0x000084B8 end:0x000084C0
+
+mo_stub/st_ice/xm_fn_62_84C0.c:
+	.text       start:0x000084C0 end:0x000084C8
+
+mo_stub/st_ice/xm_fn_62_84C8.c:
+	.text       start:0x000084C8 end:0x000084D0
+
+mo_stub/st_ice/xm_fn_62_84D0.c:
+	.text       start:0x000084D0 end:0x000084D8
+
+mo_stub/st_ice/xm_fn_62_84D8.c:
+	.text       start:0x000084D8 end:0x000084E0
+
 mo_stub/st_ice/dt_fn_62_9A7C.c:
 	.text       start:0x00009A7C end:0x00009ABC
 

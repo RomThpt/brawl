@@ -6,6 +6,12 @@ Sections:
 	.data       type:data align:32
 	.bss        type:bss align:8
 
+mo_stub/sora_menu_friend_list/xm_fn_14_F38.c:
+	.text       start:0x00000F38 end:0x00000F40
+
+mo_stub/sora_menu_friend_list/xm_fn_14_F78.c:
+	.text       start:0x00000F78 end:0x00000F80
+
 mo_stub/sora_menu_friend_list/fn_14_39B4.c:
 	.text       start:0x000039B4 end:0x000039BC
 

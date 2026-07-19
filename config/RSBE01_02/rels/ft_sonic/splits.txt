@@ -167,20 +167,125 @@ mo_stub/ft_sonic/fn_123_ED2C.c:
 mo_stub/ft_sonic/fn_123_EF30.c:
 	.text       start:0x0000EF30 end:0x0000EF50
 
+mo_stub/ft_sonic/xm_fn_123_EF50.c:
+	.text       start:0x0000EF50 end:0x0000EF58
+
+mo_stub/ft_sonic/xm_fn_123_EF58.c:
+	.text       start:0x0000EF58 end:0x0000EF60
+
+mo_stub/ft_sonic/xm_fn_123_EF60.c:
+	.text       start:0x0000EF60 end:0x0000EF68
+
+mo_stub/ft_sonic/xm_fn_123_EF68.c:
+	.text       start:0x0000EF68 end:0x0000EF70
+
+mo_stub/ft_sonic/xm_fn_123_EF70.c:
+	.text       start:0x0000EF70 end:0x0000EF78
+
+mo_stub/ft_sonic/xm_fn_123_EF78.c:
+	.text       start:0x0000EF78 end:0x0000EF80
+
 mo_stub/ft_sonic/fn_123_EF80.c:
 	.text       start:0x0000EF80 end:0x0000EF88
+
+mo_stub/ft_sonic/xm_fn_123_EF88.c:
+	.text       start:0x0000EF88 end:0x0000EF90
 
 mo_stub/ft_sonic/fn_123_EF90.c:
 	.text       start:0x0000EF90 end:0x0000EFB8
 
+mo_stub/ft_sonic/xm_fn_123_EFB8.c:
+	.text       start:0x0000EFB8 end:0x0000EFC0
+
+mo_stub/ft_sonic/xm_fn_123_EFC0.c:
+	.text       start:0x0000EFC0 end:0x0000EFC8
+
+mo_stub/ft_sonic/xm_fn_123_EFC8.c:
+	.text       start:0x0000EFC8 end:0x0000EFD0
+
+mo_stub/ft_sonic/xm_fn_123_EFD0.c:
+	.text       start:0x0000EFD0 end:0x0000EFD8
+
+mo_stub/ft_sonic/xm_fn_123_EFD8.c:
+	.text       start:0x0000EFD8 end:0x0000EFE0
+
+mo_stub/ft_sonic/xm_fn_123_EFE0.c:
+	.text       start:0x0000EFE0 end:0x0000EFE8
+
+mo_stub/ft_sonic/xm_fn_123_EFE8.c:
+	.text       start:0x0000EFE8 end:0x0000EFF0
+
+mo_stub/ft_sonic/xm_fn_123_EFF0.c:
+	.text       start:0x0000EFF0 end:0x0000EFF8
+
+mo_stub/ft_sonic/xm_fn_123_EFF8.c:
+	.text       start:0x0000EFF8 end:0x0000F000
+
+mo_stub/ft_sonic/xm_fn_123_F000.c:
+	.text       start:0x0000F000 end:0x0000F008
+
+mo_stub/ft_sonic/xm_fn_123_F008.c:
+	.text       start:0x0000F008 end:0x0000F010
+
 mo_stub/ft_sonic/fn_123_F010.c:
 	.text       start:0x0000F010 end:0x0000F018
+
+mo_stub/ft_sonic/xm_fn_123_F018.c:
+	.text       start:0x0000F018 end:0x0000F020
+
+mo_stub/ft_sonic/xm_fn_123_F020.c:
+	.text       start:0x0000F020 end:0x0000F028
+
+mo_stub/ft_sonic/xm_fn_123_F028.c:
+	.text       start:0x0000F028 end:0x0000F030
+
+mo_stub/ft_sonic/xm_fn_123_F030.c:
+	.text       start:0x0000F030 end:0x0000F038
+
+mo_stub/ft_sonic/xm_fn_123_F038.c:
+	.text       start:0x0000F038 end:0x0000F040
+
+mo_stub/ft_sonic/xm_fn_123_F040.c:
+	.text       start:0x0000F040 end:0x0000F048
+
+mo_stub/ft_sonic/xm_fn_123_F048.c:
+	.text       start:0x0000F048 end:0x0000F050
+
+mo_stub/ft_sonic/xm_fn_123_F050.c:
+	.text       start:0x0000F050 end:0x0000F058
+
+mo_stub/ft_sonic/xm_fn_123_F058.c:
+	.text       start:0x0000F058 end:0x0000F060
+
+mo_stub/ft_sonic/xm_fn_123_F060.c:
+	.text       start:0x0000F060 end:0x0000F068
+
+mo_stub/ft_sonic/xm_fn_123_F068.c:
+	.text       start:0x0000F068 end:0x0000F070
 
 mo_stub/ft_sonic/fn_123_F070.c:
 	.text       start:0x0000F070 end:0x0000F078
 
+mo_stub/ft_sonic/xm_fn_123_F078.c:
+	.text       start:0x0000F078 end:0x0000F080
+
 mo_stub/ft_sonic/fn_123_F080.c:
 	.text       start:0x0000F080 end:0x0000F088
+
+mo_stub/ft_sonic/xm_fn_123_F088.c:
+	.text       start:0x0000F088 end:0x0000F090
+
+mo_stub/ft_sonic/xm_fn_123_F090.c:
+	.text       start:0x0000F090 end:0x0000F098
+
+mo_stub/ft_sonic/xm_fn_123_F098.c:
+	.text       start:0x0000F098 end:0x0000F0A0
+
+mo_stub/ft_sonic/xm_fn_123_F0A0.c:
+	.text       start:0x0000F0A0 end:0x0000F0A8
+
+mo_stub/ft_sonic/xm_fn_123_F0A8.c:
+	.text       start:0x0000F0A8 end:0x0000F0B0
 
 mo_stub/ft_sonic/fn_123_FC4C.c:
 	.text       start:0x0000FC4C end:0x0000FC64
@@ -302,20 +407,71 @@ mo_stub/ft_sonic/fn_123_142C0.c:
 mo_stub/ft_sonic/fn_123_142D0.c:
 	.text       start:0x000142D0 end:0x000142D8
 
+mo_stub/ft_sonic/xm_fn_123_142D8.c:
+	.text       start:0x000142D8 end:0x000142E0
+
 mo_stub/ft_sonic/fn_123_142E0.c:
 	.text       start:0x000142E0 end:0x000142F8
+
+mo_stub/ft_sonic/xm_fn_123_142F8.c:
+	.text       start:0x000142F8 end:0x00014300
 
 mo_stub/ft_sonic/fn_123_14300.c:
 	.text       start:0x00014300 end:0x00014308
 
+mo_stub/ft_sonic/xm_fn_123_14308.c:
+	.text       start:0x00014308 end:0x00014310
+
 mo_stub/ft_sonic/fn_123_14310.c:
 	.text       start:0x00014310 end:0x00014318
+
+mo_stub/ft_sonic/xm_fn_123_14318.c:
+	.text       start:0x00014318 end:0x00014320
+
+mo_stub/ft_sonic/xm_fn_123_14320.c:
+	.text       start:0x00014320 end:0x00014328
+
+mo_stub/ft_sonic/xm_fn_123_14328.c:
+	.text       start:0x00014328 end:0x00014330
+
+mo_stub/ft_sonic/xm_fn_123_14330.c:
+	.text       start:0x00014330 end:0x00014338
 
 mo_stub/ft_sonic/fn_123_14338.c:
 	.text       start:0x00014338 end:0x00014340
 
+mo_stub/ft_sonic/xm_fn_123_14340.c:
+	.text       start:0x00014340 end:0x00014348
+
+mo_stub/ft_sonic/xm_fn_123_14348.c:
+	.text       start:0x00014348 end:0x00014350
+
+mo_stub/ft_sonic/xm_fn_123_14350.c:
+	.text       start:0x00014350 end:0x00014358
+
+mo_stub/ft_sonic/xm_fn_123_14360.c:
+	.text       start:0x00014360 end:0x00014368
+
 mo_stub/ft_sonic/fn_123_14368.c:
 	.text       start:0x00014368 end:0x00014378
+
+mo_stub/ft_sonic/xm_fn_123_14378.c:
+	.text       start:0x00014378 end:0x00014380
+
+mo_stub/ft_sonic/xm_fn_123_14380.c:
+	.text       start:0x00014380 end:0x00014388
+
+mo_stub/ft_sonic/xm_fn_123_14388.c:
+	.text       start:0x00014388 end:0x00014390
+
+mo_stub/ft_sonic/xm_fn_123_14390.c:
+	.text       start:0x00014390 end:0x00014398
+
+mo_stub/ft_sonic/xm_fn_123_14398.c:
+	.text       start:0x00014398 end:0x000143A0
+
+mo_stub/ft_sonic/xm_fn_123_143A0.c:
+	.text       start:0x000143A0 end:0x000143A8
 
 mo_stub/ft_sonic/fn_123_143A8.c:
 	.text       start:0x000143A8 end:0x000143B0
@@ -323,11 +479,44 @@ mo_stub/ft_sonic/fn_123_143A8.c:
 mo_stub/ft_sonic/fn_123_143B0.c:
 	.text       start:0x000143B0 end:0x000143B8
 
+mo_stub/ft_sonic/xm_fn_123_143B8.c:
+	.text       start:0x000143B8 end:0x000143C0
+
+mo_stub/ft_sonic/xm_fn_123_143C0.c:
+	.text       start:0x000143C0 end:0x000143C8
+
+mo_stub/ft_sonic/xm_fn_123_143C8.c:
+	.text       start:0x000143C8 end:0x000143D0
+
+mo_stub/ft_sonic/xm_fn_123_143D0.c:
+	.text       start:0x000143D0 end:0x000143D8
+
+mo_stub/ft_sonic/xm_fn_123_143D8.c:
+	.text       start:0x000143D8 end:0x000143E0
+
+mo_stub/ft_sonic/xm_fn_123_143E0.c:
+	.text       start:0x000143E0 end:0x000143E8
+
+mo_stub/ft_sonic/xm_fn_123_143E8.c:
+	.text       start:0x000143E8 end:0x000143F0
+
+mo_stub/ft_sonic/xm_fn_123_143F0.c:
+	.text       start:0x000143F0 end:0x000143F8
+
+mo_stub/ft_sonic/xm_fn_123_143F8.c:
+	.text       start:0x000143F8 end:0x00014400
+
 mo_stub/ft_sonic/fn_123_14400.c:
 	.text       start:0x00014400 end:0x00014408
 
+mo_stub/ft_sonic/xm_fn_123_14408.c:
+	.text       start:0x00014408 end:0x00014410
+
 mo_stub/ft_sonic/fn_123_14410.c:
 	.text       start:0x00014410 end:0x00014418
+
+mo_stub/ft_sonic/xm_fn_123_14418.c:
+	.text       start:0x00014418 end:0x00014420
 
 mo_stub/ft_sonic/fn_123_14420.c:
 	.text       start:0x00014420 end:0x00014430

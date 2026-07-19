@@ -155,8 +155,113 @@ mo_stub/ft_zako/fn_126_9684.c:
 mo_stub/ft_zako/fn_126_9888.c:
 	.text       start:0x00009888 end:0x00009898
 
+mo_stub/ft_zako/xm_fn_126_9898.c:
+	.text       start:0x00009898 end:0x000098A0
+
 mo_stub/ft_zako/fn_126_98A0.c:
 	.text       start:0x000098A0 end:0x000098A8
+
+mo_stub/ft_zako/xm_fn_126_98A8.c:
+	.text       start:0x000098A8 end:0x000098B0
+
+mo_stub/ft_zako/xm_fn_126_98B0.c:
+	.text       start:0x000098B0 end:0x000098B8
+
+mo_stub/ft_zako/xm_fn_126_98B8.c:
+	.text       start:0x000098B8 end:0x000098C0
+
+mo_stub/ft_zako/xm_fn_126_98C0.c:
+	.text       start:0x000098C0 end:0x000098C8
+
+mo_stub/ft_zako/xm_fn_126_98C8.c:
+	.text       start:0x000098C8 end:0x000098D0
+
+mo_stub/ft_zako/xm_fn_126_98D0.c:
+	.text       start:0x000098D0 end:0x000098D8
+
+mo_stub/ft_zako/xm_fn_126_98D8.c:
+	.text       start:0x000098D8 end:0x000098E0
+
+mo_stub/ft_zako/xm_fn_126_98E0.c:
+	.text       start:0x000098E0 end:0x000098E8
+
+mo_stub/ft_zako/xm_fn_126_98E8.c:
+	.text       start:0x000098E8 end:0x000098F0
+
+mo_stub/ft_zako/xm_fn_126_98F0.c:
+	.text       start:0x000098F0 end:0x000098F8
+
+mo_stub/ft_zako/xm_fn_126_98F8.c:
+	.text       start:0x000098F8 end:0x00009900
+
+mo_stub/ft_zako/xm_fn_126_9900.c:
+	.text       start:0x00009900 end:0x00009908
+
+mo_stub/ft_zako/xm_fn_126_9908.c:
+	.text       start:0x00009908 end:0x00009910
+
+mo_stub/ft_zako/xm_fn_126_9910.c:
+	.text       start:0x00009910 end:0x00009918
+
+mo_stub/ft_zako/xm_fn_126_9918.c:
+	.text       start:0x00009918 end:0x00009920
+
+mo_stub/ft_zako/xm_fn_126_9920.c:
+	.text       start:0x00009920 end:0x00009928
+
+mo_stub/ft_zako/xm_fn_126_9928.c:
+	.text       start:0x00009928 end:0x00009930
+
+mo_stub/ft_zako/xm_fn_126_9930.c:
+	.text       start:0x00009930 end:0x00009938
+
+mo_stub/ft_zako/xm_fn_126_9938.c:
+	.text       start:0x00009938 end:0x00009940
+
+mo_stub/ft_zako/xm_fn_126_9940.c:
+	.text       start:0x00009940 end:0x00009948
+
+mo_stub/ft_zako/xm_fn_126_9948.c:
+	.text       start:0x00009948 end:0x00009950
+
+mo_stub/ft_zako/xm_fn_126_9950.c:
+	.text       start:0x00009950 end:0x00009958
+
+mo_stub/ft_zako/xm_fn_126_9958.c:
+	.text       start:0x00009958 end:0x00009960
+
+mo_stub/ft_zako/xm_fn_126_9960.c:
+	.text       start:0x00009960 end:0x00009968
+
+mo_stub/ft_zako/xm_fn_126_9968.c:
+	.text       start:0x00009968 end:0x00009970
+
+mo_stub/ft_zako/xm_fn_126_9970.c:
+	.text       start:0x00009970 end:0x00009978
+
+mo_stub/ft_zako/xm_fn_126_9978.c:
+	.text       start:0x00009978 end:0x00009980
+
+mo_stub/ft_zako/xm_fn_126_9980.c:
+	.text       start:0x00009980 end:0x00009988
+
+mo_stub/ft_zako/xm_fn_126_9988.c:
+	.text       start:0x00009988 end:0x00009990
+
+mo_stub/ft_zako/xm_fn_126_9990.c:
+	.text       start:0x00009990 end:0x00009998
+
+mo_stub/ft_zako/xm_fn_126_9998.c:
+	.text       start:0x00009998 end:0x000099A0
+
+mo_stub/ft_zako/xm_fn_126_99A0.c:
+	.text       start:0x000099A0 end:0x000099A8
+
+mo_stub/ft_zako/xm_fn_126_99A8.c:
+	.text       start:0x000099A8 end:0x000099B0
+
+mo_stub/ft_zako/xm_fn_126_99B0.c:
+	.text       start:0x000099B0 end:0x000099B8
 
 mo_stub/ft_zako/fn_126_B6F0.c:
 	.text       start:0x0000B6F0 end:0x0000B708

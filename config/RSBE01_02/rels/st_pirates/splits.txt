@@ -302,6 +302,21 @@ mo_stub/st_pirates/fn_52_98F4.c:
 mo_stub/st_pirates/fn_52_991C.c:
 	.text       start:0x0000991C end:0x0000993C
 
+mo_stub/st_pirates/xm_fn_52_993C.c:
+	.text       start:0x0000993C end:0x00009944
+
+mo_stub/st_pirates/xm_fn_52_9944.c:
+	.text       start:0x00009944 end:0x0000994C
+
+mo_stub/st_pirates/xm_fn_52_994C.c:
+	.text       start:0x0000994C end:0x00009954
+
+mo_stub/st_pirates/xm_fn_52_9954.c:
+	.text       start:0x00009954 end:0x0000995C
+
+mo_stub/st_pirates/xm_fn_52_995C.c:
+	.text       start:0x0000995C end:0x00009964
+
 mo_stub/st_pirates/fn_52_128D8.c:
 	.text       start:0x000128D8 end:0x000128DC
 

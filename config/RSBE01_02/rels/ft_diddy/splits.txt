@@ -170,17 +170,122 @@ mo_stub/ft_diddy/fn_115_D714.c:
 mo_stub/ft_diddy/fn_115_D918.c:
 	.text       start:0x0000D918 end:0x0000D938
 
+mo_stub/ft_diddy/xm_fn_115_D938.c:
+	.text       start:0x0000D938 end:0x0000D940
+
+mo_stub/ft_diddy/xm_fn_115_D940.c:
+	.text       start:0x0000D940 end:0x0000D948
+
+mo_stub/ft_diddy/xm_fn_115_D948.c:
+	.text       start:0x0000D948 end:0x0000D950
+
 mo_stub/ft_diddy/fn_115_D950.c:
 	.text       start:0x0000D950 end:0x0000D958
+
+mo_stub/ft_diddy/xm_fn_115_D958.c:
+	.text       start:0x0000D958 end:0x0000D960
 
 mo_stub/ft_diddy/fn_115_D960.c:
 	.text       start:0x0000D960 end:0x0000D978
 
+mo_stub/ft_diddy/xm_fn_115_D978.c:
+	.text       start:0x0000D978 end:0x0000D980
+
+mo_stub/ft_diddy/xm_fn_115_D980.c:
+	.text       start:0x0000D980 end:0x0000D988
+
+mo_stub/ft_diddy/xm_fn_115_D988.c:
+	.text       start:0x0000D988 end:0x0000D990
+
+mo_stub/ft_diddy/xm_fn_115_D990.c:
+	.text       start:0x0000D990 end:0x0000D998
+
+mo_stub/ft_diddy/xm_fn_115_D998.c:
+	.text       start:0x0000D998 end:0x0000D9A0
+
+mo_stub/ft_diddy/xm_fn_115_D9A0.c:
+	.text       start:0x0000D9A0 end:0x0000D9A8
+
+mo_stub/ft_diddy/xm_fn_115_D9A8.c:
+	.text       start:0x0000D9A8 end:0x0000D9B0
+
+mo_stub/ft_diddy/xm_fn_115_D9B0.c:
+	.text       start:0x0000D9B0 end:0x0000D9B8
+
+mo_stub/ft_diddy/xm_fn_115_D9B8.c:
+	.text       start:0x0000D9B8 end:0x0000D9C0
+
+mo_stub/ft_diddy/xm_fn_115_D9C0.c:
+	.text       start:0x0000D9C0 end:0x0000D9C8
+
+mo_stub/ft_diddy/xm_fn_115_D9C8.c:
+	.text       start:0x0000D9C8 end:0x0000D9D0
+
+mo_stub/ft_diddy/xm_fn_115_D9D0.c:
+	.text       start:0x0000D9D0 end:0x0000D9D8
+
+mo_stub/ft_diddy/xm_fn_115_D9D8.c:
+	.text       start:0x0000D9D8 end:0x0000D9E0
+
+mo_stub/ft_diddy/xm_fn_115_D9E0.c:
+	.text       start:0x0000D9E0 end:0x0000D9E8
+
+mo_stub/ft_diddy/xm_fn_115_D9E8.c:
+	.text       start:0x0000D9E8 end:0x0000D9F0
+
+mo_stub/ft_diddy/xm_fn_115_D9F0.c:
+	.text       start:0x0000D9F0 end:0x0000D9F8
+
+mo_stub/ft_diddy/xm_fn_115_D9F8.c:
+	.text       start:0x0000D9F8 end:0x0000DA00
+
+mo_stub/ft_diddy/xm_fn_115_DA00.c:
+	.text       start:0x0000DA00 end:0x0000DA08
+
+mo_stub/ft_diddy/xm_fn_115_DA08.c:
+	.text       start:0x0000DA08 end:0x0000DA10
+
+mo_stub/ft_diddy/xm_fn_115_DA10.c:
+	.text       start:0x0000DA10 end:0x0000DA18
+
+mo_stub/ft_diddy/xm_fn_115_DA18.c:
+	.text       start:0x0000DA18 end:0x0000DA20
+
+mo_stub/ft_diddy/xm_fn_115_DA20.c:
+	.text       start:0x0000DA20 end:0x0000DA28
+
+mo_stub/ft_diddy/xm_fn_115_DA28.c:
+	.text       start:0x0000DA28 end:0x0000DA30
+
+mo_stub/ft_diddy/xm_fn_115_DA30.c:
+	.text       start:0x0000DA30 end:0x0000DA38
+
+mo_stub/ft_diddy/xm_fn_115_DA38.c:
+	.text       start:0x0000DA38 end:0x0000DA40
+
 mo_stub/ft_diddy/fn_115_DA40.c:
 	.text       start:0x0000DA40 end:0x0000DA48
 
+mo_stub/ft_diddy/xm_fn_115_DA48.c:
+	.text       start:0x0000DA48 end:0x0000DA50
+
 mo_stub/ft_diddy/fn_115_DA50.c:
 	.text       start:0x0000DA50 end:0x0000DA58
+
+mo_stub/ft_diddy/xm_fn_115_DA58.c:
+	.text       start:0x0000DA58 end:0x0000DA60
+
+mo_stub/ft_diddy/xm_fn_115_DA60.c:
+	.text       start:0x0000DA60 end:0x0000DA68
+
+mo_stub/ft_diddy/xm_fn_115_DA68.c:
+	.text       start:0x0000DA68 end:0x0000DA70
+
+mo_stub/ft_diddy/xm_fn_115_DA70.c:
+	.text       start:0x0000DA70 end:0x0000DA78
+
+mo_stub/ft_diddy/xm_fn_115_DA78.c:
+	.text       start:0x0000DA78 end:0x0000DA80
 
 mo_stub/ft_diddy/fn_115_DC9C.c:
 	.text       start:0x0000DC9C end:0x0000DCA0
@@ -401,29 +506,113 @@ mo_stub/ft_diddy/fn_115_186CC.c:
 mo_stub/ft_diddy/fn_115_186E0.c:
 	.text       start:0x000186E0 end:0x000186F8
 
+mo_stub/ft_diddy/xm_fn_115_186F8.c:
+	.text       start:0x000186F8 end:0x00018700
+
+mo_stub/ft_diddy/xm_fn_115_18700.c:
+	.text       start:0x00018700 end:0x00018708
+
+mo_stub/ft_diddy/xm_fn_115_18708.c:
+	.text       start:0x00018708 end:0x00018710
+
 mo_stub/ft_diddy/fn_115_18710.c:
 	.text       start:0x00018710 end:0x00018720
 
 mo_stub/ft_diddy/fn_115_18720.c:
 	.text       start:0x00018720 end:0x00018738
 
+mo_stub/ft_diddy/xm_fn_115_18738.c:
+	.text       start:0x00018738 end:0x00018740
+
+mo_stub/ft_diddy/xm_fn_115_18740.c:
+	.text       start:0x00018740 end:0x00018748
+
 mo_stub/ft_diddy/fn_115_18748.c:
 	.text       start:0x00018748 end:0x00018758
+
+mo_stub/ft_diddy/xm_fn_115_18758.c:
+	.text       start:0x00018758 end:0x00018760
+
+mo_stub/ft_diddy/xm_fn_115_18760.c:
+	.text       start:0x00018760 end:0x00018768
 
 mo_stub/ft_diddy/fn_115_18768.c:
 	.text       start:0x00018768 end:0x00018770
 
+mo_stub/ft_diddy/xm_fn_115_18770.c:
+	.text       start:0x00018770 end:0x00018778
+
+mo_stub/ft_diddy/xm_fn_115_18778.c:
+	.text       start:0x00018778 end:0x00018780
+
+mo_stub/ft_diddy/xm_fn_115_18780.c:
+	.text       start:0x00018780 end:0x00018788
+
+mo_stub/ft_diddy/xm_fn_115_18790.c:
+	.text       start:0x00018790 end:0x00018798
+
 mo_stub/ft_diddy/fn_115_18798.c:
 	.text       start:0x00018798 end:0x000187A8
+
+mo_stub/ft_diddy/xm_fn_115_187A8.c:
+	.text       start:0x000187A8 end:0x000187B0
+
+mo_stub/ft_diddy/xm_fn_115_187B0.c:
+	.text       start:0x000187B0 end:0x000187B8
+
+mo_stub/ft_diddy/xm_fn_115_187B8.c:
+	.text       start:0x000187B8 end:0x000187C0
+
+mo_stub/ft_diddy/xm_fn_115_187C0.c:
+	.text       start:0x000187C0 end:0x000187C8
+
+mo_stub/ft_diddy/xm_fn_115_187C8.c:
+	.text       start:0x000187C8 end:0x000187D0
+
+mo_stub/ft_diddy/xm_fn_115_187D0.c:
+	.text       start:0x000187D0 end:0x000187D8
 
 mo_stub/ft_diddy/fn_115_187D8.c:
 	.text       start:0x000187D8 end:0x000187E8
 
+mo_stub/ft_diddy/xm_fn_115_187E8.c:
+	.text       start:0x000187E8 end:0x000187F0
+
+mo_stub/ft_diddy/xm_fn_115_187F0.c:
+	.text       start:0x000187F0 end:0x000187F8
+
+mo_stub/ft_diddy/xm_fn_115_187F8.c:
+	.text       start:0x000187F8 end:0x00018800
+
+mo_stub/ft_diddy/xm_fn_115_18800.c:
+	.text       start:0x00018800 end:0x00018808
+
+mo_stub/ft_diddy/xm_fn_115_18808.c:
+	.text       start:0x00018808 end:0x00018810
+
+mo_stub/ft_diddy/xm_fn_115_18810.c:
+	.text       start:0x00018810 end:0x00018818
+
+mo_stub/ft_diddy/xm_fn_115_18818.c:
+	.text       start:0x00018818 end:0x00018820
+
+mo_stub/ft_diddy/xm_fn_115_18820.c:
+	.text       start:0x00018820 end:0x00018828
+
+mo_stub/ft_diddy/xm_fn_115_18828.c:
+	.text       start:0x00018828 end:0x00018830
+
 mo_stub/ft_diddy/fn_115_18830.c:
 	.text       start:0x00018830 end:0x00018838
 
+mo_stub/ft_diddy/xm_fn_115_18838.c:
+	.text       start:0x00018838 end:0x00018840
+
 mo_stub/ft_diddy/fn_115_18840.c:
 	.text       start:0x00018840 end:0x00018848
+
+mo_stub/ft_diddy/xm_fn_115_18848.c:
+	.text       start:0x00018848 end:0x00018850
 
 mo_stub/ft_diddy/fn_115_18850.c:
 	.text       start:0x00018850 end:0x00018858

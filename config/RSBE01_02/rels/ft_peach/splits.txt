@@ -167,23 +167,128 @@ mo_stub/ft_peach/fn_103_CF24.c:
 mo_stub/ft_peach/fn_103_D128.c:
 	.text       start:0x0000D128 end:0x0000D148
 
+mo_stub/ft_peach/xm_fn_103_D148.c:
+	.text       start:0x0000D148 end:0x0000D150
+
+mo_stub/ft_peach/xm_fn_103_D150.c:
+	.text       start:0x0000D150 end:0x0000D158
+
+mo_stub/ft_peach/xm_fn_103_D158.c:
+	.text       start:0x0000D158 end:0x0000D160
+
+mo_stub/ft_peach/xm_fn_103_D160.c:
+	.text       start:0x0000D160 end:0x0000D168
+
+mo_stub/ft_peach/xm_fn_103_D168.c:
+	.text       start:0x0000D168 end:0x0000D170
+
+mo_stub/ft_peach/xm_fn_103_D170.c:
+	.text       start:0x0000D170 end:0x0000D178
+
 mo_stub/ft_peach/fn_103_D178.c:
 	.text       start:0x0000D178 end:0x0000D180
+
+mo_stub/ft_peach/xm_fn_103_D180.c:
+	.text       start:0x0000D180 end:0x0000D188
 
 mo_stub/ft_peach/fn_103_D188.c:
 	.text       start:0x0000D188 end:0x0000D190
 
+mo_stub/ft_peach/xm_fn_103_D190.c:
+	.text       start:0x0000D190 end:0x0000D198
+
 mo_stub/ft_peach/fn_103_D198.c:
 	.text       start:0x0000D198 end:0x0000D1A8
+
+mo_stub/ft_peach/xm_fn_103_D1A8.c:
+	.text       start:0x0000D1A8 end:0x0000D1B0
+
+mo_stub/ft_peach/xm_fn_103_D1B0.c:
+	.text       start:0x0000D1B0 end:0x0000D1B8
+
+mo_stub/ft_peach/xm_fn_103_D1B8.c:
+	.text       start:0x0000D1B8 end:0x0000D1C0
 
 mo_stub/ft_peach/fn_103_D1C0.c:
 	.text       start:0x0000D1C0 end:0x0000D1C8
 
+mo_stub/ft_peach/xm_fn_103_D1C8.c:
+	.text       start:0x0000D1C8 end:0x0000D1D0
+
 mo_stub/ft_peach/fn_103_D1D0.c:
 	.text       start:0x0000D1D0 end:0x0000D1D8
 
+mo_stub/ft_peach/xm_fn_103_D1D8.c:
+	.text       start:0x0000D1D8 end:0x0000D1E0
+
+mo_stub/ft_peach/xm_fn_103_D1E0.c:
+	.text       start:0x0000D1E0 end:0x0000D1E8
+
+mo_stub/ft_peach/xm_fn_103_D1E8.c:
+	.text       start:0x0000D1E8 end:0x0000D1F0
+
+mo_stub/ft_peach/xm_fn_103_D1F0.c:
+	.text       start:0x0000D1F0 end:0x0000D1F8
+
+mo_stub/ft_peach/xm_fn_103_D1F8.c:
+	.text       start:0x0000D1F8 end:0x0000D200
+
 mo_stub/ft_peach/fn_103_D200.c:
 	.text       start:0x0000D200 end:0x0000D210
+
+mo_stub/ft_peach/xm_fn_103_D210.c:
+	.text       start:0x0000D210 end:0x0000D218
+
+mo_stub/ft_peach/xm_fn_103_D218.c:
+	.text       start:0x0000D218 end:0x0000D220
+
+mo_stub/ft_peach/xm_fn_103_D220.c:
+	.text       start:0x0000D220 end:0x0000D228
+
+mo_stub/ft_peach/xm_fn_103_D228.c:
+	.text       start:0x0000D228 end:0x0000D230
+
+mo_stub/ft_peach/xm_fn_103_D230.c:
+	.text       start:0x0000D230 end:0x0000D238
+
+mo_stub/ft_peach/xm_fn_103_D238.c:
+	.text       start:0x0000D238 end:0x0000D240
+
+mo_stub/ft_peach/xm_fn_103_D240.c:
+	.text       start:0x0000D240 end:0x0000D248
+
+mo_stub/ft_peach/xm_fn_103_D248.c:
+	.text       start:0x0000D248 end:0x0000D250
+
+mo_stub/ft_peach/xm_fn_103_D250.c:
+	.text       start:0x0000D250 end:0x0000D258
+
+mo_stub/ft_peach/xm_fn_103_D258.c:
+	.text       start:0x0000D258 end:0x0000D260
+
+mo_stub/ft_peach/xm_fn_103_D260.c:
+	.text       start:0x0000D260 end:0x0000D268
+
+mo_stub/ft_peach/xm_fn_103_D268.c:
+	.text       start:0x0000D268 end:0x0000D270
+
+mo_stub/ft_peach/xm_fn_103_D270.c:
+	.text       start:0x0000D270 end:0x0000D278
+
+mo_stub/ft_peach/xm_fn_103_D278.c:
+	.text       start:0x0000D278 end:0x0000D280
+
+mo_stub/ft_peach/xm_fn_103_D280.c:
+	.text       start:0x0000D280 end:0x0000D288
+
+mo_stub/ft_peach/xm_fn_103_D288.c:
+	.text       start:0x0000D288 end:0x0000D290
+
+mo_stub/ft_peach/xm_fn_103_D290.c:
+	.text       start:0x0000D290 end:0x0000D298
+
+mo_stub/ft_peach/xm_fn_103_D298.c:
+	.text       start:0x0000D298 end:0x0000D2A0
 
 mo_stub/ft_peach/fn_103_D348.c:
 	.text       start:0x0000D348 end:0x0000D350
@@ -335,23 +440,107 @@ mo_stub/ft_peach/fn_103_13590.c:
 mo_stub/ft_peach/fn_103_135A0.c:
 	.text       start:0x000135A0 end:0x000135C0
 
+mo_stub/ft_peach/xm_fn_103_135C0.c:
+	.text       start:0x000135C0 end:0x000135C8
+
 mo_stub/ft_peach/fn_103_135C8.c:
 	.text       start:0x000135C8 end:0x000135D0
+
+mo_stub/ft_peach/xm_fn_103_135D0.c:
+	.text       start:0x000135D0 end:0x000135D8
+
+mo_stub/ft_peach/xm_fn_103_135D8.c:
+	.text       start:0x000135D8 end:0x000135E0
+
+mo_stub/ft_peach/xm_fn_103_135E0.c:
+	.text       start:0x000135E0 end:0x000135E8
+
+mo_stub/ft_peach/xm_fn_103_135E8.c:
+	.text       start:0x000135E8 end:0x000135F0
+
+mo_stub/ft_peach/xm_fn_103_135F0.c:
+	.text       start:0x000135F0 end:0x000135F8
+
+mo_stub/ft_peach/xm_fn_103_135F8.c:
+	.text       start:0x000135F8 end:0x00013600
 
 mo_stub/ft_peach/fn_103_13600.c:
 	.text       start:0x00013600 end:0x00013608
 
+mo_stub/ft_peach/xm_fn_103_13608.c:
+	.text       start:0x00013608 end:0x00013610
+
+mo_stub/ft_peach/xm_fn_103_13610.c:
+	.text       start:0x00013610 end:0x00013618
+
+mo_stub/ft_peach/xm_fn_103_13618.c:
+	.text       start:0x00013618 end:0x00013620
+
+mo_stub/ft_peach/xm_fn_103_13628.c:
+	.text       start:0x00013628 end:0x00013630
+
 mo_stub/ft_peach/fn_103_13630.c:
 	.text       start:0x00013630 end:0x00013640
+
+mo_stub/ft_peach/xm_fn_103_13640.c:
+	.text       start:0x00013640 end:0x00013648
+
+mo_stub/ft_peach/xm_fn_103_13648.c:
+	.text       start:0x00013648 end:0x00013650
+
+mo_stub/ft_peach/xm_fn_103_13650.c:
+	.text       start:0x00013650 end:0x00013658
+
+mo_stub/ft_peach/xm_fn_103_13658.c:
+	.text       start:0x00013658 end:0x00013660
+
+mo_stub/ft_peach/xm_fn_103_13660.c:
+	.text       start:0x00013660 end:0x00013668
+
+mo_stub/ft_peach/xm_fn_103_13668.c:
+	.text       start:0x00013668 end:0x00013670
 
 mo_stub/ft_peach/fn_103_13670.c:
 	.text       start:0x00013670 end:0x00013680
 
+mo_stub/ft_peach/xm_fn_103_13680.c:
+	.text       start:0x00013680 end:0x00013688
+
+mo_stub/ft_peach/xm_fn_103_13688.c:
+	.text       start:0x00013688 end:0x00013690
+
+mo_stub/ft_peach/xm_fn_103_13690.c:
+	.text       start:0x00013690 end:0x00013698
+
+mo_stub/ft_peach/xm_fn_103_13698.c:
+	.text       start:0x00013698 end:0x000136A0
+
+mo_stub/ft_peach/xm_fn_103_136A0.c:
+	.text       start:0x000136A0 end:0x000136A8
+
+mo_stub/ft_peach/xm_fn_103_136A8.c:
+	.text       start:0x000136A8 end:0x000136B0
+
+mo_stub/ft_peach/xm_fn_103_136B0.c:
+	.text       start:0x000136B0 end:0x000136B8
+
+mo_stub/ft_peach/xm_fn_103_136B8.c:
+	.text       start:0x000136B8 end:0x000136C0
+
+mo_stub/ft_peach/xm_fn_103_136C0.c:
+	.text       start:0x000136C0 end:0x000136C8
+
 mo_stub/ft_peach/fn_103_136C8.c:
 	.text       start:0x000136C8 end:0x000136D0
 
+mo_stub/ft_peach/xm_fn_103_136D0.c:
+	.text       start:0x000136D0 end:0x000136D8
+
 mo_stub/ft_peach/fn_103_136D8.c:
 	.text       start:0x000136D8 end:0x000136E0
+
+mo_stub/ft_peach/xm_fn_103_136E0.c:
+	.text       start:0x000136E0 end:0x000136E8
 
 mo_stub/ft_peach/fn_103_136E8.c:
 	.text       start:0x000136E8 end:0x000136F0
