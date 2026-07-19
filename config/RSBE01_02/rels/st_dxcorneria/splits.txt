@@ -32,6 +32,12 @@ mo_stub/st_dxcorneria/fn_82_3D5C.c:
 mo_stub/st_dxcorneria/fn_82_3D78.c:
 	.text       start:0x00003D78 end:0x00003D80
 
+mo_stub/st_dxcorneria/gl_fn_82_3D80.c:
+	.text       start:0x00003D80 end:0x00003D8C
+
+mo_stub/st_dxcorneria/gl_fn_82_3D8C.c:
+	.text       start:0x00003D8C end:0x00003D98
+
 mo_stub/st_dxcorneria/fn_82_3DBC.c:
 	.text       start:0x00003DBC end:0x00003DCC
 
@@ -46,6 +52,9 @@ mo_stub/st_dxcorneria/fn_82_3E0C.c:
 
 mo_stub/st_dxcorneria/fn_82_3E14.c:
 	.text       start:0x00003E14 end:0x00003E24
+
+mo_stub/st_dxcorneria/gl_fn_82_3E24.c:
+	.text       start:0x00003E24 end:0x00003E30
 
 mo_stub/st_dxcorneria/fn_82_3E30.c:
 	.text       start:0x00003E30 end:0x00003E3C

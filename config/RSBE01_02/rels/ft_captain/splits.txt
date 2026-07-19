@@ -194,11 +194,23 @@ mo_stub/ft_captain/fn_100_1322C.c:
 mo_stub/ft_captain/fn_100_13230.c:
 	.text       start:0x00013230 end:0x0001324C
 
+mo_stub/ft_captain/gl_fn_100_1324C.c:
+	.text       start:0x0001324C end:0x00013258
+
 mo_stub/ft_captain/fn_100_13258.c:
 	.text       start:0x00013258 end:0x00013260
 
+mo_stub/ft_captain/gl_fn_100_13260.c:
+	.text       start:0x00013260 end:0x0001326C
+
 mo_stub/ft_captain/fn_100_1326C.c:
 	.text       start:0x0001326C end:0x00013274
+
+mo_stub/ft_captain/gl_fn_100_13274.c:
+	.text       start:0x00013274 end:0x00013280
+
+mo_stub/ft_captain/gl_fn_100_13280.c:
+	.text       start:0x00013280 end:0x0001328C
 
 mo_stub/ft_captain/fn_100_1328C.c:
 	.text       start:0x0001328C end:0x0001329C

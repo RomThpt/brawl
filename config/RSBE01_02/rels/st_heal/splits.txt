@@ -23,6 +23,12 @@ mo_stub/st_heal/fn_87_D2C.c:
 mo_stub/st_heal/fn_87_D50.c:
 	.text       start:0x00000D50 end:0x00000D58
 
+mo_stub/st_heal/gl_fn_87_D58.c:
+	.text       start:0x00000D58 end:0x00000D64
+
+mo_stub/st_heal/gl_fn_87_D64.c:
+	.text       start:0x00000D64 end:0x00000D70
+
 mo_stub/st_heal/fn_87_D94.c:
 	.text       start:0x00000D94 end:0x00000D9C
 
@@ -37,6 +43,9 @@ mo_stub/st_heal/fn_87_DE4.c:
 
 mo_stub/st_heal/fn_87_DEC.c:
 	.text       start:0x00000DEC end:0x00000DFC
+
+mo_stub/st_heal/gl_fn_87_DFC.c:
+	.text       start:0x00000DFC end:0x00000E08
 
 mo_stub/st_heal/fn_87_E08.c:
 	.text       start:0x00000E08 end:0x00000E14

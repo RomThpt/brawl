@@ -23,6 +23,12 @@ mo_stub/st_dxzebes/fn_84_3DE0.c:
 mo_stub/st_dxzebes/fn_84_3E04.c:
 	.text       start:0x00003E04 end:0x00003E0C
 
+mo_stub/st_dxzebes/gl_fn_84_3E0C.c:
+	.text       start:0x00003E0C end:0x00003E18
+
+mo_stub/st_dxzebes/gl_fn_84_3E18.c:
+	.text       start:0x00003E18 end:0x00003E24
+
 mo_stub/st_dxzebes/fn_84_3E48.c:
 	.text       start:0x00003E48 end:0x00003E50
 
@@ -37,6 +43,9 @@ mo_stub/st_dxzebes/fn_84_3E98.c:
 
 mo_stub/st_dxzebes/fn_84_3EA0.c:
 	.text       start:0x00003EA0 end:0x00003EB0
+
+mo_stub/st_dxzebes/gl_fn_84_3EB0.c:
+	.text       start:0x00003EB0 end:0x00003EBC
 
 mo_stub/st_dxzebes/fn_84_3EBC.c:
 	.text       start:0x00003EBC end:0x00003EC8

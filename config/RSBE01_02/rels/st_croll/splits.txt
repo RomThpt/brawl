@@ -38,6 +38,12 @@ mo_stub/st_croll/fn_90_8330.c:
 mo_stub/st_croll/fn_90_834C.c:
 	.text       start:0x0000834C end:0x00008354
 
+mo_stub/st_croll/gl_fn_90_8354.c:
+	.text       start:0x00008354 end:0x00008360
+
+mo_stub/st_croll/gl_fn_90_8360.c:
+	.text       start:0x00008360 end:0x0000836C
+
 mo_stub/st_croll/fn_90_8390.c:
 	.text       start:0x00008390 end:0x000083A0
 
@@ -55,6 +61,9 @@ mo_stub/st_croll/fn_90_83E0.c:
 
 mo_stub/st_croll/fn_90_83E8.c:
 	.text       start:0x000083E8 end:0x000083F0
+
+mo_stub/st_croll/gl_fn_90_83F0.c:
+	.text       start:0x000083F0 end:0x000083FC
 
 mo_stub/st_croll/fn_90_83FC.c:
 	.text       start:0x000083FC end:0x00008418

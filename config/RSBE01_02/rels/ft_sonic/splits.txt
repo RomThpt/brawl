@@ -200,11 +200,23 @@ mo_stub/ft_sonic/fn_123_13EB8.c:
 mo_stub/ft_sonic/fn_123_13EBC.c:
 	.text       start:0x00013EBC end:0x00013ED8
 
+mo_stub/ft_sonic/gl_fn_123_13ED8.c:
+	.text       start:0x00013ED8 end:0x00013EE4
+
 mo_stub/ft_sonic/fn_123_13EE4.c:
 	.text       start:0x00013EE4 end:0x00013EEC
 
+mo_stub/ft_sonic/gl_fn_123_13EEC.c:
+	.text       start:0x00013EEC end:0x00013EF8
+
 mo_stub/ft_sonic/fn_123_13EF8.c:
 	.text       start:0x00013EF8 end:0x00013F00
+
+mo_stub/ft_sonic/gl_fn_123_13F00.c:
+	.text       start:0x00013F00 end:0x00013F0C
+
+mo_stub/ft_sonic/gl_fn_123_13F0C.c:
+	.text       start:0x00013F0C end:0x00013F18
 
 mo_stub/ft_sonic/fn_123_13F18.c:
 	.text       start:0x00013F18 end:0x00013F28

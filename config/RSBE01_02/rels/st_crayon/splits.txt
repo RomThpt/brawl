@@ -31,8 +31,20 @@ mo_stub/st_crayon/fn_56_512C.c:
 mo_stub/st_crayon/fn_56_536C.c:
 	.text       start:0x0000536C end:0x00005388
 
+mo_stub/st_crayon/gl_fn_56_5388.c:
+	.text       start:0x00005388 end:0x00005394
+
 mo_stub/st_crayon/fn_56_5394.c:
 	.text       start:0x00005394 end:0x000053B4
+
+mo_stub/st_crayon/gl_fn_56_53B4.c:
+	.text       start:0x000053B4 end:0x000053C0
+
+mo_stub/st_crayon/gl_fn_56_53C0.c:
+	.text       start:0x000053C0 end:0x000053CC
+
+mo_stub/st_crayon/gl_fn_56_53CC.c:
+	.text       start:0x000053CC end:0x000053D8
 
 mo_stub/st_crayon/fn_56_53D8.c:
 	.text       start:0x000053D8 end:0x000053EC
@@ -45,6 +57,9 @@ mo_stub/st_crayon/fn_56_540C.c:
 
 mo_stub/st_crayon/fn_56_5428.c:
 	.text       start:0x00005428 end:0x00005430
+
+mo_stub/st_crayon/gl_fn_56_5430.c:
+	.text       start:0x00005430 end:0x0000543C
 
 mo_stub/st_crayon/fn_56_543C.c:
 	.text       start:0x0000543C end:0x0000545C

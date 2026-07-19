@@ -1,0 +1,5 @@
+extern char lbl_27_bss_584;
+
+void* fn_27_2814B4(void) {
+    return &lbl_27_bss_584;
+}

@@ -62,6 +62,12 @@ mo_stub/st_ice/fn_62_296C.c:
 mo_stub/st_ice/fn_62_2990.c:
 	.text       start:0x00002990 end:0x00002998
 
+mo_stub/st_ice/gl_fn_62_2998.c:
+	.text       start:0x00002998 end:0x000029A4
+
+mo_stub/st_ice/gl_fn_62_29A4.c:
+	.text       start:0x000029A4 end:0x000029B0
+
 mo_stub/st_ice/fn_62_29D4.c:
 	.text       start:0x000029D4 end:0x000029DC
 
@@ -76,6 +82,9 @@ mo_stub/st_ice/fn_62_2A24.c:
 
 mo_stub/st_ice/fn_62_2A2C.c:
 	.text       start:0x00002A2C end:0x00002A3C
+
+mo_stub/st_ice/gl_fn_62_2A3C.c:
+	.text       start:0x00002A3C end:0x00002A48
 
 mo_stub/st_ice/fn_62_2A48.c:
 	.text       start:0x00002A48 end:0x00002A54
@@ -257,11 +266,23 @@ mo_stub/st_ice/fn_62_84A8.c:
 mo_stub/st_ice/fn_62_9C90.c:
 	.text       start:0x00009C90 end:0x00009C98
 
+mo_stub/st_ice/gl_fn_62_9C98.c:
+	.text       start:0x00009C98 end:0x00009CA4
+
 mo_stub/st_ice/fn_62_9CA4.c:
 	.text       start:0x00009CA4 end:0x00009CAC
 
 mo_stub/st_ice/fn_62_9CAC.c:
 	.text       start:0x00009CAC end:0x00009CC4
+
+mo_stub/st_ice/gl_fn_62_9CC4.c:
+	.text       start:0x00009CC4 end:0x00009CD0
+
+mo_stub/st_ice/gl_fn_62_9CD0.c:
+	.text       start:0x00009CD0 end:0x00009CDC
+
+mo_stub/st_ice/gl_fn_62_9CDC.c:
+	.text       start:0x00009CDC end:0x00009CE8
 
 mo_stub/st_ice/fn_62_9CE8.c:
 	.text       start:0x00009CE8 end:0x00009CEC
@@ -274,6 +295,9 @@ mo_stub/st_ice/fn_62_9D04.c:
 
 mo_stub/st_ice/fn_62_9D20.c:
 	.text       start:0x00009D20 end:0x00009D40
+
+mo_stub/st_ice/gl_fn_62_9D40.c:
+	.text       start:0x00009D40 end:0x00009D4C
 
 mo_stub/st_ice/fn_62_9D4C.c:
 	.text       start:0x00009D4C end:0x00009D74

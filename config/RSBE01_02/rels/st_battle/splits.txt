@@ -32,6 +32,12 @@ mo_stub/st_battle/fn_43_8E0.c:
 mo_stub/st_battle/fn_43_8F4.c:
 	.text       start:0x000008F4 end:0x000008FC
 
+mo_stub/st_battle/gl_fn_43_8FC.c:
+	.text       start:0x000008FC end:0x00000908
+
+mo_stub/st_battle/gl_fn_43_908.c:
+	.text       start:0x00000908 end:0x00000914
+
 mo_stub/st_battle/fn_43_938.c:
 	.text       start:0x00000938 end:0x00000950
 
@@ -49,6 +55,9 @@ mo_stub/st_battle/fn_43_990.c:
 
 mo_stub/st_battle/fn_43_998.c:
 	.text       start:0x00000998 end:0x000009A0
+
+mo_stub/st_battle/gl_fn_43_9A0.c:
+	.text       start:0x000009A0 end:0x000009AC
 
 mo_stub/st_battle/fn_43_9AC.c:
 	.text       start:0x000009AC end:0x000009C0

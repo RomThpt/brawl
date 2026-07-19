@@ -74,6 +74,12 @@ mo_stub/st_fzero/fn_61_2114.c:
 mo_stub/st_fzero/fn_61_2128.c:
 	.text       start:0x00002128 end:0x00002130
 
+mo_stub/st_fzero/gl_fn_61_2130.c:
+	.text       start:0x00002130 end:0x0000213C
+
+mo_stub/st_fzero/gl_fn_61_213C.c:
+	.text       start:0x0000213C end:0x00002148
+
 mo_stub/st_fzero/fn_61_216C.c:
 	.text       start:0x0000216C end:0x00002184
 
@@ -91,6 +97,9 @@ mo_stub/st_fzero/fn_61_21C4.c:
 
 mo_stub/st_fzero/fn_61_21CC.c:
 	.text       start:0x000021CC end:0x000021D4
+
+mo_stub/st_fzero/gl_fn_61_21D4.c:
+	.text       start:0x000021D4 end:0x000021E0
 
 mo_stub/st_fzero/fn_61_21E0.c:
 	.text       start:0x000021E0 end:0x000021FC

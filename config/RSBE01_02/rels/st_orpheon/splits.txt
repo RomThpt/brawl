@@ -23,6 +23,12 @@ mo_stub/st_orpheon/fn_55_22A8.c:
 mo_stub/st_orpheon/fn_55_22CC.c:
 	.text       start:0x000022CC end:0x000022D4
 
+mo_stub/st_orpheon/gl_fn_55_22D4.c:
+	.text       start:0x000022D4 end:0x000022E0
+
+mo_stub/st_orpheon/gl_fn_55_22E0.c:
+	.text       start:0x000022E0 end:0x000022EC
+
 mo_stub/st_orpheon/fn_55_2310.c:
 	.text       start:0x00002310 end:0x00002318
 
@@ -37,6 +43,9 @@ mo_stub/st_orpheon/fn_55_2360.c:
 
 mo_stub/st_orpheon/fn_55_2368.c:
 	.text       start:0x00002368 end:0x00002378
+
+mo_stub/st_orpheon/gl_fn_55_2378.c:
+	.text       start:0x00002378 end:0x00002384
 
 mo_stub/st_orpheon/fn_55_2384.c:
 	.text       start:0x00002384 end:0x00002390

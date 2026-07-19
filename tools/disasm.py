@@ -189,7 +189,9 @@ for i in range(0, len(code) - 3, 4):
     w = struct.unpack('>I', code[i:i + 4])[0]
     a = addr + i
     note = ""
-    if a in R:
-        t, mid, sec, add = R[a]
+    # les relocations de demi-mot portent sur instruction+2
+    hit = R.get(a) or R.get(a + 2)
+    if hit:
+        t, mid, sec, add = hit
         note = f"   ; reloc t{t} -> mod{mid} sec{sec} +0x{add:X}"
     print(f"  {a:06X}  {w:08X}  {dis(w, a):<34}{note}")

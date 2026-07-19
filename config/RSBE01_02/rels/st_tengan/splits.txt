@@ -38,6 +38,12 @@ mo_stub/st_tengan/fn_60_613C.c:
 mo_stub/st_tengan/fn_60_6150.c:
 	.text       start:0x00006150 end:0x00006158
 
+mo_stub/st_tengan/gl_fn_60_6158.c:
+	.text       start:0x00006158 end:0x00006164
+
+mo_stub/st_tengan/gl_fn_60_6164.c:
+	.text       start:0x00006164 end:0x00006170
+
 mo_stub/st_tengan/fn_60_6194.c:
 	.text       start:0x00006194 end:0x000061AC
 
@@ -49,6 +55,9 @@ mo_stub/st_tengan/fn_60_61DC.c:
 
 mo_stub/st_tengan/fn_60_61EC.c:
 	.text       start:0x000061EC end:0x000061FC
+
+mo_stub/st_tengan/gl_fn_60_61FC.c:
+	.text       start:0x000061FC end:0x00006208
 
 mo_stub/st_tengan/fn_60_6208.c:
 	.text       start:0x00006208 end:0x0000621C

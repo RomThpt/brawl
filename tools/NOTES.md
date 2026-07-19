@@ -129,3 +129,22 @@ travail de fond d'un projet de décompilation C++.
 
 Ce qui reste mécanisable en C est essentiellement épuisé : accesseurs d'index,
 champs de bits, index circulaires (~4300 fonctions matchées au total).
+
+## Getters de globaux (bank_globals.py) — 726 fonctions
+`lis+lfs+blr` -> return SYM ; `lis+addi+blr` -> return &SYM.
+Les immédiats sont nuls dans le .rel : l'adresse arrive par une paire de
+relocations, type 6 (ADDR16_HA) sur le lis et type 4 (ADDR16_LO) sur
+l'instruction suivante, portant section et offset cible. ATTENTION : la
+relocation est à instruction+2 (elle patche le demi-mot bas).
+Mapping section REL -> nom : 1=.text 2=.ctors 3=.dtors 4=.rodata 5=.data 6=.bss.
+
+64 unités sur 9 modules (ft_falco, ft_gamewatch, ft_link, ft_luigi, ft_mario,
+ft_pit, ft_samus, ft_snake, ft_toonlink) ne matchaient pas et ont été retirées ;
+le reste tient. Cause non élucidée — probablement un symbole cible différent de
+celui déduit (plusieurs symboles à la même adresse, ou un alias). À revoir si on
+veut ces 64.
+
+Méthode de récupération après un lot partiellement cassé : identifier les RELs en
+échec dans la sortie ninja, retirer sélectivement les unités de ces modules
+(splits.txt + Object dans configure.py + fichiers src), rebuilder. Bien plus
+rapide que de tout jeter.

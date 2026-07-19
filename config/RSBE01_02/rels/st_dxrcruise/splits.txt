@@ -26,6 +26,12 @@ mo_stub/st_dxrcruise/fn_80_293C.c:
 mo_stub/st_dxrcruise/fn_80_2968.c:
 	.text       start:0x00002968 end:0x00002970
 
+mo_stub/st_dxrcruise/gl_fn_80_2970.c:
+	.text       start:0x00002970 end:0x0000297C
+
+mo_stub/st_dxrcruise/gl_fn_80_297C.c:
+	.text       start:0x0000297C end:0x00002988
+
 mo_stub/st_dxrcruise/fn_80_29AC.c:
 	.text       start:0x000029AC end:0x000029D4
 
@@ -40,6 +46,9 @@ mo_stub/st_dxrcruise/fn_80_29FC.c:
 
 mo_stub/st_dxrcruise/fn_80_2A04.c:
 	.text       start:0x00002A04 end:0x00002A14
+
+mo_stub/st_dxrcruise/gl_fn_80_2A14.c:
+	.text       start:0x00002A14 end:0x00002A20
 
 mo_stub/st_dxrcruise/fn_80_2A20.c:
 	.text       start:0x00002A20 end:0x00002A24

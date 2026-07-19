@@ -188,11 +188,23 @@ mo_stub/ft_fox/fn_97_10AAC.c:
 mo_stub/ft_fox/fn_97_10AB8.c:
 	.text       start:0x00010AB8 end:0x00010ACC
 
+mo_stub/ft_fox/gl_fn_97_10ACC.c:
+	.text       start:0x00010ACC end:0x00010AD8
+
 mo_stub/ft_fox/fn_97_10AD8.c:
 	.text       start:0x00010AD8 end:0x00010AE0
 
+mo_stub/ft_fox/gl_fn_97_10AE0.c:
+	.text       start:0x00010AE0 end:0x00010AEC
+
 mo_stub/ft_fox/fn_97_10AEC.c:
 	.text       start:0x00010AEC end:0x00010AF4
+
+mo_stub/ft_fox/gl_fn_97_10AF4.c:
+	.text       start:0x00010AF4 end:0x00010B00
+
+mo_stub/ft_fox/gl_fn_97_10B00.c:
+	.text       start:0x00010B00 end:0x00010B0C
 
 mo_stub/ft_fox/fn_97_10B0C.c:
 	.text       start:0x00010B0C end:0x00010B20

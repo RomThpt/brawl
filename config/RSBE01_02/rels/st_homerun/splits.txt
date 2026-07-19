@@ -62,6 +62,12 @@ mo_stub/st_homerun/fn_88_4114.c:
 mo_stub/st_homerun/fn_88_4128.c:
 	.text       start:0x00004128 end:0x00004130
 
+mo_stub/st_homerun/gl_fn_88_4130.c:
+	.text       start:0x00004130 end:0x0000413C
+
+mo_stub/st_homerun/gl_fn_88_413C.c:
+	.text       start:0x0000413C end:0x00004148
+
 mo_stub/st_homerun/fn_88_416C.c:
 	.text       start:0x0000416C end:0x0000417C
 
@@ -76,6 +82,9 @@ mo_stub/st_homerun/fn_88_41BC.c:
 
 mo_stub/st_homerun/fn_88_41C4.c:
 	.text       start:0x000041C4 end:0x000041D4
+
+mo_stub/st_homerun/gl_fn_88_41D4.c:
+	.text       start:0x000041D4 end:0x000041E0
 
 mo_stub/st_homerun/fn_88_41E0.c:
 	.text       start:0x000041E0 end:0x000041F4

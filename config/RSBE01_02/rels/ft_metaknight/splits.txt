@@ -194,11 +194,23 @@ mo_stub/ft_metaknight/fn_111_10D44.c:
 mo_stub/ft_metaknight/fn_111_10D4C.c:
 	.text       start:0x00010D4C end:0x00010D64
 
+mo_stub/ft_metaknight/gl_fn_111_10D64.c:
+	.text       start:0x00010D64 end:0x00010D70
+
 mo_stub/ft_metaknight/fn_111_10D70.c:
 	.text       start:0x00010D70 end:0x00010D78
 
+mo_stub/ft_metaknight/gl_fn_111_10D78.c:
+	.text       start:0x00010D78 end:0x00010D84
+
 mo_stub/ft_metaknight/fn_111_10D84.c:
 	.text       start:0x00010D84 end:0x00010D8C
+
+mo_stub/ft_metaknight/gl_fn_111_10D8C.c:
+	.text       start:0x00010D8C end:0x00010D98
+
+mo_stub/ft_metaknight/gl_fn_111_10D98.c:
+	.text       start:0x00010D98 end:0x00010DA4
 
 mo_stub/ft_metaknight/fn_111_10DA4.c:
 	.text       start:0x00010DA4 end:0x00010DB8

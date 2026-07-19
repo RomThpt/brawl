@@ -47,6 +47,12 @@ mo_stub/st_stageedit/fn_85_5340.c:
 mo_stub/st_stageedit/fn_85_536C.c:
 	.text       start:0x0000536C end:0x00005374
 
+mo_stub/st_stageedit/gl_fn_85_5374.c:
+	.text       start:0x00005374 end:0x00005380
+
+mo_stub/st_stageedit/gl_fn_85_5380.c:
+	.text       start:0x00005380 end:0x0000538C
+
 mo_stub/st_stageedit/fn_85_53B0.c:
 	.text       start:0x000053B0 end:0x000053D4
 
@@ -58,6 +64,9 @@ mo_stub/st_stageedit/fn_85_53F8.c:
 
 mo_stub/st_stageedit/fn_85_5400.c:
 	.text       start:0x00005400 end:0x00005410
+
+mo_stub/st_stageedit/gl_fn_85_5410.c:
+	.text       start:0x00005410 end:0x0000541C
 
 mo_stub/st_stageedit/fn_85_541C.c:
 	.text       start:0x0000541C end:0x00005428
