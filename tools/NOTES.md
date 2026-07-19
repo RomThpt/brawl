@@ -35,3 +35,20 @@ chaîne de `if` dans CE même ordre. Ne pas "normaliser" en ordre croissant ni e
 
 Les fonctions SANS pile ni appel (pas de stwu/mflr) sont de loin les plus faciles :
 aucun ordonnancement d'arguments à faire coïncider. Les privilégier.
+
+## Stratégie qui marche : main -> motif -> automatisation
+Les deux familles accesseurs décompilées à la main partageaient une forme
+formulaire. Plutôt que d'en faire une troisième à la main, écrire un détecteur
+(tools/bank_accessors.py) a matché les 455 restantes sans effort : 457 fonctions
+d'un coup, toutes correctes au premier build.
+
+Méthode à répéter : décompiler à la main jusqu'à reconnaître une forme récurrente,
+puis mécaniser la reconnaissance. Chercher les motifs formulaires (accesseurs,
+thunks, wrappers générés par macro/template) avant de s'attaquer aux fonctions
+uniques.
+
+## Où en est le gisement
+- Familles feuilles (sans pile/vtable/reloc) : ~21, presque épuisées maintenant.
+- Le reste des 853 familles est du C++ à vtables -> reconstruction de classe.
+- Prochaines pistes de motifs formulaires à chercher : thunks de vtable,
+  wrappers de setters, constructeurs triviaux répétés entre modules.
