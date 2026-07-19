@@ -83,6 +83,12 @@ mo_stub/ft_captain/fn_100_9A1C.c:
 mo_stub/ft_captain/fn_100_A9D0.c:
 	.text       start:0x0000A9D0 end:0x0000A9E0
 
+mo_stub/ft_captain/acc_fn_100_AA5C.c:
+	.text       start:0x0000AA5C end:0x0000AA74
+
+mo_stub/ft_captain/acc_fn_100_AA74.c:
+	.text       start:0x0000AA74 end:0x0000AA8C
+
 mo_stub/ft_captain/fn_100_B7DC.c:
 	.text       start:0x0000B7DC end:0x0000B7E0
 
@@ -92,26 +98,50 @@ mo_stub/ft_captain/fn_100_BEEC.c:
 mo_stub/ft_captain/fn_100_BF2C.c:
 	.text       start:0x0000BF2C end:0x0000BF34
 
+mo_stub/ft_captain/acc_fn_100_BF78.c:
+	.text       start:0x0000BF78 end:0x0000BF90
+
 mo_stub/ft_captain/fn_100_C020.c:
 	.text       start:0x0000C020 end:0x0000C028
+
+mo_stub/ft_captain/acc_fn_100_C060.c:
+	.text       start:0x0000C060 end:0x0000C078
 
 mo_stub/ft_captain/fn_100_C108.c:
 	.text       start:0x0000C108 end:0x0000C110
 
+mo_stub/ft_captain/acc_fn_100_C110.c:
+	.text       start:0x0000C110 end:0x0000C128
+
 mo_stub/ft_captain/fn_100_C1B8.c:
 	.text       start:0x0000C1B8 end:0x0000C1C0
+
+mo_stub/ft_captain/acc_fn_100_C1F8.c:
+	.text       start:0x0000C1F8 end:0x0000C210
 
 mo_stub/ft_captain/fn_100_C2A0.c:
 	.text       start:0x0000C2A0 end:0x0000C2A8
 
+mo_stub/ft_captain/acc_fn_100_C2E0.c:
+	.text       start:0x0000C2E0 end:0x0000C2F8
+
 mo_stub/ft_captain/fn_100_C388.c:
 	.text       start:0x0000C388 end:0x0000C390
+
+mo_stub/ft_captain/acc_fn_100_C3C8.c:
+	.text       start:0x0000C3C8 end:0x0000C3E0
 
 mo_stub/ft_captain/fn_100_C470.c:
 	.text       start:0x0000C470 end:0x0000C478
 
+mo_stub/ft_captain/acc_fn_100_C4B0.c:
+	.text       start:0x0000C4B0 end:0x0000C4C8
+
 mo_stub/ft_captain/fn_100_C558.c:
 	.text       start:0x0000C558 end:0x0000C560
+
+mo_stub/ft_captain/acc_fn_100_C598.c:
+	.text       start:0x0000C598 end:0x0000C5B0
 
 mo_stub/ft_captain/fn_100_C640.c:
 	.text       start:0x0000C640 end:0x0000C648

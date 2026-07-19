@@ -478,6 +478,12 @@ mo_enemy/sora_enemy/boobas/em_boobas_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_36AB8.c:
 	.text       start:0x00036AB8 end:0x00036AC8
 
+mo_stub/sora_enemy/acc_fn_41_36AD8.c:
+	.text       start:0x00036AD8 end:0x00036B00
+
+mo_stub/sora_enemy/acc_fn_41_36B00.c:
+	.text       start:0x00036B00 end:0x00036B28
+
 mo_stub/sora_enemy/fn_41_36B28.c:
 	.text       start:0x00036B28 end:0x00036B30
 
@@ -618,6 +624,9 @@ mo_stub/sora_enemy/fn_41_3DBA8.c:
 mo_stub/sora_enemy/fn_41_3DBB0.c:
 	.text       start:0x0003DBB0 end:0x0003DBB8
 
+mo_stub/sora_enemy/acc_fn_41_3DBB8.c:
+	.text       start:0x0003DBB8 end:0x0003DBF0
+
 mo_stub/sora_enemy/fn_41_3DBF0.c:
 	.text       start:0x0003DBF0 end:0x0003DC08
 
@@ -630,6 +639,9 @@ mo_enemy/sora_enemy/botron/em_botron_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_3F2F4.c:
 	.text       start:0x0003F2F4 end:0x0003F304
+
+mo_stub/sora_enemy/acc_fn_41_3F304.c:
+	.text       start:0x0003F304 end:0x0003F32C
 
 mo_stub/sora_enemy/fn_41_3F32C.c:
 	.text       start:0x0003F32C end:0x0003F34C
@@ -657,6 +669,9 @@ mo_stub/sora_enemy/fn_41_414D8.c:
 mo_stub/sora_enemy/fam_fn_41_414E8.c:
 	.text       start:0x000414E8 end:0x00041550
 
+mo_stub/sora_enemy/acc_fn_41_41550.c:
+	.text       start:0x00041550 end:0x00041578
+
 mo_stub/sora_enemy/fn_41_41578.c:
 	.text       start:0x00041578 end:0x00041598
 
@@ -672,6 +687,15 @@ mo_stub/sora_enemy/fn_41_43B7C.c:
 
 mo_stub/sora_enemy/fn_41_43B84.c:
 	.text       start:0x00043B84 end:0x00043B8C
+
+mo_stub/sora_enemy/acc_fn_41_43BEC.c:
+	.text       start:0x00043BEC end:0x00043C04
+
+mo_stub/sora_enemy/acc_fn_41_43C04.c:
+	.text       start:0x00043C04 end:0x00043C3C
+
+mo_stub/sora_enemy/acc_fn_41_43C3C.c:
+	.text       start:0x00043C3C end:0x00043C54
 
 mo_stub/sora_enemy/fn_41_43C54.c:
 	.text       start:0x00043C54 end:0x00043C5C
@@ -745,6 +769,9 @@ mo_stub/sora_enemy/fn_41_4ADF8.c:
 mo_stub/sora_enemy/fn_41_4AE00.c:
 	.text       start:0x0004AE00 end:0x0004AE08
 
+mo_stub/sora_enemy/acc_fn_41_4AE08.c:
+	.text       start:0x0004AE08 end:0x0004AE40
+
 mo_stub/sora_enemy/fn_41_4AE40.c:
 	.text       start:0x0004AE40 end:0x0004AE50
 
@@ -760,6 +787,9 @@ mo_enemy/sora_enemy/spar/em_spar_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_4C5E8.c:
 	.text       start:0x0004C5E8 end:0x0004C5F8
+
+mo_stub/sora_enemy/acc_fn_41_4C5F8.c:
+	.text       start:0x0004C5F8 end:0x0004C6A0
 
 mo_stub/sora_enemy/fn_41_4C6A0.c:
 	.text       start:0x0004C6A0 end:0x0004C6B8
@@ -795,6 +825,12 @@ mo_stub/sora_enemy/fn_41_4F4E0.c:
 
 mo_stub/sora_enemy/fn_41_4F4E8.c:
 	.text       start:0x0004F4E8 end:0x0004F4F0
+
+mo_stub/sora_enemy/acc_fn_41_4F4F0.c:
+	.text       start:0x0004F4F0 end:0x0004F508
+
+mo_stub/sora_enemy/acc_fn_41_4F508.c:
+	.text       start:0x0004F508 end:0x0004F520
 
 mo_stub/sora_enemy/fn_41_4F520.c:
 	.text       start:0x0004F520 end:0x0004F538
@@ -894,6 +930,9 @@ mo_enemy/sora_enemy/robobeam/em_robobeam_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_55040.c:
 	.text       start:0x00055040 end:0x00055050
 
+mo_stub/sora_enemy/acc_fn_41_55050.c:
+	.text       start:0x00055050 end:0x00055068
+
 mo_stub/sora_enemy/fn_41_55068.c:
 	.text       start:0x00055068 end:0x00055080
 
@@ -939,6 +978,9 @@ mo_stub/sora_enemy/fn_41_58500.c:
 mo_stub/sora_enemy/fam_fn_41_58508.c:
 	.text       start:0x00058508 end:0x00058570
 
+mo_stub/sora_enemy/acc_fn_41_58570.c:
+	.text       start:0x00058570 end:0x00058588
+
 mo_stub/sora_enemy/fn_41_58588.c:
 	.text       start:0x00058588 end:0x00058590
 
@@ -968,6 +1010,9 @@ mo_enemy/sora_enemy/galfire/em_galfire_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_5A620.c:
 	.text       start:0x0005A620 end:0x0005A630
+
+mo_stub/sora_enemy/acc_fn_41_5A630.c:
+	.text       start:0x0005A630 end:0x0005A658
 
 mo_stub/sora_enemy/fn_41_5A658.c:
 	.text       start:0x0005A658 end:0x0005A660
@@ -1048,6 +1093,9 @@ mo_enemy/sora_enemy/rayquaza/wnem_proc_rayquaza.cpp:
 mo_stub/sora_enemy/fn_41_5FEE4.c:
 	.text       start:0x0005FEE4 end:0x0005FEF4
 
+mo_stub/sora_enemy/acc_fn_41_5FEF4.c:
+	.text       start:0x0005FEF4 end:0x0005FFDC
+
 mo_stub/sora_enemy/fn_41_5FFDC.c:
 	.text       start:0x0005FFDC end:0x0005FFF4
 
@@ -1064,6 +1112,9 @@ mo_stub/sora_enemy/fn_41_61B64.c:
 mo_stub/sora_enemy/fn_41_61B6C.c:
 	.text       start:0x00061B6C end:0x00061B74
 
+mo_stub/sora_enemy/acc_fn_41_61B74.c:
+	.text       start:0x00061B74 end:0x00061BEC
+
 mo_stub/sora_enemy/fn_41_61BEC.c:
 	.text       start:0x00061BEC end:0x00061BF4
 
@@ -1079,6 +1130,9 @@ mo_enemy/sora_enemy/porky/em_porky_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_63DB4.c:
 	.text       start:0x00063DB4 end:0x00063DC4
+
+mo_stub/sora_enemy/acc_fn_41_63DC4.c:
+	.text       start:0x00063DC4 end:0x00063F0C
 
 mo_stub/sora_enemy/fn_41_63F0C.c:
 	.text       start:0x00063F0C end:0x00063F24
@@ -1105,6 +1159,9 @@ mo_enemy/sora_enemy/falconflyer/em_falconflyer_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_66BCC.c:
 	.text       start:0x00066BCC end:0x00066BDC
+
+mo_stub/sora_enemy/acc_fn_41_66BDC.c:
+	.text       start:0x00066BDC end:0x00066D24
 
 mo_stub/sora_enemy/fn_41_66D24.c:
 	.text       start:0x00066D24 end:0x00066D34
@@ -1145,6 +1202,9 @@ mo_enemy/sora_enemy/masterhand/em_masterhand_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_6B11C.c:
 	.text       start:0x0006B11C end:0x0006B12C
+
+mo_stub/sora_enemy/acc_fn_41_6B12C.c:
+	.text       start:0x0006B12C end:0x0006B274
 
 mo_stub/sora_enemy/fn_41_6B274.c:
 	.text       start:0x0006B274 end:0x0006B284

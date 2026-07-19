@@ -89,6 +89,24 @@ mo_stub/ft_gamewatch/fn_107_C6D0.c:
 mo_stub/ft_gamewatch/fn_107_DFFC.c:
 	.text       start:0x0000DFFC end:0x0000E004
 
+mo_stub/ft_gamewatch/acc_fn_107_E08C.c:
+	.text       start:0x0000E08C end:0x0000E0A4
+
+mo_stub/ft_gamewatch/acc_fn_107_E0A4.c:
+	.text       start:0x0000E0A4 end:0x0000E0BC
+
+mo_stub/ft_gamewatch/acc_fn_107_E0BC.c:
+	.text       start:0x0000E0BC end:0x0000E0D4
+
+mo_stub/ft_gamewatch/acc_fn_107_E0D4.c:
+	.text       start:0x0000E0D4 end:0x0000E0EC
+
+mo_stub/ft_gamewatch/acc_fn_107_E0EC.c:
+	.text       start:0x0000E0EC end:0x0000E104
+
+mo_stub/ft_gamewatch/acc_fn_107_E104.c:
+	.text       start:0x0000E104 end:0x0000E11C
+
 mo_stub/ft_gamewatch/fn_107_EEC8.c:
 	.text       start:0x0000EEC8 end:0x0000EECC
 
@@ -98,26 +116,50 @@ mo_stub/ft_gamewatch/fn_107_F5D4.c:
 mo_stub/ft_gamewatch/fn_107_F610.c:
 	.text       start:0x0000F610 end:0x0000F618
 
+mo_stub/ft_gamewatch/acc_fn_107_F65C.c:
+	.text       start:0x0000F65C end:0x0000F674
+
 mo_stub/ft_gamewatch/fn_107_F704.c:
 	.text       start:0x0000F704 end:0x0000F70C
+
+mo_stub/ft_gamewatch/acc_fn_107_F744.c:
+	.text       start:0x0000F744 end:0x0000F75C
 
 mo_stub/ft_gamewatch/fn_107_F7EC.c:
 	.text       start:0x0000F7EC end:0x0000F7F4
 
+mo_stub/ft_gamewatch/acc_fn_107_F82C.c:
+	.text       start:0x0000F82C end:0x0000F844
+
 mo_stub/ft_gamewatch/fn_107_F8D4.c:
 	.text       start:0x0000F8D4 end:0x0000F8DC
+
+mo_stub/ft_gamewatch/acc_fn_107_F914.c:
+	.text       start:0x0000F914 end:0x0000F92C
 
 mo_stub/ft_gamewatch/fn_107_F9BC.c:
 	.text       start:0x0000F9BC end:0x0000F9C4
 
+mo_stub/ft_gamewatch/acc_fn_107_F9FC.c:
+	.text       start:0x0000F9FC end:0x0000FA14
+
 mo_stub/ft_gamewatch/fn_107_FAA4.c:
 	.text       start:0x0000FAA4 end:0x0000FAAC
+
+mo_stub/ft_gamewatch/acc_fn_107_FAE4.c:
+	.text       start:0x0000FAE4 end:0x0000FAFC
 
 mo_stub/ft_gamewatch/fn_107_FB8C.c:
 	.text       start:0x0000FB8C end:0x0000FB94
 
+mo_stub/ft_gamewatch/acc_fn_107_FBCC.c:
+	.text       start:0x0000FBCC end:0x0000FBE4
+
 mo_stub/ft_gamewatch/fn_107_FC74.c:
 	.text       start:0x0000FC74 end:0x0000FC7C
+
+mo_stub/ft_gamewatch/acc_fn_107_FCB4.c:
+	.text       start:0x0000FCB4 end:0x0000FCCC
 
 mo_stub/ft_gamewatch/fn_107_FD5C.c:
 	.text       start:0x0000FD5C end:0x0000FD64

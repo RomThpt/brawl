@@ -86,6 +86,12 @@ mo_stub/ft_ganon/fn_109_9384.c:
 mo_stub/ft_ganon/fn_109_A338.c:
 	.text       start:0x0000A338 end:0x0000A348
 
+mo_stub/ft_ganon/acc_fn_109_A3C4.c:
+	.text       start:0x0000A3C4 end:0x0000A3DC
+
+mo_stub/ft_ganon/acc_fn_109_A3DC.c:
+	.text       start:0x0000A3DC end:0x0000A3F4
+
 mo_stub/ft_ganon/fn_109_B144.c:
 	.text       start:0x0000B144 end:0x0000B148
 
@@ -95,26 +101,50 @@ mo_stub/ft_ganon/fn_109_B850.c:
 mo_stub/ft_ganon/fn_109_B88C.c:
 	.text       start:0x0000B88C end:0x0000B894
 
+mo_stub/ft_ganon/acc_fn_109_B8D8.c:
+	.text       start:0x0000B8D8 end:0x0000B8F0
+
 mo_stub/ft_ganon/fn_109_B980.c:
 	.text       start:0x0000B980 end:0x0000B988
+
+mo_stub/ft_ganon/acc_fn_109_B9C0.c:
+	.text       start:0x0000B9C0 end:0x0000B9D8
 
 mo_stub/ft_ganon/fn_109_BA68.c:
 	.text       start:0x0000BA68 end:0x0000BA70
 
+mo_stub/ft_ganon/acc_fn_109_BA70.c:
+	.text       start:0x0000BA70 end:0x0000BA88
+
 mo_stub/ft_ganon/fn_109_BB18.c:
 	.text       start:0x0000BB18 end:0x0000BB20
+
+mo_stub/ft_ganon/acc_fn_109_BB58.c:
+	.text       start:0x0000BB58 end:0x0000BB70
 
 mo_stub/ft_ganon/fn_109_BC00.c:
 	.text       start:0x0000BC00 end:0x0000BC08
 
+mo_stub/ft_ganon/acc_fn_109_BC40.c:
+	.text       start:0x0000BC40 end:0x0000BC58
+
 mo_stub/ft_ganon/fn_109_BCE8.c:
 	.text       start:0x0000BCE8 end:0x0000BCF0
+
+mo_stub/ft_ganon/acc_fn_109_BD28.c:
+	.text       start:0x0000BD28 end:0x0000BD40
 
 mo_stub/ft_ganon/fn_109_BDD0.c:
 	.text       start:0x0000BDD0 end:0x0000BDD8
 
+mo_stub/ft_ganon/acc_fn_109_BE10.c:
+	.text       start:0x0000BE10 end:0x0000BE28
+
 mo_stub/ft_ganon/fn_109_BEB8.c:
 	.text       start:0x0000BEB8 end:0x0000BEC0
+
+mo_stub/ft_ganon/acc_fn_109_BEF8.c:
+	.text       start:0x0000BEF8 end:0x0000BF10
 
 mo_stub/ft_ganon/fn_109_BFA0.c:
 	.text       start:0x0000BFA0 end:0x0000BFA8

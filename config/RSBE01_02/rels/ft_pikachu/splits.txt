@@ -86,6 +86,15 @@ mo_stub/ft_pikachu/fn_98_A1B8.c:
 mo_stub/ft_pikachu/fn_98_B59C.c:
 	.text       start:0x0000B59C end:0x0000B5A4
 
+mo_stub/ft_pikachu/acc_fn_98_B62C.c:
+	.text       start:0x0000B62C end:0x0000B664
+
+mo_stub/ft_pikachu/acc_fn_98_B664.c:
+	.text       start:0x0000B664 end:0x0000B67C
+
+mo_stub/ft_pikachu/acc_fn_98_B6A8.c:
+	.text       start:0x0000B6A8 end:0x0000B6E0
+
 mo_stub/ft_pikachu/fn_98_C430.c:
 	.text       start:0x0000C430 end:0x0000C434
 
@@ -95,26 +104,50 @@ mo_stub/ft_pikachu/fn_98_CCDC.c:
 mo_stub/ft_pikachu/fn_98_CD18.c:
 	.text       start:0x0000CD18 end:0x0000CD20
 
+mo_stub/ft_pikachu/acc_fn_98_CF18.c:
+	.text       start:0x0000CF18 end:0x0000CF30
+
 mo_stub/ft_pikachu/fn_98_CFC0.c:
 	.text       start:0x0000CFC0 end:0x0000CFC8
+
+mo_stub/ft_pikachu/acc_fn_98_D1B4.c:
+	.text       start:0x0000D1B4 end:0x0000D1CC
 
 mo_stub/ft_pikachu/fn_98_D25C.c:
 	.text       start:0x0000D25C end:0x0000D264
 
+mo_stub/ft_pikachu/acc_fn_98_D44C.c:
+	.text       start:0x0000D44C end:0x0000D464
+
 mo_stub/ft_pikachu/fn_98_D4F4.c:
 	.text       start:0x0000D4F4 end:0x0000D4FC
+
+mo_stub/ft_pikachu/acc_fn_98_D6E8.c:
+	.text       start:0x0000D6E8 end:0x0000D700
 
 mo_stub/ft_pikachu/fn_98_D790.c:
 	.text       start:0x0000D790 end:0x0000D798
 
+mo_stub/ft_pikachu/acc_fn_98_D984.c:
+	.text       start:0x0000D984 end:0x0000D99C
+
 mo_stub/ft_pikachu/fn_98_DA2C.c:
 	.text       start:0x0000DA2C end:0x0000DA34
+
+mo_stub/ft_pikachu/acc_fn_98_DC20.c:
+	.text       start:0x0000DC20 end:0x0000DC38
 
 mo_stub/ft_pikachu/fn_98_DCC8.c:
 	.text       start:0x0000DCC8 end:0x0000DCD0
 
+mo_stub/ft_pikachu/acc_fn_98_DEBC.c:
+	.text       start:0x0000DEBC end:0x0000DED4
+
 mo_stub/ft_pikachu/fn_98_DF64.c:
 	.text       start:0x0000DF64 end:0x0000DF6C
+
+mo_stub/ft_pikachu/acc_fn_98_E158.c:
+	.text       start:0x0000E158 end:0x0000E170
 
 mo_stub/ft_pikachu/fn_98_E200.c:
 	.text       start:0x0000E200 end:0x0000E208
@@ -268,6 +301,9 @@ mo_stub/ft_pikachu/fn_98_17F20.c:
 
 mo_stub/ft_pikachu/fn_98_19064.c:
 	.text       start:0x00019064 end:0x0001906C
+
+mo_stub/ft_pikachu/acc_fn_98_19088.c:
+	.text       start:0x00019088 end:0x000190D0
 
 mo_stub/ft_pikachu/fn_98_19168.c:
 	.text       start:0x00019168 end:0x00019188

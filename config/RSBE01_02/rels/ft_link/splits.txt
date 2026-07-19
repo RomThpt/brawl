@@ -95,6 +95,24 @@ mo_stub/ft_link/fn_93_B3C4.c:
 mo_stub/ft_link/fn_93_CBB0.c:
 	.text       start:0x0000CBB0 end:0x0000CBB8
 
+mo_stub/ft_link/acc_fn_93_CCA0.c:
+	.text       start:0x0000CCA0 end:0x0000CCB8
+
+mo_stub/ft_link/acc_fn_93_CCB8.c:
+	.text       start:0x0000CCB8 end:0x0000CCD0
+
+mo_stub/ft_link/acc_fn_93_CCD0.c:
+	.text       start:0x0000CCD0 end:0x0000CCE8
+
+mo_stub/ft_link/acc_fn_93_CCE8.c:
+	.text       start:0x0000CCE8 end:0x0000CD00
+
+mo_stub/ft_link/acc_fn_93_CD00.c:
+	.text       start:0x0000CD00 end:0x0000CD48
+
+mo_stub/ft_link/acc_fn_93_CD48.c:
+	.text       start:0x0000CD48 end:0x0000CD60
+
 mo_stub/ft_link/fn_93_DAB0.c:
 	.text       start:0x0000DAB0 end:0x0000DAB4
 
@@ -104,26 +122,50 @@ mo_stub/ft_link/fn_93_E1BC.c:
 mo_stub/ft_link/fn_93_E1F8.c:
 	.text       start:0x0000E1F8 end:0x0000E200
 
+mo_stub/ft_link/acc_fn_93_E244.c:
+	.text       start:0x0000E244 end:0x0000E25C
+
 mo_stub/ft_link/fn_93_E2EC.c:
 	.text       start:0x0000E2EC end:0x0000E2F4
+
+mo_stub/ft_link/acc_fn_93_E32C.c:
+	.text       start:0x0000E32C end:0x0000E344
 
 mo_stub/ft_link/fn_93_E3D4.c:
 	.text       start:0x0000E3D4 end:0x0000E3DC
 
+mo_stub/ft_link/acc_fn_93_E414.c:
+	.text       start:0x0000E414 end:0x0000E42C
+
 mo_stub/ft_link/fn_93_E4BC.c:
 	.text       start:0x0000E4BC end:0x0000E4C4
+
+mo_stub/ft_link/acc_fn_93_E4FC.c:
+	.text       start:0x0000E4FC end:0x0000E514
 
 mo_stub/ft_link/fn_93_E5A4.c:
 	.text       start:0x0000E5A4 end:0x0000E5AC
 
+mo_stub/ft_link/acc_fn_93_E5E4.c:
+	.text       start:0x0000E5E4 end:0x0000E5FC
+
 mo_stub/ft_link/fn_93_E68C.c:
 	.text       start:0x0000E68C end:0x0000E694
+
+mo_stub/ft_link/acc_fn_93_E6CC.c:
+	.text       start:0x0000E6CC end:0x0000E6E4
 
 mo_stub/ft_link/fn_93_E774.c:
 	.text       start:0x0000E774 end:0x0000E77C
 
+mo_stub/ft_link/acc_fn_93_E7B4.c:
+	.text       start:0x0000E7B4 end:0x0000E7CC
+
 mo_stub/ft_link/fn_93_E85C.c:
 	.text       start:0x0000E85C end:0x0000E864
+
+mo_stub/ft_link/acc_fn_93_E89C.c:
+	.text       start:0x0000E89C end:0x0000E8B4
 
 mo_stub/ft_link/fn_93_E944.c:
 	.text       start:0x0000E944 end:0x0000E94C
@@ -277,6 +319,9 @@ mo_stub/ft_link/fn_93_14B2C.c:
 
 mo_stub/ft_link/fn_93_18560.c:
 	.text       start:0x00018560 end:0x00018570
+
+mo_stub/ft_link/acc_fn_93_185D8.c:
+	.text       start:0x000185D8 end:0x000185F0
 
 mo_stub/ft_link/fn_93_185F0.c:
 	.text       start:0x000185F0 end:0x00018600

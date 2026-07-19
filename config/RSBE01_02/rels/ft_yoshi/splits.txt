@@ -86,6 +86,21 @@ mo_stub/ft_yoshi/fn_95_B9B8.c:
 mo_stub/ft_yoshi/fn_95_CFF4.c:
 	.text       start:0x0000CFF4 end:0x0000CFFC
 
+mo_stub/ft_yoshi/acc_fn_95_D084.c:
+	.text       start:0x0000D084 end:0x0000D0AC
+
+mo_stub/ft_yoshi/acc_fn_95_D0AC.c:
+	.text       start:0x0000D0AC end:0x0000D0F4
+
+mo_stub/ft_yoshi/acc_fn_95_D0F4.c:
+	.text       start:0x0000D0F4 end:0x0000D10C
+
+mo_stub/ft_yoshi/acc_fn_95_D10C.c:
+	.text       start:0x0000D10C end:0x0000D154
+
+mo_stub/ft_yoshi/acc_fn_95_D154.c:
+	.text       start:0x0000D154 end:0x0000D17C
+
 mo_stub/ft_yoshi/fn_95_DECC.c:
 	.text       start:0x0000DECC end:0x0000DED0
 
@@ -95,26 +110,50 @@ mo_stub/ft_yoshi/fn_95_E5D8.c:
 mo_stub/ft_yoshi/fn_95_E614.c:
 	.text       start:0x0000E614 end:0x0000E61C
 
+mo_stub/ft_yoshi/acc_fn_95_E660.c:
+	.text       start:0x0000E660 end:0x0000E678
+
 mo_stub/ft_yoshi/fn_95_E708.c:
 	.text       start:0x0000E708 end:0x0000E710
+
+mo_stub/ft_yoshi/acc_fn_95_E748.c:
+	.text       start:0x0000E748 end:0x0000E760
 
 mo_stub/ft_yoshi/fn_95_E7F0.c:
 	.text       start:0x0000E7F0 end:0x0000E7F8
 
+mo_stub/ft_yoshi/acc_fn_95_E830.c:
+	.text       start:0x0000E830 end:0x0000E848
+
 mo_stub/ft_yoshi/fn_95_E8D8.c:
 	.text       start:0x0000E8D8 end:0x0000E8E0
+
+mo_stub/ft_yoshi/acc_fn_95_E918.c:
+	.text       start:0x0000E918 end:0x0000E930
 
 mo_stub/ft_yoshi/fn_95_E9C0.c:
 	.text       start:0x0000E9C0 end:0x0000E9C8
 
+mo_stub/ft_yoshi/acc_fn_95_EA00.c:
+	.text       start:0x0000EA00 end:0x0000EA18
+
 mo_stub/ft_yoshi/fn_95_EAA8.c:
 	.text       start:0x0000EAA8 end:0x0000EAB0
+
+mo_stub/ft_yoshi/acc_fn_95_EAE8.c:
+	.text       start:0x0000EAE8 end:0x0000EB00
 
 mo_stub/ft_yoshi/fn_95_EB90.c:
 	.text       start:0x0000EB90 end:0x0000EB98
 
+mo_stub/ft_yoshi/acc_fn_95_EBD0.c:
+	.text       start:0x0000EBD0 end:0x0000EBE8
+
 mo_stub/ft_yoshi/fn_95_EC78.c:
 	.text       start:0x0000EC78 end:0x0000EC80
+
+mo_stub/ft_yoshi/acc_fn_95_ECB8.c:
+	.text       start:0x0000ECB8 end:0x0000ECD0
 
 mo_stub/ft_yoshi/fn_95_ED60.c:
 	.text       start:0x0000ED60 end:0x0000ED68

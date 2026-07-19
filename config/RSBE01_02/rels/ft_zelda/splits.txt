@@ -86,6 +86,18 @@ mo_stub/ft_zelda/fn_104_AB68.c:
 mo_stub/ft_zelda/fn_104_BF28.c:
 	.text       start:0x0000BF28 end:0x0000BF30
 
+mo_stub/ft_zelda/acc_fn_104_BFB8.c:
+	.text       start:0x0000BFB8 end:0x0000BFD0
+
+mo_stub/ft_zelda/acc_fn_104_BFD0.c:
+	.text       start:0x0000BFD0 end:0x0000BFE8
+
+mo_stub/ft_zelda/acc_fn_104_BFE8.c:
+	.text       start:0x0000BFE8 end:0x0000C020
+
+mo_stub/ft_zelda/acc_fn_104_C020.c:
+	.text       start:0x0000C020 end:0x0000C058
+
 mo_stub/ft_zelda/fn_104_CDA8.c:
 	.text       start:0x0000CDA8 end:0x0000CDAC
 
@@ -95,26 +107,50 @@ mo_stub/ft_zelda/fn_104_D4B8.c:
 mo_stub/ft_zelda/fn_104_D4F4.c:
 	.text       start:0x0000D4F4 end:0x0000D4FC
 
+mo_stub/ft_zelda/acc_fn_104_D540.c:
+	.text       start:0x0000D540 end:0x0000D558
+
 mo_stub/ft_zelda/fn_104_D5E8.c:
 	.text       start:0x0000D5E8 end:0x0000D5F0
+
+mo_stub/ft_zelda/acc_fn_104_D628.c:
+	.text       start:0x0000D628 end:0x0000D640
 
 mo_stub/ft_zelda/fn_104_D6D0.c:
 	.text       start:0x0000D6D0 end:0x0000D6D8
 
+mo_stub/ft_zelda/acc_fn_104_D710.c:
+	.text       start:0x0000D710 end:0x0000D728
+
 mo_stub/ft_zelda/fn_104_D7B8.c:
 	.text       start:0x0000D7B8 end:0x0000D7C0
+
+mo_stub/ft_zelda/acc_fn_104_D7F8.c:
+	.text       start:0x0000D7F8 end:0x0000D810
 
 mo_stub/ft_zelda/fn_104_D8A0.c:
 	.text       start:0x0000D8A0 end:0x0000D8A8
 
+mo_stub/ft_zelda/acc_fn_104_D8E0.c:
+	.text       start:0x0000D8E0 end:0x0000D8F8
+
 mo_stub/ft_zelda/fn_104_D988.c:
 	.text       start:0x0000D988 end:0x0000D990
+
+mo_stub/ft_zelda/acc_fn_104_D9C8.c:
+	.text       start:0x0000D9C8 end:0x0000D9E0
 
 mo_stub/ft_zelda/fn_104_DA70.c:
 	.text       start:0x0000DA70 end:0x0000DA78
 
+mo_stub/ft_zelda/acc_fn_104_DAB0.c:
+	.text       start:0x0000DAB0 end:0x0000DAC8
+
 mo_stub/ft_zelda/fn_104_DB58.c:
 	.text       start:0x0000DB58 end:0x0000DB60
+
+mo_stub/ft_zelda/acc_fn_104_DB98.c:
+	.text       start:0x0000DB98 end:0x0000DBB0
 
 mo_stub/ft_zelda/fn_104_DC40.c:
 	.text       start:0x0000DC40 end:0x0000DC48
@@ -268,6 +304,21 @@ mo_stub/ft_zelda/fn_104_1BA70.c:
 
 mo_stub/ft_zelda/fn_104_1D018.c:
 	.text       start:0x0001D018 end:0x0001D020
+
+mo_stub/ft_zelda/acc_fn_104_1D064.c:
+	.text       start:0x0001D064 end:0x0001D07C
+
+mo_stub/ft_zelda/acc_fn_104_1D07C.c:
+	.text       start:0x0001D07C end:0x0001D094
+
+mo_stub/ft_zelda/acc_fn_104_1D094.c:
+	.text       start:0x0001D094 end:0x0001D0AC
+
+mo_stub/ft_zelda/acc_fn_104_1D0AC.c:
+	.text       start:0x0001D0AC end:0x0001D0C4
+
+mo_stub/ft_zelda/acc_fn_104_1D0C4.c:
+	.text       start:0x0001D0C4 end:0x0001D0DC
 
 mo_stub/ft_zelda/fn_104_1D758.c:
 	.text       start:0x0001D758 end:0x0001D75C

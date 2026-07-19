@@ -92,6 +92,45 @@ mo_stub/ft_snake/fn_122_F87C.c:
 mo_stub/ft_snake/fn_122_11DBC.c:
 	.text       start:0x00011DBC end:0x00011DC4
 
+mo_stub/ft_snake/acc_fn_122_11E4C.c:
+	.text       start:0x00011E4C end:0x00011E74
+
+mo_stub/ft_snake/acc_fn_122_11E74.c:
+	.text       start:0x00011E74 end:0x00011E8C
+
+mo_stub/ft_snake/acc_fn_122_11E8C.c:
+	.text       start:0x00011E8C end:0x00011EA4
+
+mo_stub/ft_snake/acc_fn_122_11EA4.c:
+	.text       start:0x00011EA4 end:0x00011EBC
+
+mo_stub/ft_snake/acc_fn_122_11EBC.c:
+	.text       start:0x00011EBC end:0x00011ED4
+
+mo_stub/ft_snake/acc_fn_122_11ED4.c:
+	.text       start:0x00011ED4 end:0x00011EEC
+
+mo_stub/ft_snake/acc_fn_122_11EEC.c:
+	.text       start:0x00011EEC end:0x00011F04
+
+mo_stub/ft_snake/acc_fn_122_11F04.c:
+	.text       start:0x00011F04 end:0x00011F1C
+
+mo_stub/ft_snake/acc_fn_122_11F1C.c:
+	.text       start:0x00011F1C end:0x00011F34
+
+mo_stub/ft_snake/acc_fn_122_11F34.c:
+	.text       start:0x00011F34 end:0x00011F4C
+
+mo_stub/ft_snake/acc_fn_122_11F4C.c:
+	.text       start:0x00011F4C end:0x00011F64
+
+mo_stub/ft_snake/acc_fn_122_11F64.c:
+	.text       start:0x00011F64 end:0x00011F7C
+
+mo_stub/ft_snake/acc_fn_122_11F7C.c:
+	.text       start:0x00011F7C end:0x00011F94
+
 mo_stub/ft_snake/fn_122_12C88.c:
 	.text       start:0x00012C88 end:0x00012C8C
 
@@ -101,26 +140,50 @@ mo_stub/ft_snake/fn_122_13394.c:
 mo_stub/ft_snake/fn_122_133D0.c:
 	.text       start:0x000133D0 end:0x000133D8
 
+mo_stub/ft_snake/acc_fn_122_1341C.c:
+	.text       start:0x0001341C end:0x00013434
+
 mo_stub/ft_snake/fn_122_134C4.c:
 	.text       start:0x000134C4 end:0x000134CC
+
+mo_stub/ft_snake/acc_fn_122_13504.c:
+	.text       start:0x00013504 end:0x0001351C
 
 mo_stub/ft_snake/fn_122_135AC.c:
 	.text       start:0x000135AC end:0x000135B4
 
+mo_stub/ft_snake/acc_fn_122_135EC.c:
+	.text       start:0x000135EC end:0x00013604
+
 mo_stub/ft_snake/fn_122_13694.c:
 	.text       start:0x00013694 end:0x0001369C
+
+mo_stub/ft_snake/acc_fn_122_136D4.c:
+	.text       start:0x000136D4 end:0x000136EC
 
 mo_stub/ft_snake/fn_122_1377C.c:
 	.text       start:0x0001377C end:0x00013784
 
+mo_stub/ft_snake/acc_fn_122_137BC.c:
+	.text       start:0x000137BC end:0x000137D4
+
 mo_stub/ft_snake/fn_122_13864.c:
 	.text       start:0x00013864 end:0x0001386C
+
+mo_stub/ft_snake/acc_fn_122_138A4.c:
+	.text       start:0x000138A4 end:0x000138BC
 
 mo_stub/ft_snake/fn_122_1394C.c:
 	.text       start:0x0001394C end:0x00013954
 
+mo_stub/ft_snake/acc_fn_122_1398C.c:
+	.text       start:0x0001398C end:0x000139A4
+
 mo_stub/ft_snake/fn_122_13A34.c:
 	.text       start:0x00013A34 end:0x00013A3C
+
+mo_stub/ft_snake/acc_fn_122_13A74.c:
+	.text       start:0x00013A74 end:0x00013A8C
 
 mo_stub/ft_snake/fn_122_13B1C.c:
 	.text       start:0x00013B1C end:0x00013B24
@@ -331,6 +394,9 @@ mo_stub/ft_snake/fn_122_20694.c:
 
 mo_stub/ft_snake/fn_122_23AA8.c:
 	.text       start:0x00023AA8 end:0x00023AB8
+
+mo_stub/ft_snake/acc_fn_122_23AC8.c:
+	.text       start:0x00023AC8 end:0x00023AF0
 
 mo_stub/ft_snake/fn_122_23AF0.c:
 	.text       start:0x00023AF0 end:0x00023B08
