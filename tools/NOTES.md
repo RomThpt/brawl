@@ -52,3 +52,34 @@ uniques.
 - Le reste des 853 familles est du C++ à vtables -> reconstruction de classe.
 - Prochaines pistes de motifs formulaires à chercher : thunks de vtable,
   wrappers de setters, constructeurs triviaux répétés entre modules.
+
+## Thunks d'appel virtuel : NON mécanisables en C (échec documenté)
+Forme : `lwz r12,OFF1(r3) ; lwz r12,OFF2(r12) ; mtctr r12 ; bctr` (~1300 occurrences).
+
+Tentatives en C via pointeur de fonction : la structure et la taille sont exactes,
+mais la COULEUR DE REGISTRE diffère.
+- intermédiaire en variable locale -> r4
+- expression inlinée -> r4
+- registres d'arguments occupés (params transmis au saut terminal) -> r11
+
+La cible réutilise r12 pour les DEUX chargements : c'est le chemin de génération
+des appels virtuels C++ de MWCC, qui écrase r12 parce que le pointeur de vtable
+meurt immédiatement. Le C ne permet pas de forcer cette réutilisation.
+
+Conclusion : ce motif exige de vraies méthodes virtuelles C++ (donc la classe et
+sa vtable). À laisser de côté tant qu'on n'a pas les définitions de classes.
+
+Enseignement général : quand la structure est exacte mais la couleur de registre
+diverge, c'est le signe d'un idiome du compilateur qu'on n'atteint pas depuis le
+langage utilisé — changer de langage (C -> C++) ou passer au motif suivant.
+
+## Index circulaires (bank_wrapidx.py) — 440 fonctions
+Forme : curseur stocké dans un champ, décalé par l'argument, ramené dans [0,N),
+puis adresse de l'élément. Tous les constants (offset, décalage, N, taille
+d'élément, base) se lisent dans les instructions.
+
+Piège rencontré : mon désassembleur décodait `bc` sans tenir compte de BI, donc
+affichait `beq` là où c'était `blt`. J'ai écrit `if (idx != 4)` au lieu de
+`if (idx >= 4)` et 9 instructions sur 10 matchaient. Corrigé dans disasm.py.
+Leçon : quand une seule instruction diverge et que c'est un branchement,
+soupçonner d'abord le décodage de la condition.

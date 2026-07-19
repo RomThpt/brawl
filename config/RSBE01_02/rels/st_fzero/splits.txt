@@ -173,6 +173,9 @@ mo_stub/st_fzero/bf_fn_61_A698.c:
 mo_stub/st_fzero/fn_61_A6A4.c:
 	.text       start:0x0000A6A4 end:0x0000A6AC
 
+mo_stub/st_fzero/wi_fn_61_A6BC.c:
+	.text       start:0x0000A6BC end:0x0000A6E4
+
 mo_stub/st_fzero/bf_fn_61_A6E4.c:
 	.text       start:0x0000A6E4 end:0x0000A6F4
 
@@ -181,6 +184,9 @@ mo_stub/st_fzero/bf_fn_61_A6F4.c:
 
 mo_stub/st_fzero/bf_fn_61_A704.c:
 	.text       start:0x0000A704 end:0x0000A714
+
+mo_stub/st_fzero/wi_fn_61_A754.c:
+	.text       start:0x0000A754 end:0x0000A77C
 
 mo_stub/st_fzero/bf_fn_61_A77C.c:
 	.text       start:0x0000A77C end:0x0000A78C
@@ -235,6 +241,9 @@ mo_stub/st_fzero/bf_fn_61_E738.c:
 
 mo_stub/st_fzero/bf_fn_61_E748.c:
 	.text       start:0x0000E748 end:0x0000E758
+
+mo_stub/st_fzero/wi_fn_61_E798.c:
+	.text       start:0x0000E798 end:0x0000E7C0
 
 mo_stub/st_fzero/bf_fn_61_E7C0.c:
 	.text       start:0x0000E7C0 end:0x0000E7D0

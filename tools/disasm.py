@@ -35,7 +35,9 @@ X31 = {
     23: "lwzx", 87: "lbzx", 279: "lhzx", 343: "lhax", 151: "stwx", 215: "stbx", 407: "sthx",
     535: "lfsx", 599: "lfdx", 663: "stfsx", 727: "stfdx", 86: "dcbf", 982: "icbi",
 }
-BO_HINT = {4: "ne", 12: "eq", 68: "ne", 76: "eq"}
+# la condition dépend de BO *et* de BI (bit dans le CR) : BI%4 -> lt/gt/eq/so
+BI_BIT = {0: "lt", 1: "gt", 2: "eq", 3: "so"}
+BI_NEG = {"lt": "ge", "gt": "le", "eq": "ne", "so": "ns"}
 
 
 def simm(w):
@@ -81,7 +83,8 @@ def dis(w, addr):
         off = w & 0xFFFC
         if off >= 0x8000:
             off -= 0x10000
-        cond = BO_HINT.get(bo, f"bo={bo}")
+        base = BI_BIT[bi & 3]
+        cond = base if (bo & 8) else BI_NEG[base]   # BO bit 3 = branche si vrai
         return f"b{cond} cr{bi >> 2}, 0x{(addr + off) & 0xFFFFFFFF:X}"
     if prim == 19 and ((w >> 1) & 0x3FF) == 16:
         return "bclr"

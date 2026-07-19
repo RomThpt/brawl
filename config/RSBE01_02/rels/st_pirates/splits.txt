@@ -167,6 +167,9 @@ mo_stub/st_pirates/bf_fn_52_7524.c:
 mo_stub/st_pirates/fn_52_7530.c:
 	.text       start:0x00007530 end:0x00007538
 
+mo_stub/st_pirates/wi_fn_52_7548.c:
+	.text       start:0x00007548 end:0x00007570
+
 mo_stub/st_pirates/bf_fn_52_7570.c:
 	.text       start:0x00007570 end:0x00007580
 
@@ -175,6 +178,9 @@ mo_stub/st_pirates/bf_fn_52_7580.c:
 
 mo_stub/st_pirates/bf_fn_52_7590.c:
 	.text       start:0x00007590 end:0x000075A0
+
+mo_stub/st_pirates/wi_fn_52_75E0.c:
+	.text       start:0x000075E0 end:0x00007608
 
 mo_stub/st_pirates/bf_fn_52_7608.c:
 	.text       start:0x00007608 end:0x00007618
