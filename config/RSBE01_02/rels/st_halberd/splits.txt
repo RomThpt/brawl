@@ -122,6 +122,9 @@ mo_stub/st_halberd/fn_57_A470.c:
 mo_stub/st_halberd/fn_57_A4C0.c:
 	.text       start:0x0000A4C0 end:0x0000A4C4
 
+mo_stub/st_halberd/bf_fn_57_A748.c:
+	.text       start:0x0000A748 end:0x0000A754
+
 mo_stub/st_halberd/bf_fn_57_A764.c:
 	.text       start:0x0000A764 end:0x0000A770
 
@@ -137,11 +140,17 @@ mo_stub/st_halberd/fn_57_AC8C.c:
 mo_stub/st_halberd/fn_57_ACA0.c:
 	.text       start:0x0000ACA0 end:0x0000ACC0
 
+mo_stub/st_halberd/bf_fn_57_ACC0.c:
+	.text       start:0x0000ACC0 end:0x0000ACCC
+
 mo_stub/st_halberd/bf_fn_57_ACCC.c:
 	.text       start:0x0000ACCC end:0x0000ACDC
 
 mo_stub/st_halberd/bf_fn_57_ACEC.c:
 	.text       start:0x0000ACEC end:0x0000ACFC
+
+mo_stub/st_halberd/bf_fn_57_AD1C.c:
+	.text       start:0x0000AD1C end:0x0000AD2C
 
 mo_stub/st_halberd/bf_fn_57_AD2C.c:
 	.text       start:0x0000AD2C end:0x0000AD38
@@ -161,17 +170,26 @@ mo_stub/st_halberd/bf_fn_57_AD88.c:
 mo_stub/st_halberd/bf_fn_57_AD98.c:
 	.text       start:0x0000AD98 end:0x0000ADA8
 
+mo_stub/st_halberd/bf_fn_57_ADC8.c:
+	.text       start:0x0000ADC8 end:0x0000ADD8
+
 mo_stub/st_halberd/wi_fn_57_ADE8.c:
 	.text       start:0x0000ADE8 end:0x0000AE10
 
 mo_stub/st_halberd/bf_fn_57_AE10.c:
 	.text       start:0x0000AE10 end:0x0000AE20
 
+mo_stub/st_halberd/bf_fn_57_AE20.c:
+	.text       start:0x0000AE20 end:0x0000AE2C
+
 mo_stub/st_halberd/bf_fn_57_AE2C.c:
 	.text       start:0x0000AE2C end:0x0000AE3C
 
 mo_stub/st_halberd/bf_fn_57_AE4C.c:
 	.text       start:0x0000AE4C end:0x0000AE5C
+
+mo_stub/st_halberd/bf_fn_57_AE7C.c:
+	.text       start:0x0000AE7C end:0x0000AE8C
 
 mo_stub/st_halberd/bf_fn_57_AE8C.c:
 	.text       start:0x0000AE8C end:0x0000AE98

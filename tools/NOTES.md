@@ -83,3 +83,21 @@ affichait `beq` là où c'était `blt`. J'ai écrit `if (idx != 4)` au lieu de
 `if (idx >= 4)` et 9 instructions sur 10 matchaient. Corrigé dans disasm.py.
 Leçon : quand une seule instruction diverge et que c'est un branchement,
 soupçonner d'abord le décodage de la condition.
+
+## Bug qui coûtait 2400 fonctions : champs de srawi inversés
+`srawi rA, rS, SH` encode la DESTINATION en rA (bits 20-16) et la SOURCE en rS
+(bits 25-21) — l'inverse de l'intuition. Mon classifieur exigeait rS=3/rA=0 au
+lieu de rS=0/rA=3, donc rejetait silencieusement TOUS les getters signés.
+
+Symptôme : le générateur "marchait" (les fonctions bankées matchaient) mais
+rendait beaucoup moins que le comptage ne le prévoyait. Quand un générateur
+produit moins que le gisement mesuré, suspecter ses conditions de REJET avant de
+conclure que le gisement est épuisé.
+
+Formes bitfield gérées au final :
+- lwz + rlwimi + stw           -> p->f = v
+- lwz + rlwinm + srawi         -> return p->f (signé)
+- lwz + srawi                  -> return p->f (signé, champ en tête de mot)
+- lwz + rlwinm                 -> return p->f (non signé)
+- lwz + rlwinm(SH=0, MB>ME) + stw -> p->f = 0 (masque inversé : le champ effacé
+  est [ME+1 .. MB-1])

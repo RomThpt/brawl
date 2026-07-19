@@ -116,11 +116,17 @@ mo_stub/st_mariopast/fn_48_399C.c:
 mo_stub/st_mariopast/fn_48_39EC.c:
 	.text       start:0x000039EC end:0x000039F0
 
+mo_stub/st_mariopast/bf_fn_48_3E90.c:
+	.text       start:0x00003E90 end:0x00003E9C
+
 mo_stub/st_mariopast/bf_fn_48_3E9C.c:
 	.text       start:0x00003E9C end:0x00003EAC
 
 mo_stub/st_mariopast/bf_fn_48_3EBC.c:
 	.text       start:0x00003EBC end:0x00003ECC
+
+mo_stub/st_mariopast/bf_fn_48_3EEC.c:
+	.text       start:0x00003EEC end:0x00003EFC
 
 mo_stub/st_mariopast/bf_fn_48_3EFC.c:
 	.text       start:0x00003EFC end:0x00003F08
@@ -152,11 +158,17 @@ mo_stub/st_mariopast/fn_48_7870.c:
 mo_stub/st_mariopast/fn_48_7898.c:
 	.text       start:0x00007898 end:0x000078C0
 
+mo_stub/st_mariopast/bf_fn_48_AE5C.c:
+	.text       start:0x0000AE5C end:0x0000AE68
+
 mo_stub/st_mariopast/bf_fn_48_AE78.c:
 	.text       start:0x0000AE78 end:0x0000AE84
 
 mo_stub/st_mariopast/fn_48_AE84.c:
 	.text       start:0x0000AE84 end:0x0000AE8C
+
+mo_stub/st_mariopast/bf_fn_48_B02C.c:
+	.text       start:0x0000B02C end:0x0000B038
 
 mo_stub/st_mariopast/bf_fn_48_B048.c:
 	.text       start:0x0000B048 end:0x0000B054
@@ -164,11 +176,17 @@ mo_stub/st_mariopast/bf_fn_48_B048.c:
 mo_stub/st_mariopast/fn_48_B054.c:
 	.text       start:0x0000B054 end:0x0000B05C
 
+mo_stub/st_mariopast/bf_fn_48_B1FC.c:
+	.text       start:0x0000B1FC end:0x0000B208
+
 mo_stub/st_mariopast/bf_fn_48_B218.c:
 	.text       start:0x0000B218 end:0x0000B224
 
 mo_stub/st_mariopast/fn_48_B224.c:
 	.text       start:0x0000B224 end:0x0000B22C
+
+mo_stub/st_mariopast/bf_fn_48_B3CC.c:
+	.text       start:0x0000B3CC end:0x0000B3D8
 
 mo_stub/st_mariopast/bf_fn_48_B3E8.c:
 	.text       start:0x0000B3E8 end:0x0000B3F4
@@ -176,11 +194,17 @@ mo_stub/st_mariopast/bf_fn_48_B3E8.c:
 mo_stub/st_mariopast/fn_48_B3F4.c:
 	.text       start:0x0000B3F4 end:0x0000B3FC
 
+mo_stub/st_mariopast/bf_fn_48_B3FC.c:
+	.text       start:0x0000B3FC end:0x0000B408
+
 mo_stub/st_mariopast/bf_fn_48_B408.c:
 	.text       start:0x0000B408 end:0x0000B418
 
 mo_stub/st_mariopast/bf_fn_48_B428.c:
 	.text       start:0x0000B428 end:0x0000B438
+
+mo_stub/st_mariopast/bf_fn_48_B458.c:
+	.text       start:0x0000B458 end:0x0000B468
 
 mo_stub/st_mariopast/bf_fn_48_B468.c:
 	.text       start:0x0000B468 end:0x0000B474
@@ -194,11 +218,17 @@ mo_stub/st_mariopast/wi_fn_48_B48C.c:
 mo_stub/st_mariopast/bf_fn_48_B4B4.c:
 	.text       start:0x0000B4B4 end:0x0000B4C4
 
+mo_stub/st_mariopast/bf_fn_48_B4C4.c:
+	.text       start:0x0000B4C4 end:0x0000B4D0
+
 mo_stub/st_mariopast/bf_fn_48_B4D0.c:
 	.text       start:0x0000B4D0 end:0x0000B4E0
 
 mo_stub/st_mariopast/bf_fn_48_B4F0.c:
 	.text       start:0x0000B4F0 end:0x0000B500
+
+mo_stub/st_mariopast/bf_fn_48_B520.c:
+	.text       start:0x0000B520 end:0x0000B530
 
 mo_stub/st_mariopast/bf_fn_48_B530.c:
 	.text       start:0x0000B530 end:0x0000B53C
@@ -212,11 +242,17 @@ mo_stub/st_mariopast/wi_fn_48_B554.c:
 mo_stub/st_mariopast/bf_fn_48_B57C.c:
 	.text       start:0x0000B57C end:0x0000B58C
 
+mo_stub/st_mariopast/bf_fn_48_B58C.c:
+	.text       start:0x0000B58C end:0x0000B598
+
 mo_stub/st_mariopast/bf_fn_48_B598.c:
 	.text       start:0x0000B598 end:0x0000B5A8
 
 mo_stub/st_mariopast/bf_fn_48_B5B8.c:
 	.text       start:0x0000B5B8 end:0x0000B5C8
+
+mo_stub/st_mariopast/bf_fn_48_B5E8.c:
+	.text       start:0x0000B5E8 end:0x0000B5F8
 
 mo_stub/st_mariopast/bf_fn_48_B5F8.c:
 	.text       start:0x0000B5F8 end:0x0000B604
@@ -236,17 +272,26 @@ mo_stub/st_mariopast/bf_fn_48_B654.c:
 mo_stub/st_mariopast/bf_fn_48_B664.c:
 	.text       start:0x0000B664 end:0x0000B674
 
+mo_stub/st_mariopast/bf_fn_48_B694.c:
+	.text       start:0x0000B694 end:0x0000B6A4
+
 mo_stub/st_mariopast/wi_fn_48_B6B4.c:
 	.text       start:0x0000B6B4 end:0x0000B6DC
 
 mo_stub/st_mariopast/bf_fn_48_B6DC.c:
 	.text       start:0x0000B6DC end:0x0000B6EC
 
+mo_stub/st_mariopast/bf_fn_48_B6EC.c:
+	.text       start:0x0000B6EC end:0x0000B6F8
+
 mo_stub/st_mariopast/bf_fn_48_B6F8.c:
 	.text       start:0x0000B6F8 end:0x0000B708
 
 mo_stub/st_mariopast/bf_fn_48_B718.c:
 	.text       start:0x0000B718 end:0x0000B728
+
+mo_stub/st_mariopast/bf_fn_48_B748.c:
+	.text       start:0x0000B748 end:0x0000B758
 
 mo_stub/st_mariopast/bf_fn_48_B758.c:
 	.text       start:0x0000B758 end:0x0000B764
@@ -260,11 +305,17 @@ mo_stub/st_mariopast/wi_fn_48_B77C.c:
 mo_stub/st_mariopast/bf_fn_48_B7A4.c:
 	.text       start:0x0000B7A4 end:0x0000B7B4
 
+mo_stub/st_mariopast/bf_fn_48_B7B4.c:
+	.text       start:0x0000B7B4 end:0x0000B7C0
+
 mo_stub/st_mariopast/bf_fn_48_B7C0.c:
 	.text       start:0x0000B7C0 end:0x0000B7D0
 
 mo_stub/st_mariopast/bf_fn_48_B7E0.c:
 	.text       start:0x0000B7E0 end:0x0000B7F0
+
+mo_stub/st_mariopast/bf_fn_48_B810.c:
+	.text       start:0x0000B810 end:0x0000B820
 
 mo_stub/st_mariopast/bf_fn_48_B820.c:
 	.text       start:0x0000B820 end:0x0000B82C
@@ -278,11 +329,17 @@ mo_stub/st_mariopast/wi_fn_48_B844.c:
 mo_stub/st_mariopast/bf_fn_48_B86C.c:
 	.text       start:0x0000B86C end:0x0000B87C
 
+mo_stub/st_mariopast/bf_fn_48_B87C.c:
+	.text       start:0x0000B87C end:0x0000B888
+
 mo_stub/st_mariopast/bf_fn_48_B888.c:
 	.text       start:0x0000B888 end:0x0000B898
 
 mo_stub/st_mariopast/bf_fn_48_B8A8.c:
 	.text       start:0x0000B8A8 end:0x0000B8B8
+
+mo_stub/st_mariopast/bf_fn_48_B8D8.c:
+	.text       start:0x0000B8D8 end:0x0000B8E8
 
 mo_stub/st_mariopast/bf_fn_48_B8E8.c:
 	.text       start:0x0000B8E8 end:0x0000B8F4
@@ -302,17 +359,26 @@ mo_stub/st_mariopast/bf_fn_48_B944.c:
 mo_stub/st_mariopast/bf_fn_48_B954.c:
 	.text       start:0x0000B954 end:0x0000B964
 
+mo_stub/st_mariopast/bf_fn_48_B984.c:
+	.text       start:0x0000B984 end:0x0000B994
+
 mo_stub/st_mariopast/wi_fn_48_B9A4.c:
 	.text       start:0x0000B9A4 end:0x0000B9CC
 
 mo_stub/st_mariopast/bf_fn_48_B9CC.c:
 	.text       start:0x0000B9CC end:0x0000B9DC
 
+mo_stub/st_mariopast/bf_fn_48_B9DC.c:
+	.text       start:0x0000B9DC end:0x0000B9E8
+
 mo_stub/st_mariopast/bf_fn_48_B9E8.c:
 	.text       start:0x0000B9E8 end:0x0000B9F8
 
 mo_stub/st_mariopast/bf_fn_48_BA08.c:
 	.text       start:0x0000BA08 end:0x0000BA18
+
+mo_stub/st_mariopast/bf_fn_48_BA38.c:
+	.text       start:0x0000BA38 end:0x0000BA48
 
 mo_stub/st_mariopast/bf_fn_48_BA48.c:
 	.text       start:0x0000BA48 end:0x0000BA54
@@ -326,11 +392,17 @@ mo_stub/st_mariopast/wi_fn_48_BA6C.c:
 mo_stub/st_mariopast/bf_fn_48_BA94.c:
 	.text       start:0x0000BA94 end:0x0000BAA4
 
+mo_stub/st_mariopast/bf_fn_48_BAA4.c:
+	.text       start:0x0000BAA4 end:0x0000BAB0
+
 mo_stub/st_mariopast/bf_fn_48_BAB0.c:
 	.text       start:0x0000BAB0 end:0x0000BAC0
 
 mo_stub/st_mariopast/bf_fn_48_BAD0.c:
 	.text       start:0x0000BAD0 end:0x0000BAE0
+
+mo_stub/st_mariopast/bf_fn_48_BB00.c:
+	.text       start:0x0000BB00 end:0x0000BB10
 
 mo_stub/st_mariopast/bf_fn_48_BB10.c:
 	.text       start:0x0000BB10 end:0x0000BB1C
@@ -344,11 +416,17 @@ mo_stub/st_mariopast/wi_fn_48_BB34.c:
 mo_stub/st_mariopast/bf_fn_48_BB5C.c:
 	.text       start:0x0000BB5C end:0x0000BB6C
 
+mo_stub/st_mariopast/bf_fn_48_BB6C.c:
+	.text       start:0x0000BB6C end:0x0000BB78
+
 mo_stub/st_mariopast/bf_fn_48_BB78.c:
 	.text       start:0x0000BB78 end:0x0000BB88
 
 mo_stub/st_mariopast/bf_fn_48_BB98.c:
 	.text       start:0x0000BB98 end:0x0000BBA8
+
+mo_stub/st_mariopast/bf_fn_48_BBC8.c:
+	.text       start:0x0000BBC8 end:0x0000BBD8
 
 mo_stub/st_mariopast/bf_fn_48_BBD8.c:
 	.text       start:0x0000BBD8 end:0x0000BBE4
@@ -368,17 +446,26 @@ mo_stub/st_mariopast/bf_fn_48_BC34.c:
 mo_stub/st_mariopast/bf_fn_48_BC44.c:
 	.text       start:0x0000BC44 end:0x0000BC54
 
+mo_stub/st_mariopast/bf_fn_48_BC74.c:
+	.text       start:0x0000BC74 end:0x0000BC84
+
 mo_stub/st_mariopast/wi_fn_48_BC94.c:
 	.text       start:0x0000BC94 end:0x0000BCBC
 
 mo_stub/st_mariopast/bf_fn_48_BCBC.c:
 	.text       start:0x0000BCBC end:0x0000BCCC
 
+mo_stub/st_mariopast/bf_fn_48_BCCC.c:
+	.text       start:0x0000BCCC end:0x0000BCD8
+
 mo_stub/st_mariopast/bf_fn_48_BCD8.c:
 	.text       start:0x0000BCD8 end:0x0000BCE8
 
 mo_stub/st_mariopast/bf_fn_48_BCF8.c:
 	.text       start:0x0000BCF8 end:0x0000BD08
+
+mo_stub/st_mariopast/bf_fn_48_BD28.c:
+	.text       start:0x0000BD28 end:0x0000BD38
 
 mo_stub/st_mariopast/bf_fn_48_BD38.c:
 	.text       start:0x0000BD38 end:0x0000BD44
@@ -392,11 +479,17 @@ mo_stub/st_mariopast/wi_fn_48_BD5C.c:
 mo_stub/st_mariopast/bf_fn_48_BD84.c:
 	.text       start:0x0000BD84 end:0x0000BD94
 
+mo_stub/st_mariopast/bf_fn_48_BD94.c:
+	.text       start:0x0000BD94 end:0x0000BDA0
+
 mo_stub/st_mariopast/bf_fn_48_BDA0.c:
 	.text       start:0x0000BDA0 end:0x0000BDB0
 
 mo_stub/st_mariopast/bf_fn_48_BDC0.c:
 	.text       start:0x0000BDC0 end:0x0000BDD0
+
+mo_stub/st_mariopast/bf_fn_48_BDF0.c:
+	.text       start:0x0000BDF0 end:0x0000BE00
 
 mo_stub/st_mariopast/bf_fn_48_BE00.c:
 	.text       start:0x0000BE00 end:0x0000BE0C
@@ -410,11 +503,17 @@ mo_stub/st_mariopast/wi_fn_48_BE24.c:
 mo_stub/st_mariopast/bf_fn_48_BE4C.c:
 	.text       start:0x0000BE4C end:0x0000BE5C
 
+mo_stub/st_mariopast/bf_fn_48_BE5C.c:
+	.text       start:0x0000BE5C end:0x0000BE68
+
 mo_stub/st_mariopast/bf_fn_48_BE68.c:
 	.text       start:0x0000BE68 end:0x0000BE78
 
 mo_stub/st_mariopast/bf_fn_48_BE88.c:
 	.text       start:0x0000BE88 end:0x0000BE98
+
+mo_stub/st_mariopast/bf_fn_48_BEB8.c:
+	.text       start:0x0000BEB8 end:0x0000BEC8
 
 mo_stub/st_mariopast/bf_fn_48_BEC8.c:
 	.text       start:0x0000BEC8 end:0x0000BED4
@@ -433,6 +532,9 @@ mo_stub/st_mariopast/bf_fn_48_BF24.c:
 
 mo_stub/st_mariopast/bf_fn_48_BF34.c:
 	.text       start:0x0000BF34 end:0x0000BF44
+
+mo_stub/st_mariopast/bf_fn_48_BF64.c:
+	.text       start:0x0000BF64 end:0x0000BF74
 
 mo_stub/st_mariopast/wi_fn_48_BF84.c:
 	.text       start:0x0000BF84 end:0x0000BFAC

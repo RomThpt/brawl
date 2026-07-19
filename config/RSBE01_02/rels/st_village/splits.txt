@@ -137,17 +137,26 @@ mo_stub/st_village/fn_70_87B8.c:
 mo_stub/st_village/fn_70_8808.c:
 	.text       start:0x00008808 end:0x0000880C
 
+mo_stub/st_village/bf_fn_70_8AB8.c:
+	.text       start:0x00008AB8 end:0x00008AC4
+
 mo_stub/st_village/bf_fn_70_8AD4.c:
 	.text       start:0x00008AD4 end:0x00008AE0
 
 mo_stub/st_village/fn_70_8AE0.c:
 	.text       start:0x00008AE0 end:0x00008AE8
 
+mo_stub/st_village/bf_fn_70_8F84.c:
+	.text       start:0x00008F84 end:0x00008F90
+
 mo_stub/st_village/bf_fn_70_8F90.c:
 	.text       start:0x00008F90 end:0x00008FA0
 
 mo_stub/st_village/bf_fn_70_8FB0.c:
 	.text       start:0x00008FB0 end:0x00008FC0
+
+mo_stub/st_village/bf_fn_70_8FE0.c:
+	.text       start:0x00008FE0 end:0x00008FF0
 
 mo_stub/st_village/bf_fn_70_8FF0.c:
 	.text       start:0x00008FF0 end:0x00008FFC
@@ -161,11 +170,17 @@ mo_stub/st_village/wi_fn_70_9014.c:
 mo_stub/st_village/bf_fn_70_903C.c:
 	.text       start:0x0000903C end:0x0000904C
 
+mo_stub/st_village/bf_fn_70_904C.c:
+	.text       start:0x0000904C end:0x00009058
+
 mo_stub/st_village/bf_fn_70_9058.c:
 	.text       start:0x00009058 end:0x00009068
 
 mo_stub/st_village/bf_fn_70_9078.c:
 	.text       start:0x00009078 end:0x00009088
+
+mo_stub/st_village/bf_fn_70_90A8.c:
+	.text       start:0x000090A8 end:0x000090B8
 
 mo_stub/st_village/bf_fn_70_90B8.c:
 	.text       start:0x000090B8 end:0x000090C4
@@ -185,17 +200,26 @@ mo_stub/st_village/bf_fn_70_9114.c:
 mo_stub/st_village/bf_fn_70_9124.c:
 	.text       start:0x00009124 end:0x00009134
 
+mo_stub/st_village/bf_fn_70_9154.c:
+	.text       start:0x00009154 end:0x00009164
+
 mo_stub/st_village/wi_fn_70_9174.c:
 	.text       start:0x00009174 end:0x0000919C
 
 mo_stub/st_village/bf_fn_70_919C.c:
 	.text       start:0x0000919C end:0x000091AC
 
+mo_stub/st_village/bf_fn_70_91AC.c:
+	.text       start:0x000091AC end:0x000091B8
+
 mo_stub/st_village/bf_fn_70_91B8.c:
 	.text       start:0x000091B8 end:0x000091C8
 
 mo_stub/st_village/bf_fn_70_91D8.c:
 	.text       start:0x000091D8 end:0x000091E8
+
+mo_stub/st_village/bf_fn_70_9208.c:
+	.text       start:0x00009208 end:0x00009218
 
 mo_stub/st_village/bf_fn_70_9218.c:
 	.text       start:0x00009218 end:0x00009224
@@ -209,11 +233,17 @@ mo_stub/st_village/wi_fn_70_923C.c:
 mo_stub/st_village/bf_fn_70_9264.c:
 	.text       start:0x00009264 end:0x00009274
 
+mo_stub/st_village/bf_fn_70_9274.c:
+	.text       start:0x00009274 end:0x00009280
+
 mo_stub/st_village/bf_fn_70_9280.c:
 	.text       start:0x00009280 end:0x00009290
 
 mo_stub/st_village/bf_fn_70_92A0.c:
 	.text       start:0x000092A0 end:0x000092B0
+
+mo_stub/st_village/bf_fn_70_92D0.c:
+	.text       start:0x000092D0 end:0x000092E0
 
 mo_stub/st_village/bf_fn_70_92E0.c:
 	.text       start:0x000092E0 end:0x000092EC

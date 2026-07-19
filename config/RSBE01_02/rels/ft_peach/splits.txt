@@ -185,11 +185,17 @@ mo_stub/ft_peach/fn_103_D36C.c:
 mo_stub/ft_peach/fn_103_D380.c:
 	.text       start:0x0000D380 end:0x0000D384
 
+mo_stub/ft_peach/bf_fn_103_F6E4.c:
+	.text       start:0x0000F6E4 end:0x0000F6F0
+
 mo_stub/ft_peach/bf_fn_103_F6F0.c:
 	.text       start:0x0000F6F0 end:0x0000F700
 
 mo_stub/ft_peach/bf_fn_103_F710.c:
 	.text       start:0x0000F710 end:0x0000F720
+
+mo_stub/ft_peach/bf_fn_103_F740.c:
+	.text       start:0x0000F740 end:0x0000F750
 
 mo_stub/ft_peach/bf_fn_103_F750.c:
 	.text       start:0x0000F750 end:0x0000F75C
