@@ -431,6 +431,21 @@ mo_stub/st_dxyorster/fn_76_7A70.c:
 mo_stub/st_dxyorster/fn_76_7A98.c:
 	.text       start:0x00007A98 end:0x00007AA0
 
+mo_stub/st_dxyorster/xm_fn_76_7AA0.c:
+	.text       start:0x00007AA0 end:0x00007AA8
+
+mo_stub/st_dxyorster/xm_fn_76_7AA8.c:
+	.text       start:0x00007AA8 end:0x00007AB0
+
+mo_stub/st_dxyorster/xm_fn_76_7AB0.c:
+	.text       start:0x00007AB0 end:0x00007AB8
+
+mo_stub/st_dxyorster/xm_fn_76_7AB8.c:
+	.text       start:0x00007AB8 end:0x00007AC0
+
+mo_stub/st_dxyorster/xm_fn_76_7AC0.c:
+	.text       start:0x00007AC0 end:0x00007AC8
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007AC8 end:0x00007B64
 	.data       start:0x00002518 end:0x00002525

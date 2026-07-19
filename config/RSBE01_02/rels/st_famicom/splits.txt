@@ -98,6 +98,9 @@ mo_stub/st_famicom/fn_68_2490.c:
 mo_stub/st_famicom/fn_68_24B8.c:
 	.text       start:0x000024B8 end:0x000024D0
 
+mo_stub/st_famicom/xm_fn_68_3010.c:
+	.text       start:0x00003010 end:0x00003018
+
 mo_stub/st_famicom/el_fn_68_3018.c:
 	.text       start:0x00003018 end:0x00003028
 
@@ -394,6 +397,21 @@ mo_stub/st_famicom/fn_68_9FAC.c:
 
 mo_stub/st_famicom/fn_68_9FD4.c:
 	.text       start:0x00009FD4 end:0x00009FDC
+
+mo_stub/st_famicom/xm_fn_68_9FDC.c:
+	.text       start:0x00009FDC end:0x00009FE4
+
+mo_stub/st_famicom/xm_fn_68_9FE4.c:
+	.text       start:0x00009FE4 end:0x00009FEC
+
+mo_stub/st_famicom/xm_fn_68_9FEC.c:
+	.text       start:0x00009FEC end:0x00009FF4
+
+mo_stub/st_famicom/xm_fn_68_9FF4.c:
+	.text       start:0x00009FF4 end:0x00009FFC
+
+mo_stub/st_famicom/xm_fn_68_9FFC.c:
+	.text       start:0x00009FFC end:0x0000A004
 
 mo_stub/st_famicom/fn_68_A28C.c:
 	.text       start:0x0000A28C end:0x0000A290

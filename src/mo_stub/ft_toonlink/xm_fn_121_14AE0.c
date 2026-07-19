@@ -1,0 +1,5 @@
+extern int fn_27_1DA690();
+
+int fn_121_14AE0(void* p) {
+    return fn_27_1DA690((char*)p + (-136));
+}

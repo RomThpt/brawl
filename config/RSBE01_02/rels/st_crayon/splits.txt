@@ -403,6 +403,21 @@ mo_stub/st_crayon/fn_56_B254.c:
 mo_stub/st_crayon/fn_56_B27C.c:
 	.text       start:0x0000B27C end:0x0000B28C
 
+mo_stub/st_crayon/xm_fn_56_B28C.c:
+	.text       start:0x0000B28C end:0x0000B294
+
+mo_stub/st_crayon/xm_fn_56_B294.c:
+	.text       start:0x0000B294 end:0x0000B29C
+
+mo_stub/st_crayon/xm_fn_56_B29C.c:
+	.text       start:0x0000B29C end:0x0000B2A4
+
+mo_stub/st_crayon/xm_fn_56_B2A4.c:
+	.text       start:0x0000B2A4 end:0x0000B2AC
+
+mo_stub/st_crayon/xm_fn_56_B2AC.c:
+	.text       start:0x0000B2AC end:0x0000B2B4
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B2B4 end:0x0000B350
 	.data       start:0x00002960 end:0x0000296D

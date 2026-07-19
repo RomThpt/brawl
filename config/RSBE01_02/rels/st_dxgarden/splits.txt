@@ -245,6 +245,21 @@ mo_stub/st_dxgarden/fn_77_5FEC.c:
 mo_stub/st_dxgarden/fn_77_6014.c:
 	.text       start:0x00006014 end:0x00006034
 
+mo_stub/st_dxgarden/xm_fn_77_6034.c:
+	.text       start:0x00006034 end:0x0000603C
+
+mo_stub/st_dxgarden/xm_fn_77_603C.c:
+	.text       start:0x0000603C end:0x00006044
+
+mo_stub/st_dxgarden/xm_fn_77_6044.c:
+	.text       start:0x00006044 end:0x0000604C
+
+mo_stub/st_dxgarden/xm_fn_77_604C.c:
+	.text       start:0x0000604C end:0x00006054
+
+mo_stub/st_dxgarden/xm_fn_77_6054.c:
+	.text       start:0x00006054 end:0x0000605C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000065E8 end:0x00006684
 	.data       start:0x00002098 end:0x000020A5

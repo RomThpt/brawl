@@ -344,6 +344,21 @@ mo_stub/st_dxonett/fn_78_7AF0.c:
 mo_stub/st_dxonett/fn_78_7B18.c:
 	.text       start:0x00007B18 end:0x00007B28
 
+mo_stub/st_dxonett/xm_fn_78_7B28.c:
+	.text       start:0x00007B28 end:0x00007B30
+
+mo_stub/st_dxonett/xm_fn_78_7B30.c:
+	.text       start:0x00007B30 end:0x00007B38
+
+mo_stub/st_dxonett/xm_fn_78_7B38.c:
+	.text       start:0x00007B38 end:0x00007B40
+
+mo_stub/st_dxonett/xm_fn_78_7B40.c:
+	.text       start:0x00007B40 end:0x00007B48
+
+mo_stub/st_dxonett/xm_fn_78_7B48.c:
+	.text       start:0x00007B48 end:0x00007B50
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x000089F0 end:0x00008A8C
 	.data       start:0x00002788 end:0x00002795

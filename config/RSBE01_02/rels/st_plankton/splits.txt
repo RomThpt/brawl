@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_plankton/xm_fn_74_A5C.c:
+	.text       start:0x00000A5C end:0x00000A64
+
 mo_stub/st_plankton/fn_74_A64.c:
 	.text       start:0x00000A64 end:0x00000A6C
 
@@ -445,6 +448,21 @@ mo_stub/st_plankton/fn_74_A600.c:
 
 mo_stub/st_plankton/fn_74_A628.c:
 	.text       start:0x0000A628 end:0x0000A630
+
+mo_stub/st_plankton/xm_fn_74_A630.c:
+	.text       start:0x0000A630 end:0x0000A638
+
+mo_stub/st_plankton/xm_fn_74_A638.c:
+	.text       start:0x0000A638 end:0x0000A640
+
+mo_stub/st_plankton/xm_fn_74_A640.c:
+	.text       start:0x0000A640 end:0x0000A648
+
+mo_stub/st_plankton/xm_fn_74_A648.c:
+	.text       start:0x0000A648 end:0x0000A650
+
+mo_stub/st_plankton/xm_fn_74_A650.c:
+	.text       start:0x0000A650 end:0x0000A658
 
 mo_stub/st_plankton/fn_74_B3E8.c:
 	.text       start:0x0000B3E8 end:0x0000B3F0

@@ -464,6 +464,21 @@ mo_stub/st_greenhill/fn_72_9CF4.c:
 mo_stub/st_greenhill/fn_72_9D1C.c:
 	.text       start:0x00009D1C end:0x00009D2C
 
+mo_stub/st_greenhill/xm_fn_72_9D2C.c:
+	.text       start:0x00009D2C end:0x00009D34
+
+mo_stub/st_greenhill/xm_fn_72_9D34.c:
+	.text       start:0x00009D34 end:0x00009D3C
+
+mo_stub/st_greenhill/xm_fn_72_9D3C.c:
+	.text       start:0x00009D3C end:0x00009D44
+
+mo_stub/st_greenhill/xm_fn_72_9D44.c:
+	.text       start:0x00009D44 end:0x00009D4C
+
+mo_stub/st_greenhill/xm_fn_72_9D4C.c:
+	.text       start:0x00009D4C end:0x00009D54
+
 mo_stub/st_greenhill/bf_fn_72_BE1C.c:
 	.text       start:0x0000BE1C end:0x0000BE28
 

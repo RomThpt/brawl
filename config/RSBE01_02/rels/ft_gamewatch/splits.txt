@@ -170,17 +170,122 @@ mo_stub/ft_gamewatch/fn_107_FD5C.c:
 mo_stub/ft_gamewatch/fn_107_FF8C.c:
 	.text       start:0x0000FF8C end:0x0000FFAC
 
+mo_stub/ft_gamewatch/xm_fn_107_FFAC.c:
+	.text       start:0x0000FFAC end:0x0000FFB4
+
+mo_stub/ft_gamewatch/xm_fn_107_FFB4.c:
+	.text       start:0x0000FFB4 end:0x0000FFBC
+
+mo_stub/ft_gamewatch/xm_fn_107_FFBC.c:
+	.text       start:0x0000FFBC end:0x0000FFC4
+
+mo_stub/ft_gamewatch/xm_fn_107_FFC4.c:
+	.text       start:0x0000FFC4 end:0x0000FFCC
+
+mo_stub/ft_gamewatch/xm_fn_107_FFCC.c:
+	.text       start:0x0000FFCC end:0x0000FFD4
+
 mo_stub/ft_gamewatch/fn_107_FFD4.c:
 	.text       start:0x0000FFD4 end:0x0000FFDC
+
+mo_stub/ft_gamewatch/xm_fn_107_FFDC.c:
+	.text       start:0x0000FFDC end:0x0000FFE4
 
 mo_stub/ft_gamewatch/fn_107_FFE4.c:
 	.text       start:0x0000FFE4 end:0x00010004
 
+mo_stub/ft_gamewatch/xm_fn_107_10004.c:
+	.text       start:0x00010004 end:0x0001000C
+
+mo_stub/ft_gamewatch/xm_fn_107_1000C.c:
+	.text       start:0x0001000C end:0x00010014
+
+mo_stub/ft_gamewatch/xm_fn_107_10014.c:
+	.text       start:0x00010014 end:0x0001001C
+
+mo_stub/ft_gamewatch/xm_fn_107_1001C.c:
+	.text       start:0x0001001C end:0x00010024
+
+mo_stub/ft_gamewatch/xm_fn_107_10024.c:
+	.text       start:0x00010024 end:0x0001002C
+
+mo_stub/ft_gamewatch/xm_fn_107_1002C.c:
+	.text       start:0x0001002C end:0x00010034
+
+mo_stub/ft_gamewatch/xm_fn_107_10034.c:
+	.text       start:0x00010034 end:0x0001003C
+
+mo_stub/ft_gamewatch/xm_fn_107_1003C.c:
+	.text       start:0x0001003C end:0x00010044
+
+mo_stub/ft_gamewatch/xm_fn_107_10044.c:
+	.text       start:0x00010044 end:0x0001004C
+
+mo_stub/ft_gamewatch/xm_fn_107_1004C.c:
+	.text       start:0x0001004C end:0x00010054
+
 mo_stub/ft_gamewatch/fn_107_10054.c:
 	.text       start:0x00010054 end:0x0001005C
 
+mo_stub/ft_gamewatch/xm_fn_107_1005C.c:
+	.text       start:0x0001005C end:0x00010064
+
+mo_stub/ft_gamewatch/xm_fn_107_10064.c:
+	.text       start:0x00010064 end:0x0001006C
+
+mo_stub/ft_gamewatch/xm_fn_107_1006C.c:
+	.text       start:0x0001006C end:0x00010074
+
+mo_stub/ft_gamewatch/xm_fn_107_10074.c:
+	.text       start:0x00010074 end:0x0001007C
+
+mo_stub/ft_gamewatch/xm_fn_107_1007C.c:
+	.text       start:0x0001007C end:0x00010084
+
+mo_stub/ft_gamewatch/xm_fn_107_10084.c:
+	.text       start:0x00010084 end:0x0001008C
+
+mo_stub/ft_gamewatch/xm_fn_107_1008C.c:
+	.text       start:0x0001008C end:0x00010094
+
+mo_stub/ft_gamewatch/xm_fn_107_10094.c:
+	.text       start:0x00010094 end:0x0001009C
+
+mo_stub/ft_gamewatch/xm_fn_107_1009C.c:
+	.text       start:0x0001009C end:0x000100A4
+
+mo_stub/ft_gamewatch/xm_fn_107_100A4.c:
+	.text       start:0x000100A4 end:0x000100AC
+
+mo_stub/ft_gamewatch/xm_fn_107_100AC.c:
+	.text       start:0x000100AC end:0x000100B4
+
+mo_stub/ft_gamewatch/xm_fn_107_100B4.c:
+	.text       start:0x000100B4 end:0x000100BC
+
+mo_stub/ft_gamewatch/xm_fn_107_100BC.c:
+	.text       start:0x000100BC end:0x000100C4
+
+mo_stub/ft_gamewatch/xm_fn_107_100C4.c:
+	.text       start:0x000100C4 end:0x000100CC
+
 mo_stub/ft_gamewatch/fn_107_100CC.c:
 	.text       start:0x000100CC end:0x000100D4
+
+mo_stub/ft_gamewatch/xm_fn_107_100D4.c:
+	.text       start:0x000100D4 end:0x000100DC
+
+mo_stub/ft_gamewatch/xm_fn_107_100DC.c:
+	.text       start:0x000100DC end:0x000100E4
+
+mo_stub/ft_gamewatch/xm_fn_107_100E4.c:
+	.text       start:0x000100E4 end:0x000100EC
+
+mo_stub/ft_gamewatch/xm_fn_107_100EC.c:
+	.text       start:0x000100EC end:0x000100F4
+
+mo_stub/ft_gamewatch/xm_fn_107_100F4.c:
+	.text       start:0x000100F4 end:0x000100FC
 
 mo_stub/ft_gamewatch/fn_107_11DBC.c:
 	.text       start:0x00011DBC end:0x00011DC4
@@ -278,11 +383,44 @@ mo_stub/ft_gamewatch/fn_107_16A54.c:
 mo_stub/ft_gamewatch/fn_107_16A74.c:
 	.text       start:0x00016A74 end:0x00016A84
 
+mo_stub/ft_gamewatch/xm_fn_107_16A84.c:
+	.text       start:0x00016A84 end:0x00016A8C
+
 mo_stub/ft_gamewatch/fn_107_16A8C.c:
 	.text       start:0x00016A8C end:0x00016A94
 
+mo_stub/ft_gamewatch/xm_fn_107_16A94.c:
+	.text       start:0x00016A94 end:0x00016A9C
+
+mo_stub/ft_gamewatch/xm_fn_107_16A9C.c:
+	.text       start:0x00016A9C end:0x00016AA4
+
+mo_stub/ft_gamewatch/xm_fn_107_16AA4.c:
+	.text       start:0x00016AA4 end:0x00016AAC
+
+mo_stub/ft_gamewatch/xm_fn_107_16AAC.c:
+	.text       start:0x00016AAC end:0x00016AB4
+
+mo_stub/ft_gamewatch/xm_fn_107_16AB4.c:
+	.text       start:0x00016AB4 end:0x00016ABC
+
+mo_stub/ft_gamewatch/xm_fn_107_16ABC.c:
+	.text       start:0x00016ABC end:0x00016AC4
+
 mo_stub/ft_gamewatch/fn_107_16AC4.c:
 	.text       start:0x00016AC4 end:0x00016ACC
+
+mo_stub/ft_gamewatch/xm_fn_107_16ACC.c:
+	.text       start:0x00016ACC end:0x00016AD4
+
+mo_stub/ft_gamewatch/xm_fn_107_16AD4.c:
+	.text       start:0x00016AD4 end:0x00016ADC
+
+mo_stub/ft_gamewatch/xm_fn_107_16ADC.c:
+	.text       start:0x00016ADC end:0x00016AE4
+
+mo_stub/ft_gamewatch/xm_fn_107_16AEC.c:
+	.text       start:0x00016AEC end:0x00016AF4
 
 mo_stub/ft_gamewatch/fn_107_16AF4.c:
 	.text       start:0x00016AF4 end:0x00016AFC
@@ -290,14 +428,65 @@ mo_stub/ft_gamewatch/fn_107_16AF4.c:
 mo_stub/ft_gamewatch/fn_107_16AFC.c:
 	.text       start:0x00016AFC end:0x00016B04
 
+mo_stub/ft_gamewatch/xm_fn_107_16B04.c:
+	.text       start:0x00016B04 end:0x00016B0C
+
+mo_stub/ft_gamewatch/xm_fn_107_16B0C.c:
+	.text       start:0x00016B0C end:0x00016B14
+
+mo_stub/ft_gamewatch/xm_fn_107_16B14.c:
+	.text       start:0x00016B14 end:0x00016B1C
+
+mo_stub/ft_gamewatch/xm_fn_107_16B1C.c:
+	.text       start:0x00016B1C end:0x00016B24
+
+mo_stub/ft_gamewatch/xm_fn_107_16B24.c:
+	.text       start:0x00016B24 end:0x00016B2C
+
+mo_stub/ft_gamewatch/xm_fn_107_16B2C.c:
+	.text       start:0x00016B2C end:0x00016B34
+
 mo_stub/ft_gamewatch/fn_107_16B34.c:
 	.text       start:0x00016B34 end:0x00016B44
+
+mo_stub/ft_gamewatch/xm_fn_107_16B44.c:
+	.text       start:0x00016B44 end:0x00016B4C
+
+mo_stub/ft_gamewatch/xm_fn_107_16B4C.c:
+	.text       start:0x00016B4C end:0x00016B54
+
+mo_stub/ft_gamewatch/xm_fn_107_16B54.c:
+	.text       start:0x00016B54 end:0x00016B5C
+
+mo_stub/ft_gamewatch/xm_fn_107_16B5C.c:
+	.text       start:0x00016B5C end:0x00016B64
+
+mo_stub/ft_gamewatch/xm_fn_107_16B64.c:
+	.text       start:0x00016B64 end:0x00016B6C
+
+mo_stub/ft_gamewatch/xm_fn_107_16B6C.c:
+	.text       start:0x00016B6C end:0x00016B74
+
+mo_stub/ft_gamewatch/xm_fn_107_16B74.c:
+	.text       start:0x00016B74 end:0x00016B7C
+
+mo_stub/ft_gamewatch/xm_fn_107_16B7C.c:
+	.text       start:0x00016B7C end:0x00016B84
+
+mo_stub/ft_gamewatch/xm_fn_107_16B84.c:
+	.text       start:0x00016B84 end:0x00016B8C
 
 mo_stub/ft_gamewatch/fn_107_16B8C.c:
 	.text       start:0x00016B8C end:0x00016B94
 
+mo_stub/ft_gamewatch/xm_fn_107_16B94.c:
+	.text       start:0x00016B94 end:0x00016B9C
+
 mo_stub/ft_gamewatch/fn_107_16B9C.c:
 	.text       start:0x00016B9C end:0x00016BA4
+
+mo_stub/ft_gamewatch/xm_fn_107_16BA4.c:
+	.text       start:0x00016BA4 end:0x00016BAC
 
 mo_stub/ft_gamewatch/fn_107_16BAC.c:
 	.text       start:0x00016BAC end:0x00016BB4

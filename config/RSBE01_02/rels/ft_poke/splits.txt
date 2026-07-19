@@ -173,26 +173,131 @@ mo_stub/ft_poke/fn_116_D994.c:
 mo_stub/ft_poke/fn_116_DB98.c:
 	.text       start:0x0000DB98 end:0x0000DBB8
 
+mo_stub/ft_poke/xm_fn_116_DBB8.c:
+	.text       start:0x0000DBB8 end:0x0000DBC0
+
 mo_stub/ft_poke/fn_116_DBC0.c:
 	.text       start:0x0000DBC0 end:0x0000DBC8
+
+mo_stub/ft_poke/xm_fn_116_DBC8.c:
+	.text       start:0x0000DBC8 end:0x0000DBD0
+
+mo_stub/ft_poke/xm_fn_116_DBD0.c:
+	.text       start:0x0000DBD0 end:0x0000DBD8
+
+mo_stub/ft_poke/xm_fn_116_DBD8.c:
+	.text       start:0x0000DBD8 end:0x0000DBE0
+
+mo_stub/ft_poke/xm_fn_116_DBE0.c:
+	.text       start:0x0000DBE0 end:0x0000DBE8
+
+mo_stub/ft_poke/xm_fn_116_DBE8.c:
+	.text       start:0x0000DBE8 end:0x0000DBF0
 
 mo_stub/ft_poke/fn_116_DBF0.c:
 	.text       start:0x0000DBF0 end:0x0000DC18
 
+mo_stub/ft_poke/xm_fn_116_DC18.c:
+	.text       start:0x0000DC18 end:0x0000DC20
+
 mo_stub/ft_poke/fn_116_DC20.c:
 	.text       start:0x0000DC20 end:0x0000DC30
+
+mo_stub/ft_poke/xm_fn_116_DC30.c:
+	.text       start:0x0000DC30 end:0x0000DC38
+
+mo_stub/ft_poke/xm_fn_116_DC38.c:
+	.text       start:0x0000DC38 end:0x0000DC40
+
+mo_stub/ft_poke/xm_fn_116_DC40.c:
+	.text       start:0x0000DC40 end:0x0000DC48
+
+mo_stub/ft_poke/xm_fn_116_DC48.c:
+	.text       start:0x0000DC48 end:0x0000DC50
+
+mo_stub/ft_poke/xm_fn_116_DC50.c:
+	.text       start:0x0000DC50 end:0x0000DC58
+
+mo_stub/ft_poke/xm_fn_116_DC58.c:
+	.text       start:0x0000DC58 end:0x0000DC60
+
+mo_stub/ft_poke/xm_fn_116_DC60.c:
+	.text       start:0x0000DC60 end:0x0000DC68
+
+mo_stub/ft_poke/xm_fn_116_DC68.c:
+	.text       start:0x0000DC68 end:0x0000DC70
+
+mo_stub/ft_poke/xm_fn_116_DC70.c:
+	.text       start:0x0000DC70 end:0x0000DC78
+
+mo_stub/ft_poke/xm_fn_116_DC78.c:
+	.text       start:0x0000DC78 end:0x0000DC80
+
+mo_stub/ft_poke/xm_fn_116_DC80.c:
+	.text       start:0x0000DC80 end:0x0000DC88
+
+mo_stub/ft_poke/xm_fn_116_DC88.c:
+	.text       start:0x0000DC88 end:0x0000DC90
+
+mo_stub/ft_poke/xm_fn_116_DC90.c:
+	.text       start:0x0000DC90 end:0x0000DC98
+
+mo_stub/ft_poke/xm_fn_116_DC98.c:
+	.text       start:0x0000DC98 end:0x0000DCA0
+
+mo_stub/ft_poke/xm_fn_116_DCA0.c:
+	.text       start:0x0000DCA0 end:0x0000DCA8
+
+mo_stub/ft_poke/xm_fn_116_DCA8.c:
+	.text       start:0x0000DCA8 end:0x0000DCB0
+
+mo_stub/ft_poke/xm_fn_116_DCB0.c:
+	.text       start:0x0000DCB0 end:0x0000DCB8
+
+mo_stub/ft_poke/xm_fn_116_DCB8.c:
+	.text       start:0x0000DCB8 end:0x0000DCC0
+
+mo_stub/ft_poke/xm_fn_116_DCC0.c:
+	.text       start:0x0000DCC0 end:0x0000DCC8
+
+mo_stub/ft_poke/xm_fn_116_DCC8.c:
+	.text       start:0x0000DCC8 end:0x0000DCD0
+
+mo_stub/ft_poke/xm_fn_116_DCD0.c:
+	.text       start:0x0000DCD0 end:0x0000DCD8
+
+mo_stub/ft_poke/xm_fn_116_DCD8.c:
+	.text       start:0x0000DCD8 end:0x0000DCE0
 
 mo_stub/ft_poke/fn_116_DCE0.c:
 	.text       start:0x0000DCE0 end:0x0000DCE8
 
+mo_stub/ft_poke/xm_fn_116_DCE8.c:
+	.text       start:0x0000DCE8 end:0x0000DCF0
+
 mo_stub/ft_poke/fn_116_DCF0.c:
 	.text       start:0x0000DCF0 end:0x0000DCF8
+
+mo_stub/ft_poke/xm_fn_116_DCF8.c:
+	.text       start:0x0000DCF8 end:0x0000DD00
 
 mo_stub/ft_poke/fn_116_DD00.c:
 	.text       start:0x0000DD00 end:0x0000DD08
 
 mo_stub/ft_poke/fn_116_DD08.c:
 	.text       start:0x0000DD08 end:0x0000DD20
+
+mo_stub/ft_poke/xm_fn_116_DD20.c:
+	.text       start:0x0000DD20 end:0x0000DD28
+
+mo_stub/ft_poke/xm_fn_116_DD28.c:
+	.text       start:0x0000DD28 end:0x0000DD30
+
+mo_stub/ft_poke/xm_fn_116_DD30.c:
+	.text       start:0x0000DD30 end:0x0000DD38
+
+mo_stub/ft_poke/xm_fn_116_DD38.c:
+	.text       start:0x0000DD38 end:0x0000DD40
 
 mo_stub/ft_poke/fn_116_DD40.c:
 	.text       start:0x0000DD40 end:0x0000DD44
@@ -299,26 +404,110 @@ mo_stub/ft_poke/fn_116_115E8.c:
 mo_stub/ft_poke/fn_116_115F8.c:
 	.text       start:0x000115F8 end:0x00011600
 
+mo_stub/ft_poke/xm_fn_116_11600.c:
+	.text       start:0x00011600 end:0x00011608
+
+mo_stub/ft_poke/xm_fn_116_11608.c:
+	.text       start:0x00011608 end:0x00011610
+
+mo_stub/ft_poke/xm_fn_116_11610.c:
+	.text       start:0x00011610 end:0x00011618
+
+mo_stub/ft_poke/xm_fn_116_11618.c:
+	.text       start:0x00011618 end:0x00011620
+
 mo_stub/ft_poke/fn_116_11620.c:
 	.text       start:0x00011620 end:0x00011640
 
 mo_stub/ft_poke/fn_116_11640.c:
 	.text       start:0x00011640 end:0x00011658
 
+mo_stub/ft_poke/xm_fn_116_11658.c:
+	.text       start:0x00011658 end:0x00011660
+
+mo_stub/ft_poke/xm_fn_116_11660.c:
+	.text       start:0x00011660 end:0x00011668
+
+mo_stub/ft_poke/xm_fn_116_11668.c:
+	.text       start:0x00011668 end:0x00011670
+
 mo_stub/ft_poke/fn_116_11670.c:
 	.text       start:0x00011670 end:0x00011680
+
+mo_stub/ft_poke/xm_fn_116_11680.c:
+	.text       start:0x00011680 end:0x00011688
+
+mo_stub/ft_poke/xm_fn_116_11688.c:
+	.text       start:0x00011688 end:0x00011690
+
+mo_stub/ft_poke/xm_fn_116_11690.c:
+	.text       start:0x00011690 end:0x00011698
+
+mo_stub/ft_poke/xm_fn_116_116A0.c:
+	.text       start:0x000116A0 end:0x000116A8
 
 mo_stub/ft_poke/fn_116_116A8.c:
 	.text       start:0x000116A8 end:0x000116B8
 
+mo_stub/ft_poke/xm_fn_116_116B8.c:
+	.text       start:0x000116B8 end:0x000116C0
+
+mo_stub/ft_poke/xm_fn_116_116C0.c:
+	.text       start:0x000116C0 end:0x000116C8
+
+mo_stub/ft_poke/xm_fn_116_116C8.c:
+	.text       start:0x000116C8 end:0x000116D0
+
+mo_stub/ft_poke/xm_fn_116_116D0.c:
+	.text       start:0x000116D0 end:0x000116D8
+
+mo_stub/ft_poke/xm_fn_116_116D8.c:
+	.text       start:0x000116D8 end:0x000116E0
+
+mo_stub/ft_poke/xm_fn_116_116E0.c:
+	.text       start:0x000116E0 end:0x000116E8
+
 mo_stub/ft_poke/fn_116_116E8.c:
 	.text       start:0x000116E8 end:0x000116F8
+
+mo_stub/ft_poke/xm_fn_116_116F8.c:
+	.text       start:0x000116F8 end:0x00011700
+
+mo_stub/ft_poke/xm_fn_116_11700.c:
+	.text       start:0x00011700 end:0x00011708
+
+mo_stub/ft_poke/xm_fn_116_11708.c:
+	.text       start:0x00011708 end:0x00011710
+
+mo_stub/ft_poke/xm_fn_116_11710.c:
+	.text       start:0x00011710 end:0x00011718
+
+mo_stub/ft_poke/xm_fn_116_11718.c:
+	.text       start:0x00011718 end:0x00011720
+
+mo_stub/ft_poke/xm_fn_116_11720.c:
+	.text       start:0x00011720 end:0x00011728
+
+mo_stub/ft_poke/xm_fn_116_11728.c:
+	.text       start:0x00011728 end:0x00011730
+
+mo_stub/ft_poke/xm_fn_116_11730.c:
+	.text       start:0x00011730 end:0x00011738
+
+mo_stub/ft_poke/xm_fn_116_11738.c:
+	.text       start:0x00011738 end:0x00011740
 
 mo_stub/ft_poke/fn_116_11740.c:
 	.text       start:0x00011740 end:0x00011748
 
+mo_stub/ft_poke/xm_fn_116_11748.c:
+	.text       start:0x00011748 end:0x00011750
+
 mo_stub/ft_poke/fn_116_11750.c:
 	.text       start:0x00011750 end:0x00011758
+
+mo_stub/ft_poke/xm_fn_116_11758.c:
+	.text       start:0x00011758 end:0x00011760
 
 mo_stub/ft_poke/fn_116_11760.c:
 	.text       start:0x00011760 end:0x00011768

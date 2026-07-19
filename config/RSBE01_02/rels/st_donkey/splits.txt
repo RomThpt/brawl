@@ -275,6 +275,21 @@ mo_stub/st_donkey/fn_50_86C4.c:
 mo_stub/st_donkey/fn_50_86EC.c:
 	.text       start:0x000086EC end:0x0000870C
 
+mo_stub/st_donkey/xm_fn_50_870C.c:
+	.text       start:0x0000870C end:0x00008714
+
+mo_stub/st_donkey/xm_fn_50_8714.c:
+	.text       start:0x00008714 end:0x0000871C
+
+mo_stub/st_donkey/xm_fn_50_871C.c:
+	.text       start:0x0000871C end:0x00008724
+
+mo_stub/st_donkey/xm_fn_50_8724.c:
+	.text       start:0x00008724 end:0x0000872C
+
+mo_stub/st_donkey/xm_fn_50_872C.c:
+	.text       start:0x0000872C end:0x00008734
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x0000B6A8 end:0x0000B744
 	.data       start:0x00003030 end:0x0000303D

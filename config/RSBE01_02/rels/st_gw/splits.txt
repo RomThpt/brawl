@@ -650,6 +650,21 @@ mo_stub/st_gw/fn_63_FB60.c:
 mo_stub/st_gw/fn_63_FB88.c:
 	.text       start:0x0000FB88 end:0x0000FB90
 
+mo_stub/st_gw/xm_fn_63_FB90.c:
+	.text       start:0x0000FB90 end:0x0000FB98
+
+mo_stub/st_gw/xm_fn_63_FB98.c:
+	.text       start:0x0000FB98 end:0x0000FBA0
+
+mo_stub/st_gw/xm_fn_63_FBA0.c:
+	.text       start:0x0000FBA0 end:0x0000FBA8
+
+mo_stub/st_gw/xm_fn_63_FBA8.c:
+	.text       start:0x0000FBA8 end:0x0000FBB0
+
+mo_stub/st_gw/xm_fn_63_FBB0.c:
+	.text       start:0x0000FBB0 end:0x0000FBB8
+
 mo_stub/st_gw/bf_fn_63_10ABC.c:
 	.text       start:0x00010ABC end:0x00010AC8
 

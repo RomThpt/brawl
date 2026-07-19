@@ -849,6 +849,9 @@ mo_stub/sora_melee/fn_27_4FA94.c:
 mo_stub/sora_melee/fn_27_4FAA4.c:
 	.text       start:0x0004FAA4 end:0x0004FAB4
 
+mo_stub/sora_melee/xm_fn_27_50108.c:
+	.text       start:0x00050108 end:0x00050110
+
 mo_stub/sora_melee/dt_fn_27_50588.c:
 	.text       start:0x00050588 end:0x000505C8
 

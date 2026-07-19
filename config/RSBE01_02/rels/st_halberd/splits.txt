@@ -284,6 +284,21 @@ mo_stub/st_halberd/fn_57_D0FC.c:
 mo_stub/st_halberd/fn_57_D124.c:
 	.text       start:0x0000D124 end:0x0000D144
 
+mo_stub/st_halberd/xm_fn_57_D144.c:
+	.text       start:0x0000D144 end:0x0000D14C
+
+mo_stub/st_halberd/xm_fn_57_D14C.c:
+	.text       start:0x0000D14C end:0x0000D154
+
+mo_stub/st_halberd/xm_fn_57_D154.c:
+	.text       start:0x0000D154 end:0x0000D15C
+
+mo_stub/st_halberd/xm_fn_57_D15C.c:
+	.text       start:0x0000D15C end:0x0000D164
+
+mo_stub/st_halberd/xm_fn_57_D164.c:
+	.text       start:0x0000D164 end:0x0000D16C
+
 mo_stage/mo_stage.cpp:
 	.text       start:0x00011F90 end:0x0001202C
 	.data       start:0x00003348 end:0x00003355

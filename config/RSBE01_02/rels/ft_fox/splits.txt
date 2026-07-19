@@ -173,17 +173,122 @@ mo_stub/ft_fox/gl_fn_97_E7D4.c:
 mo_stub/ft_fox/fn_97_E924.c:
 	.text       start:0x0000E924 end:0x0000E944
 
+mo_stub/ft_fox/xm_fn_97_E944.c:
+	.text       start:0x0000E944 end:0x0000E94C
+
+mo_stub/ft_fox/xm_fn_97_E94C.c:
+	.text       start:0x0000E94C end:0x0000E954
+
+mo_stub/ft_fox/xm_fn_97_E954.c:
+	.text       start:0x0000E954 end:0x0000E95C
+
 mo_stub/ft_fox/fn_97_E95C.c:
 	.text       start:0x0000E95C end:0x0000E964
+
+mo_stub/ft_fox/xm_fn_97_E964.c:
+	.text       start:0x0000E964 end:0x0000E96C
 
 mo_stub/ft_fox/fn_97_E96C.c:
 	.text       start:0x0000E96C end:0x0000E97C
 
+mo_stub/ft_fox/xm_fn_97_E97C.c:
+	.text       start:0x0000E97C end:0x0000E984
+
+mo_stub/ft_fox/xm_fn_97_E984.c:
+	.text       start:0x0000E984 end:0x0000E98C
+
+mo_stub/ft_fox/xm_fn_97_E98C.c:
+	.text       start:0x0000E98C end:0x0000E994
+
+mo_stub/ft_fox/xm_fn_97_E994.c:
+	.text       start:0x0000E994 end:0x0000E99C
+
+mo_stub/ft_fox/xm_fn_97_E99C.c:
+	.text       start:0x0000E99C end:0x0000E9A4
+
+mo_stub/ft_fox/xm_fn_97_E9A4.c:
+	.text       start:0x0000E9A4 end:0x0000E9AC
+
+mo_stub/ft_fox/xm_fn_97_E9AC.c:
+	.text       start:0x0000E9AC end:0x0000E9B4
+
+mo_stub/ft_fox/xm_fn_97_E9B4.c:
+	.text       start:0x0000E9B4 end:0x0000E9BC
+
 mo_stub/ft_fox/fn_97_E9BC.c:
 	.text       start:0x0000E9BC end:0x0000E9C4
 
+mo_stub/ft_fox/xm_fn_97_E9C4.c:
+	.text       start:0x0000E9C4 end:0x0000E9CC
+
 mo_stub/ft_fox/fn_97_E9CC.c:
 	.text       start:0x0000E9CC end:0x0000E9D4
+
+mo_stub/ft_fox/xm_fn_97_E9D4.c:
+	.text       start:0x0000E9D4 end:0x0000E9DC
+
+mo_stub/ft_fox/xm_fn_97_E9DC.c:
+	.text       start:0x0000E9DC end:0x0000E9E4
+
+mo_stub/ft_fox/xm_fn_97_E9E4.c:
+	.text       start:0x0000E9E4 end:0x0000E9EC
+
+mo_stub/ft_fox/xm_fn_97_E9EC.c:
+	.text       start:0x0000E9EC end:0x0000E9F4
+
+mo_stub/ft_fox/xm_fn_97_E9F4.c:
+	.text       start:0x0000E9F4 end:0x0000E9FC
+
+mo_stub/ft_fox/xm_fn_97_E9FC.c:
+	.text       start:0x0000E9FC end:0x0000EA04
+
+mo_stub/ft_fox/xm_fn_97_EA04.c:
+	.text       start:0x0000EA04 end:0x0000EA0C
+
+mo_stub/ft_fox/xm_fn_97_EA0C.c:
+	.text       start:0x0000EA0C end:0x0000EA14
+
+mo_stub/ft_fox/xm_fn_97_EA14.c:
+	.text       start:0x0000EA14 end:0x0000EA1C
+
+mo_stub/ft_fox/xm_fn_97_EA1C.c:
+	.text       start:0x0000EA1C end:0x0000EA24
+
+mo_stub/ft_fox/xm_fn_97_EA24.c:
+	.text       start:0x0000EA24 end:0x0000EA2C
+
+mo_stub/ft_fox/xm_fn_97_EA2C.c:
+	.text       start:0x0000EA2C end:0x0000EA34
+
+mo_stub/ft_fox/xm_fn_97_EA34.c:
+	.text       start:0x0000EA34 end:0x0000EA3C
+
+mo_stub/ft_fox/xm_fn_97_EA3C.c:
+	.text       start:0x0000EA3C end:0x0000EA44
+
+mo_stub/ft_fox/xm_fn_97_EA44.c:
+	.text       start:0x0000EA44 end:0x0000EA4C
+
+mo_stub/ft_fox/xm_fn_97_EA4C.c:
+	.text       start:0x0000EA4C end:0x0000EA54
+
+mo_stub/ft_fox/xm_fn_97_EA54.c:
+	.text       start:0x0000EA54 end:0x0000EA5C
+
+mo_stub/ft_fox/xm_fn_97_EA5C.c:
+	.text       start:0x0000EA5C end:0x0000EA64
+
+mo_stub/ft_fox/xm_fn_97_EA64.c:
+	.text       start:0x0000EA64 end:0x0000EA6C
+
+mo_stub/ft_fox/xm_fn_97_EA6C.c:
+	.text       start:0x0000EA6C end:0x0000EA74
+
+mo_stub/ft_fox/xm_fn_97_EA74.c:
+	.text       start:0x0000EA74 end:0x0000EA7C
+
+mo_stub/ft_fox/xm_fn_97_EA7C.c:
+	.text       start:0x0000EA7C end:0x0000EA84
 
 mo_stub/ft_fox/fn_97_10930.c:
 	.text       start:0x00010930 end:0x00010938
@@ -272,29 +377,113 @@ mo_stub/ft_fox/fn_97_10E84.c:
 mo_stub/ft_fox/fn_97_10E8C.c:
 	.text       start:0x00010E8C end:0x00010E9C
 
+mo_stub/ft_fox/xm_fn_97_10E9C.c:
+	.text       start:0x00010E9C end:0x00010EA4
+
 mo_stub/ft_fox/fn_97_10EA4.c:
 	.text       start:0x00010EA4 end:0x00010EBC
+
+mo_stub/ft_fox/xm_fn_97_10EBC.c:
+	.text       start:0x00010EBC end:0x00010EC4
 
 mo_stub/ft_fox/fn_97_10EC4.c:
 	.text       start:0x00010EC4 end:0x00010ECC
 
+mo_stub/ft_fox/xm_fn_97_10ECC.c:
+	.text       start:0x00010ECC end:0x00010ED4
+
+mo_stub/ft_fox/xm_fn_97_10ED4.c:
+	.text       start:0x00010ED4 end:0x00010EDC
+
 mo_stub/ft_fox/fn_97_10EDC.c:
 	.text       start:0x00010EDC end:0x00010EE4
+
+mo_stub/ft_fox/xm_fn_97_10EE4.c:
+	.text       start:0x00010EE4 end:0x00010EEC
+
+mo_stub/ft_fox/xm_fn_97_10EEC.c:
+	.text       start:0x00010EEC end:0x00010EF4
+
+mo_stub/ft_fox/xm_fn_97_10EF4.c:
+	.text       start:0x00010EF4 end:0x00010EFC
 
 mo_stub/ft_fox/fn_97_10EFC.c:
 	.text       start:0x00010EFC end:0x00010F04
 
+mo_stub/ft_fox/xm_fn_97_10F04.c:
+	.text       start:0x00010F04 end:0x00010F0C
+
+mo_stub/ft_fox/xm_fn_97_10F0C.c:
+	.text       start:0x00010F0C end:0x00010F14
+
+mo_stub/ft_fox/xm_fn_97_10F14.c:
+	.text       start:0x00010F14 end:0x00010F1C
+
+mo_stub/ft_fox/xm_fn_97_10F24.c:
+	.text       start:0x00010F24 end:0x00010F2C
+
 mo_stub/ft_fox/fn_97_10F2C.c:
 	.text       start:0x00010F2C end:0x00010F3C
+
+mo_stub/ft_fox/xm_fn_97_10F3C.c:
+	.text       start:0x00010F3C end:0x00010F44
+
+mo_stub/ft_fox/xm_fn_97_10F44.c:
+	.text       start:0x00010F44 end:0x00010F4C
+
+mo_stub/ft_fox/xm_fn_97_10F4C.c:
+	.text       start:0x00010F4C end:0x00010F54
+
+mo_stub/ft_fox/xm_fn_97_10F54.c:
+	.text       start:0x00010F54 end:0x00010F5C
+
+mo_stub/ft_fox/xm_fn_97_10F5C.c:
+	.text       start:0x00010F5C end:0x00010F64
+
+mo_stub/ft_fox/xm_fn_97_10F64.c:
+	.text       start:0x00010F64 end:0x00010F6C
 
 mo_stub/ft_fox/fn_97_10F6C.c:
 	.text       start:0x00010F6C end:0x00010F7C
 
+mo_stub/ft_fox/xm_fn_97_10F7C.c:
+	.text       start:0x00010F7C end:0x00010F84
+
+mo_stub/ft_fox/xm_fn_97_10F84.c:
+	.text       start:0x00010F84 end:0x00010F8C
+
+mo_stub/ft_fox/xm_fn_97_10F8C.c:
+	.text       start:0x00010F8C end:0x00010F94
+
+mo_stub/ft_fox/xm_fn_97_10F94.c:
+	.text       start:0x00010F94 end:0x00010F9C
+
+mo_stub/ft_fox/xm_fn_97_10F9C.c:
+	.text       start:0x00010F9C end:0x00010FA4
+
+mo_stub/ft_fox/xm_fn_97_10FA4.c:
+	.text       start:0x00010FA4 end:0x00010FAC
+
+mo_stub/ft_fox/xm_fn_97_10FAC.c:
+	.text       start:0x00010FAC end:0x00010FB4
+
+mo_stub/ft_fox/xm_fn_97_10FB4.c:
+	.text       start:0x00010FB4 end:0x00010FBC
+
+mo_stub/ft_fox/xm_fn_97_10FBC.c:
+	.text       start:0x00010FBC end:0x00010FC4
+
 mo_stub/ft_fox/fn_97_10FC4.c:
 	.text       start:0x00010FC4 end:0x00010FCC
 
+mo_stub/ft_fox/xm_fn_97_10FCC.c:
+	.text       start:0x00010FCC end:0x00010FD4
+
 mo_stub/ft_fox/fn_97_10FD4.c:
 	.text       start:0x00010FD4 end:0x00010FDC
+
+mo_stub/ft_fox/xm_fn_97_10FDC.c:
+	.text       start:0x00010FDC end:0x00010FE4
 
 mo_stub/ft_fox/fn_97_10FE4.c:
 	.text       start:0x00010FE4 end:0x00010FEC

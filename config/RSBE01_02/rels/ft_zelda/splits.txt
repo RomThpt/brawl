@@ -170,23 +170,128 @@ mo_stub/ft_zelda/fn_104_DC40.c:
 mo_stub/ft_zelda/fn_104_DE44.c:
 	.text       start:0x0000DE44 end:0x0000DE64
 
+mo_stub/ft_zelda/xm_fn_104_DE64.c:
+	.text       start:0x0000DE64 end:0x0000DE6C
+
+mo_stub/ft_zelda/xm_fn_104_DE6C.c:
+	.text       start:0x0000DE6C end:0x0000DE74
+
+mo_stub/ft_zelda/xm_fn_104_DE74.c:
+	.text       start:0x0000DE74 end:0x0000DE7C
+
+mo_stub/ft_zelda/xm_fn_104_DE7C.c:
+	.text       start:0x0000DE7C end:0x0000DE84
+
+mo_stub/ft_zelda/xm_fn_104_DE84.c:
+	.text       start:0x0000DE84 end:0x0000DE8C
+
 mo_stub/ft_zelda/fn_104_DE8C.c:
 	.text       start:0x0000DE8C end:0x0000DE94
 
 mo_stub/ft_zelda/fn_104_DE94.c:
 	.text       start:0x0000DE94 end:0x0000DEA4
 
+mo_stub/ft_zelda/xm_fn_104_DEA4.c:
+	.text       start:0x0000DEA4 end:0x0000DEAC
+
+mo_stub/ft_zelda/xm_fn_104_DEAC.c:
+	.text       start:0x0000DEAC end:0x0000DEB4
+
+mo_stub/ft_zelda/xm_fn_104_DEB4.c:
+	.text       start:0x0000DEB4 end:0x0000DEBC
+
+mo_stub/ft_zelda/xm_fn_104_DEBC.c:
+	.text       start:0x0000DEBC end:0x0000DEC4
+
+mo_stub/ft_zelda/xm_fn_104_DEC4.c:
+	.text       start:0x0000DEC4 end:0x0000DECC
+
+mo_stub/ft_zelda/xm_fn_104_DECC.c:
+	.text       start:0x0000DECC end:0x0000DED4
+
+mo_stub/ft_zelda/xm_fn_104_DED4.c:
+	.text       start:0x0000DED4 end:0x0000DEDC
+
+mo_stub/ft_zelda/xm_fn_104_DEDC.c:
+	.text       start:0x0000DEDC end:0x0000DEE4
+
+mo_stub/ft_zelda/xm_fn_104_DEE4.c:
+	.text       start:0x0000DEE4 end:0x0000DEEC
+
 mo_stub/ft_zelda/fn_104_DEEC.c:
 	.text       start:0x0000DEEC end:0x0000DEF4
 
+mo_stub/ft_zelda/xm_fn_104_DEF4.c:
+	.text       start:0x0000DEF4 end:0x0000DEFC
+
 mo_stub/ft_zelda/fn_104_DEFC.c:
 	.text       start:0x0000DEFC end:0x0000DF04
+
+mo_stub/ft_zelda/xm_fn_104_DF04.c:
+	.text       start:0x0000DF04 end:0x0000DF0C
+
+mo_stub/ft_zelda/xm_fn_104_DF0C.c:
+	.text       start:0x0000DF0C end:0x0000DF14
 
 mo_stub/ft_zelda/fn_104_DF14.c:
 	.text       start:0x0000DF14 end:0x0000DF1C
 
 mo_stub/ft_zelda/fn_104_DF1C.c:
 	.text       start:0x0000DF1C end:0x0000DF24
+
+mo_stub/ft_zelda/xm_fn_104_DF24.c:
+	.text       start:0x0000DF24 end:0x0000DF2C
+
+mo_stub/ft_zelda/xm_fn_104_DF2C.c:
+	.text       start:0x0000DF2C end:0x0000DF34
+
+mo_stub/ft_zelda/xm_fn_104_DF34.c:
+	.text       start:0x0000DF34 end:0x0000DF3C
+
+mo_stub/ft_zelda/xm_fn_104_DF3C.c:
+	.text       start:0x0000DF3C end:0x0000DF44
+
+mo_stub/ft_zelda/xm_fn_104_DF44.c:
+	.text       start:0x0000DF44 end:0x0000DF4C
+
+mo_stub/ft_zelda/xm_fn_104_DF4C.c:
+	.text       start:0x0000DF4C end:0x0000DF54
+
+mo_stub/ft_zelda/xm_fn_104_DF54.c:
+	.text       start:0x0000DF54 end:0x0000DF5C
+
+mo_stub/ft_zelda/xm_fn_104_DF5C.c:
+	.text       start:0x0000DF5C end:0x0000DF64
+
+mo_stub/ft_zelda/xm_fn_104_DF64.c:
+	.text       start:0x0000DF64 end:0x0000DF6C
+
+mo_stub/ft_zelda/xm_fn_104_DF6C.c:
+	.text       start:0x0000DF6C end:0x0000DF74
+
+mo_stub/ft_zelda/xm_fn_104_DF74.c:
+	.text       start:0x0000DF74 end:0x0000DF7C
+
+mo_stub/ft_zelda/xm_fn_104_DF7C.c:
+	.text       start:0x0000DF7C end:0x0000DF84
+
+mo_stub/ft_zelda/xm_fn_104_DF84.c:
+	.text       start:0x0000DF84 end:0x0000DF8C
+
+mo_stub/ft_zelda/xm_fn_104_DF8C.c:
+	.text       start:0x0000DF8C end:0x0000DF94
+
+mo_stub/ft_zelda/xm_fn_104_DF94.c:
+	.text       start:0x0000DF94 end:0x0000DF9C
+
+mo_stub/ft_zelda/xm_fn_104_DF9C.c:
+	.text       start:0x0000DF9C end:0x0000DFA4
+
+mo_stub/ft_zelda/xm_fn_104_DFA4.c:
+	.text       start:0x0000DFA4 end:0x0000DFAC
+
+mo_stub/ft_zelda/xm_fn_104_DFAC.c:
+	.text       start:0x0000DFAC end:0x0000DFB4
 
 mo_stub/ft_zelda/fn_104_E028.c:
 	.text       start:0x0000E028 end:0x0000E030
@@ -305,11 +410,44 @@ mo_stub/ft_zelda/fn_104_132A8.c:
 mo_stub/ft_zelda/fn_104_132C8.c:
 	.text       start:0x000132C8 end:0x000132D8
 
+mo_stub/ft_zelda/xm_fn_104_132D8.c:
+	.text       start:0x000132D8 end:0x000132E0
+
 mo_stub/ft_zelda/fn_104_132E0.c:
 	.text       start:0x000132E0 end:0x000132E8
 
+mo_stub/ft_zelda/xm_fn_104_132E8.c:
+	.text       start:0x000132E8 end:0x000132F0
+
+mo_stub/ft_zelda/xm_fn_104_132F0.c:
+	.text       start:0x000132F0 end:0x000132F8
+
+mo_stub/ft_zelda/xm_fn_104_132F8.c:
+	.text       start:0x000132F8 end:0x00013300
+
+mo_stub/ft_zelda/xm_fn_104_13300.c:
+	.text       start:0x00013300 end:0x00013308
+
+mo_stub/ft_zelda/xm_fn_104_13308.c:
+	.text       start:0x00013308 end:0x00013310
+
+mo_stub/ft_zelda/xm_fn_104_13310.c:
+	.text       start:0x00013310 end:0x00013318
+
 mo_stub/ft_zelda/fn_104_13318.c:
 	.text       start:0x00013318 end:0x00013320
+
+mo_stub/ft_zelda/xm_fn_104_13320.c:
+	.text       start:0x00013320 end:0x00013328
+
+mo_stub/ft_zelda/xm_fn_104_13328.c:
+	.text       start:0x00013328 end:0x00013330
+
+mo_stub/ft_zelda/xm_fn_104_13330.c:
+	.text       start:0x00013330 end:0x00013338
+
+mo_stub/ft_zelda/xm_fn_104_13340.c:
+	.text       start:0x00013340 end:0x00013348
 
 mo_stub/ft_zelda/fn_104_13348.c:
 	.text       start:0x00013348 end:0x00013350
@@ -317,14 +455,65 @@ mo_stub/ft_zelda/fn_104_13348.c:
 mo_stub/ft_zelda/fn_104_13350.c:
 	.text       start:0x00013350 end:0x00013358
 
+mo_stub/ft_zelda/xm_fn_104_13358.c:
+	.text       start:0x00013358 end:0x00013360
+
+mo_stub/ft_zelda/xm_fn_104_13360.c:
+	.text       start:0x00013360 end:0x00013368
+
+mo_stub/ft_zelda/xm_fn_104_13368.c:
+	.text       start:0x00013368 end:0x00013370
+
+mo_stub/ft_zelda/xm_fn_104_13370.c:
+	.text       start:0x00013370 end:0x00013378
+
+mo_stub/ft_zelda/xm_fn_104_13378.c:
+	.text       start:0x00013378 end:0x00013380
+
+mo_stub/ft_zelda/xm_fn_104_13380.c:
+	.text       start:0x00013380 end:0x00013388
+
 mo_stub/ft_zelda/fn_104_13388.c:
 	.text       start:0x00013388 end:0x00013398
+
+mo_stub/ft_zelda/xm_fn_104_13398.c:
+	.text       start:0x00013398 end:0x000133A0
+
+mo_stub/ft_zelda/xm_fn_104_133A0.c:
+	.text       start:0x000133A0 end:0x000133A8
+
+mo_stub/ft_zelda/xm_fn_104_133A8.c:
+	.text       start:0x000133A8 end:0x000133B0
+
+mo_stub/ft_zelda/xm_fn_104_133B0.c:
+	.text       start:0x000133B0 end:0x000133B8
+
+mo_stub/ft_zelda/xm_fn_104_133B8.c:
+	.text       start:0x000133B8 end:0x000133C0
+
+mo_stub/ft_zelda/xm_fn_104_133C0.c:
+	.text       start:0x000133C0 end:0x000133C8
+
+mo_stub/ft_zelda/xm_fn_104_133C8.c:
+	.text       start:0x000133C8 end:0x000133D0
+
+mo_stub/ft_zelda/xm_fn_104_133D0.c:
+	.text       start:0x000133D0 end:0x000133D8
+
+mo_stub/ft_zelda/xm_fn_104_133D8.c:
+	.text       start:0x000133D8 end:0x000133E0
 
 mo_stub/ft_zelda/fn_104_133E0.c:
 	.text       start:0x000133E0 end:0x000133E8
 
+mo_stub/ft_zelda/xm_fn_104_133E8.c:
+	.text       start:0x000133E8 end:0x000133F0
+
 mo_stub/ft_zelda/fn_104_133F0.c:
 	.text       start:0x000133F0 end:0x000133F8
+
+mo_stub/ft_zelda/xm_fn_104_133F8.c:
+	.text       start:0x000133F8 end:0x00013400
 
 mo_stub/ft_zelda/fn_104_13400.c:
 	.text       start:0x00013400 end:0x00013408

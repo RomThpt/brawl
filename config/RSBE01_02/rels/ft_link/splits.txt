@@ -176,20 +176,125 @@ mo_stub/ft_link/fn_93_E944.c:
 mo_stub/ft_link/fn_93_EB48.c:
 	.text       start:0x0000EB48 end:0x0000EB68
 
+mo_stub/ft_link/xm_fn_93_EB68.c:
+	.text       start:0x0000EB68 end:0x0000EB70
+
+mo_stub/ft_link/xm_fn_93_EB70.c:
+	.text       start:0x0000EB70 end:0x0000EB78
+
+mo_stub/ft_link/xm_fn_93_EB78.c:
+	.text       start:0x0000EB78 end:0x0000EB80
+
+mo_stub/ft_link/xm_fn_93_EB80.c:
+	.text       start:0x0000EB80 end:0x0000EB88
+
+mo_stub/ft_link/xm_fn_93_EB88.c:
+	.text       start:0x0000EB88 end:0x0000EB90
+
+mo_stub/ft_link/xm_fn_93_EB90.c:
+	.text       start:0x0000EB90 end:0x0000EB98
+
+mo_stub/ft_link/xm_fn_93_EB98.c:
+	.text       start:0x0000EB98 end:0x0000EBA0
+
 mo_stub/ft_link/fn_93_EBA0.c:
 	.text       start:0x0000EBA0 end:0x0000EBA8
+
+mo_stub/ft_link/xm_fn_93_EBA8.c:
+	.text       start:0x0000EBA8 end:0x0000EBB0
 
 mo_stub/ft_link/fn_93_EBB0.c:
 	.text       start:0x0000EBB0 end:0x0000EBC8
 
+mo_stub/ft_link/xm_fn_93_EBC8.c:
+	.text       start:0x0000EBC8 end:0x0000EBD0
+
+mo_stub/ft_link/xm_fn_93_EBD0.c:
+	.text       start:0x0000EBD0 end:0x0000EBD8
+
+mo_stub/ft_link/xm_fn_93_EBD8.c:
+	.text       start:0x0000EBD8 end:0x0000EBE0
+
 mo_stub/ft_link/fn_93_EBE0.c:
 	.text       start:0x0000EBE0 end:0x0000EBF0
+
+mo_stub/ft_link/xm_fn_93_EBF0.c:
+	.text       start:0x0000EBF0 end:0x0000EBF8
 
 mo_stub/ft_link/fn_93_EBF8.c:
 	.text       start:0x0000EBF8 end:0x0000EC00
 
+mo_stub/ft_link/xm_fn_93_EC00.c:
+	.text       start:0x0000EC00 end:0x0000EC08
+
+mo_stub/ft_link/xm_fn_93_EC08.c:
+	.text       start:0x0000EC08 end:0x0000EC10
+
+mo_stub/ft_link/xm_fn_93_EC10.c:
+	.text       start:0x0000EC10 end:0x0000EC18
+
+mo_stub/ft_link/xm_fn_93_EC18.c:
+	.text       start:0x0000EC18 end:0x0000EC20
+
+mo_stub/ft_link/xm_fn_93_EC20.c:
+	.text       start:0x0000EC20 end:0x0000EC28
+
 mo_stub/ft_link/fn_93_EC28.c:
 	.text       start:0x0000EC28 end:0x0000EC38
+
+mo_stub/ft_link/xm_fn_93_EC38.c:
+	.text       start:0x0000EC38 end:0x0000EC40
+
+mo_stub/ft_link/xm_fn_93_EC40.c:
+	.text       start:0x0000EC40 end:0x0000EC48
+
+mo_stub/ft_link/xm_fn_93_EC48.c:
+	.text       start:0x0000EC48 end:0x0000EC50
+
+mo_stub/ft_link/xm_fn_93_EC50.c:
+	.text       start:0x0000EC50 end:0x0000EC58
+
+mo_stub/ft_link/xm_fn_93_EC58.c:
+	.text       start:0x0000EC58 end:0x0000EC60
+
+mo_stub/ft_link/xm_fn_93_EC60.c:
+	.text       start:0x0000EC60 end:0x0000EC68
+
+mo_stub/ft_link/xm_fn_93_EC68.c:
+	.text       start:0x0000EC68 end:0x0000EC70
+
+mo_stub/ft_link/xm_fn_93_EC70.c:
+	.text       start:0x0000EC70 end:0x0000EC78
+
+mo_stub/ft_link/xm_fn_93_EC78.c:
+	.text       start:0x0000EC78 end:0x0000EC80
+
+mo_stub/ft_link/xm_fn_93_EC80.c:
+	.text       start:0x0000EC80 end:0x0000EC88
+
+mo_stub/ft_link/xm_fn_93_EC88.c:
+	.text       start:0x0000EC88 end:0x0000EC90
+
+mo_stub/ft_link/xm_fn_93_EC90.c:
+	.text       start:0x0000EC90 end:0x0000EC98
+
+mo_stub/ft_link/xm_fn_93_EC98.c:
+	.text       start:0x0000EC98 end:0x0000ECA0
+
+mo_stub/ft_link/xm_fn_93_ECA0.c:
+	.text       start:0x0000ECA0 end:0x0000ECA8
+
+mo_stub/ft_link/xm_fn_93_ECA8.c:
+	.text       start:0x0000ECA8 end:0x0000ECB0
+
+mo_stub/ft_link/xm_fn_93_ECB0.c:
+	.text       start:0x0000ECB0 end:0x0000ECB8
+
+mo_stub/ft_link/xm_fn_93_ECB8.c:
+	.text       start:0x0000ECB8 end:0x0000ECC0
+
+mo_stub/ft_link/xm_fn_93_ECC0.c:
+	.text       start:0x0000ECC0 end:0x0000ECC8
 
 mo_stub/ft_link/fn_93_F26C.c:
 	.text       start:0x0000F26C end:0x0000F288
@@ -293,29 +398,113 @@ mo_stub/ft_link/fn_93_148B8.c:
 mo_stub/ft_link/fn_93_149C4.c:
 	.text       start:0x000149C4 end:0x000149DC
 
+mo_stub/ft_link/xm_fn_93_149DC.c:
+	.text       start:0x000149DC end:0x000149E4
+
+mo_stub/ft_link/xm_fn_93_149E4.c:
+	.text       start:0x000149E4 end:0x000149EC
+
 mo_stub/ft_link/fn_93_149EC.c:
 	.text       start:0x000149EC end:0x000149F4
 
 mo_stub/ft_link/fn_93_149F4.c:
 	.text       start:0x000149F4 end:0x00014A14
 
+mo_stub/ft_link/xm_fn_93_14A14.c:
+	.text       start:0x00014A14 end:0x00014A1C
+
+mo_stub/ft_link/xm_fn_93_14A1C.c:
+	.text       start:0x00014A1C end:0x00014A24
+
 mo_stub/ft_link/fn_93_14A24.c:
 	.text       start:0x00014A24 end:0x00014A2C
+
+mo_stub/ft_link/xm_fn_93_14A2C.c:
+	.text       start:0x00014A2C end:0x00014A34
+
+mo_stub/ft_link/xm_fn_93_14A34.c:
+	.text       start:0x00014A34 end:0x00014A3C
+
+mo_stub/ft_link/xm_fn_93_14A3C.c:
+	.text       start:0x00014A3C end:0x00014A44
 
 mo_stub/ft_link/fn_93_14A44.c:
 	.text       start:0x00014A44 end:0x00014A4C
 
+mo_stub/ft_link/xm_fn_93_14A4C.c:
+	.text       start:0x00014A4C end:0x00014A54
+
+mo_stub/ft_link/xm_fn_93_14A54.c:
+	.text       start:0x00014A54 end:0x00014A5C
+
+mo_stub/ft_link/xm_fn_93_14A5C.c:
+	.text       start:0x00014A5C end:0x00014A64
+
+mo_stub/ft_link/xm_fn_93_14A6C.c:
+	.text       start:0x00014A6C end:0x00014A74
+
 mo_stub/ft_link/fn_93_14A74.c:
 	.text       start:0x00014A74 end:0x00014A84
+
+mo_stub/ft_link/xm_fn_93_14A84.c:
+	.text       start:0x00014A84 end:0x00014A8C
+
+mo_stub/ft_link/xm_fn_93_14A8C.c:
+	.text       start:0x00014A8C end:0x00014A94
+
+mo_stub/ft_link/xm_fn_93_14A94.c:
+	.text       start:0x00014A94 end:0x00014A9C
+
+mo_stub/ft_link/xm_fn_93_14A9C.c:
+	.text       start:0x00014A9C end:0x00014AA4
+
+mo_stub/ft_link/xm_fn_93_14AA4.c:
+	.text       start:0x00014AA4 end:0x00014AAC
+
+mo_stub/ft_link/xm_fn_93_14AAC.c:
+	.text       start:0x00014AAC end:0x00014AB4
 
 mo_stub/ft_link/fn_93_14AB4.c:
 	.text       start:0x00014AB4 end:0x00014AC4
 
+mo_stub/ft_link/xm_fn_93_14AC4.c:
+	.text       start:0x00014AC4 end:0x00014ACC
+
+mo_stub/ft_link/xm_fn_93_14ACC.c:
+	.text       start:0x00014ACC end:0x00014AD4
+
+mo_stub/ft_link/xm_fn_93_14AD4.c:
+	.text       start:0x00014AD4 end:0x00014ADC
+
+mo_stub/ft_link/xm_fn_93_14ADC.c:
+	.text       start:0x00014ADC end:0x00014AE4
+
+mo_stub/ft_link/xm_fn_93_14AE4.c:
+	.text       start:0x00014AE4 end:0x00014AEC
+
+mo_stub/ft_link/xm_fn_93_14AEC.c:
+	.text       start:0x00014AEC end:0x00014AF4
+
+mo_stub/ft_link/xm_fn_93_14AF4.c:
+	.text       start:0x00014AF4 end:0x00014AFC
+
+mo_stub/ft_link/xm_fn_93_14AFC.c:
+	.text       start:0x00014AFC end:0x00014B04
+
+mo_stub/ft_link/xm_fn_93_14B04.c:
+	.text       start:0x00014B04 end:0x00014B0C
+
 mo_stub/ft_link/fn_93_14B0C.c:
 	.text       start:0x00014B0C end:0x00014B14
 
+mo_stub/ft_link/xm_fn_93_14B14.c:
+	.text       start:0x00014B14 end:0x00014B1C
+
 mo_stub/ft_link/fn_93_14B1C.c:
 	.text       start:0x00014B1C end:0x00014B24
+
+mo_stub/ft_link/xm_fn_93_14B24.c:
+	.text       start:0x00014B24 end:0x00014B2C
 
 mo_stub/ft_link/fn_93_14B2C.c:
 	.text       start:0x00014B2C end:0x00014B34

@@ -161,14 +161,119 @@ mo_stub/ft_captain/fn_100_C640.c:
 mo_stub/ft_captain/fn_100_C844.c:
 	.text       start:0x0000C844 end:0x0000C864
 
+mo_stub/ft_captain/xm_fn_100_C864.c:
+	.text       start:0x0000C864 end:0x0000C86C
+
+mo_stub/ft_captain/xm_fn_100_C86C.c:
+	.text       start:0x0000C86C end:0x0000C874
+
+mo_stub/ft_captain/xm_fn_100_C874.c:
+	.text       start:0x0000C874 end:0x0000C87C
+
 mo_stub/ft_captain/fn_100_C87C.c:
 	.text       start:0x0000C87C end:0x0000C884
+
+mo_stub/ft_captain/xm_fn_100_C884.c:
+	.text       start:0x0000C884 end:0x0000C88C
 
 mo_stub/ft_captain/fn_100_C88C.c:
 	.text       start:0x0000C88C end:0x0000C8A4
 
+mo_stub/ft_captain/xm_fn_100_C8A4.c:
+	.text       start:0x0000C8A4 end:0x0000C8AC
+
 mo_stub/ft_captain/fn_100_C8AC.c:
 	.text       start:0x0000C8AC end:0x0000C8B4
+
+mo_stub/ft_captain/xm_fn_100_C8B4.c:
+	.text       start:0x0000C8B4 end:0x0000C8BC
+
+mo_stub/ft_captain/xm_fn_100_C8BC.c:
+	.text       start:0x0000C8BC end:0x0000C8C4
+
+mo_stub/ft_captain/xm_fn_100_C8C4.c:
+	.text       start:0x0000C8C4 end:0x0000C8CC
+
+mo_stub/ft_captain/xm_fn_100_C8CC.c:
+	.text       start:0x0000C8CC end:0x0000C8D4
+
+mo_stub/ft_captain/xm_fn_100_C8D4.c:
+	.text       start:0x0000C8D4 end:0x0000C8DC
+
+mo_stub/ft_captain/xm_fn_100_C8DC.c:
+	.text       start:0x0000C8DC end:0x0000C8E4
+
+mo_stub/ft_captain/xm_fn_100_C8E4.c:
+	.text       start:0x0000C8E4 end:0x0000C8EC
+
+mo_stub/ft_captain/xm_fn_100_C8EC.c:
+	.text       start:0x0000C8EC end:0x0000C8F4
+
+mo_stub/ft_captain/xm_fn_100_C8F4.c:
+	.text       start:0x0000C8F4 end:0x0000C8FC
+
+mo_stub/ft_captain/xm_fn_100_C8FC.c:
+	.text       start:0x0000C8FC end:0x0000C904
+
+mo_stub/ft_captain/xm_fn_100_C904.c:
+	.text       start:0x0000C904 end:0x0000C90C
+
+mo_stub/ft_captain/xm_fn_100_C90C.c:
+	.text       start:0x0000C90C end:0x0000C914
+
+mo_stub/ft_captain/xm_fn_100_C914.c:
+	.text       start:0x0000C914 end:0x0000C91C
+
+mo_stub/ft_captain/xm_fn_100_C91C.c:
+	.text       start:0x0000C91C end:0x0000C924
+
+mo_stub/ft_captain/xm_fn_100_C924.c:
+	.text       start:0x0000C924 end:0x0000C92C
+
+mo_stub/ft_captain/xm_fn_100_C92C.c:
+	.text       start:0x0000C92C end:0x0000C934
+
+mo_stub/ft_captain/xm_fn_100_C934.c:
+	.text       start:0x0000C934 end:0x0000C93C
+
+mo_stub/ft_captain/xm_fn_100_C93C.c:
+	.text       start:0x0000C93C end:0x0000C944
+
+mo_stub/ft_captain/xm_fn_100_C944.c:
+	.text       start:0x0000C944 end:0x0000C94C
+
+mo_stub/ft_captain/xm_fn_100_C94C.c:
+	.text       start:0x0000C94C end:0x0000C954
+
+mo_stub/ft_captain/xm_fn_100_C954.c:
+	.text       start:0x0000C954 end:0x0000C95C
+
+mo_stub/ft_captain/xm_fn_100_C95C.c:
+	.text       start:0x0000C95C end:0x0000C964
+
+mo_stub/ft_captain/xm_fn_100_C964.c:
+	.text       start:0x0000C964 end:0x0000C96C
+
+mo_stub/ft_captain/xm_fn_100_C96C.c:
+	.text       start:0x0000C96C end:0x0000C974
+
+mo_stub/ft_captain/xm_fn_100_C974.c:
+	.text       start:0x0000C974 end:0x0000C97C
+
+mo_stub/ft_captain/xm_fn_100_C97C.c:
+	.text       start:0x0000C97C end:0x0000C984
+
+mo_stub/ft_captain/xm_fn_100_C984.c:
+	.text       start:0x0000C984 end:0x0000C98C
+
+mo_stub/ft_captain/xm_fn_100_C98C.c:
+	.text       start:0x0000C98C end:0x0000C994
+
+mo_stub/ft_captain/xm_fn_100_C994.c:
+	.text       start:0x0000C994 end:0x0000C99C
+
+mo_stub/ft_captain/xm_fn_100_C99C.c:
+	.text       start:0x0000C99C end:0x0000C9A4
 
 mo_stub/ft_captain/fn_100_D028.c:
 	.text       start:0x0000D028 end:0x0000D02C
@@ -314,20 +419,53 @@ mo_stub/ft_captain/fn_100_13524.c:
 mo_stub/ft_captain/fn_100_1362C.c:
 	.text       start:0x0001362C end:0x00013644
 
+mo_stub/ft_captain/xm_fn_100_13644.c:
+	.text       start:0x00013644 end:0x0001364C
+
 mo_stub/ft_captain/fn_100_1364C.c:
 	.text       start:0x0001364C end:0x0001365C
 
 mo_stub/ft_captain/fn_100_1365C.c:
 	.text       start:0x0001365C end:0x00013664
 
+mo_stub/ft_captain/xm_fn_100_13664.c:
+	.text       start:0x00013664 end:0x0001366C
+
 mo_stub/ft_captain/fn_100_1366C.c:
 	.text       start:0x0001366C end:0x00013674
+
+mo_stub/ft_captain/xm_fn_100_13674.c:
+	.text       start:0x00013674 end:0x0001367C
+
+mo_stub/ft_captain/xm_fn_100_1367C.c:
+	.text       start:0x0001367C end:0x00013684
 
 mo_stub/ft_captain/fn_100_13684.c:
 	.text       start:0x00013684 end:0x0001368C
 
+mo_stub/ft_captain/xm_fn_100_1368C.c:
+	.text       start:0x0001368C end:0x00013694
+
+mo_stub/ft_captain/xm_fn_100_13694.c:
+	.text       start:0x00013694 end:0x0001369C
+
+mo_stub/ft_captain/xm_fn_100_1369C.c:
+	.text       start:0x0001369C end:0x000136A4
+
 mo_stub/ft_captain/fn_100_136A4.c:
 	.text       start:0x000136A4 end:0x000136AC
+
+mo_stub/ft_captain/xm_fn_100_136AC.c:
+	.text       start:0x000136AC end:0x000136B4
+
+mo_stub/ft_captain/xm_fn_100_136B4.c:
+	.text       start:0x000136B4 end:0x000136BC
+
+mo_stub/ft_captain/xm_fn_100_136BC.c:
+	.text       start:0x000136BC end:0x000136C4
+
+mo_stub/ft_captain/xm_fn_100_136CC.c:
+	.text       start:0x000136CC end:0x000136D4
 
 mo_stub/ft_captain/fn_100_136D4.c:
 	.text       start:0x000136D4 end:0x000136DC
@@ -335,14 +473,65 @@ mo_stub/ft_captain/fn_100_136D4.c:
 mo_stub/ft_captain/fn_100_136DC.c:
 	.text       start:0x000136DC end:0x000136E4
 
+mo_stub/ft_captain/xm_fn_100_136E4.c:
+	.text       start:0x000136E4 end:0x000136EC
+
+mo_stub/ft_captain/xm_fn_100_136EC.c:
+	.text       start:0x000136EC end:0x000136F4
+
+mo_stub/ft_captain/xm_fn_100_136F4.c:
+	.text       start:0x000136F4 end:0x000136FC
+
+mo_stub/ft_captain/xm_fn_100_136FC.c:
+	.text       start:0x000136FC end:0x00013704
+
+mo_stub/ft_captain/xm_fn_100_13704.c:
+	.text       start:0x00013704 end:0x0001370C
+
+mo_stub/ft_captain/xm_fn_100_1370C.c:
+	.text       start:0x0001370C end:0x00013714
+
 mo_stub/ft_captain/fn_100_13714.c:
 	.text       start:0x00013714 end:0x00013724
+
+mo_stub/ft_captain/xm_fn_100_13724.c:
+	.text       start:0x00013724 end:0x0001372C
+
+mo_stub/ft_captain/xm_fn_100_1372C.c:
+	.text       start:0x0001372C end:0x00013734
+
+mo_stub/ft_captain/xm_fn_100_13734.c:
+	.text       start:0x00013734 end:0x0001373C
+
+mo_stub/ft_captain/xm_fn_100_1373C.c:
+	.text       start:0x0001373C end:0x00013744
+
+mo_stub/ft_captain/xm_fn_100_13744.c:
+	.text       start:0x00013744 end:0x0001374C
+
+mo_stub/ft_captain/xm_fn_100_1374C.c:
+	.text       start:0x0001374C end:0x00013754
+
+mo_stub/ft_captain/xm_fn_100_13754.c:
+	.text       start:0x00013754 end:0x0001375C
+
+mo_stub/ft_captain/xm_fn_100_1375C.c:
+	.text       start:0x0001375C end:0x00013764
+
+mo_stub/ft_captain/xm_fn_100_13764.c:
+	.text       start:0x00013764 end:0x0001376C
 
 mo_stub/ft_captain/fn_100_1376C.c:
 	.text       start:0x0001376C end:0x00013774
 
+mo_stub/ft_captain/xm_fn_100_13774.c:
+	.text       start:0x00013774 end:0x0001377C
+
 mo_stub/ft_captain/fn_100_1377C.c:
 	.text       start:0x0001377C end:0x00013784
+
+mo_stub/ft_captain/xm_fn_100_13784.c:
+	.text       start:0x00013784 end:0x0001378C
 
 mo_stub/ft_captain/fn_100_1378C.c:
 	.text       start:0x0001378C end:0x00013794

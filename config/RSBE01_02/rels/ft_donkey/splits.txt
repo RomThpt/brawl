@@ -161,14 +161,119 @@ mo_stub/ft_donkey/fn_92_C868.c:
 mo_stub/ft_donkey/fn_92_CA6C.c:
 	.text       start:0x0000CA6C end:0x0000CA8C
 
+mo_stub/ft_donkey/xm_fn_92_CA8C.c:
+	.text       start:0x0000CA8C end:0x0000CA94
+
+mo_stub/ft_donkey/xm_fn_92_CA94.c:
+	.text       start:0x0000CA94 end:0x0000CA9C
+
 mo_stub/ft_donkey/fn_92_CA9C.c:
 	.text       start:0x0000CA9C end:0x0000CAA4
+
+mo_stub/ft_donkey/xm_fn_92_CAA4.c:
+	.text       start:0x0000CAA4 end:0x0000CAAC
 
 mo_stub/ft_donkey/fn_92_CAAC.c:
 	.text       start:0x0000CAAC end:0x0000CABC
 
+mo_stub/ft_donkey/xm_fn_92_CABC.c:
+	.text       start:0x0000CABC end:0x0000CAC4
+
+mo_stub/ft_donkey/xm_fn_92_CAC4.c:
+	.text       start:0x0000CAC4 end:0x0000CACC
+
+mo_stub/ft_donkey/xm_fn_92_CACC.c:
+	.text       start:0x0000CACC end:0x0000CAD4
+
+mo_stub/ft_donkey/xm_fn_92_CAD4.c:
+	.text       start:0x0000CAD4 end:0x0000CADC
+
+mo_stub/ft_donkey/xm_fn_92_CADC.c:
+	.text       start:0x0000CADC end:0x0000CAE4
+
+mo_stub/ft_donkey/xm_fn_92_CAE4.c:
+	.text       start:0x0000CAE4 end:0x0000CAEC
+
+mo_stub/ft_donkey/xm_fn_92_CAEC.c:
+	.text       start:0x0000CAEC end:0x0000CAF4
+
+mo_stub/ft_donkey/xm_fn_92_CAF4.c:
+	.text       start:0x0000CAF4 end:0x0000CAFC
+
+mo_stub/ft_donkey/xm_fn_92_CAFC.c:
+	.text       start:0x0000CAFC end:0x0000CB04
+
+mo_stub/ft_donkey/xm_fn_92_CB04.c:
+	.text       start:0x0000CB04 end:0x0000CB0C
+
+mo_stub/ft_donkey/xm_fn_92_CB0C.c:
+	.text       start:0x0000CB0C end:0x0000CB14
+
+mo_stub/ft_donkey/xm_fn_92_CB14.c:
+	.text       start:0x0000CB14 end:0x0000CB1C
+
+mo_stub/ft_donkey/xm_fn_92_CB1C.c:
+	.text       start:0x0000CB1C end:0x0000CB24
+
+mo_stub/ft_donkey/xm_fn_92_CB24.c:
+	.text       start:0x0000CB24 end:0x0000CB2C
+
+mo_stub/ft_donkey/xm_fn_92_CB2C.c:
+	.text       start:0x0000CB2C end:0x0000CB34
+
 mo_stub/ft_donkey/fn_92_CB34.c:
 	.text       start:0x0000CB34 end:0x0000CB3C
+
+mo_stub/ft_donkey/xm_fn_92_CB3C.c:
+	.text       start:0x0000CB3C end:0x0000CB44
+
+mo_stub/ft_donkey/xm_fn_92_CB44.c:
+	.text       start:0x0000CB44 end:0x0000CB4C
+
+mo_stub/ft_donkey/xm_fn_92_CB4C.c:
+	.text       start:0x0000CB4C end:0x0000CB54
+
+mo_stub/ft_donkey/xm_fn_92_CB54.c:
+	.text       start:0x0000CB54 end:0x0000CB5C
+
+mo_stub/ft_donkey/xm_fn_92_CB5C.c:
+	.text       start:0x0000CB5C end:0x0000CB64
+
+mo_stub/ft_donkey/xm_fn_92_CB64.c:
+	.text       start:0x0000CB64 end:0x0000CB6C
+
+mo_stub/ft_donkey/xm_fn_92_CB6C.c:
+	.text       start:0x0000CB6C end:0x0000CB74
+
+mo_stub/ft_donkey/xm_fn_92_CB74.c:
+	.text       start:0x0000CB74 end:0x0000CB7C
+
+mo_stub/ft_donkey/xm_fn_92_CB7C.c:
+	.text       start:0x0000CB7C end:0x0000CB84
+
+mo_stub/ft_donkey/xm_fn_92_CB84.c:
+	.text       start:0x0000CB84 end:0x0000CB8C
+
+mo_stub/ft_donkey/xm_fn_92_CB8C.c:
+	.text       start:0x0000CB8C end:0x0000CB94
+
+mo_stub/ft_donkey/xm_fn_92_CB94.c:
+	.text       start:0x0000CB94 end:0x0000CB9C
+
+mo_stub/ft_donkey/xm_fn_92_CB9C.c:
+	.text       start:0x0000CB9C end:0x0000CBA4
+
+mo_stub/ft_donkey/xm_fn_92_CBA4.c:
+	.text       start:0x0000CBA4 end:0x0000CBAC
+
+mo_stub/ft_donkey/xm_fn_92_CBAC.c:
+	.text       start:0x0000CBAC end:0x0000CBB4
+
+mo_stub/ft_donkey/xm_fn_92_CBB4.c:
+	.text       start:0x0000CBB4 end:0x0000CBBC
+
+mo_stub/ft_donkey/xm_fn_92_CBBC.c:
+	.text       start:0x0000CBBC end:0x0000CBC4
 
 mo_stub/ft_donkey/fn_92_CEE8.c:
 	.text       start:0x0000CEE8 end:0x0000CEF0
@@ -323,23 +428,107 @@ mo_stub/ft_donkey/fn_92_12C80.c:
 mo_stub/ft_donkey/fn_92_12C90.c:
 	.text       start:0x00012C90 end:0x00012CB0
 
+mo_stub/ft_donkey/xm_fn_92_12CB0.c:
+	.text       start:0x00012CB0 end:0x00012CB8
+
 mo_stub/ft_donkey/fn_92_12CB8.c:
 	.text       start:0x00012CB8 end:0x00012CC0
+
+mo_stub/ft_donkey/xm_fn_92_12CC0.c:
+	.text       start:0x00012CC0 end:0x00012CC8
+
+mo_stub/ft_donkey/xm_fn_92_12CC8.c:
+	.text       start:0x00012CC8 end:0x00012CD0
+
+mo_stub/ft_donkey/xm_fn_92_12CD0.c:
+	.text       start:0x00012CD0 end:0x00012CD8
+
+mo_stub/ft_donkey/xm_fn_92_12CD8.c:
+	.text       start:0x00012CD8 end:0x00012CE0
+
+mo_stub/ft_donkey/xm_fn_92_12CE0.c:
+	.text       start:0x00012CE0 end:0x00012CE8
+
+mo_stub/ft_donkey/xm_fn_92_12CE8.c:
+	.text       start:0x00012CE8 end:0x00012CF0
 
 mo_stub/ft_donkey/fn_92_12CF0.c:
 	.text       start:0x00012CF0 end:0x00012CF8
 
+mo_stub/ft_donkey/xm_fn_92_12CF8.c:
+	.text       start:0x00012CF8 end:0x00012D00
+
+mo_stub/ft_donkey/xm_fn_92_12D00.c:
+	.text       start:0x00012D00 end:0x00012D08
+
+mo_stub/ft_donkey/xm_fn_92_12D08.c:
+	.text       start:0x00012D08 end:0x00012D10
+
+mo_stub/ft_donkey/xm_fn_92_12D18.c:
+	.text       start:0x00012D18 end:0x00012D20
+
 mo_stub/ft_donkey/fn_92_12D20.c:
 	.text       start:0x00012D20 end:0x00012D30
+
+mo_stub/ft_donkey/xm_fn_92_12D30.c:
+	.text       start:0x00012D30 end:0x00012D38
+
+mo_stub/ft_donkey/xm_fn_92_12D38.c:
+	.text       start:0x00012D38 end:0x00012D40
+
+mo_stub/ft_donkey/xm_fn_92_12D40.c:
+	.text       start:0x00012D40 end:0x00012D48
+
+mo_stub/ft_donkey/xm_fn_92_12D48.c:
+	.text       start:0x00012D48 end:0x00012D50
+
+mo_stub/ft_donkey/xm_fn_92_12D50.c:
+	.text       start:0x00012D50 end:0x00012D58
+
+mo_stub/ft_donkey/xm_fn_92_12D58.c:
+	.text       start:0x00012D58 end:0x00012D60
 
 mo_stub/ft_donkey/fn_92_12D60.c:
 	.text       start:0x00012D60 end:0x00012D70
 
+mo_stub/ft_donkey/xm_fn_92_12D70.c:
+	.text       start:0x00012D70 end:0x00012D78
+
+mo_stub/ft_donkey/xm_fn_92_12D78.c:
+	.text       start:0x00012D78 end:0x00012D80
+
+mo_stub/ft_donkey/xm_fn_92_12D80.c:
+	.text       start:0x00012D80 end:0x00012D88
+
+mo_stub/ft_donkey/xm_fn_92_12D88.c:
+	.text       start:0x00012D88 end:0x00012D90
+
+mo_stub/ft_donkey/xm_fn_92_12D90.c:
+	.text       start:0x00012D90 end:0x00012D98
+
+mo_stub/ft_donkey/xm_fn_92_12D98.c:
+	.text       start:0x00012D98 end:0x00012DA0
+
+mo_stub/ft_donkey/xm_fn_92_12DA0.c:
+	.text       start:0x00012DA0 end:0x00012DA8
+
+mo_stub/ft_donkey/xm_fn_92_12DA8.c:
+	.text       start:0x00012DA8 end:0x00012DB0
+
+mo_stub/ft_donkey/xm_fn_92_12DB0.c:
+	.text       start:0x00012DB0 end:0x00012DB8
+
 mo_stub/ft_donkey/fn_92_12DB8.c:
 	.text       start:0x00012DB8 end:0x00012DC0
 
+mo_stub/ft_donkey/xm_fn_92_12DC0.c:
+	.text       start:0x00012DC0 end:0x00012DC8
+
 mo_stub/ft_donkey/fn_92_12DC8.c:
 	.text       start:0x00012DC8 end:0x00012DD0
+
+mo_stub/ft_donkey/xm_fn_92_12DD0.c:
+	.text       start:0x00012DD0 end:0x00012DD8
 
 mo_stub/ft_donkey/fn_92_12DD8.c:
 	.text       start:0x00012DD8 end:0x00012DE0

@@ -176,20 +176,125 @@ mo_stub/ft_toonlink/fn_121_E940.c:
 mo_stub/ft_toonlink/fn_121_EB44.c:
 	.text       start:0x0000EB44 end:0x0000EB64
 
+mo_stub/ft_toonlink/xm_fn_121_EB64.c:
+	.text       start:0x0000EB64 end:0x0000EB6C
+
+mo_stub/ft_toonlink/xm_fn_121_EB6C.c:
+	.text       start:0x0000EB6C end:0x0000EB74
+
+mo_stub/ft_toonlink/xm_fn_121_EB74.c:
+	.text       start:0x0000EB74 end:0x0000EB7C
+
+mo_stub/ft_toonlink/xm_fn_121_EB7C.c:
+	.text       start:0x0000EB7C end:0x0000EB84
+
+mo_stub/ft_toonlink/xm_fn_121_EB84.c:
+	.text       start:0x0000EB84 end:0x0000EB8C
+
+mo_stub/ft_toonlink/xm_fn_121_EB8C.c:
+	.text       start:0x0000EB8C end:0x0000EB94
+
+mo_stub/ft_toonlink/xm_fn_121_EB94.c:
+	.text       start:0x0000EB94 end:0x0000EB9C
+
 mo_stub/ft_toonlink/fn_121_EB9C.c:
 	.text       start:0x0000EB9C end:0x0000EBA4
+
+mo_stub/ft_toonlink/xm_fn_121_EBA4.c:
+	.text       start:0x0000EBA4 end:0x0000EBAC
 
 mo_stub/ft_toonlink/fn_121_EBAC.c:
 	.text       start:0x0000EBAC end:0x0000EBC4
 
+mo_stub/ft_toonlink/xm_fn_121_EBC4.c:
+	.text       start:0x0000EBC4 end:0x0000EBCC
+
+mo_stub/ft_toonlink/xm_fn_121_EBCC.c:
+	.text       start:0x0000EBCC end:0x0000EBD4
+
+mo_stub/ft_toonlink/xm_fn_121_EBD4.c:
+	.text       start:0x0000EBD4 end:0x0000EBDC
+
 mo_stub/ft_toonlink/fn_121_EBDC.c:
 	.text       start:0x0000EBDC end:0x0000EBEC
+
+mo_stub/ft_toonlink/xm_fn_121_EBEC.c:
+	.text       start:0x0000EBEC end:0x0000EBF4
 
 mo_stub/ft_toonlink/fn_121_EBF4.c:
 	.text       start:0x0000EBF4 end:0x0000EBFC
 
+mo_stub/ft_toonlink/xm_fn_121_EBFC.c:
+	.text       start:0x0000EBFC end:0x0000EC04
+
+mo_stub/ft_toonlink/xm_fn_121_EC04.c:
+	.text       start:0x0000EC04 end:0x0000EC0C
+
+mo_stub/ft_toonlink/xm_fn_121_EC0C.c:
+	.text       start:0x0000EC0C end:0x0000EC14
+
+mo_stub/ft_toonlink/xm_fn_121_EC14.c:
+	.text       start:0x0000EC14 end:0x0000EC1C
+
+mo_stub/ft_toonlink/xm_fn_121_EC1C.c:
+	.text       start:0x0000EC1C end:0x0000EC24
+
 mo_stub/ft_toonlink/fn_121_EC24.c:
 	.text       start:0x0000EC24 end:0x0000EC34
+
+mo_stub/ft_toonlink/xm_fn_121_EC34.c:
+	.text       start:0x0000EC34 end:0x0000EC3C
+
+mo_stub/ft_toonlink/xm_fn_121_EC3C.c:
+	.text       start:0x0000EC3C end:0x0000EC44
+
+mo_stub/ft_toonlink/xm_fn_121_EC44.c:
+	.text       start:0x0000EC44 end:0x0000EC4C
+
+mo_stub/ft_toonlink/xm_fn_121_EC4C.c:
+	.text       start:0x0000EC4C end:0x0000EC54
+
+mo_stub/ft_toonlink/xm_fn_121_EC54.c:
+	.text       start:0x0000EC54 end:0x0000EC5C
+
+mo_stub/ft_toonlink/xm_fn_121_EC5C.c:
+	.text       start:0x0000EC5C end:0x0000EC64
+
+mo_stub/ft_toonlink/xm_fn_121_EC64.c:
+	.text       start:0x0000EC64 end:0x0000EC6C
+
+mo_stub/ft_toonlink/xm_fn_121_EC6C.c:
+	.text       start:0x0000EC6C end:0x0000EC74
+
+mo_stub/ft_toonlink/xm_fn_121_EC74.c:
+	.text       start:0x0000EC74 end:0x0000EC7C
+
+mo_stub/ft_toonlink/xm_fn_121_EC7C.c:
+	.text       start:0x0000EC7C end:0x0000EC84
+
+mo_stub/ft_toonlink/xm_fn_121_EC84.c:
+	.text       start:0x0000EC84 end:0x0000EC8C
+
+mo_stub/ft_toonlink/xm_fn_121_EC8C.c:
+	.text       start:0x0000EC8C end:0x0000EC94
+
+mo_stub/ft_toonlink/xm_fn_121_EC94.c:
+	.text       start:0x0000EC94 end:0x0000EC9C
+
+mo_stub/ft_toonlink/xm_fn_121_EC9C.c:
+	.text       start:0x0000EC9C end:0x0000ECA4
+
+mo_stub/ft_toonlink/xm_fn_121_ECA4.c:
+	.text       start:0x0000ECA4 end:0x0000ECAC
+
+mo_stub/ft_toonlink/xm_fn_121_ECAC.c:
+	.text       start:0x0000ECAC end:0x0000ECB4
+
+mo_stub/ft_toonlink/xm_fn_121_ECB4.c:
+	.text       start:0x0000ECB4 end:0x0000ECBC
+
+mo_stub/ft_toonlink/xm_fn_121_ECBC.c:
+	.text       start:0x0000ECBC end:0x0000ECC4
 
 mo_stub/ft_toonlink/fn_121_F224.c:
 	.text       start:0x0000F224 end:0x0000F240
@@ -284,29 +389,113 @@ mo_stub/ft_toonlink/fn_121_148E8.c:
 mo_stub/ft_toonlink/fn_121_14A10.c:
 	.text       start:0x00014A10 end:0x00014A28
 
+mo_stub/ft_toonlink/xm_fn_121_14A28.c:
+	.text       start:0x00014A28 end:0x00014A30
+
+mo_stub/ft_toonlink/xm_fn_121_14A30.c:
+	.text       start:0x00014A30 end:0x00014A38
+
 mo_stub/ft_toonlink/fn_121_14A38.c:
 	.text       start:0x00014A38 end:0x00014A40
 
 mo_stub/ft_toonlink/fn_121_14A40.c:
 	.text       start:0x00014A40 end:0x00014A60
 
+mo_stub/ft_toonlink/xm_fn_121_14A60.c:
+	.text       start:0x00014A60 end:0x00014A68
+
+mo_stub/ft_toonlink/xm_fn_121_14A68.c:
+	.text       start:0x00014A68 end:0x00014A70
+
 mo_stub/ft_toonlink/fn_121_14A70.c:
 	.text       start:0x00014A70 end:0x00014A78
+
+mo_stub/ft_toonlink/xm_fn_121_14A78.c:
+	.text       start:0x00014A78 end:0x00014A80
+
+mo_stub/ft_toonlink/xm_fn_121_14A80.c:
+	.text       start:0x00014A80 end:0x00014A88
+
+mo_stub/ft_toonlink/xm_fn_121_14A88.c:
+	.text       start:0x00014A88 end:0x00014A90
 
 mo_stub/ft_toonlink/fn_121_14A90.c:
 	.text       start:0x00014A90 end:0x00014A98
 
+mo_stub/ft_toonlink/xm_fn_121_14A98.c:
+	.text       start:0x00014A98 end:0x00014AA0
+
+mo_stub/ft_toonlink/xm_fn_121_14AA0.c:
+	.text       start:0x00014AA0 end:0x00014AA8
+
+mo_stub/ft_toonlink/xm_fn_121_14AA8.c:
+	.text       start:0x00014AA8 end:0x00014AB0
+
+mo_stub/ft_toonlink/xm_fn_121_14AB8.c:
+	.text       start:0x00014AB8 end:0x00014AC0
+
 mo_stub/ft_toonlink/fn_121_14AC0.c:
 	.text       start:0x00014AC0 end:0x00014AD0
+
+mo_stub/ft_toonlink/xm_fn_121_14AD0.c:
+	.text       start:0x00014AD0 end:0x00014AD8
+
+mo_stub/ft_toonlink/xm_fn_121_14AD8.c:
+	.text       start:0x00014AD8 end:0x00014AE0
+
+mo_stub/ft_toonlink/xm_fn_121_14AE0.c:
+	.text       start:0x00014AE0 end:0x00014AE8
+
+mo_stub/ft_toonlink/xm_fn_121_14AE8.c:
+	.text       start:0x00014AE8 end:0x00014AF0
+
+mo_stub/ft_toonlink/xm_fn_121_14AF0.c:
+	.text       start:0x00014AF0 end:0x00014AF8
+
+mo_stub/ft_toonlink/xm_fn_121_14AF8.c:
+	.text       start:0x00014AF8 end:0x00014B00
 
 mo_stub/ft_toonlink/fn_121_14B00.c:
 	.text       start:0x00014B00 end:0x00014B10
 
+mo_stub/ft_toonlink/xm_fn_121_14B10.c:
+	.text       start:0x00014B10 end:0x00014B18
+
+mo_stub/ft_toonlink/xm_fn_121_14B18.c:
+	.text       start:0x00014B18 end:0x00014B20
+
+mo_stub/ft_toonlink/xm_fn_121_14B20.c:
+	.text       start:0x00014B20 end:0x00014B28
+
+mo_stub/ft_toonlink/xm_fn_121_14B28.c:
+	.text       start:0x00014B28 end:0x00014B30
+
+mo_stub/ft_toonlink/xm_fn_121_14B30.c:
+	.text       start:0x00014B30 end:0x00014B38
+
+mo_stub/ft_toonlink/xm_fn_121_14B38.c:
+	.text       start:0x00014B38 end:0x00014B40
+
+mo_stub/ft_toonlink/xm_fn_121_14B40.c:
+	.text       start:0x00014B40 end:0x00014B48
+
+mo_stub/ft_toonlink/xm_fn_121_14B48.c:
+	.text       start:0x00014B48 end:0x00014B50
+
+mo_stub/ft_toonlink/xm_fn_121_14B50.c:
+	.text       start:0x00014B50 end:0x00014B58
+
 mo_stub/ft_toonlink/fn_121_14B58.c:
 	.text       start:0x00014B58 end:0x00014B60
 
+mo_stub/ft_toonlink/xm_fn_121_14B60.c:
+	.text       start:0x00014B60 end:0x00014B68
+
 mo_stub/ft_toonlink/fn_121_14B68.c:
 	.text       start:0x00014B68 end:0x00014B70
+
+mo_stub/ft_toonlink/xm_fn_121_14B70.c:
+	.text       start:0x00014B70 end:0x00014B78
 
 mo_stub/ft_toonlink/fn_121_14B78.c:
 	.text       start:0x00014B78 end:0x00014B80

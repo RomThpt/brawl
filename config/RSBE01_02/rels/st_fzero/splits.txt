@@ -359,6 +359,21 @@ mo_stub/st_fzero/fn_61_CA90.c:
 mo_stub/st_fzero/fn_61_CAB8.c:
 	.text       start:0x0000CAB8 end:0x0000CAC8
 
+mo_stub/st_fzero/xm_fn_61_CAC8.c:
+	.text       start:0x0000CAC8 end:0x0000CAD0
+
+mo_stub/st_fzero/xm_fn_61_CAD0.c:
+	.text       start:0x0000CAD0 end:0x0000CAD8
+
+mo_stub/st_fzero/xm_fn_61_CAD8.c:
+	.text       start:0x0000CAD8 end:0x0000CAE0
+
+mo_stub/st_fzero/xm_fn_61_CAE0.c:
+	.text       start:0x0000CAE0 end:0x0000CAE8
+
+mo_stub/st_fzero/xm_fn_61_CAE8.c:
+	.text       start:0x0000CAE8 end:0x0000CAF0
+
 mo_stub/st_fzero/bf_fn_61_E708.c:
 	.text       start:0x0000E708 end:0x0000E714
 

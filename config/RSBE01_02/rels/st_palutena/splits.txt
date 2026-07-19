@@ -386,6 +386,21 @@ mo_stub/st_palutena/fn_67_8C88.c:
 mo_stub/st_palutena/fn_67_8CB0.c:
 	.text       start:0x00008CB0 end:0x00008CB8
 
+mo_stub/st_palutena/xm_fn_67_8CB8.c:
+	.text       start:0x00008CB8 end:0x00008CC0
+
+mo_stub/st_palutena/xm_fn_67_8CC0.c:
+	.text       start:0x00008CC0 end:0x00008CC8
+
+mo_stub/st_palutena/xm_fn_67_8CC8.c:
+	.text       start:0x00008CC8 end:0x00008CD0
+
+mo_stub/st_palutena/xm_fn_67_8CD0.c:
+	.text       start:0x00008CD0 end:0x00008CD8
+
+mo_stub/st_palutena/xm_fn_67_8CD8.c:
+	.text       start:0x00008CD8 end:0x00008CE0
+
 mo_stub/st_palutena/fn_67_B444.c:
 	.text       start:0x0000B444 end:0x0000B448
 
