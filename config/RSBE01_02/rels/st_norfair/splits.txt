@@ -50,6 +50,12 @@ mo_stub/st_norfair/fn_54_1ABC.c:
 mo_stub/st_norfair/fn_54_1C10.c:
 	.text       start:0x00001C10 end:0x00001C18
 
+mo_stub/st_norfair/ms_fn_54_1C18.c:
+	.text       start:0x00001C18 end:0x00001C24
+
+mo_stub/st_norfair/ms_fn_54_1C24.c:
+	.text       start:0x00001C24 end:0x00001C30
+
 mo_stub/st_norfair/fn_54_29AC.c:
 	.text       start:0x000029AC end:0x000029B4
 

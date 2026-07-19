@@ -116,11 +116,20 @@ mo_stub/ft_lucario/acc_fn_118_B628.c:
 mo_stub/ft_lucario/fn_118_C3B0.c:
 	.text       start:0x0000C3B0 end:0x0000C3B4
 
+mo_stub/ft_lucario/ms_fn_118_C498.c:
+	.text       start:0x0000C498 end:0x0000C4A4
+
+mo_stub/ft_lucario/ms_fn_118_C4A4.c:
+	.text       start:0x0000C4A4 end:0x0000C4B0
+
 mo_stub/ft_lucario/fn_118_CABC.c:
 	.text       start:0x0000CABC end:0x0000CAC0
 
 mo_stub/ft_lucario/fn_118_CAF8.c:
 	.text       start:0x0000CAF8 end:0x0000CB00
+
+mo_stub/ft_lucario/ms_fn_118_CB00.c:
+	.text       start:0x0000CB00 end:0x0000CB0C
 
 mo_stub/ft_lucario/acc_fn_118_CB44.c:
 	.text       start:0x0000CB44 end:0x0000CB5C
@@ -169,6 +178,9 @@ mo_stub/ft_lucario/acc_fn_118_D19C.c:
 
 mo_stub/ft_lucario/fn_118_D244.c:
 	.text       start:0x0000D244 end:0x0000D24C
+
+mo_stub/ft_lucario/ms_fn_118_D24C.c:
+	.text       start:0x0000D24C end:0x0000D258
 
 mo_stub/ft_lucario/fn_118_D448.c:
 	.text       start:0x0000D448 end:0x0000D468

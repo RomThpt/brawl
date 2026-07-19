@@ -128,11 +128,20 @@ mo_stub/ft_samus/acc_fn_94_CE94.c:
 mo_stub/ft_samus/fn_94_DC2C.c:
 	.text       start:0x0000DC2C end:0x0000DC30
 
+mo_stub/ft_samus/ms_fn_94_DD14.c:
+	.text       start:0x0000DD14 end:0x0000DD20
+
+mo_stub/ft_samus/ms_fn_94_DD20.c:
+	.text       start:0x0000DD20 end:0x0000DD2C
+
 mo_stub/ft_samus/fn_94_E338.c:
 	.text       start:0x0000E338 end:0x0000E33C
 
 mo_stub/ft_samus/fn_94_E374.c:
 	.text       start:0x0000E374 end:0x0000E37C
+
+mo_stub/ft_samus/ms_fn_94_E37C.c:
+	.text       start:0x0000E37C end:0x0000E388
 
 mo_stub/ft_samus/acc_fn_94_E3C0.c:
 	.text       start:0x0000E3C0 end:0x0000E3D8
@@ -181,6 +190,9 @@ mo_stub/ft_samus/acc_fn_94_EA18.c:
 
 mo_stub/ft_samus/fn_94_EAC0.c:
 	.text       start:0x0000EAC0 end:0x0000EAC8
+
+mo_stub/ft_samus/ms_fn_94_EAC8.c:
+	.text       start:0x0000EAC8 end:0x0000EAD4
 
 mo_stub/ft_samus/fn_94_ECC4.c:
 	.text       start:0x0000ECC4 end:0x0000ECE4

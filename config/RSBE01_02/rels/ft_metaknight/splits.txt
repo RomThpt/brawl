@@ -107,11 +107,20 @@ mo_stub/ft_metaknight/acc_fn_111_9884.c:
 mo_stub/ft_metaknight/fn_111_A5EC.c:
 	.text       start:0x0000A5EC end:0x0000A5F0
 
+mo_stub/ft_metaknight/ms_fn_111_A6D4.c:
+	.text       start:0x0000A6D4 end:0x0000A6E0
+
+mo_stub/ft_metaknight/ms_fn_111_A6E0.c:
+	.text       start:0x0000A6E0 end:0x0000A6EC
+
 mo_stub/ft_metaknight/fn_111_AE98.c:
 	.text       start:0x0000AE98 end:0x0000AE9C
 
 mo_stub/ft_metaknight/fn_111_AED4.c:
 	.text       start:0x0000AED4 end:0x0000AEDC
+
+mo_stub/ft_metaknight/ms_fn_111_AEDC.c:
+	.text       start:0x0000AEDC end:0x0000AEE8
 
 mo_stub/ft_metaknight/acc_fn_111_B0C8.c:
 	.text       start:0x0000B0C8 end:0x0000B0E0
@@ -160,6 +169,9 @@ mo_stub/ft_metaknight/acc_fn_111_C2FC.c:
 
 mo_stub/ft_metaknight/fn_111_C3A4.c:
 	.text       start:0x0000C3A4 end:0x0000C3AC
+
+mo_stub/ft_metaknight/ms_fn_111_C3AC.c:
+	.text       start:0x0000C3AC end:0x0000C3B8
 
 mo_stub/ft_metaknight/fn_111_C5A8.c:
 	.text       start:0x0000C5A8 end:0x0000C5C8

@@ -6,6 +6,9 @@ Sections:
 	.data       type:data align:32
 	.bss        type:bss align:8
 
+mo_stub/sora_menu_title_sunset/ms_fn_25_A84.c:
+	.text       start:0x00000A84 end:0x00000A90
+
 mo_stub/sora_menu_title_sunset/dt_fn_25_C78.c:
 	.text       start:0x00000C78 end:0x00000CB8
 

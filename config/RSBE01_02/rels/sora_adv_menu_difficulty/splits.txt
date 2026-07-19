@@ -9,6 +9,9 @@ Sections:
 mo_stub/sora_adv_menu_difficulty/dt_fn_32_264.c:
 	.text       start:0x00000264 end:0x000002A4
 
+mo_stub/sora_adv_menu_difficulty/ms_fn_32_2A4.c:
+	.text       start:0x000002A4 end:0x000002B0
+
 mo_stub/sora_adv_menu_difficulty/dt_fn_32_2E4.c:
 	.text       start:0x000002E4 end:0x00000324
 

@@ -113,11 +113,20 @@ mo_stub/ft_gamewatch/acc_fn_107_E104.c:
 mo_stub/ft_gamewatch/fn_107_EEC8.c:
 	.text       start:0x0000EEC8 end:0x0000EECC
 
+mo_stub/ft_gamewatch/ms_fn_107_EFB0.c:
+	.text       start:0x0000EFB0 end:0x0000EFBC
+
+mo_stub/ft_gamewatch/ms_fn_107_EFBC.c:
+	.text       start:0x0000EFBC end:0x0000EFC8
+
 mo_stub/ft_gamewatch/fn_107_F5D4.c:
 	.text       start:0x0000F5D4 end:0x0000F5D8
 
 mo_stub/ft_gamewatch/fn_107_F610.c:
 	.text       start:0x0000F610 end:0x0000F618
+
+mo_stub/ft_gamewatch/ms_fn_107_F618.c:
+	.text       start:0x0000F618 end:0x0000F624
 
 mo_stub/ft_gamewatch/acc_fn_107_F65C.c:
 	.text       start:0x0000F65C end:0x0000F674
@@ -166,6 +175,9 @@ mo_stub/ft_gamewatch/acc_fn_107_FCB4.c:
 
 mo_stub/ft_gamewatch/fn_107_FD5C.c:
 	.text       start:0x0000FD5C end:0x0000FD64
+
+mo_stub/ft_gamewatch/ms_fn_107_FD64.c:
+	.text       start:0x0000FD64 end:0x0000FD70
 
 mo_stub/ft_gamewatch/fn_107_FF8C.c:
 	.text       start:0x0000FF8C end:0x0000FFAC

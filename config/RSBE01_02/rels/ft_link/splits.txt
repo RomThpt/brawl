@@ -119,11 +119,20 @@ mo_stub/ft_link/acc_fn_93_CD48.c:
 mo_stub/ft_link/fn_93_DAB0.c:
 	.text       start:0x0000DAB0 end:0x0000DAB4
 
+mo_stub/ft_link/ms_fn_93_DB98.c:
+	.text       start:0x0000DB98 end:0x0000DBA4
+
+mo_stub/ft_link/ms_fn_93_DBA4.c:
+	.text       start:0x0000DBA4 end:0x0000DBB0
+
 mo_stub/ft_link/fn_93_E1BC.c:
 	.text       start:0x0000E1BC end:0x0000E1C0
 
 mo_stub/ft_link/fn_93_E1F8.c:
 	.text       start:0x0000E1F8 end:0x0000E200
+
+mo_stub/ft_link/ms_fn_93_E200.c:
+	.text       start:0x0000E200 end:0x0000E20C
 
 mo_stub/ft_link/acc_fn_93_E244.c:
 	.text       start:0x0000E244 end:0x0000E25C
@@ -172,6 +181,9 @@ mo_stub/ft_link/acc_fn_93_E89C.c:
 
 mo_stub/ft_link/fn_93_E944.c:
 	.text       start:0x0000E944 end:0x0000E94C
+
+mo_stub/ft_link/ms_fn_93_E94C.c:
+	.text       start:0x0000E94C end:0x0000E958
 
 mo_stub/ft_link/fn_93_EB48.c:
 	.text       start:0x0000EB48 end:0x0000EB68

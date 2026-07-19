@@ -104,11 +104,20 @@ mo_stub/ft_captain/acc_fn_100_AA74.c:
 mo_stub/ft_captain/fn_100_B7DC.c:
 	.text       start:0x0000B7DC end:0x0000B7E0
 
+mo_stub/ft_captain/ms_fn_100_B8C4.c:
+	.text       start:0x0000B8C4 end:0x0000B8D0
+
+mo_stub/ft_captain/ms_fn_100_B8D0.c:
+	.text       start:0x0000B8D0 end:0x0000B8DC
+
 mo_stub/ft_captain/fn_100_BEEC.c:
 	.text       start:0x0000BEEC end:0x0000BEF4
 
 mo_stub/ft_captain/fn_100_BF2C.c:
 	.text       start:0x0000BF2C end:0x0000BF34
+
+mo_stub/ft_captain/ms_fn_100_BF34.c:
+	.text       start:0x0000BF34 end:0x0000BF40
 
 mo_stub/ft_captain/acc_fn_100_BF78.c:
 	.text       start:0x0000BF78 end:0x0000BF90
@@ -157,6 +166,9 @@ mo_stub/ft_captain/acc_fn_100_C598.c:
 
 mo_stub/ft_captain/fn_100_C640.c:
 	.text       start:0x0000C640 end:0x0000C648
+
+mo_stub/ft_captain/ms_fn_100_C648.c:
+	.text       start:0x0000C648 end:0x0000C654
 
 mo_stub/ft_captain/fn_100_C844.c:
 	.text       start:0x0000C844 end:0x0000C864

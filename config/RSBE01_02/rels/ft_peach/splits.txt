@@ -110,11 +110,20 @@ mo_stub/ft_peach/acc_fn_103_B3D0.c:
 mo_stub/ft_peach/fn_103_C138.c:
 	.text       start:0x0000C138 end:0x0000C13C
 
+mo_stub/ft_peach/ms_fn_103_C220.c:
+	.text       start:0x0000C220 end:0x0000C22C
+
+mo_stub/ft_peach/ms_fn_103_C22C.c:
+	.text       start:0x0000C22C end:0x0000C238
+
 mo_stub/ft_peach/fn_103_C844.c:
 	.text       start:0x0000C844 end:0x0000C848
 
 mo_stub/ft_peach/fn_103_C880.c:
 	.text       start:0x0000C880 end:0x0000C888
+
+mo_stub/ft_peach/ms_fn_103_C888.c:
+	.text       start:0x0000C888 end:0x0000C894
 
 mo_stub/ft_peach/acc_fn_103_C894.c:
 	.text       start:0x0000C894 end:0x0000C8AC
@@ -163,6 +172,9 @@ mo_stub/ft_peach/acc_fn_103_CE7C.c:
 
 mo_stub/ft_peach/fn_103_CF24.c:
 	.text       start:0x0000CF24 end:0x0000CF2C
+
+mo_stub/ft_peach/ms_fn_103_CF2C.c:
+	.text       start:0x0000CF2C end:0x0000CF38
 
 mo_stub/ft_peach/fn_103_D128.c:
 	.text       start:0x0000D128 end:0x0000D148

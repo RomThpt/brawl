@@ -18,6 +18,9 @@ mo_stub/sora_menu_friend_list/fn_14_39B4.c:
 mo_stub/sora_menu_friend_list/fn_14_4698.c:
 	.text       start:0x00004698 end:0x0000469C
 
+mo_stub/sora_menu_friend_list/ms_fn_14_6594.c:
+	.text       start:0x00006594 end:0x000065A0
+
 mo_stub/sora_menu_friend_list/fn_14_75D4.c:
 	.text       start:0x000075D4 end:0x000075D8
 

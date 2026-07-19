@@ -35,6 +35,9 @@ mo_stub/st_plankton/fn_74_15CC.c:
 mo_stub/st_plankton/fn_74_1E14.c:
 	.text       start:0x00001E14 end:0x00001E18
 
+mo_stub/st_plankton/ms_fn_74_1E18.c:
+	.text       start:0x00001E18 end:0x00001E24
+
 mo_stub/st_plankton/fn_74_240C.c:
 	.text       start:0x0000240C end:0x00002418
 

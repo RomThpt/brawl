@@ -107,11 +107,20 @@ mo_stub/ft_dedede/acc_fn_117_C380.c:
 mo_stub/ft_dedede/fn_117_D0F8.c:
 	.text       start:0x0000D0F8 end:0x0000D0FC
 
+mo_stub/ft_dedede/ms_fn_117_D1E0.c:
+	.text       start:0x0000D1E0 end:0x0000D1EC
+
+mo_stub/ft_dedede/ms_fn_117_D1EC.c:
+	.text       start:0x0000D1EC end:0x0000D1F8
+
 mo_stub/ft_dedede/fn_117_D804.c:
 	.text       start:0x0000D804 end:0x0000D808
 
 mo_stub/ft_dedede/fn_117_D840.c:
 	.text       start:0x0000D840 end:0x0000D848
+
+mo_stub/ft_dedede/ms_fn_117_D848.c:
+	.text       start:0x0000D848 end:0x0000D854
 
 mo_stub/ft_dedede/acc_fn_117_D88C.c:
 	.text       start:0x0000D88C end:0x0000D8A4
@@ -160,6 +169,9 @@ mo_stub/ft_dedede/acc_fn_117_DEE4.c:
 
 mo_stub/ft_dedede/fn_117_DF8C.c:
 	.text       start:0x0000DF8C end:0x0000DF94
+
+mo_stub/ft_dedede/ms_fn_117_DF94.c:
+	.text       start:0x0000DF94 end:0x0000DFA0
 
 mo_stub/ft_dedede/fn_117_E190.c:
 	.text       start:0x0000E190 end:0x0000E1B0
@@ -575,6 +587,9 @@ mo_stub/ft_dedede/fn_117_21B10.c:
 mo_stub/ft_dedede/fn_117_21B38.c:
 	.text       start:0x00021B38 end:0x00021B44
 
+mo_stub/ft_dedede/ms_fn_117_21B44.c:
+	.text       start:0x00021B44 end:0x00021B50
+
 mo_stub/ft_dedede/acc_fn_117_21BD8.c:
 	.text       start:0x00021BD8 end:0x00021BF0
 
@@ -601,6 +616,9 @@ mo_stub/ft_dedede/acc_fn_117_21F38.c:
 
 mo_stub/ft_dedede/fn_117_21FE0.c:
 	.text       start:0x00021FE0 end:0x00021FE8
+
+mo_stub/ft_dedede/ms_fn_117_21FE8.c:
+	.text       start:0x00021FE8 end:0x00021FF4
 
 mo_stub/ft_dedede/fn_117_21FF4.c:
 	.text       start:0x00021FF4 end:0x00022004
