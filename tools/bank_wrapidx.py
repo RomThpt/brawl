@@ -68,10 +68,20 @@ def classify(a, sz):
     # addi r4, r4, -N
     if (w[5] & 0xFFFF0000) != 0x38840000 or sign16(w[5] & 0xFFFF) != -n:
         return None
-    # mulli r0, r4, M
-    if (w[6] >> 26) != 7 or ((w[6] >> 21) & 31) != 0 or ((w[6] >> 16) & 31) != 4:
+    # taille d'élément : mulli r0,r4,M, ou slwi r0,r4,K quand c'est une puissance de 2
+    x = w[6]
+    if (x >> 26) == 7 and ((x >> 21) & 31) == 0 and ((x >> 16) & 31) == 4:
+        mul = sign16(x & 0xFFFF)
+    elif (x >> 26) == 21:
+        rS, rA, SH, MB, ME = ((x >> 21) & 31, (x >> 16) & 31, (x >> 11) & 31,
+                              (x >> 6) & 31, (x >> 1) & 31)
+        if rS != 4 or rA != 0 or MB != 0 or ME != 31 - SH or not SH:
+            return None
+        mul = 1 << SH
+    else:
         return None
-    mul = sign16(w[6] & 0xFFFF)
+    if mul <= 0:
+        return None
     # add r3, r3, r0 ; addi r3, r3, A ; blr
     if w[7] != 0x7C630214 or (w[8] & 0xFFFF0000) != 0x38630000 or w[9] != 0x4E800020:
         return None

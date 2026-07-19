@@ -171,3 +171,19 @@ Des grinds interrompus laissent des entrées dans splits.txt sans Object
 correspondant dans configure.py (warning "Missing configuration for ..."). Elles
 ne cassent pas le build mais polluent. Nettoyage : chercher les chemins présents
 dans un splits.txt et absents de configure.py, et les retirer.
+
+## Sauts cross-module (555x) : bloqués par les noms mangés C++
+Forme : mélange d'arguments puis `b` vers un autre module. La cible se résout via
+la relocation type 10 (REL24) qui donne module_id + offset, puis le symbols.txt
+du module cible.
+
+Exemple résolu : sora_melee .text+0xD4104 =
+`addObserverSub__41soEventObserver<22soAnimCmdEventObserver>FlP22soAnimCmdEventObserverSc`
+
+Le nom contient `<` et `>` : ce n'est pas un identifiant C valide, donc impossible
+à déclarer en extern depuis un fichier C. Il faudrait écrire l'unité en C++ et
+reconstruire le template pour que le compilateur produise ce mangling — donc
+retour au problème des classes.
+
+Enseignement : vérifier la VALIDITÉ du nom de symbole cible avant d'investir dans
+un motif à appel externe. Les symboles de templates C++ sont hors de portée du C.

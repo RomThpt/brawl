@@ -443,6 +443,9 @@ mo_stub/st_dxgreens/fn_79_5BFC.c:
 mo_stub/st_dxgreens/bf_fn_79_5C04.c:
 	.text       start:0x00005C04 end:0x00005C14
 
+mo_stub/st_dxgreens/wi_fn_79_5C14.c:
+	.text       start:0x00005C14 end:0x00005C3C
+
 mo_stub/st_dxgreens/bf_fn_79_5C3C.c:
 	.text       start:0x00005C3C end:0x00005C4C
 
@@ -475,6 +478,9 @@ mo_stub/st_dxgreens/fn_79_5CC4.c:
 
 mo_stub/st_dxgreens/bf_fn_79_5CCC.c:
 	.text       start:0x00005CCC end:0x00005CDC
+
+mo_stub/st_dxgreens/wi_fn_79_5CDC.c:
+	.text       start:0x00005CDC end:0x00005D04
 
 mo_stub/st_dxgreens/bf_fn_79_5D04.c:
 	.text       start:0x00005D04 end:0x00005D14

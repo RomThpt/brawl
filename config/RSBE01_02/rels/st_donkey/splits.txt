@@ -233,6 +233,9 @@ mo_stub/st_donkey/fn_50_6460.c:
 mo_stub/st_donkey/bf_fn_50_6468.c:
 	.text       start:0x00006468 end:0x00006478
 
+mo_stub/st_donkey/wi_fn_50_6478.c:
+	.text       start:0x00006478 end:0x000064A0
+
 mo_stub/st_donkey/bf_fn_50_64A0.c:
 	.text       start:0x000064A0 end:0x000064B0
 

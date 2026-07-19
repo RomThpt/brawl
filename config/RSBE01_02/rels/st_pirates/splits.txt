@@ -260,6 +260,9 @@ mo_stub/st_pirates/fn_52_7690.c:
 mo_stub/st_pirates/bf_fn_52_7698.c:
 	.text       start:0x00007698 end:0x000076A8
 
+mo_stub/st_pirates/wi_fn_52_76A8.c:
+	.text       start:0x000076A8 end:0x000076D0
+
 mo_stub/st_pirates/bf_fn_52_76D0.c:
 	.text       start:0x000076D0 end:0x000076E0
 

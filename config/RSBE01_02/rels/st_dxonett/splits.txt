@@ -251,6 +251,9 @@ mo_stub/st_dxonett/fn_78_5864.c:
 mo_stub/st_dxonett/bf_fn_78_586C.c:
 	.text       start:0x0000586C end:0x0000587C
 
+mo_stub/st_dxonett/wi_fn_78_587C.c:
+	.text       start:0x0000587C end:0x000058A4
+
 mo_stub/st_dxonett/bf_fn_78_58A4.c:
 	.text       start:0x000058A4 end:0x000058B4
 

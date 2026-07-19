@@ -413,6 +413,9 @@ mo_stub/st_pictchat/fn_73_ADB0.c:
 mo_stub/st_pictchat/bf_fn_73_ADB8.c:
 	.text       start:0x0000ADB8 end:0x0000ADC8
 
+mo_stub/st_pictchat/wi_fn_73_ADC8.c:
+	.text       start:0x0000ADC8 end:0x0000ADF0
+
 mo_stub/st_pictchat/bf_fn_73_ADF0.c:
 	.text       start:0x0000ADF0 end:0x0000AE00
 

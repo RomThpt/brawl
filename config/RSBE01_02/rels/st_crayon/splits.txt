@@ -295,6 +295,9 @@ mo_stub/st_crayon/fn_56_672C.c:
 mo_stub/st_crayon/bf_fn_56_6734.c:
 	.text       start:0x00006734 end:0x00006744
 
+mo_stub/st_crayon/wi_fn_56_6744.c:
+	.text       start:0x00006744 end:0x0000676C
+
 mo_stub/st_crayon/bf_fn_56_676C.c:
 	.text       start:0x0000676C end:0x0000677C
 
@@ -327,6 +330,9 @@ mo_stub/st_crayon/fn_56_67F4.c:
 
 mo_stub/st_crayon/bf_fn_56_67FC.c:
 	.text       start:0x000067FC end:0x0000680C
+
+mo_stub/st_crayon/wi_fn_56_680C.c:
+	.text       start:0x0000680C end:0x00006834
 
 mo_stub/st_crayon/bf_fn_56_6834.c:
 	.text       start:0x00006834 end:0x00006844

@@ -266,6 +266,9 @@ mo_stub/st_fzero/fn_61_A804.c:
 mo_stub/st_fzero/bf_fn_61_A80C.c:
 	.text       start:0x0000A80C end:0x0000A81C
 
+mo_stub/st_fzero/wi_fn_61_A81C.c:
+	.text       start:0x0000A81C end:0x0000A844
+
 mo_stub/st_fzero/bf_fn_61_A844.c:
 	.text       start:0x0000A844 end:0x0000A854
 
