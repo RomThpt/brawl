@@ -216,3 +216,35 @@ fonctions (0.57% du code) le temps de m'en apercevoir.
 
 Le callee est lu dans la relocation REL24 plutôt que supposé, pour qu'un module
 appelant autre chose soit ignoré au lieu d'être mal matché.
+
+## Variante 1166x du destructeur trivial : bloquée sur l'ordonnancement
+Même corps que la variante matchée, mais le flag est testé via `extsh.` (donc
+`(short)flag > 0` avec un paramètre int) ET le `cmpwi r3,0` est placé APRÈS les
+sauvegardes de registres, alors que le C le remonte systématiquement avant.
+
+4 formulations essayées : plafond à 12/16 instructions. Le `extsh.` se reproduit
+correctement avec `(short)flag`, mais la position du test de nullité résiste.
+La variante 1412x, elle, matche parce que sa cible place le test tôt — là où le
+C le met naturellement.
+
+Même obstacle que le destructeur complexe : c'est l'ordonnancement du prologue
+qui diverge, pas la logique. Sans levier sur le planificateur depuis le C, ces
+1166 fonctions (0.47% du code) restent hors de portée.
+
+## ÉCHEC : relancer bank_rel.py globalement après avoir vidé le blacklist
+J'ai relancé bank_rel.py sur tous les modules ; 3000 unités bankées ont cassé
+90+ modules d'un coup. Revert complet nécessaire.
+
+Cause : le blacklist que j'avais vidé plus tôt (pour récupérer du collatéral)
+contenait aussi de VRAIS rejets vérifiés — des fonctions dont la forme ressemble
+à une triviale sans en être une. Les relancer sans ce garde-fou les réintroduit
+toutes.
+
+LEÇON : un blacklist mélange deux populations très différentes — le collatéral
+(bonnes fonctions blacklistées par effet de bord d'un batch, récupérables) et les
+rejets vérifiés (mauvaises, à conserver). Les effacer ensemble fait perdre le
+second. Il aurait fallu les marquer différemment dès le départ.
+
+Corollaire : tester CHAQUE générateur sur UN module avant de dérouler, y compris
+quand on ne fait que "relancer" un générateur déjà éprouvé — le contexte (ici le
+blacklist) a pu changer entre-temps.
