@@ -335,6 +335,9 @@ mo_stub/st_village/fn_70_92EC.c:
 mo_stub/st_village/bf_fn_70_92F4.c:
 	.text       start:0x000092F4 end:0x00009304
 
+mo_stub/st_village/wi_fn_70_9304.c:
+	.text       start:0x00009304 end:0x0000932C
+
 mo_stub/st_village/bf_fn_70_932C.c:
 	.text       start:0x0000932C end:0x0000933C
 

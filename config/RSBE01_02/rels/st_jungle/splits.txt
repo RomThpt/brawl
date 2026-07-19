@@ -401,6 +401,9 @@ mo_stub/st_jungle/fn_51_67F8.c:
 mo_stub/st_jungle/bf_fn_51_6800.c:
 	.text       start:0x00006800 end:0x00006810
 
+mo_stub/st_jungle/wi_fn_51_6810.c:
+	.text       start:0x00006810 end:0x00006838
+
 mo_stub/st_jungle/bf_fn_51_6838.c:
 	.text       start:0x00006838 end:0x00006848
 
@@ -433,6 +436,9 @@ mo_stub/st_jungle/fn_51_68C0.c:
 
 mo_stub/st_jungle/bf_fn_51_68C8.c:
 	.text       start:0x000068C8 end:0x000068D8
+
+mo_stub/st_jungle/wi_fn_51_68D8.c:
+	.text       start:0x000068D8 end:0x00006900
 
 mo_stub/st_jungle/bf_fn_51_6900.c:
 	.text       start:0x00006900 end:0x00006910

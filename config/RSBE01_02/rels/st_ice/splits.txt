@@ -245,6 +245,9 @@ mo_stub/st_ice/fn_62_61F4.c:
 mo_stub/st_ice/bf_fn_62_61FC.c:
 	.text       start:0x000061FC end:0x0000620C
 
+mo_stub/st_ice/wi_fn_62_620C.c:
+	.text       start:0x0000620C end:0x00006234
+
 mo_stub/st_ice/bf_fn_62_6234.c:
 	.text       start:0x00006234 end:0x00006244
 
@@ -451,6 +454,9 @@ mo_stub/st_ice/fn_62_A6E4.c:
 
 mo_stub/st_ice/bf_fn_62_A6EC.c:
 	.text       start:0x0000A6EC end:0x0000A6FC
+
+mo_stub/st_ice/wi_fn_62_A6FC.c:
+	.text       start:0x0000A6FC end:0x0000A724
 
 mo_stub/st_ice/bf_fn_62_A724.c:
 	.text       start:0x0000A724 end:0x0000A734

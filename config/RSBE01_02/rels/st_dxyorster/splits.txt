@@ -305,6 +305,9 @@ mo_stub/st_dxyorster/fn_76_4048.c:
 mo_stub/st_dxyorster/bf_fn_76_4050.c:
 	.text       start:0x00004050 end:0x00004060
 
+mo_stub/st_dxyorster/wi_fn_76_4060.c:
+	.text       start:0x00004060 end:0x00004088
+
 mo_stub/st_dxyorster/bf_fn_76_4088.c:
 	.text       start:0x00004088 end:0x00004098
 

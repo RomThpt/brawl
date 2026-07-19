@@ -392,6 +392,9 @@ mo_stub/st_norfair/fn_54_6908.c:
 mo_stub/st_norfair/bf_fn_54_6910.c:
 	.text       start:0x00006910 end:0x00006920
 
+mo_stub/st_norfair/wi_fn_54_6920.c:
+	.text       start:0x00006920 end:0x00006948
+
 mo_stub/st_norfair/bf_fn_54_6948.c:
 	.text       start:0x00006948 end:0x00006958
 
@@ -424,6 +427,9 @@ mo_stub/st_norfair/fn_54_69D0.c:
 
 mo_stub/st_norfair/bf_fn_54_69D8.c:
 	.text       start:0x000069D8 end:0x000069E8
+
+mo_stub/st_norfair/wi_fn_54_69E8.c:
+	.text       start:0x000069E8 end:0x00006A10
 
 mo_stub/st_norfair/bf_fn_54_6A10.c:
 	.text       start:0x00006A10 end:0x00006A20

@@ -242,6 +242,9 @@ mo_stub/st_halberd/fn_57_AE98.c:
 mo_stub/st_halberd/bf_fn_57_AEA0.c:
 	.text       start:0x0000AEA0 end:0x0000AEB0
 
+mo_stub/st_halberd/wi_fn_57_AEB0.c:
+	.text       start:0x0000AEB0 end:0x0000AED8
+
 mo_stub/st_halberd/bf_fn_57_AED8.c:
 	.text       start:0x0000AED8 end:0x0000AEE8
 

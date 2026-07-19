@@ -449,6 +449,9 @@ mo_stub/st_gw/fn_63_B15C.c:
 mo_stub/st_gw/bf_fn_63_B164.c:
 	.text       start:0x0000B164 end:0x0000B174
 
+mo_stub/st_gw/wi_fn_63_B174.c:
+	.text       start:0x0000B174 end:0x0000B19C
+
 mo_stub/st_gw/bf_fn_63_B19C.c:
 	.text       start:0x0000B19C end:0x0000B1AC
 
@@ -481,6 +484,9 @@ mo_stub/st_gw/fn_63_B224.c:
 
 mo_stub/st_gw/bf_fn_63_B22C.c:
 	.text       start:0x0000B22C end:0x0000B23C
+
+mo_stub/st_gw/wi_fn_63_B23C.c:
+	.text       start:0x0000B23C end:0x0000B264
 
 mo_stub/st_gw/bf_fn_63_B264.c:
 	.text       start:0x0000B264 end:0x0000B274

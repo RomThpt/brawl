@@ -356,6 +356,9 @@ mo_stub/st_greenhill/fn_72_5328.c:
 mo_stub/st_greenhill/bf_fn_72_5330.c:
 	.text       start:0x00005330 end:0x00005340
 
+mo_stub/st_greenhill/wi_fn_72_5340.c:
+	.text       start:0x00005340 end:0x00005368
+
 mo_stub/st_greenhill/bf_fn_72_5368.c:
 	.text       start:0x00005368 end:0x00005378
 
@@ -388,6 +391,9 @@ mo_stub/st_greenhill/fn_72_53F0.c:
 
 mo_stub/st_greenhill/bf_fn_72_53F8.c:
 	.text       start:0x000053F8 end:0x00005408
+
+mo_stub/st_greenhill/wi_fn_72_5408.c:
+	.text       start:0x00005408 end:0x00005430
 
 mo_stub/st_greenhill/bf_fn_72_5430.c:
 	.text       start:0x00005430 end:0x00005440

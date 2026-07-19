@@ -329,6 +329,9 @@ mo_stub/st_palutena/fn_67_5288.c:
 mo_stub/st_palutena/bf_fn_67_5290.c:
 	.text       start:0x00005290 end:0x000052A0
 
+mo_stub/st_palutena/wi_fn_67_52A0.c:
+	.text       start:0x000052A0 end:0x000052C8
+
 mo_stub/st_palutena/bf_fn_67_52C8.c:
 	.text       start:0x000052C8 end:0x000052D8
 

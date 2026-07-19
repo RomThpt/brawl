@@ -203,6 +203,9 @@ mo_stub/st_dxgarden/fn_77_3D88.c:
 mo_stub/st_dxgarden/bf_fn_77_3D90.c:
 	.text       start:0x00003D90 end:0x00003DA0
 
+mo_stub/st_dxgarden/wi_fn_77_3DA0.c:
+	.text       start:0x00003DA0 end:0x00003DC8
+
 mo_stub/st_dxgarden/bf_fn_77_3DC8.c:
 	.text       start:0x00003DC8 end:0x00003DD8
 

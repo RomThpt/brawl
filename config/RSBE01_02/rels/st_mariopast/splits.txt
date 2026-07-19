@@ -170,6 +170,9 @@ mo_stub/st_mariopast/fn_48_3F08.c:
 mo_stub/st_mariopast/bf_fn_48_3F10.c:
 	.text       start:0x00003F10 end:0x00003F20
 
+mo_stub/st_mariopast/wi_fn_48_3F20.c:
+	.text       start:0x00003F20 end:0x00003F48
+
 mo_stub/st_mariopast/bf_fn_48_3F48.c:
 	.text       start:0x00003F48 end:0x00003F58
 

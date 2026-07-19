@@ -377,6 +377,9 @@ mo_stub/st_kart/fn_49_6F48.c:
 mo_stub/st_kart/bf_fn_49_6F50.c:
 	.text       start:0x00006F50 end:0x00006F60
 
+mo_stub/st_kart/wi_fn_49_6F60.c:
+	.text       start:0x00006F60 end:0x00006F88
+
 mo_stub/st_kart/bf_fn_49_6F88.c:
 	.text       start:0x00006F88 end:0x00006F98
 
@@ -409,6 +412,9 @@ mo_stub/st_kart/fn_49_7010.c:
 
 mo_stub/st_kart/bf_fn_49_7018.c:
 	.text       start:0x00007018 end:0x00007028
+
+mo_stub/st_kart/wi_fn_49_7028.c:
+	.text       start:0x00007028 end:0x00007050
 
 mo_stub/st_kart/bf_fn_49_7050.c:
 	.text       start:0x00007050 end:0x00007060

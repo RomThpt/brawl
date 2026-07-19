@@ -320,6 +320,9 @@ mo_stub/st_plankton/fn_74_6BD8.c:
 mo_stub/st_plankton/bf_fn_74_6BE0.c:
 	.text       start:0x00006BE0 end:0x00006BF0
 
+mo_stub/st_plankton/wi_fn_74_6BF0.c:
+	.text       start:0x00006BF0 end:0x00006C18
+
 mo_stub/st_plankton/bf_fn_74_6C18.c:
 	.text       start:0x00006C18 end:0x00006C28
 
