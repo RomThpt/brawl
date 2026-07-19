@@ -514,6 +514,9 @@ mo_enemy/sora_enemy/killer/em_killer_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_38BA4.c:
 	.text       start:0x00038BA4 end:0x00038BB4
 
+mo_stub/sora_enemy/fam_fn_41_38BB4.c:
+	.text       start:0x00038BB4 end:0x00038C0C
+
 mo_stub/sora_enemy/fn_41_38C50.c:
 	.text       start:0x00038C50 end:0x00038C58
 
@@ -771,6 +774,9 @@ mo_enemy/sora_enemy/hammerbros/em_hammerbros_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_4DD80.c:
 	.text       start:0x0004DD80 end:0x0004DD90
 
+mo_stub/sora_enemy/fam_fn_41_4DD90.c:
+	.text       start:0x0004DD90 end:0x0004DDE8
+
 mo_stub/sora_enemy/fn_41_4DDE8.c:
 	.text       start:0x0004DDE8 end:0x0004DDF0
 
@@ -853,6 +859,9 @@ mo_enemy/sora_enemy/jdus/em_jdus_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_529F0.c:
 	.text       start:0x000529F0 end:0x00052A00
 
+mo_stub/sora_enemy/fam_fn_41_52A00.c:
+	.text       start:0x00052A00 end:0x00052A58
+
 mo_stub/sora_enemy/fn_41_52A58.c:
 	.text       start:0x00052A58 end:0x00052A70
 
@@ -865,6 +874,9 @@ mo_enemy/sora_enemy/ghamgha/em_ghamgha_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_53E80.c:
 	.text       start:0x00053E80 end:0x00053E90
+
+mo_stub/sora_enemy/fam_fn_41_53E90.c:
+	.text       start:0x00053E90 end:0x00053EE8
 
 mo_stub/sora_enemy/fn_41_53EE8.c:
 	.text       start:0x00053EE8 end:0x00053EF0
@@ -894,6 +906,9 @@ mo_enemy/sora_enemy/robodistance/em_robodistance_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_56530.c:
 	.text       start:0x00056530 end:0x00056540
+
+mo_stub/sora_enemy/fam_fn_41_56540.c:
+	.text       start:0x00056540 end:0x00056598
 
 mo_stub/sora_enemy/fn_41_56598.c:
 	.text       start:0x00056598 end:0x000565B0
@@ -980,6 +995,9 @@ mo_enemy/sora_enemy/ghamghabase/em_ghamghabase_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_5C0EC.c:
 	.text       start:0x0005C0EC end:0x0005C0FC
 
+mo_stub/sora_enemy/fam_fn_41_5C0FC.c:
+	.text       start:0x0005C0FC end:0x0005C154
+
 mo_stub/sora_enemy/fn_41_5C154.c:
 	.text       start:0x0005C154 end:0x0005C15C
 
@@ -1005,6 +1023,9 @@ mo_enemy/sora_enemy/ridley/em_ridley_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_5DFC0.c:
 	.text       start:0x0005DFC0 end:0x0005DFD0
+
+mo_stub/sora_enemy/fam_fn_41_5DFD0.c:
+	.text       start:0x0005DFD0 end:0x0005E028
 
 mo_stub/sora_enemy/fn_41_5E028.c:
 	.text       start:0x0005E028 end:0x0005E038
