@@ -59,6 +59,9 @@ mo_stub/ft_dedede/fn_117_A474.c:
 mo_stub/ft_dedede/fn_117_A490.c:
 	.text       start:0x0000A490 end:0x0000A4A4
 
+mo_stub/ft_dedede/el_fn_117_A4A4.c:
+	.text       start:0x0000A4A4 end:0x0000A4B4
+
 mo_stub/ft_dedede/fn_117_A564.c:
 	.text       start:0x0000A564 end:0x0000A58C
 

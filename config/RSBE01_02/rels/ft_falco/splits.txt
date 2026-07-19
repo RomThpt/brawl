@@ -59,6 +59,9 @@ mo_stub/ft_falco/fn_108_AF54.c:
 mo_stub/ft_falco/fn_108_AF70.c:
 	.text       start:0x0000AF70 end:0x0000AF7C
 
+mo_stub/ft_falco/el_fn_108_AF7C.c:
+	.text       start:0x0000AF7C end:0x0000AF8C
+
 mo_stub/ft_falco/fn_108_B03C.c:
 	.text       start:0x0000B03C end:0x0000B04C
 

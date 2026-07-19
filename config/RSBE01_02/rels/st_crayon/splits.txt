@@ -121,6 +121,9 @@ mo_stub/st_crayon/bf_fn_56_6348.c:
 mo_stub/st_crayon/bf_fn_56_6358.c:
 	.text       start:0x00006358 end:0x00006368
 
+mo_stub/st_crayon/el_fn_56_6368.c:
+	.text       start:0x00006368 end:0x00006378
+
 mo_stub/st_crayon/bf_fn_56_6378.c:
 	.text       start:0x00006378 end:0x00006388
 
@@ -154,6 +157,9 @@ mo_stub/st_crayon/bf_fn_56_6410.c:
 mo_stub/st_crayon/bf_fn_56_6420.c:
 	.text       start:0x00006420 end:0x00006430
 
+mo_stub/st_crayon/el_fn_56_6430.c:
+	.text       start:0x00006430 end:0x00006440
+
 mo_stub/st_crayon/bf_fn_56_6440.c:
 	.text       start:0x00006440 end:0x00006450
 
@@ -181,6 +187,9 @@ mo_stub/st_crayon/bf_fn_56_64BC.c:
 mo_stub/st_crayon/bf_fn_56_64CC.c:
 	.text       start:0x000064CC end:0x000064DC
 
+mo_stub/st_crayon/el_fn_56_64DC.c:
+	.text       start:0x000064DC end:0x000064EC
+
 mo_stub/st_crayon/bf_fn_56_64EC.c:
 	.text       start:0x000064EC end:0x000064FC
 
@@ -201,6 +210,9 @@ mo_stub/st_crayon/bf_fn_56_6554.c:
 
 mo_stub/st_crayon/bf_fn_56_6564.c:
 	.text       start:0x00006564 end:0x00006574
+
+mo_stub/st_crayon/el_fn_56_6574.c:
+	.text       start:0x00006574 end:0x00006584
 
 mo_stub/st_crayon/bf_fn_56_6584.c:
 	.text       start:0x00006584 end:0x00006594
@@ -228,6 +240,9 @@ mo_stub/st_crayon/bf_fn_56_6608.c:
 
 mo_stub/st_crayon/bf_fn_56_6618.c:
 	.text       start:0x00006618 end:0x00006628
+
+mo_stub/st_crayon/el_fn_56_6628.c:
+	.text       start:0x00006628 end:0x00006638
 
 mo_stub/st_crayon/bf_fn_56_6638.c:
 	.text       start:0x00006638 end:0x00006648
@@ -262,6 +277,9 @@ mo_stub/st_crayon/bf_fn_56_66D0.c:
 mo_stub/st_crayon/bf_fn_56_66E0.c:
 	.text       start:0x000066E0 end:0x000066F0
 
+mo_stub/st_crayon/el_fn_56_66F0.c:
+	.text       start:0x000066F0 end:0x00006700
+
 mo_stub/st_crayon/bf_fn_56_6700.c:
 	.text       start:0x00006700 end:0x00006710
 
@@ -291,6 +309,9 @@ mo_stub/st_crayon/bf_fn_56_6798.c:
 
 mo_stub/st_crayon/bf_fn_56_67A8.c:
 	.text       start:0x000067A8 end:0x000067B8
+
+mo_stub/st_crayon/el_fn_56_67B8.c:
+	.text       start:0x000067B8 end:0x000067C8
 
 mo_stub/st_crayon/bf_fn_56_67C8.c:
 	.text       start:0x000067C8 end:0x000067D8

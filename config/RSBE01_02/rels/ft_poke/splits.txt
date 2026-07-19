@@ -71,6 +71,9 @@ mo_stub/ft_poke/fn_116_A5BC.c:
 mo_stub/ft_poke/fn_116_A5D4.c:
 	.text       start:0x0000A5D4 end:0x0000A5F0
 
+mo_stub/ft_poke/el_fn_116_A5F0.c:
+	.text       start:0x0000A5F0 end:0x0000A600
+
 mo_stub/ft_poke/fn_116_A6B0.c:
 	.text       start:0x0000A6B0 end:0x0000A6D8
 

@@ -65,6 +65,9 @@ mo_stub/ft_mario/fn_91_A554.c:
 mo_stub/ft_mario/fn_91_A570.c:
 	.text       start:0x0000A570 end:0x0000A57C
 
+mo_stub/ft_mario/el_fn_91_A57C.c:
+	.text       start:0x0000A57C end:0x0000A58C
+
 mo_stub/ft_mario/fn_91_A63C.c:
 	.text       start:0x0000A63C end:0x0000A64C
 

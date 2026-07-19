@@ -65,6 +65,9 @@ mo_stub/ft_metaknight/fn_111_8630.c:
 mo_stub/ft_metaknight/fn_111_864C.c:
 	.text       start:0x0000864C end:0x0000865C
 
+mo_stub/ft_metaknight/el_fn_111_865C.c:
+	.text       start:0x0000865C end:0x0000866C
+
 mo_stub/ft_metaknight/fn_111_871C.c:
 	.text       start:0x0000871C end:0x00008724
 

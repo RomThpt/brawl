@@ -65,6 +65,9 @@ mo_stub/ft_robot/fn_120_97A4.c:
 mo_stub/ft_robot/fn_120_97C0.c:
 	.text       start:0x000097C0 end:0x000097D0
 
+mo_stub/ft_robot/el_fn_120_97D0.c:
+	.text       start:0x000097D0 end:0x000097E0
+
 mo_stub/ft_robot/fn_120_9890.c:
 	.text       start:0x00009890 end:0x00009898
 

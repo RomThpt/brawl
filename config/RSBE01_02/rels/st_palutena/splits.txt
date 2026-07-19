@@ -179,6 +179,9 @@ mo_stub/st_palutena/bf_fn_67_4F3C.c:
 mo_stub/st_palutena/bf_fn_67_4F4C.c:
 	.text       start:0x00004F4C end:0x00004F5C
 
+mo_stub/st_palutena/el_fn_67_4F5C.c:
+	.text       start:0x00004F5C end:0x00004F6C
+
 mo_stub/st_palutena/bf_fn_67_4F6C.c:
 	.text       start:0x00004F6C end:0x00004F7C
 
@@ -211,6 +214,9 @@ mo_stub/st_palutena/bf_fn_67_5004.c:
 
 mo_stub/st_palutena/bf_fn_67_5014.c:
 	.text       start:0x00005014 end:0x00005024
+
+mo_stub/st_palutena/el_fn_67_5024.c:
+	.text       start:0x00005024 end:0x00005034
 
 mo_stub/st_palutena/bf_fn_67_5034.c:
 	.text       start:0x00005034 end:0x00005044
@@ -245,6 +251,9 @@ mo_stub/st_palutena/bf_fn_67_50CC.c:
 mo_stub/st_palutena/bf_fn_67_50DC.c:
 	.text       start:0x000050DC end:0x000050EC
 
+mo_stub/st_palutena/el_fn_67_50EC.c:
+	.text       start:0x000050EC end:0x000050FC
+
 mo_stub/st_palutena/bf_fn_67_50FC.c:
 	.text       start:0x000050FC end:0x0000510C
 
@@ -272,6 +281,9 @@ mo_stub/st_palutena/bf_fn_67_5178.c:
 mo_stub/st_palutena/bf_fn_67_5188.c:
 	.text       start:0x00005188 end:0x00005198
 
+mo_stub/st_palutena/el_fn_67_5198.c:
+	.text       start:0x00005198 end:0x000051A8
+
 mo_stub/st_palutena/bf_fn_67_51A8.c:
 	.text       start:0x000051A8 end:0x000051B8
 
@@ -298,6 +310,9 @@ mo_stub/st_palutena/bf_fn_67_522C.c:
 
 mo_stub/st_palutena/bf_fn_67_523C.c:
 	.text       start:0x0000523C end:0x0000524C
+
+mo_stub/st_palutena/el_fn_67_524C.c:
+	.text       start:0x0000524C end:0x0000525C
 
 mo_stub/st_palutena/bf_fn_67_525C.c:
 	.text       start:0x0000525C end:0x0000526C

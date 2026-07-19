@@ -62,6 +62,9 @@ mo_stub/ft_pikachu/fn_98_9DEC.c:
 mo_stub/ft_pikachu/fn_98_9E08.c:
 	.text       start:0x00009E08 end:0x00009E14
 
+mo_stub/ft_pikachu/el_fn_98_9E14.c:
+	.text       start:0x00009E14 end:0x00009E24
+
 mo_stub/ft_pikachu/fn_98_9ED4.c:
 	.text       start:0x00009ED4 end:0x00009EE4
 

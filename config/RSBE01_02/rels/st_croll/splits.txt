@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/st_croll/fn_90_404.c:
 	.text       start:0x00000404 end:0x0000040C
 
+mo_stub/st_croll/el_fn_90_1228.c:
+	.text       start:0x00001228 end:0x00001234
+
 mo_stub/st_croll/fn_90_1C94.c:
 	.text       start:0x00001C94 end:0x00001CA0
 

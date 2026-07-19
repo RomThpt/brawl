@@ -233,6 +233,9 @@ mo_stub/st_pictchat/bf_fn_73_A978.c:
 mo_stub/st_pictchat/bf_fn_73_A988.c:
 	.text       start:0x0000A988 end:0x0000A998
 
+mo_stub/st_pictchat/el_fn_73_A998.c:
+	.text       start:0x0000A998 end:0x0000A9A8
+
 mo_stub/st_pictchat/bf_fn_73_A9A8.c:
 	.text       start:0x0000A9A8 end:0x0000A9B8
 
@@ -253,6 +256,9 @@ mo_stub/st_pictchat/bf_fn_73_AA10.c:
 
 mo_stub/st_pictchat/bf_fn_73_AA20.c:
 	.text       start:0x0000AA20 end:0x0000AA30
+
+mo_stub/st_pictchat/el_fn_73_AA30.c:
+	.text       start:0x0000AA30 end:0x0000AA40
 
 mo_stub/st_pictchat/bf_fn_73_AA40.c:
 	.text       start:0x0000AA40 end:0x0000AA50
@@ -275,6 +281,9 @@ mo_stub/st_pictchat/bf_fn_73_AAA8.c:
 mo_stub/st_pictchat/bf_fn_73_AAB8.c:
 	.text       start:0x0000AAB8 end:0x0000AAC8
 
+mo_stub/st_pictchat/el_fn_73_AAC8.c:
+	.text       start:0x0000AAC8 end:0x0000AAD8
+
 mo_stub/st_pictchat/bf_fn_73_AAD8.c:
 	.text       start:0x0000AAD8 end:0x0000AAE8
 
@@ -295,6 +304,9 @@ mo_stub/st_pictchat/bf_fn_73_AB40.c:
 
 mo_stub/st_pictchat/bf_fn_73_AB50.c:
 	.text       start:0x0000AB50 end:0x0000AB60
+
+mo_stub/st_pictchat/el_fn_73_AB60.c:
+	.text       start:0x0000AB60 end:0x0000AB70
 
 mo_stub/st_pictchat/bf_fn_73_AB70.c:
 	.text       start:0x0000AB70 end:0x0000AB80
@@ -323,6 +335,9 @@ mo_stub/st_pictchat/bf_fn_73_ABF4.c:
 mo_stub/st_pictchat/bf_fn_73_AC04.c:
 	.text       start:0x0000AC04 end:0x0000AC14
 
+mo_stub/st_pictchat/el_fn_73_AC14.c:
+	.text       start:0x0000AC14 end:0x0000AC24
+
 mo_stub/st_pictchat/bf_fn_73_AC24.c:
 	.text       start:0x0000AC24 end:0x0000AC34
 
@@ -350,6 +365,9 @@ mo_stub/st_pictchat/bf_fn_73_ACA0.c:
 mo_stub/st_pictchat/bf_fn_73_ACB0.c:
 	.text       start:0x0000ACB0 end:0x0000ACC0
 
+mo_stub/st_pictchat/el_fn_73_ACC0.c:
+	.text       start:0x0000ACC0 end:0x0000ACD0
+
 mo_stub/st_pictchat/bf_fn_73_ACD0.c:
 	.text       start:0x0000ACD0 end:0x0000ACE0
 
@@ -376,6 +394,9 @@ mo_stub/st_pictchat/bf_fn_73_AD54.c:
 
 mo_stub/st_pictchat/bf_fn_73_AD64.c:
 	.text       start:0x0000AD64 end:0x0000AD74
+
+mo_stub/st_pictchat/el_fn_73_AD74.c:
+	.text       start:0x0000AD74 end:0x0000AD84
 
 mo_stub/st_pictchat/bf_fn_73_AD84.c:
 	.text       start:0x0000AD84 end:0x0000AD94

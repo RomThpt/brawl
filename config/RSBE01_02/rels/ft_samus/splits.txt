@@ -62,6 +62,9 @@ mo_stub/ft_samus/fn_94_AA94.c:
 mo_stub/ft_samus/fn_94_AAAC.c:
 	.text       start:0x0000AAAC end:0x0000AAC4
 
+mo_stub/ft_samus/el_fn_94_AAC4.c:
+	.text       start:0x0000AAC4 end:0x0000AAD4
+
 mo_stub/ft_samus/fn_94_AB84.c:
 	.text       start:0x0000AB84 end:0x0000AB8C
 

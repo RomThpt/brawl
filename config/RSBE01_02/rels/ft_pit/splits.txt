@@ -59,6 +59,9 @@ mo_stub/ft_pit/fn_112_A788.c:
 mo_stub/ft_pit/fn_112_A7A4.c:
 	.text       start:0x0000A7A4 end:0x0000A7B0
 
+mo_stub/ft_pit/el_fn_112_A7B0.c:
+	.text       start:0x0000A7B0 end:0x0000A7C0
+
 mo_stub/ft_pit/fn_112_A870.c:
 	.text       start:0x0000A870 end:0x0000A880
 

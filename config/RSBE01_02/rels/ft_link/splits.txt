@@ -71,6 +71,9 @@ mo_stub/ft_link/fn_93_B008.c:
 mo_stub/ft_link/fn_93_B01C.c:
 	.text       start:0x0000B01C end:0x0000B020
 
+mo_stub/ft_link/el_fn_93_B020.c:
+	.text       start:0x0000B020 end:0x0000B030
+
 mo_stub/ft_link/fn_93_B0E0.c:
 	.text       start:0x0000B0E0 end:0x0000B100
 
