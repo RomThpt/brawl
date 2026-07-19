@@ -83,6 +83,9 @@ mo_stub/sora_adv_stage/bf_fn_40_116AC.c:
 mo_stub/sora_adv_stage/bf_fn_40_116BC.c:
 	.text       start:0x000116BC end:0x000116CC
 
+mo_stub/sora_adv_stage/bf_fn_40_116DC.c:
+	.text       start:0x000116DC end:0x000116EC
+
 mo_stub/sora_adv_stage/bf_fn_40_116EC.c:
 	.text       start:0x000116EC end:0x000116FC
 
@@ -209,6 +212,9 @@ mo_stub/sora_adv_stage/bf_fn_40_1E354.c:
 mo_stub/sora_adv_stage/bf_fn_40_1E364.c:
 	.text       start:0x0001E364 end:0x0001E374
 
+mo_stub/sora_adv_stage/bf_fn_40_1E384.c:
+	.text       start:0x0001E384 end:0x0001E394
+
 mo_stub/sora_adv_stage/bf_fn_40_1E394.c:
 	.text       start:0x0001E394 end:0x0001E3A4
 
@@ -238,6 +244,9 @@ mo_stub/sora_adv_stage/bf_fn_40_1E41C.c:
 
 mo_stub/sora_adv_stage/bf_fn_40_1E42C.c:
 	.text       start:0x0001E42C end:0x0001E43C
+
+mo_stub/sora_adv_stage/bf_fn_40_1E44C.c:
+	.text       start:0x0001E44C end:0x0001E45C
 
 mo_stub/sora_adv_stage/bf_fn_40_1E45C.c:
 	.text       start:0x0001E45C end:0x0001E46C
@@ -269,6 +278,9 @@ mo_stub/sora_adv_stage/bf_fn_40_1E4E4.c:
 mo_stub/sora_adv_stage/bf_fn_40_1E4F4.c:
 	.text       start:0x0001E4F4 end:0x0001E504
 
+mo_stub/sora_adv_stage/bf_fn_40_1E514.c:
+	.text       start:0x0001E514 end:0x0001E524
+
 mo_stub/sora_adv_stage/bf_fn_40_1E524.c:
 	.text       start:0x0001E524 end:0x0001E534
 
@@ -293,6 +305,9 @@ mo_stub/sora_adv_stage/bf_fn_40_1E590.c:
 mo_stub/sora_adv_stage/bf_fn_40_1E5A0.c:
 	.text       start:0x0001E5A0 end:0x0001E5B0
 
+mo_stub/sora_adv_stage/bf_fn_40_1E5C0.c:
+	.text       start:0x0001E5C0 end:0x0001E5D0
+
 mo_stub/sora_adv_stage/bf_fn_40_1E5D0.c:
 	.text       start:0x0001E5D0 end:0x0001E5E0
 
@@ -316,6 +331,9 @@ mo_stub/sora_adv_stage/bf_fn_40_1E644.c:
 
 mo_stub/sora_adv_stage/bf_fn_40_1E654.c:
 	.text       start:0x0001E654 end:0x0001E664
+
+mo_stub/sora_adv_stage/bf_fn_40_1E674.c:
+	.text       start:0x0001E674 end:0x0001E684
 
 mo_stub/sora_adv_stage/bf_fn_40_1E684.c:
 	.text       start:0x0001E684 end:0x0001E694
@@ -401,6 +419,9 @@ mo_stub/sora_adv_stage/bf_fn_40_24918.c:
 mo_stub/sora_adv_stage/bf_fn_40_24928.c:
 	.text       start:0x00024928 end:0x00024938
 
+mo_stub/sora_adv_stage/bf_fn_40_24948.c:
+	.text       start:0x00024948 end:0x00024958
+
 mo_stub/sora_adv_stage/bf_fn_40_24958.c:
 	.text       start:0x00024958 end:0x00024968
 
@@ -430,6 +451,9 @@ mo_stub/sora_adv_stage/bf_fn_40_249E0.c:
 
 mo_stub/sora_adv_stage/bf_fn_40_249F0.c:
 	.text       start:0x000249F0 end:0x00024A00
+
+mo_stub/sora_adv_stage/bf_fn_40_24A10.c:
+	.text       start:0x00024A10 end:0x00024A20
 
 mo_stub/sora_adv_stage/bf_fn_40_24A20.c:
 	.text       start:0x00024A20 end:0x00024A30
@@ -461,6 +485,9 @@ mo_stub/sora_adv_stage/bf_fn_40_24AA8.c:
 mo_stub/sora_adv_stage/bf_fn_40_24AB8.c:
 	.text       start:0x00024AB8 end:0x00024AC8
 
+mo_stub/sora_adv_stage/bf_fn_40_24AD8.c:
+	.text       start:0x00024AD8 end:0x00024AE8
+
 mo_stub/sora_adv_stage/bf_fn_40_24AE8.c:
 	.text       start:0x00024AE8 end:0x00024AF8
 
@@ -484,6 +511,9 @@ mo_stub/sora_adv_stage/bf_fn_40_24B54.c:
 
 mo_stub/sora_adv_stage/bf_fn_40_24B64.c:
 	.text       start:0x00024B64 end:0x00024B74
+
+mo_stub/sora_adv_stage/bf_fn_40_24B84.c:
+	.text       start:0x00024B84 end:0x00024B94
 
 mo_stub/sora_adv_stage/bf_fn_40_24B94.c:
 	.text       start:0x00024B94 end:0x00024BA4
@@ -551,6 +581,9 @@ mo_stub/sora_adv_stage/bf_fn_40_288B8.c:
 mo_stub/sora_adv_stage/bf_fn_40_288C8.c:
 	.text       start:0x000288C8 end:0x000288D8
 
+mo_stub/sora_adv_stage/bf_fn_40_288E8.c:
+	.text       start:0x000288E8 end:0x000288F8
+
 mo_stub/sora_adv_stage/bf_fn_40_288F8.c:
 	.text       start:0x000288F8 end:0x00028908
 
@@ -574,6 +607,9 @@ mo_stub/sora_adv_stage/bf_fn_40_2896C.c:
 
 mo_stub/sora_adv_stage/bf_fn_40_2897C.c:
 	.text       start:0x0002897C end:0x0002898C
+
+mo_stub/sora_adv_stage/bf_fn_40_2899C.c:
+	.text       start:0x0002899C end:0x000289AC
 
 mo_stub/sora_adv_stage/bf_fn_40_289AC.c:
 	.text       start:0x000289AC end:0x000289BC
@@ -671,6 +707,9 @@ mo_stub/sora_adv_stage/bf_fn_40_30A44.c:
 mo_stub/sora_adv_stage/bf_fn_40_30A54.c:
 	.text       start:0x00030A54 end:0x00030A64
 
+mo_stub/sora_adv_stage/bf_fn_40_30A74.c:
+	.text       start:0x00030A74 end:0x00030A84
+
 mo_stub/sora_adv_stage/bf_fn_40_30A84.c:
 	.text       start:0x00030A84 end:0x00030A94
 
@@ -701,6 +740,9 @@ mo_stub/sora_adv_stage/bf_fn_40_30B0C.c:
 mo_stub/sora_adv_stage/bf_fn_40_30B1C.c:
 	.text       start:0x00030B1C end:0x00030B2C
 
+mo_stub/sora_adv_stage/bf_fn_40_30B3C.c:
+	.text       start:0x00030B3C end:0x00030B4C
+
 mo_stub/sora_adv_stage/bf_fn_40_30B4C.c:
 	.text       start:0x00030B4C end:0x00030B5C
 
@@ -724,6 +766,9 @@ mo_stub/sora_adv_stage/bf_fn_40_30BB8.c:
 
 mo_stub/sora_adv_stage/bf_fn_40_30BC8.c:
 	.text       start:0x00030BC8 end:0x00030BD8
+
+mo_stub/sora_adv_stage/bf_fn_40_30BE8.c:
+	.text       start:0x00030BE8 end:0x00030BF8
 
 mo_stub/sora_adv_stage/bf_fn_40_30BF8.c:
 	.text       start:0x00030BF8 end:0x00030C08
@@ -749,6 +794,9 @@ mo_stub/sora_adv_stage/bf_fn_40_30C6C.c:
 mo_stub/sora_adv_stage/bf_fn_40_30C7C.c:
 	.text       start:0x00030C7C end:0x00030C8C
 
+mo_stub/sora_adv_stage/bf_fn_40_30C9C.c:
+	.text       start:0x00030C9C end:0x00030CAC
+
 mo_stub/sora_adv_stage/bf_fn_40_30CAC.c:
 	.text       start:0x00030CAC end:0x00030CBC
 
@@ -772,6 +820,9 @@ mo_stub/sora_adv_stage/bf_fn_40_30D18.c:
 
 mo_stub/sora_adv_stage/bf_fn_40_30D28.c:
 	.text       start:0x00030D28 end:0x00030D38
+
+mo_stub/sora_adv_stage/bf_fn_40_30D48.c:
+	.text       start:0x00030D48 end:0x00030D58
 
 mo_stub/sora_adv_stage/bf_fn_40_30D58.c:
 	.text       start:0x00030D58 end:0x00030D68

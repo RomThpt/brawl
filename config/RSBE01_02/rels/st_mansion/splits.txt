@@ -194,6 +194,9 @@ mo_stub/st_mansion/bf_fn_47_4B90.c:
 mo_stub/st_mansion/bf_fn_47_4BA0.c:
 	.text       start:0x00004BA0 end:0x00004BB0
 
+mo_stub/st_mansion/bf_fn_47_4BC0.c:
+	.text       start:0x00004BC0 end:0x00004BD0
+
 mo_stub/st_mansion/bf_fn_47_4BD0.c:
 	.text       start:0x00004BD0 end:0x00004BE0
 
@@ -224,6 +227,9 @@ mo_stub/st_mansion/bf_fn_47_4C58.c:
 mo_stub/st_mansion/bf_fn_47_4C68.c:
 	.text       start:0x00004C68 end:0x00004C78
 
+mo_stub/st_mansion/bf_fn_47_4C88.c:
+	.text       start:0x00004C88 end:0x00004C98
+
 mo_stub/st_mansion/bf_fn_47_4C98.c:
 	.text       start:0x00004C98 end:0x00004CA8
 
@@ -247,6 +253,9 @@ mo_stub/st_mansion/bf_fn_47_4D04.c:
 
 mo_stub/st_mansion/bf_fn_47_4D14.c:
 	.text       start:0x00004D14 end:0x00004D24
+
+mo_stub/st_mansion/bf_fn_47_4D34.c:
+	.text       start:0x00004D34 end:0x00004D44
 
 mo_stub/st_mansion/bf_fn_47_4D44.c:
 	.text       start:0x00004D44 end:0x00004D54
@@ -272,6 +281,9 @@ mo_stub/st_mansion/bf_fn_47_4DB8.c:
 mo_stub/st_mansion/bf_fn_47_4DC8.c:
 	.text       start:0x00004DC8 end:0x00004DD8
 
+mo_stub/st_mansion/bf_fn_47_4DE8.c:
+	.text       start:0x00004DE8 end:0x00004DF8
+
 mo_stub/st_mansion/bf_fn_47_4DF8.c:
 	.text       start:0x00004DF8 end:0x00004E08
 
@@ -296,6 +308,9 @@ mo_stub/st_mansion/bf_fn_47_4E64.c:
 mo_stub/st_mansion/bf_fn_47_4E74.c:
 	.text       start:0x00004E74 end:0x00004E84
 
+mo_stub/st_mansion/bf_fn_47_4E94.c:
+	.text       start:0x00004E94 end:0x00004EA4
+
 mo_stub/st_mansion/bf_fn_47_4EA4.c:
 	.text       start:0x00004EA4 end:0x00004EB4
 
@@ -319,6 +334,9 @@ mo_stub/st_mansion/bf_fn_47_4F18.c:
 
 mo_stub/st_mansion/bf_fn_47_4F28.c:
 	.text       start:0x00004F28 end:0x00004F38
+
+mo_stub/st_mansion/bf_fn_47_4F48.c:
+	.text       start:0x00004F48 end:0x00004F58
 
 mo_stub/st_mansion/bf_fn_47_4F58.c:
 	.text       start:0x00004F58 end:0x00004F68
@@ -346,6 +364,9 @@ mo_stub/st_mansion/bf_fn_47_4FE0.c:
 
 mo_stub/st_mansion/bf_fn_47_4FF0.c:
 	.text       start:0x00004FF0 end:0x00005000
+
+mo_stub/st_mansion/bf_fn_47_5010.c:
+	.text       start:0x00005010 end:0x00005020
 
 mo_stub/st_mansion/bf_fn_47_5020.c:
 	.text       start:0x00005020 end:0x00005030

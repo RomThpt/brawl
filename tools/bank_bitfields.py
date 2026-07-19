@@ -107,6 +107,16 @@ def classify(a, sz):
                 return None
             # wrapped mask keeps everything except [ME+1 .. MB-1]: that is the field
             return ("clr", off, ME + 1, MB - ME - 1, False)
+        # ori/oris + stw -> set a single-bit field to 1
+        if (w1 >> 26) in (24, 25) and stw_off(w2, 0, 3) == off:
+            if ((w1 >> 21) & 31) != 0 or ((w1 >> 16) & 31) != 0:
+                return None
+            u = w1 & 0xFFFF
+            if u == 0 or (u & (u - 1)):          # must be a single bit
+                return None
+            k = u.bit_length() - 1
+            bit = (15 - k) if (w1 >> 26) == 25 else (31 - k)
+            return ("one", off, bit, 1, False)
         return None
     if sz == 12:
         w0, w1, w2 = w(a, 0), w(a, 1), w(a, 2)
@@ -167,6 +177,8 @@ for line in open(os.path.join(ROOT, "config/RSBE01_02/rels", module, "symbols.tx
         src += f"void {n}(S* p, int v) {{\n    p->f = v;\n}}\n"
     elif kind == "clr":
         src += f"void {n}(S* p) {{\n    p->f = 0;\n}}\n"
+    elif kind == "one":
+        src += f"void {n}(S* p) {{\n    p->f = 1;\n}}\n"
     else:
         ty = "int" if signed else "unsigned int"
         src += f"{ty} {n}(S* p) {{\n    return p->f;\n}}\n"
