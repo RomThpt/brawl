@@ -152,6 +152,9 @@ mo_stub/st_mansion/fn_47_3D48.c:
 mo_stub/st_mansion/bf_fn_47_408C.c:
 	.text       start:0x0000408C end:0x00004098
 
+mo_stub/st_mansion/bf_fn_47_4098.c:
+	.text       start:0x00004098 end:0x000040A8
+
 mo_stub/st_mansion/bf_fn_47_40A8.c:
 	.text       start:0x000040A8 end:0x000040B4
 
@@ -160,6 +163,9 @@ mo_stub/st_mansion/fn_47_40B4.c:
 
 mo_stub/st_mansion/bf_fn_47_4218.c:
 	.text       start:0x00004218 end:0x00004224
+
+mo_stub/st_mansion/bf_fn_47_4224.c:
+	.text       start:0x00004224 end:0x00004234
 
 mo_stub/st_mansion/bf_fn_47_4234.c:
 	.text       start:0x00004234 end:0x00004240
@@ -182,6 +188,9 @@ mo_stub/st_mansion/bf_fn_47_4B74.c:
 mo_stub/st_mansion/bf_fn_47_4B80.c:
 	.text       start:0x00004B80 end:0x00004B90
 
+mo_stub/st_mansion/bf_fn_47_4B90.c:
+	.text       start:0x00004B90 end:0x00004BA0
+
 mo_stub/st_mansion/bf_fn_47_4BA0.c:
 	.text       start:0x00004BA0 end:0x00004BB0
 
@@ -193,6 +202,9 @@ mo_stub/st_mansion/bf_fn_47_4BE0.c:
 
 mo_stub/st_mansion/fn_47_4BEC.c:
 	.text       start:0x00004BEC end:0x00004BF4
+
+mo_stub/st_mansion/bf_fn_47_4BF4.c:
+	.text       start:0x00004BF4 end:0x00004C04
 
 mo_stub/st_mansion/wi_fn_47_4C04.c:
 	.text       start:0x00004C04 end:0x00004C2C
@@ -206,6 +218,9 @@ mo_stub/st_mansion/bf_fn_47_4C3C.c:
 mo_stub/st_mansion/bf_fn_47_4C48.c:
 	.text       start:0x00004C48 end:0x00004C58
 
+mo_stub/st_mansion/bf_fn_47_4C58.c:
+	.text       start:0x00004C58 end:0x00004C68
+
 mo_stub/st_mansion/bf_fn_47_4C68.c:
 	.text       start:0x00004C68 end:0x00004C78
 
@@ -217,6 +232,9 @@ mo_stub/st_mansion/bf_fn_47_4CA8.c:
 
 mo_stub/st_mansion/fn_47_4CB4.c:
 	.text       start:0x00004CB4 end:0x00004CBC
+
+mo_stub/st_mansion/bf_fn_47_4CBC.c:
+	.text       start:0x00004CBC end:0x00004CCC
 
 mo_stub/st_mansion/wi_fn_47_4CCC.c:
 	.text       start:0x00004CCC end:0x00004CF4
@@ -233,6 +251,9 @@ mo_stub/st_mansion/bf_fn_47_4D14.c:
 mo_stub/st_mansion/bf_fn_47_4D44.c:
 	.text       start:0x00004D44 end:0x00004D54
 
+mo_stub/st_mansion/bf_fn_47_4D54.c:
+	.text       start:0x00004D54 end:0x00004D64
+
 mo_stub/st_mansion/wi_fn_47_4D64.c:
 	.text       start:0x00004D64 end:0x00004D8C
 
@@ -245,6 +266,9 @@ mo_stub/st_mansion/bf_fn_47_4D9C.c:
 mo_stub/st_mansion/bf_fn_47_4DA8.c:
 	.text       start:0x00004DA8 end:0x00004DB8
 
+mo_stub/st_mansion/bf_fn_47_4DB8.c:
+	.text       start:0x00004DB8 end:0x00004DC8
+
 mo_stub/st_mansion/bf_fn_47_4DC8.c:
 	.text       start:0x00004DC8 end:0x00004DD8
 
@@ -256,6 +280,9 @@ mo_stub/st_mansion/bf_fn_47_4E08.c:
 
 mo_stub/st_mansion/fn_47_4E14.c:
 	.text       start:0x00004E14 end:0x00004E1C
+
+mo_stub/st_mansion/bf_fn_47_4E1C.c:
+	.text       start:0x00004E1C end:0x00004E2C
 
 mo_stub/st_mansion/wi_fn_47_4E2C.c:
 	.text       start:0x00004E2C end:0x00004E54
@@ -272,6 +299,9 @@ mo_stub/st_mansion/bf_fn_47_4E74.c:
 mo_stub/st_mansion/bf_fn_47_4EA4.c:
 	.text       start:0x00004EA4 end:0x00004EB4
 
+mo_stub/st_mansion/bf_fn_47_4EB4.c:
+	.text       start:0x00004EB4 end:0x00004EC4
+
 mo_stub/st_mansion/wi_fn_47_4EC4.c:
 	.text       start:0x00004EC4 end:0x00004EEC
 
@@ -283,6 +313,9 @@ mo_stub/st_mansion/bf_fn_47_4EFC.c:
 
 mo_stub/st_mansion/bf_fn_47_4F08.c:
 	.text       start:0x00004F08 end:0x00004F18
+
+mo_stub/st_mansion/bf_fn_47_4F18.c:
+	.text       start:0x00004F18 end:0x00004F28
 
 mo_stub/st_mansion/bf_fn_47_4F28.c:
 	.text       start:0x00004F28 end:0x00004F38
@@ -296,6 +329,9 @@ mo_stub/st_mansion/bf_fn_47_4F68.c:
 mo_stub/st_mansion/fn_47_4F74.c:
 	.text       start:0x00004F74 end:0x00004F7C
 
+mo_stub/st_mansion/bf_fn_47_4F7C.c:
+	.text       start:0x00004F7C end:0x00004F8C
+
 mo_stub/st_mansion/bf_fn_47_4FB4.c:
 	.text       start:0x00004FB4 end:0x00004FC4
 
@@ -304,6 +340,9 @@ mo_stub/st_mansion/bf_fn_47_4FC4.c:
 
 mo_stub/st_mansion/bf_fn_47_4FD0.c:
 	.text       start:0x00004FD0 end:0x00004FE0
+
+mo_stub/st_mansion/bf_fn_47_4FE0.c:
+	.text       start:0x00004FE0 end:0x00004FF0
 
 mo_stub/st_mansion/bf_fn_47_4FF0.c:
 	.text       start:0x00004FF0 end:0x00005000
@@ -316,6 +355,9 @@ mo_stub/st_mansion/bf_fn_47_5030.c:
 
 mo_stub/st_mansion/fn_47_503C.c:
 	.text       start:0x0000503C end:0x00005044
+
+mo_stub/st_mansion/bf_fn_47_5044.c:
+	.text       start:0x00005044 end:0x00005054
 
 mo_stub/st_mansion/bf_fn_47_507C.c:
 	.text       start:0x0000507C end:0x0000508C

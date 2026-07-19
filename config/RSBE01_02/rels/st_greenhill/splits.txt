@@ -116,6 +116,9 @@ mo_stub/st_greenhill/fn_72_40FC.c:
 mo_stub/st_greenhill/bf_fn_72_4440.c:
 	.text       start:0x00004440 end:0x0000444C
 
+mo_stub/st_greenhill/bf_fn_72_444C.c:
+	.text       start:0x0000444C end:0x0000445C
+
 mo_stub/st_greenhill/bf_fn_72_445C.c:
 	.text       start:0x0000445C end:0x00004468
 
@@ -124,6 +127,9 @@ mo_stub/st_greenhill/fn_72_4468.c:
 
 mo_stub/st_greenhill/bf_fn_72_45CC.c:
 	.text       start:0x000045CC end:0x000045D8
+
+mo_stub/st_greenhill/bf_fn_72_45D8.c:
+	.text       start:0x000045D8 end:0x000045E8
 
 mo_stub/st_greenhill/bf_fn_72_45E8.c:
 	.text       start:0x000045E8 end:0x000045F4
@@ -146,6 +152,9 @@ mo_stub/st_greenhill/bf_fn_72_4F28.c:
 mo_stub/st_greenhill/bf_fn_72_4F34.c:
 	.text       start:0x00004F34 end:0x00004F44
 
+mo_stub/st_greenhill/bf_fn_72_4F44.c:
+	.text       start:0x00004F44 end:0x00004F54
+
 mo_stub/st_greenhill/bf_fn_72_4F54.c:
 	.text       start:0x00004F54 end:0x00004F64
 
@@ -157,6 +166,9 @@ mo_stub/st_greenhill/bf_fn_72_4F94.c:
 
 mo_stub/st_greenhill/fn_72_4FA0.c:
 	.text       start:0x00004FA0 end:0x00004FA8
+
+mo_stub/st_greenhill/bf_fn_72_4FA8.c:
+	.text       start:0x00004FA8 end:0x00004FB8
 
 mo_stub/st_greenhill/wi_fn_72_4FB8.c:
 	.text       start:0x00004FB8 end:0x00004FE0
@@ -170,6 +182,9 @@ mo_stub/st_greenhill/bf_fn_72_4FF0.c:
 mo_stub/st_greenhill/bf_fn_72_4FFC.c:
 	.text       start:0x00004FFC end:0x0000500C
 
+mo_stub/st_greenhill/bf_fn_72_500C.c:
+	.text       start:0x0000500C end:0x0000501C
+
 mo_stub/st_greenhill/bf_fn_72_501C.c:
 	.text       start:0x0000501C end:0x0000502C
 
@@ -181,6 +196,9 @@ mo_stub/st_greenhill/bf_fn_72_505C.c:
 
 mo_stub/st_greenhill/fn_72_5068.c:
 	.text       start:0x00005068 end:0x00005070
+
+mo_stub/st_greenhill/bf_fn_72_5070.c:
+	.text       start:0x00005070 end:0x00005080
 
 mo_stub/st_greenhill/wi_fn_72_5080.c:
 	.text       start:0x00005080 end:0x000050A8
@@ -197,6 +215,9 @@ mo_stub/st_greenhill/bf_fn_72_50C8.c:
 mo_stub/st_greenhill/bf_fn_72_50F8.c:
 	.text       start:0x000050F8 end:0x00005108
 
+mo_stub/st_greenhill/bf_fn_72_5108.c:
+	.text       start:0x00005108 end:0x00005118
+
 mo_stub/st_greenhill/wi_fn_72_5118.c:
 	.text       start:0x00005118 end:0x00005140
 
@@ -209,6 +230,9 @@ mo_stub/st_greenhill/bf_fn_72_5150.c:
 mo_stub/st_greenhill/bf_fn_72_515C.c:
 	.text       start:0x0000515C end:0x0000516C
 
+mo_stub/st_greenhill/bf_fn_72_516C.c:
+	.text       start:0x0000516C end:0x0000517C
+
 mo_stub/st_greenhill/bf_fn_72_517C.c:
 	.text       start:0x0000517C end:0x0000518C
 
@@ -220,6 +244,9 @@ mo_stub/st_greenhill/bf_fn_72_51BC.c:
 
 mo_stub/st_greenhill/fn_72_51C8.c:
 	.text       start:0x000051C8 end:0x000051D0
+
+mo_stub/st_greenhill/bf_fn_72_51D0.c:
+	.text       start:0x000051D0 end:0x000051E0
 
 mo_stub/st_greenhill/wi_fn_72_51E0.c:
 	.text       start:0x000051E0 end:0x00005208
@@ -236,6 +263,9 @@ mo_stub/st_greenhill/bf_fn_72_5228.c:
 mo_stub/st_greenhill/bf_fn_72_5258.c:
 	.text       start:0x00005258 end:0x00005268
 
+mo_stub/st_greenhill/bf_fn_72_5268.c:
+	.text       start:0x00005268 end:0x00005278
+
 mo_stub/st_greenhill/wi_fn_72_5278.c:
 	.text       start:0x00005278 end:0x000052A0
 
@@ -247,6 +277,9 @@ mo_stub/st_greenhill/bf_fn_72_52B0.c:
 
 mo_stub/st_greenhill/bf_fn_72_52BC.c:
 	.text       start:0x000052BC end:0x000052CC
+
+mo_stub/st_greenhill/bf_fn_72_52CC.c:
+	.text       start:0x000052CC end:0x000052DC
 
 mo_stub/st_greenhill/bf_fn_72_52DC.c:
 	.text       start:0x000052DC end:0x000052EC
@@ -260,6 +293,9 @@ mo_stub/st_greenhill/bf_fn_72_531C.c:
 mo_stub/st_greenhill/fn_72_5328.c:
 	.text       start:0x00005328 end:0x00005330
 
+mo_stub/st_greenhill/bf_fn_72_5330.c:
+	.text       start:0x00005330 end:0x00005340
+
 mo_stub/st_greenhill/bf_fn_72_5368.c:
 	.text       start:0x00005368 end:0x00005378
 
@@ -268,6 +304,9 @@ mo_stub/st_greenhill/bf_fn_72_5378.c:
 
 mo_stub/st_greenhill/bf_fn_72_5384.c:
 	.text       start:0x00005384 end:0x00005394
+
+mo_stub/st_greenhill/bf_fn_72_5394.c:
+	.text       start:0x00005394 end:0x000053A4
 
 mo_stub/st_greenhill/bf_fn_72_53A4.c:
 	.text       start:0x000053A4 end:0x000053B4
@@ -280,6 +319,9 @@ mo_stub/st_greenhill/bf_fn_72_53E4.c:
 
 mo_stub/st_greenhill/fn_72_53F0.c:
 	.text       start:0x000053F0 end:0x000053F8
+
+mo_stub/st_greenhill/bf_fn_72_53F8.c:
+	.text       start:0x000053F8 end:0x00005408
 
 mo_stub/st_greenhill/bf_fn_72_5430.c:
 	.text       start:0x00005430 end:0x00005440
@@ -332,6 +374,9 @@ mo_stub/st_greenhill/fn_72_9D1C.c:
 mo_stub/st_greenhill/bf_fn_72_BE1C.c:
 	.text       start:0x0000BE1C end:0x0000BE28
 
+mo_stub/st_greenhill/bf_fn_72_BE28.c:
+	.text       start:0x0000BE28 end:0x0000BE38
+
 mo_stub/st_greenhill/bf_fn_72_BE38.c:
 	.text       start:0x0000BE38 end:0x0000BE44
 
@@ -340,6 +385,9 @@ mo_stub/st_greenhill/fn_72_BE44.c:
 
 mo_stub/st_greenhill/bf_fn_72_BEB4.c:
 	.text       start:0x0000BEB4 end:0x0000BEC0
+
+mo_stub/st_greenhill/bf_fn_72_BEC0.c:
+	.text       start:0x0000BEC0 end:0x0000BED0
 
 mo_stub/st_greenhill/bf_fn_72_BED0.c:
 	.text       start:0x0000BED0 end:0x0000BEDC
@@ -356,6 +404,9 @@ mo_stub/st_greenhill/bf_fn_72_BEF4.c:
 mo_stub/st_greenhill/bf_fn_72_BF24.c:
 	.text       start:0x0000BF24 end:0x0000BF34
 
+mo_stub/st_greenhill/bf_fn_72_BF34.c:
+	.text       start:0x0000BF34 end:0x0000BF44
+
 mo_stub/st_greenhill/wi_fn_72_BF44.c:
 	.text       start:0x0000BF44 end:0x0000BF6C
 
@@ -370,6 +421,9 @@ mo_stub/st_greenhill/bf_fn_72_BF8C.c:
 
 mo_stub/st_greenhill/bf_fn_72_BFBC.c:
 	.text       start:0x0000BFBC end:0x0000BFCC
+
+mo_stub/st_greenhill/bf_fn_72_BFCC.c:
+	.text       start:0x0000BFCC end:0x0000BFDC
 
 mo_stub/st_greenhill/wi_fn_72_BFDC.c:
 	.text       start:0x0000BFDC end:0x0000C004
