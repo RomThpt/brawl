@@ -187,3 +187,16 @@ retour au problème des classes.
 
 Enseignement : vérifier la VALIDITÉ du nom de symbole cible avant d'investir dans
 un motif à appel externe. Les symboles de templates C++ sont hors de portée du C.
+
+## Thunks virtuels : troisième approche, même échec (confirmation)
+Essai avec une struct portant un pointeur de fonction membre (`p->vt->m(p)`),
+c'est-à-dire sans aucun cast, pour voir si l'allocation de registres changeait.
+Résultat : r4 pour le chargement intermédiaire, comme les deux approches
+précédentes (variable locale, expression castée inlinée).
+
+Trois formulations C distinctes donnent toutes un registre différent de r12. La
+cible réutilise r12 pour les deux chargements parce que le pointeur de vtable
+meurt immédiatement — c'est le chemin de génération des appels virtuels du
+front-end C++, pas une conséquence de la forme du code. Conclusion ferme : ce
+gisement (~1750 fonctions en comptant les variantes 16o, 20o et 52o) exige de
+vraies méthodes virtuelles C++.
