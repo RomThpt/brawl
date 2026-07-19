@@ -96,7 +96,9 @@ def classify(a, sz):
                 return None
             n = (w2 >> 11) & 31
             width = 32 - n
-            if width <= 0 or ME != MB + width - 1:
+            # le masque rlwinm couvre parfois un bit de plus que ce que
+            # srawi conserve ; accepter les deux, le build tranche
+            if width <= 0 or ME not in (MB + width - 1, MB + width):
                 return None
             return ("get", off, (MB + SH) % 32, width, True)
         if r and stw_off(w2, 0, 3) == off:                  # rlwinm + stw -> clear field

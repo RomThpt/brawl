@@ -152,6 +152,9 @@ mo_stub/st_pictchat/fn_73_97B4.c:
 mo_stub/st_pictchat/bf_fn_73_9D78.c:
 	.text       start:0x00009D78 end:0x00009D84
 
+mo_stub/st_pictchat/bf_fn_73_9D84.c:
+	.text       start:0x00009D84 end:0x00009D94
+
 mo_stub/st_pictchat/bf_fn_73_9D94.c:
 	.text       start:0x00009D94 end:0x00009DA0
 
@@ -160,6 +163,9 @@ mo_stub/st_pictchat/fn_73_9DA0.c:
 
 mo_stub/st_pictchat/bf_fn_73_9E10.c:
 	.text       start:0x00009E10 end:0x00009E1C
+
+mo_stub/st_pictchat/bf_fn_73_9E1C.c:
+	.text       start:0x00009E1C end:0x00009E2C
 
 mo_stub/st_pictchat/bf_fn_73_9E2C.c:
 	.text       start:0x00009E2C end:0x00009E38
@@ -170,6 +176,9 @@ mo_stub/st_pictchat/fn_73_9E38.c:
 mo_stub/st_pictchat/bf_fn_73_9EA8.c:
 	.text       start:0x00009EA8 end:0x00009EB4
 
+mo_stub/st_pictchat/bf_fn_73_9EB4.c:
+	.text       start:0x00009EB4 end:0x00009EC4
+
 mo_stub/st_pictchat/bf_fn_73_9EC4.c:
 	.text       start:0x00009EC4 end:0x00009ED0
 
@@ -179,6 +188,9 @@ mo_stub/st_pictchat/fn_73_9ED0.c:
 mo_stub/st_pictchat/bf_fn_73_9F40.c:
 	.text       start:0x00009F40 end:0x00009F4C
 
+mo_stub/st_pictchat/bf_fn_73_9F4C.c:
+	.text       start:0x00009F4C end:0x00009F5C
+
 mo_stub/st_pictchat/bf_fn_73_9F5C.c:
 	.text       start:0x00009F5C end:0x00009F68
 
@@ -187,6 +199,9 @@ mo_stub/st_pictchat/fn_73_9F68.c:
 
 mo_stub/st_pictchat/bf_fn_73_A040.c:
 	.text       start:0x0000A040 end:0x0000A04C
+
+mo_stub/st_pictchat/bf_fn_73_A04C.c:
+	.text       start:0x0000A04C end:0x0000A05C
 
 mo_stub/st_pictchat/bf_fn_73_A05C.c:
 	.text       start:0x0000A05C end:0x0000A068
@@ -212,6 +227,9 @@ mo_stub/st_pictchat/bf_fn_73_A988.c:
 mo_stub/st_pictchat/bf_fn_73_A9B8.c:
 	.text       start:0x0000A9B8 end:0x0000A9C8
 
+mo_stub/st_pictchat/bf_fn_73_A9C8.c:
+	.text       start:0x0000A9C8 end:0x0000A9D8
+
 mo_stub/st_pictchat/wi_fn_73_A9D8.c:
 	.text       start:0x0000A9D8 end:0x0000AA00
 
@@ -226,6 +244,9 @@ mo_stub/st_pictchat/bf_fn_73_AA20.c:
 
 mo_stub/st_pictchat/bf_fn_73_AA50.c:
 	.text       start:0x0000AA50 end:0x0000AA60
+
+mo_stub/st_pictchat/bf_fn_73_AA60.c:
+	.text       start:0x0000AA60 end:0x0000AA70
 
 mo_stub/st_pictchat/wi_fn_73_AA70.c:
 	.text       start:0x0000AA70 end:0x0000AA98
@@ -242,6 +263,9 @@ mo_stub/st_pictchat/bf_fn_73_AAB8.c:
 mo_stub/st_pictchat/bf_fn_73_AAE8.c:
 	.text       start:0x0000AAE8 end:0x0000AAF8
 
+mo_stub/st_pictchat/bf_fn_73_AAF8.c:
+	.text       start:0x0000AAF8 end:0x0000AB08
+
 mo_stub/st_pictchat/wi_fn_73_AB08.c:
 	.text       start:0x0000AB08 end:0x0000AB30
 
@@ -257,6 +281,9 @@ mo_stub/st_pictchat/bf_fn_73_AB50.c:
 mo_stub/st_pictchat/bf_fn_73_AB80.c:
 	.text       start:0x0000AB80 end:0x0000AB90
 
+mo_stub/st_pictchat/bf_fn_73_AB90.c:
+	.text       start:0x0000AB90 end:0x0000ABA0
+
 mo_stub/st_pictchat/wi_fn_73_ABA0.c:
 	.text       start:0x0000ABA0 end:0x0000ABC8
 
@@ -269,6 +296,9 @@ mo_stub/st_pictchat/bf_fn_73_ABD8.c:
 mo_stub/st_pictchat/bf_fn_73_ABE4.c:
 	.text       start:0x0000ABE4 end:0x0000ABF4
 
+mo_stub/st_pictchat/bf_fn_73_ABF4.c:
+	.text       start:0x0000ABF4 end:0x0000AC04
+
 mo_stub/st_pictchat/bf_fn_73_AC04.c:
 	.text       start:0x0000AC04 end:0x0000AC14
 
@@ -280,6 +310,9 @@ mo_stub/st_pictchat/bf_fn_73_AC44.c:
 
 mo_stub/st_pictchat/fn_73_AC50.c:
 	.text       start:0x0000AC50 end:0x0000AC58
+
+mo_stub/st_pictchat/bf_fn_73_AC58.c:
+	.text       start:0x0000AC58 end:0x0000AC68
 
 mo_stub/st_pictchat/wi_fn_73_AC68.c:
 	.text       start:0x0000AC68 end:0x0000AC90
@@ -296,6 +329,9 @@ mo_stub/st_pictchat/bf_fn_73_ACB0.c:
 mo_stub/st_pictchat/bf_fn_73_ACE0.c:
 	.text       start:0x0000ACE0 end:0x0000ACF0
 
+mo_stub/st_pictchat/bf_fn_73_ACF0.c:
+	.text       start:0x0000ACF0 end:0x0000AD00
+
 mo_stub/st_pictchat/wi_fn_73_AD00.c:
 	.text       start:0x0000AD00 end:0x0000AD28
 
@@ -308,6 +344,9 @@ mo_stub/st_pictchat/bf_fn_73_AD38.c:
 mo_stub/st_pictchat/bf_fn_73_AD44.c:
 	.text       start:0x0000AD44 end:0x0000AD54
 
+mo_stub/st_pictchat/bf_fn_73_AD54.c:
+	.text       start:0x0000AD54 end:0x0000AD64
+
 mo_stub/st_pictchat/bf_fn_73_AD64.c:
 	.text       start:0x0000AD64 end:0x0000AD74
 
@@ -319,6 +358,9 @@ mo_stub/st_pictchat/bf_fn_73_ADA4.c:
 
 mo_stub/st_pictchat/fn_73_ADB0.c:
 	.text       start:0x0000ADB0 end:0x0000ADB8
+
+mo_stub/st_pictchat/bf_fn_73_ADB8.c:
+	.text       start:0x0000ADB8 end:0x0000ADC8
 
 mo_stub/st_pictchat/bf_fn_73_ADF0.c:
 	.text       start:0x0000ADF0 end:0x0000AE00
