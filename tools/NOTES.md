@@ -23,3 +23,15 @@ Les grosses fonctions dupliquées (voir tools/find_dupes.py) sont majoritairemen
 du C++ à dispatch virtuel : `lwz r12,off(r3); lwz r12,slot(r12); mtctr r12; bctrl`.
 Les matcher exige de reconstruire la classe et sa vtable, pas seulement la logique.
 Seules 31 familles (0.147% du code) sont exemptes de vtable ET d'appel externe.
+
+## Première famille matchée (sora_enemy fn_41_3B948, 104o x4)
+Cascade de comparaisons retournant `p + offset` (offsets 32 + 44*i, testés en
+ordre DÉCROISSANT 5..0). Transcrite littéralement en chaîne de `if` dans le même
+ordre décroissant que l'assembleur -> match au premier essai.
+
+Enseignement : quand l'assembleur teste les cas en ordre décroissant, écrire la
+chaîne de `if` dans CE même ordre. Ne pas "normaliser" en ordre croissant ni en
+`switch` : le compilateur produirait une table de saut ou un autre agencement.
+
+Les fonctions SANS pile ni appel (pas de stwu/mflr) sont de loin les plus faciles :
+aucun ordonnancement d'arguments à faire coïncider. Les privilégier.
