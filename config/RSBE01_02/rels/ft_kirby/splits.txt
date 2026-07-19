@@ -272,14 +272,50 @@ mo_stub/ft_kirby/fn_96_17EF0.c:
 mo_stub/ft_kirby/fn_96_1930C.c:
 	.text       start:0x0001930C end:0x00019310
 
+mo_stub/ft_kirby/bf_fn_96_1E188.c:
+	.text       start:0x0001E188 end:0x0001E198
+
+mo_stub/ft_kirby/bf_fn_96_1E1A8.c:
+	.text       start:0x0001E1A8 end:0x0001E1B8
+
+mo_stub/ft_kirby/bf_fn_96_1E1E8.c:
+	.text       start:0x0001E1E8 end:0x0001E1F4
+
 mo_stub/ft_kirby/fn_96_1E1F4.c:
 	.text       start:0x0001E1F4 end:0x0001E1FC
+
+mo_stub/ft_kirby/bf_fn_96_1E234.c:
+	.text       start:0x0001E234 end:0x0001E244
+
+mo_stub/ft_kirby/bf_fn_96_1E250.c:
+	.text       start:0x0001E250 end:0x0001E260
+
+mo_stub/ft_kirby/bf_fn_96_1E270.c:
+	.text       start:0x0001E270 end:0x0001E280
+
+mo_stub/ft_kirby/bf_fn_96_1E2B0.c:
+	.text       start:0x0001E2B0 end:0x0001E2BC
 
 mo_stub/ft_kirby/fn_96_1E2BC.c:
 	.text       start:0x0001E2BC end:0x0001E2C4
 
+mo_stub/ft_kirby/bf_fn_96_1E2FC.c:
+	.text       start:0x0001E2FC end:0x0001E30C
+
+mo_stub/ft_kirby/bf_fn_96_1E318.c:
+	.text       start:0x0001E318 end:0x0001E328
+
+mo_stub/ft_kirby/bf_fn_96_1E338.c:
+	.text       start:0x0001E338 end:0x0001E348
+
+mo_stub/ft_kirby/bf_fn_96_1E378.c:
+	.text       start:0x0001E378 end:0x0001E384
+
 mo_stub/ft_kirby/fn_96_1E384.c:
 	.text       start:0x0001E384 end:0x0001E38C
+
+mo_stub/ft_kirby/bf_fn_96_1E3C4.c:
+	.text       start:0x0001E3C4 end:0x0001E3D4
 
 mo_stub/ft_kirby/fn_96_1EA20.c:
 	.text       start:0x0001EA20 end:0x0001EA28

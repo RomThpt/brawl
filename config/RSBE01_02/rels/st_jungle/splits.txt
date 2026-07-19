@@ -158,8 +158,14 @@ mo_stub/st_jungle/fn_51_557C.c:
 mo_stub/st_jungle/fn_51_55CC.c:
 	.text       start:0x000055CC end:0x000055D0
 
+mo_stub/st_jungle/bf_fn_51_592C.c:
+	.text       start:0x0000592C end:0x00005938
+
 mo_stub/st_jungle/fn_51_5938.c:
 	.text       start:0x00005938 end:0x00005940
+
+mo_stub/st_jungle/bf_fn_51_5AB8.c:
+	.text       start:0x00005AB8 end:0x00005AC4
 
 mo_stub/st_jungle/fn_51_5AC4.c:
 	.text       start:0x00005AC4 end:0x00005ACC
@@ -173,20 +179,98 @@ mo_stub/st_jungle/fn_51_63CC.c:
 mo_stub/st_jungle/fn_51_63E4.c:
 	.text       start:0x000063E4 end:0x000063F8
 
+mo_stub/st_jungle/bf_fn_51_6404.c:
+	.text       start:0x00006404 end:0x00006414
+
+mo_stub/st_jungle/bf_fn_51_6424.c:
+	.text       start:0x00006424 end:0x00006434
+
+mo_stub/st_jungle/bf_fn_51_6464.c:
+	.text       start:0x00006464 end:0x00006470
+
 mo_stub/st_jungle/fn_51_6470.c:
 	.text       start:0x00006470 end:0x00006478
+
+mo_stub/st_jungle/bf_fn_51_64B0.c:
+	.text       start:0x000064B0 end:0x000064C0
+
+mo_stub/st_jungle/bf_fn_51_64CC.c:
+	.text       start:0x000064CC end:0x000064DC
+
+mo_stub/st_jungle/bf_fn_51_64EC.c:
+	.text       start:0x000064EC end:0x000064FC
+
+mo_stub/st_jungle/bf_fn_51_652C.c:
+	.text       start:0x0000652C end:0x00006538
 
 mo_stub/st_jungle/fn_51_6538.c:
 	.text       start:0x00006538 end:0x00006540
 
+mo_stub/st_jungle/bf_fn_51_6578.c:
+	.text       start:0x00006578 end:0x00006588
+
+mo_stub/st_jungle/bf_fn_51_6588.c:
+	.text       start:0x00006588 end:0x00006598
+
+mo_stub/st_jungle/bf_fn_51_6598.c:
+	.text       start:0x00006598 end:0x000065A8
+
+mo_stub/st_jungle/bf_fn_51_6610.c:
+	.text       start:0x00006610 end:0x00006620
+
+mo_stub/st_jungle/bf_fn_51_662C.c:
+	.text       start:0x0000662C end:0x0000663C
+
+mo_stub/st_jungle/bf_fn_51_664C.c:
+	.text       start:0x0000664C end:0x0000665C
+
+mo_stub/st_jungle/bf_fn_51_668C.c:
+	.text       start:0x0000668C end:0x00006698
+
 mo_stub/st_jungle/fn_51_6698.c:
 	.text       start:0x00006698 end:0x000066A0
+
+mo_stub/st_jungle/bf_fn_51_66D8.c:
+	.text       start:0x000066D8 end:0x000066E8
+
+mo_stub/st_jungle/bf_fn_51_66E8.c:
+	.text       start:0x000066E8 end:0x000066F8
+
+mo_stub/st_jungle/bf_fn_51_66F8.c:
+	.text       start:0x000066F8 end:0x00006708
+
+mo_stub/st_jungle/bf_fn_51_6770.c:
+	.text       start:0x00006770 end:0x00006780
+
+mo_stub/st_jungle/bf_fn_51_678C.c:
+	.text       start:0x0000678C end:0x0000679C
+
+mo_stub/st_jungle/bf_fn_51_67AC.c:
+	.text       start:0x000067AC end:0x000067BC
+
+mo_stub/st_jungle/bf_fn_51_67EC.c:
+	.text       start:0x000067EC end:0x000067F8
 
 mo_stub/st_jungle/fn_51_67F8.c:
 	.text       start:0x000067F8 end:0x00006800
 
+mo_stub/st_jungle/bf_fn_51_6838.c:
+	.text       start:0x00006838 end:0x00006848
+
+mo_stub/st_jungle/bf_fn_51_6854.c:
+	.text       start:0x00006854 end:0x00006864
+
+mo_stub/st_jungle/bf_fn_51_6874.c:
+	.text       start:0x00006874 end:0x00006884
+
+mo_stub/st_jungle/bf_fn_51_68B4.c:
+	.text       start:0x000068B4 end:0x000068C0
+
 mo_stub/st_jungle/fn_51_68C0.c:
 	.text       start:0x000068C0 end:0x000068C8
+
+mo_stub/st_jungle/bf_fn_51_6900.c:
+	.text       start:0x00006900 end:0x00006910
 
 mo_stub/st_jungle/fn_51_756C.c:
 	.text       start:0x0000756C end:0x00007574
@@ -245,17 +329,65 @@ mo_stub/st_jungle/fn_51_D4D4.c:
 mo_stub/st_jungle/fn_51_D4DC.c:
 	.text       start:0x0000D4DC end:0x0000D4E4
 
+mo_stub/st_jungle/bf_fn_51_D7A8.c:
+	.text       start:0x0000D7A8 end:0x0000D7B4
+
 mo_stub/st_jungle/fn_51_D7B4.c:
 	.text       start:0x0000D7B4 end:0x0000D7BC
+
+mo_stub/st_jungle/bf_fn_51_D7C8.c:
+	.text       start:0x0000D7C8 end:0x0000D7D8
+
+mo_stub/st_jungle/bf_fn_51_D7E8.c:
+	.text       start:0x0000D7E8 end:0x0000D7F8
+
+mo_stub/st_jungle/bf_fn_51_D828.c:
+	.text       start:0x0000D828 end:0x0000D834
 
 mo_stub/st_jungle/fn_51_D834.c:
 	.text       start:0x0000D834 end:0x0000D83C
 
+mo_stub/st_jungle/bf_fn_51_D874.c:
+	.text       start:0x0000D874 end:0x0000D884
+
+mo_stub/st_jungle/bf_fn_51_D890.c:
+	.text       start:0x0000D890 end:0x0000D8A0
+
+mo_stub/st_jungle/bf_fn_51_D8B0.c:
+	.text       start:0x0000D8B0 end:0x0000D8C0
+
+mo_stub/st_jungle/bf_fn_51_D8F0.c:
+	.text       start:0x0000D8F0 end:0x0000D8FC
+
 mo_stub/st_jungle/fn_51_D8FC.c:
 	.text       start:0x0000D8FC end:0x0000D904
 
+mo_stub/st_jungle/bf_fn_51_D93C.c:
+	.text       start:0x0000D93C end:0x0000D94C
+
+mo_stub/st_jungle/bf_fn_51_D958.c:
+	.text       start:0x0000D958 end:0x0000D968
+
+mo_stub/st_jungle/bf_fn_51_D978.c:
+	.text       start:0x0000D978 end:0x0000D988
+
+mo_stub/st_jungle/bf_fn_51_D9B8.c:
+	.text       start:0x0000D9B8 end:0x0000D9C4
+
 mo_stub/st_jungle/fn_51_D9C4.c:
 	.text       start:0x0000D9C4 end:0x0000D9CC
+
+mo_stub/st_jungle/bf_fn_51_DA04.c:
+	.text       start:0x0000DA04 end:0x0000DA14
+
+mo_stub/st_jungle/bf_fn_51_DA14.c:
+	.text       start:0x0000DA14 end:0x0000DA24
+
+mo_stub/st_jungle/bf_fn_51_DA24.c:
+	.text       start:0x0000DA24 end:0x0000DA34
+
+mo_stub/st_jungle/bf_fn_51_DA9C.c:
+	.text       start:0x0000DA9C end:0x0000DAAC
 
 mo_stub/st_jungle/fn_51_DAAC.c:
 	.text       start:0x0000DAAC end:0x0000DAC4

@@ -137,20 +137,80 @@ mo_stub/st_village/fn_70_87B8.c:
 mo_stub/st_village/fn_70_8808.c:
 	.text       start:0x00008808 end:0x0000880C
 
+mo_stub/st_village/bf_fn_70_8AD4.c:
+	.text       start:0x00008AD4 end:0x00008AE0
+
 mo_stub/st_village/fn_70_8AE0.c:
 	.text       start:0x00008AE0 end:0x00008AE8
+
+mo_stub/st_village/bf_fn_70_8F90.c:
+	.text       start:0x00008F90 end:0x00008FA0
+
+mo_stub/st_village/bf_fn_70_8FB0.c:
+	.text       start:0x00008FB0 end:0x00008FC0
+
+mo_stub/st_village/bf_fn_70_8FF0.c:
+	.text       start:0x00008FF0 end:0x00008FFC
 
 mo_stub/st_village/fn_70_8FFC.c:
 	.text       start:0x00008FFC end:0x00009004
 
+mo_stub/st_village/bf_fn_70_903C.c:
+	.text       start:0x0000903C end:0x0000904C
+
+mo_stub/st_village/bf_fn_70_9058.c:
+	.text       start:0x00009058 end:0x00009068
+
+mo_stub/st_village/bf_fn_70_9078.c:
+	.text       start:0x00009078 end:0x00009088
+
+mo_stub/st_village/bf_fn_70_90B8.c:
+	.text       start:0x000090B8 end:0x000090C4
+
 mo_stub/st_village/fn_70_90C4.c:
 	.text       start:0x000090C4 end:0x000090CC
+
+mo_stub/st_village/bf_fn_70_9104.c:
+	.text       start:0x00009104 end:0x00009114
+
+mo_stub/st_village/bf_fn_70_9114.c:
+	.text       start:0x00009114 end:0x00009124
+
+mo_stub/st_village/bf_fn_70_9124.c:
+	.text       start:0x00009124 end:0x00009134
+
+mo_stub/st_village/bf_fn_70_919C.c:
+	.text       start:0x0000919C end:0x000091AC
+
+mo_stub/st_village/bf_fn_70_91B8.c:
+	.text       start:0x000091B8 end:0x000091C8
+
+mo_stub/st_village/bf_fn_70_91D8.c:
+	.text       start:0x000091D8 end:0x000091E8
+
+mo_stub/st_village/bf_fn_70_9218.c:
+	.text       start:0x00009218 end:0x00009224
 
 mo_stub/st_village/fn_70_9224.c:
 	.text       start:0x00009224 end:0x0000922C
 
+mo_stub/st_village/bf_fn_70_9264.c:
+	.text       start:0x00009264 end:0x00009274
+
+mo_stub/st_village/bf_fn_70_9280.c:
+	.text       start:0x00009280 end:0x00009290
+
+mo_stub/st_village/bf_fn_70_92A0.c:
+	.text       start:0x000092A0 end:0x000092B0
+
+mo_stub/st_village/bf_fn_70_92E0.c:
+	.text       start:0x000092E0 end:0x000092EC
+
 mo_stub/st_village/fn_70_92EC.c:
 	.text       start:0x000092EC end:0x000092F4
+
+mo_stub/st_village/bf_fn_70_932C.c:
+	.text       start:0x0000932C end:0x0000933C
 
 mo_stub/st_village/fn_70_9F98.c:
 	.text       start:0x00009F98 end:0x00009FA0

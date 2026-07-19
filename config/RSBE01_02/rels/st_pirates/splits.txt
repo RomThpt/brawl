@@ -140,6 +140,9 @@ mo_stub/st_pirates/fn_52_6C68.c:
 mo_stub/st_pirates/fn_52_6CB8.c:
 	.text       start:0x00006CB8 end:0x00006CBC
 
+mo_stub/st_pirates/bf_fn_52_6F5C.c:
+	.text       start:0x00006F5C end:0x00006F68
+
 mo_stub/st_pirates/fn_52_6F68.c:
 	.text       start:0x00006F68 end:0x00006F70
 
@@ -152,11 +155,44 @@ mo_stub/st_pirates/fn_52_7488.c:
 mo_stub/st_pirates/fn_52_749C.c:
 	.text       start:0x0000749C end:0x000074B8
 
+mo_stub/st_pirates/bf_fn_52_74C4.c:
+	.text       start:0x000074C4 end:0x000074D4
+
+mo_stub/st_pirates/bf_fn_52_74E4.c:
+	.text       start:0x000074E4 end:0x000074F4
+
+mo_stub/st_pirates/bf_fn_52_7524.c:
+	.text       start:0x00007524 end:0x00007530
+
 mo_stub/st_pirates/fn_52_7530.c:
 	.text       start:0x00007530 end:0x00007538
 
+mo_stub/st_pirates/bf_fn_52_7570.c:
+	.text       start:0x00007570 end:0x00007580
+
+mo_stub/st_pirates/bf_fn_52_7580.c:
+	.text       start:0x00007580 end:0x00007590
+
+mo_stub/st_pirates/bf_fn_52_7590.c:
+	.text       start:0x00007590 end:0x000075A0
+
+mo_stub/st_pirates/bf_fn_52_7608.c:
+	.text       start:0x00007608 end:0x00007618
+
+mo_stub/st_pirates/bf_fn_52_7624.c:
+	.text       start:0x00007624 end:0x00007634
+
+mo_stub/st_pirates/bf_fn_52_7644.c:
+	.text       start:0x00007644 end:0x00007654
+
+mo_stub/st_pirates/bf_fn_52_7684.c:
+	.text       start:0x00007684 end:0x00007690
+
 mo_stub/st_pirates/fn_52_7690.c:
 	.text       start:0x00007690 end:0x00007698
+
+mo_stub/st_pirates/bf_fn_52_76D0.c:
+	.text       start:0x000076D0 end:0x000076E0
 
 mo_stub/st_pirates/fn_52_811C.c:
 	.text       start:0x0000811C end:0x00008124

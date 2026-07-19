@@ -61,8 +61,14 @@ mo_stub/st_crayon/fn_56_54B0.c:
 mo_stub/st_crayon/fn_56_5500.c:
 	.text       start:0x00005500 end:0x00005504
 
+mo_stub/st_crayon/bf_fn_56_5860.c:
+	.text       start:0x00005860 end:0x0000586C
+
 mo_stub/st_crayon/fn_56_586C.c:
 	.text       start:0x0000586C end:0x00005874
+
+mo_stub/st_crayon/bf_fn_56_5984.c:
+	.text       start:0x00005984 end:0x00005990
 
 mo_stub/st_crayon/fn_56_5990.c:
 	.text       start:0x00005990 end:0x00005998
@@ -76,20 +82,98 @@ mo_stub/st_crayon/fn_56_62F8.c:
 mo_stub/st_crayon/fn_56_630C.c:
 	.text       start:0x0000630C end:0x0000632C
 
+mo_stub/st_crayon/bf_fn_56_6338.c:
+	.text       start:0x00006338 end:0x00006348
+
+mo_stub/st_crayon/bf_fn_56_6358.c:
+	.text       start:0x00006358 end:0x00006368
+
+mo_stub/st_crayon/bf_fn_56_6398.c:
+	.text       start:0x00006398 end:0x000063A4
+
 mo_stub/st_crayon/fn_56_63A4.c:
 	.text       start:0x000063A4 end:0x000063AC
+
+mo_stub/st_crayon/bf_fn_56_63E4.c:
+	.text       start:0x000063E4 end:0x000063F4
+
+mo_stub/st_crayon/bf_fn_56_6400.c:
+	.text       start:0x00006400 end:0x00006410
+
+mo_stub/st_crayon/bf_fn_56_6420.c:
+	.text       start:0x00006420 end:0x00006430
+
+mo_stub/st_crayon/bf_fn_56_6460.c:
+	.text       start:0x00006460 end:0x0000646C
 
 mo_stub/st_crayon/fn_56_646C.c:
 	.text       start:0x0000646C end:0x00006474
 
+mo_stub/st_crayon/bf_fn_56_64AC.c:
+	.text       start:0x000064AC end:0x000064BC
+
+mo_stub/st_crayon/bf_fn_56_64BC.c:
+	.text       start:0x000064BC end:0x000064CC
+
+mo_stub/st_crayon/bf_fn_56_64CC.c:
+	.text       start:0x000064CC end:0x000064DC
+
+mo_stub/st_crayon/bf_fn_56_6544.c:
+	.text       start:0x00006544 end:0x00006554
+
+mo_stub/st_crayon/bf_fn_56_6554.c:
+	.text       start:0x00006554 end:0x00006564
+
+mo_stub/st_crayon/bf_fn_56_6564.c:
+	.text       start:0x00006564 end:0x00006574
+
+mo_stub/st_crayon/bf_fn_56_65DC.c:
+	.text       start:0x000065DC end:0x000065EC
+
+mo_stub/st_crayon/bf_fn_56_65F8.c:
+	.text       start:0x000065F8 end:0x00006608
+
+mo_stub/st_crayon/bf_fn_56_6618.c:
+	.text       start:0x00006618 end:0x00006628
+
+mo_stub/st_crayon/bf_fn_56_6658.c:
+	.text       start:0x00006658 end:0x00006664
+
 mo_stub/st_crayon/fn_56_6664.c:
 	.text       start:0x00006664 end:0x0000666C
+
+mo_stub/st_crayon/bf_fn_56_66A4.c:
+	.text       start:0x000066A4 end:0x000066B4
+
+mo_stub/st_crayon/bf_fn_56_66C0.c:
+	.text       start:0x000066C0 end:0x000066D0
+
+mo_stub/st_crayon/bf_fn_56_66E0.c:
+	.text       start:0x000066E0 end:0x000066F0
+
+mo_stub/st_crayon/bf_fn_56_6720.c:
+	.text       start:0x00006720 end:0x0000672C
 
 mo_stub/st_crayon/fn_56_672C.c:
 	.text       start:0x0000672C end:0x00006734
 
+mo_stub/st_crayon/bf_fn_56_676C.c:
+	.text       start:0x0000676C end:0x0000677C
+
+mo_stub/st_crayon/bf_fn_56_6788.c:
+	.text       start:0x00006788 end:0x00006798
+
+mo_stub/st_crayon/bf_fn_56_67A8.c:
+	.text       start:0x000067A8 end:0x000067B8
+
+mo_stub/st_crayon/bf_fn_56_67E8.c:
+	.text       start:0x000067E8 end:0x000067F4
+
 mo_stub/st_crayon/fn_56_67F4.c:
 	.text       start:0x000067F4 end:0x000067FC
+
+mo_stub/st_crayon/bf_fn_56_6834.c:
+	.text       start:0x00006834 end:0x00006844
 
 mo_stub/st_crayon/fn_56_74A0.c:
 	.text       start:0x000074A0 end:0x000074A8
