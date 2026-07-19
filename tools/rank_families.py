@@ -102,21 +102,27 @@ for sym in sorted(glob.glob(os.path.join(ROOT, "config/RSBE01_02/rels/*/symbols.
                         if a <= o < a + sz)
         h = hashlib.sha1(normalise(code, a, rl) + repr(inside).encode()).hexdigest()
         groups[h].append((mod, n, a, sz))
-        meta[h] = len(inside)
+        # bctrl = virtual dispatch: needs a reconstructed vtable, much harder than
+        # plain arithmetic. Count it so we can rank those families down.
+        nv = sum(1 for i in range(0, sz - 3, 4)
+                 if struct.unpack('>I', code[i:i + 4])[0] == 0x4E800421)
+        meta[h] = (len(inside), nv)
 
+MAX_VCALL = int(os.environ.get("MAX_VCALL", "999"))
 rows = []
 for h, v in groups.items():
     if len(v) < 2:
         continue
-    nrel = meta[h]
-    if nrel > MAX_REL:
+    nrel, nv = meta[h]
+    if nrel > MAX_REL or nv > MAX_VCALL:
         continue
-    rows.append((len(v) * v[0][3], len(v), v[0][3], nrel, v[0]))
+    rows.append((len(v) * v[0][3], len(v), v[0][3], nrel, nv, v[0]))
 rows.sort(reverse=True)
 
 cum = sum(r[0] for r in rows)
-print(f"familles avec <={MAX_REL} relocations, taille >={MIN_SIZE}o : {len(rows)}")
+print(f"familles : <={MAX_REL} reloc, <={MAX_VCALL} appels virtuels, taille >={MIN_SIZE}o "
+      f"-> {len(rows)} familles")
 print(f"gain cumulé si toutes décompilées : {cum} o ({100*cum/TOTAL_CODE:.3f}% du code)\n")
-print(f"{'gain':>9} {'inst':>5} {'taille':>7} {'reloc':>6}  module / fonction")
-for tot, cnt, sz, nrel, ref in rows[:TOP_N]:
-    print(f"{tot:9d} {cnt:5d} {sz:7d} {nrel:6d}  {ref[0]} {ref[1]} @0x{ref[2]:X}")
+print(f"{'gain':>9} {'inst':>5} {'taille':>7} {'reloc':>6} {'vcall':>6}  module / fonction")
+for tot, cnt, sz, nrel, nv, ref in rows[:TOP_N]:
+    print(f"{tot:9d} {cnt:5d} {sz:7d} {nrel:6d} {nv:6d}  {ref[0]} {ref[1]} @0x{ref[2]:X}")
