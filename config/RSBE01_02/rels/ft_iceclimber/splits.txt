@@ -74,6 +74,9 @@ mo_stub/ft_iceclimber/fn_105_DAEC.c:
 mo_stub/ft_iceclimber/fn_105_DB00.c:
 	.text       start:0x0000DB00 end:0x0000DB08
 
+mo_stub/ft_iceclimber/el_fn_105_DB08.c:
+	.text       start:0x0000DB08 end:0x0000DB18
+
 mo_stub/ft_iceclimber/fn_105_DBC8.c:
 	.text       start:0x0000DBC8 end:0x0000DBE8
 

@@ -65,6 +65,9 @@ mo_stub/ft_diddy/fn_115_A094.c:
 mo_stub/ft_diddy/fn_115_A0B0.c:
 	.text       start:0x0000A0B0 end:0x0000A0C0
 
+mo_stub/ft_diddy/el_fn_115_A0C0.c:
+	.text       start:0x0000A0C0 end:0x0000A0D0
+
 mo_stub/ft_diddy/fn_115_A180.c:
 	.text       start:0x0000A180 end:0x0000A188
 

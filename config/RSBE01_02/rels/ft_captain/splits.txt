@@ -59,6 +59,9 @@ mo_stub/ft_captain/fn_100_9654.c:
 mo_stub/ft_captain/fn_100_966C.c:
 	.text       start:0x0000966C end:0x00009678
 
+mo_stub/ft_captain/el_fn_100_9678.c:
+	.text       start:0x00009678 end:0x00009688
+
 mo_stub/ft_captain/fn_100_9738.c:
 	.text       start:0x00009738 end:0x00009748
 

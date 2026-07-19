@@ -59,6 +59,9 @@ mo_stub/ft_wolf/fn_125_AFC8.c:
 mo_stub/ft_wolf/fn_125_AFE4.c:
 	.text       start:0x0000AFE4 end:0x0000AFF0
 
+mo_stub/ft_wolf/el_fn_125_AFF0.c:
+	.text       start:0x0000AFF0 end:0x0000B000
+
 mo_stub/ft_wolf/fn_125_B0B0.c:
 	.text       start:0x0000B0B0 end:0x0000B0C0
 

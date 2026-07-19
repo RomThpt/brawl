@@ -62,6 +62,9 @@ mo_stub/ft_ike/fn_119_9730.c:
 mo_stub/ft_ike/fn_119_9748.c:
 	.text       start:0x00009748 end:0x00009750
 
+mo_stub/ft_ike/el_fn_119_9750.c:
+	.text       start:0x00009750 end:0x00009760
+
 mo_stub/ft_ike/fn_119_9810.c:
 	.text       start:0x00009810 end:0x00009828
 

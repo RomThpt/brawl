@@ -209,6 +209,9 @@ mo_stub/st_earth/bf_fn_66_A288.c:
 mo_stub/st_earth/bf_fn_66_A298.c:
 	.text       start:0x0000A298 end:0x0000A2A8
 
+mo_stub/st_earth/el_fn_66_A2A8.c:
+	.text       start:0x0000A2A8 end:0x0000A2B8
+
 mo_stub/st_earth/bf_fn_66_A2B8.c:
 	.text       start:0x0000A2B8 end:0x0000A2C8
 
@@ -242,6 +245,9 @@ mo_stub/st_earth/bf_fn_66_A350.c:
 mo_stub/st_earth/bf_fn_66_A360.c:
 	.text       start:0x0000A360 end:0x0000A370
 
+mo_stub/st_earth/el_fn_66_A370.c:
+	.text       start:0x0000A370 end:0x0000A380
+
 mo_stub/st_earth/bf_fn_66_A380.c:
 	.text       start:0x0000A380 end:0x0000A390
 
@@ -269,6 +275,9 @@ mo_stub/st_earth/bf_fn_66_A3FC.c:
 mo_stub/st_earth/bf_fn_66_A40C.c:
 	.text       start:0x0000A40C end:0x0000A41C
 
+mo_stub/st_earth/el_fn_66_A41C.c:
+	.text       start:0x0000A41C end:0x0000A42C
+
 mo_stub/st_earth/bf_fn_66_A42C.c:
 	.text       start:0x0000A42C end:0x0000A43C
 
@@ -289,6 +298,9 @@ mo_stub/st_earth/bf_fn_66_A494.c:
 
 mo_stub/st_earth/bf_fn_66_A4A4.c:
 	.text       start:0x0000A4A4 end:0x0000A4B4
+
+mo_stub/st_earth/el_fn_66_A4B4.c:
+	.text       start:0x0000A4B4 end:0x0000A4C4
 
 mo_stub/st_earth/bf_fn_66_A4C4.c:
 	.text       start:0x0000A4C4 end:0x0000A4D4
@@ -316,6 +328,9 @@ mo_stub/st_earth/bf_fn_66_A548.c:
 
 mo_stub/st_earth/bf_fn_66_A558.c:
 	.text       start:0x0000A558 end:0x0000A568
+
+mo_stub/st_earth/el_fn_66_A568.c:
+	.text       start:0x0000A568 end:0x0000A578
 
 mo_stub/st_earth/bf_fn_66_A578.c:
 	.text       start:0x0000A578 end:0x0000A588
@@ -350,6 +365,9 @@ mo_stub/st_earth/bf_fn_66_A610.c:
 mo_stub/st_earth/bf_fn_66_A620.c:
 	.text       start:0x0000A620 end:0x0000A630
 
+mo_stub/st_earth/el_fn_66_A630.c:
+	.text       start:0x0000A630 end:0x0000A640
+
 mo_stub/st_earth/bf_fn_66_A640.c:
 	.text       start:0x0000A640 end:0x0000A650
 
@@ -379,6 +397,9 @@ mo_stub/st_earth/bf_fn_66_A6D8.c:
 
 mo_stub/st_earth/bf_fn_66_A6E8.c:
 	.text       start:0x0000A6E8 end:0x0000A6F8
+
+mo_stub/st_earth/el_fn_66_A6F8.c:
+	.text       start:0x0000A6F8 end:0x0000A708
 
 mo_stub/st_earth/bf_fn_66_A708.c:
 	.text       start:0x0000A708 end:0x0000A718
@@ -463,6 +484,9 @@ mo_stub/st_earth/bf_fn_66_11300.c:
 
 mo_stub/st_earth/bf_fn_66_11310.c:
 	.text       start:0x00011310 end:0x00011320
+
+mo_stub/st_earth/el_fn_66_11320.c:
+	.text       start:0x00011320 end:0x00011330
 
 mo_stub/st_earth/bf_fn_66_11330.c:
 	.text       start:0x00011330 end:0x00011340

@@ -59,6 +59,9 @@ mo_stub/ft_donkey/fn_92_97BC.c:
 mo_stub/ft_donkey/fn_92_97D8.c:
 	.text       start:0x000097D8 end:0x000097E4
 
+mo_stub/ft_donkey/el_fn_92_97E4.c:
+	.text       start:0x000097E4 end:0x000097F4
+
 mo_stub/ft_donkey/fn_92_98A4.c:
 	.text       start:0x000098A4 end:0x000098B4
 

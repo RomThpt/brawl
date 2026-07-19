@@ -65,6 +65,9 @@ mo_stub/ft_sonic/fn_123_A1C0.c:
 mo_stub/ft_sonic/fn_123_A1DC.c:
 	.text       start:0x0000A1DC end:0x0000A1EC
 
+mo_stub/ft_sonic/el_fn_123_A1EC.c:
+	.text       start:0x0000A1EC end:0x0000A1FC
+
 mo_stub/ft_sonic/fn_123_A2AC.c:
 	.text       start:0x0000A2AC end:0x0000A2B4
 

@@ -65,6 +65,9 @@ mo_stub/ft_zelda/fn_104_A790.c:
 mo_stub/ft_zelda/fn_104_A7A8.c:
 	.text       start:0x0000A7A8 end:0x0000A7C4
 
+mo_stub/ft_zelda/el_fn_104_A7C4.c:
+	.text       start:0x0000A7C4 end:0x0000A7D4
+
 mo_stub/ft_zelda/fn_104_A884.c:
 	.text       start:0x0000A884 end:0x0000A8AC
 

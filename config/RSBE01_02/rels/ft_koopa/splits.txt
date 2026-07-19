@@ -65,6 +65,9 @@ mo_stub/ft_koopa/fn_102_8F38.c:
 mo_stub/ft_koopa/fn_102_8F50.c:
 	.text       start:0x00008F50 end:0x00008F6C
 
+mo_stub/ft_koopa/el_fn_102_8F6C.c:
+	.text       start:0x00008F6C end:0x00008F7C
+
 mo_stub/ft_koopa/fn_102_902C.c:
 	.text       start:0x0000902C end:0x00009054
 

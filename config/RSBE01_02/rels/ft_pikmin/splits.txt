@@ -92,6 +92,9 @@ mo_stub/ft_pikmin/fn_113_C9DC.c:
 mo_stub/ft_pikmin/fn_113_C9F8.c:
 	.text       start:0x0000C9F8 end:0x0000CA00
 
+mo_stub/ft_pikmin/el_fn_113_CA00.c:
+	.text       start:0x0000CA00 end:0x0000CA10
+
 mo_stub/ft_pikmin/fn_113_CAC0.c:
 	.text       start:0x0000CAC0 end:0x0000CAD8
 
@@ -233,6 +236,9 @@ mo_stub/ft_pikmin/bf_fn_113_11E10.c:
 mo_stub/ft_pikmin/bf_fn_113_11E20.c:
 	.text       start:0x00011E20 end:0x00011E30
 
+mo_stub/ft_pikmin/el_fn_113_11E30.c:
+	.text       start:0x00011E30 end:0x00011E40
+
 mo_stub/ft_pikmin/bf_fn_113_11E40.c:
 	.text       start:0x00011E40 end:0x00011E50
 
@@ -274,6 +280,9 @@ mo_stub/ft_pikmin/bf_fn_113_13A08.c:
 
 mo_stub/ft_pikmin/bf_fn_113_13A18.c:
 	.text       start:0x00013A18 end:0x00013A28
+
+mo_stub/ft_pikmin/el_fn_113_13A28.c:
+	.text       start:0x00013A28 end:0x00013A38
 
 mo_stub/ft_pikmin/bf_fn_113_13A38.c:
 	.text       start:0x00013A38 end:0x00013A48
