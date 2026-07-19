@@ -161,6 +161,9 @@ mo_stub/st_dxgreens/bf_fn_79_569C.c:
 mo_stub/st_dxgreens/bf_fn_79_56AC.c:
 	.text       start:0x000056AC end:0x000056BC
 
+mo_stub/st_dxgreens/wi_fn_79_56FC.c:
+	.text       start:0x000056FC end:0x00005724
+
 mo_stub/st_dxgreens/bf_fn_79_5724.c:
 	.text       start:0x00005724 end:0x00005734
 
@@ -175,6 +178,9 @@ mo_stub/st_dxgreens/bf_fn_79_57A0.c:
 
 mo_stub/st_dxgreens/fn_79_57AC.c:
 	.text       start:0x000057AC end:0x000057B4
+
+mo_stub/st_dxgreens/wi_fn_79_57C4.c:
+	.text       start:0x000057C4 end:0x000057EC
 
 mo_stub/st_dxgreens/bf_fn_79_57EC.c:
 	.text       start:0x000057EC end:0x000057FC
@@ -191,6 +197,9 @@ mo_stub/st_dxgreens/bf_fn_79_5868.c:
 mo_stub/st_dxgreens/fn_79_5874.c:
 	.text       start:0x00005874 end:0x0000587C
 
+mo_stub/st_dxgreens/wi_fn_79_588C.c:
+	.text       start:0x0000588C end:0x000058B4
+
 mo_stub/st_dxgreens/bf_fn_79_58B4.c:
 	.text       start:0x000058B4 end:0x000058C4
 
@@ -206,6 +215,9 @@ mo_stub/st_dxgreens/bf_fn_79_5930.c:
 mo_stub/st_dxgreens/fn_79_593C.c:
 	.text       start:0x0000593C end:0x00005944
 
+mo_stub/st_dxgreens/wi_fn_79_5954.c:
+	.text       start:0x00005954 end:0x0000597C
+
 mo_stub/st_dxgreens/bf_fn_79_597C.c:
 	.text       start:0x0000597C end:0x0000598C
 
@@ -214,6 +226,9 @@ mo_stub/st_dxgreens/bf_fn_79_598C.c:
 
 mo_stub/st_dxgreens/bf_fn_79_599C.c:
 	.text       start:0x0000599C end:0x000059AC
+
+mo_stub/st_dxgreens/wi_fn_79_59EC.c:
+	.text       start:0x000059EC end:0x00005A14
 
 mo_stub/st_dxgreens/bf_fn_79_5A14.c:
 	.text       start:0x00005A14 end:0x00005A24
@@ -230,6 +245,9 @@ mo_stub/st_dxgreens/bf_fn_79_5A90.c:
 mo_stub/st_dxgreens/fn_79_5A9C.c:
 	.text       start:0x00005A9C end:0x00005AA4
 
+mo_stub/st_dxgreens/wi_fn_79_5AB4.c:
+	.text       start:0x00005AB4 end:0x00005ADC
+
 mo_stub/st_dxgreens/bf_fn_79_5ADC.c:
 	.text       start:0x00005ADC end:0x00005AEC
 
@@ -238,6 +256,9 @@ mo_stub/st_dxgreens/bf_fn_79_5AEC.c:
 
 mo_stub/st_dxgreens/bf_fn_79_5AFC.c:
 	.text       start:0x00005AFC end:0x00005B0C
+
+mo_stub/st_dxgreens/wi_fn_79_5B4C.c:
+	.text       start:0x00005B4C end:0x00005B74
 
 mo_stub/st_dxgreens/bf_fn_79_5B74.c:
 	.text       start:0x00005B74 end:0x00005B84

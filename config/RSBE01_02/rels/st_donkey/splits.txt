@@ -140,6 +140,9 @@ mo_stub/st_donkey/bf_fn_50_62F4.c:
 mo_stub/st_donkey/fn_50_6300.c:
 	.text       start:0x00006300 end:0x00006308
 
+mo_stub/st_donkey/wi_fn_50_6318.c:
+	.text       start:0x00006318 end:0x00006340
+
 mo_stub/st_donkey/bf_fn_50_6340.c:
 	.text       start:0x00006340 end:0x00006350
 
@@ -148,6 +151,9 @@ mo_stub/st_donkey/bf_fn_50_6350.c:
 
 mo_stub/st_donkey/bf_fn_50_6360.c:
 	.text       start:0x00006360 end:0x00006370
+
+mo_stub/st_donkey/wi_fn_50_63B0.c:
+	.text       start:0x000063B0 end:0x000063D8
 
 mo_stub/st_donkey/bf_fn_50_63D8.c:
 	.text       start:0x000063D8 end:0x000063E8

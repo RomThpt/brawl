@@ -182,6 +182,9 @@ mo_stub/st_norfair/bf_fn_54_6574.c:
 mo_stub/st_norfair/fn_54_6580.c:
 	.text       start:0x00006580 end:0x00006588
 
+mo_stub/st_norfair/wi_fn_54_6598.c:
+	.text       start:0x00006598 end:0x000065C0
+
 mo_stub/st_norfair/bf_fn_54_65C0.c:
 	.text       start:0x000065C0 end:0x000065D0
 
@@ -197,6 +200,9 @@ mo_stub/st_norfair/bf_fn_54_663C.c:
 mo_stub/st_norfair/fn_54_6648.c:
 	.text       start:0x00006648 end:0x00006650
 
+mo_stub/st_norfair/wi_fn_54_6660.c:
+	.text       start:0x00006660 end:0x00006688
+
 mo_stub/st_norfair/bf_fn_54_6688.c:
 	.text       start:0x00006688 end:0x00006698
 
@@ -205,6 +211,9 @@ mo_stub/st_norfair/bf_fn_54_6698.c:
 
 mo_stub/st_norfair/bf_fn_54_66A8.c:
 	.text       start:0x000066A8 end:0x000066B8
+
+mo_stub/st_norfair/wi_fn_54_66F8.c:
+	.text       start:0x000066F8 end:0x00006720
 
 mo_stub/st_norfair/bf_fn_54_6720.c:
 	.text       start:0x00006720 end:0x00006730
@@ -221,6 +230,9 @@ mo_stub/st_norfair/bf_fn_54_679C.c:
 mo_stub/st_norfair/fn_54_67A8.c:
 	.text       start:0x000067A8 end:0x000067B0
 
+mo_stub/st_norfair/wi_fn_54_67C0.c:
+	.text       start:0x000067C0 end:0x000067E8
+
 mo_stub/st_norfair/bf_fn_54_67E8.c:
 	.text       start:0x000067E8 end:0x000067F8
 
@@ -229,6 +241,9 @@ mo_stub/st_norfair/bf_fn_54_67F8.c:
 
 mo_stub/st_norfair/bf_fn_54_6808.c:
 	.text       start:0x00006808 end:0x00006818
+
+mo_stub/st_norfair/wi_fn_54_6858.c:
+	.text       start:0x00006858 end:0x00006880
 
 mo_stub/st_norfair/bf_fn_54_6880.c:
 	.text       start:0x00006880 end:0x00006890
@@ -320,6 +335,9 @@ mo_stub/st_norfair/bf_fn_54_E4B4.c:
 mo_stub/st_norfair/bf_fn_54_E4C4.c:
 	.text       start:0x0000E4C4 end:0x0000E4D4
 
+mo_stub/st_norfair/wi_fn_54_E514.c:
+	.text       start:0x0000E514 end:0x0000E53C
+
 mo_stub/st_norfair/bf_fn_54_E53C.c:
 	.text       start:0x0000E53C end:0x0000E54C
 
@@ -343,6 +361,9 @@ mo_stub/st_norfair/bf_fn_54_10148.c:
 
 mo_stub/st_norfair/bf_fn_54_10158.c:
 	.text       start:0x00010158 end:0x00010168
+
+mo_stub/st_norfair/wi_fn_54_101A8.c:
+	.text       start:0x000101A8 end:0x000101D0
 
 mo_stub/st_norfair/bf_fn_54_101D0.c:
 	.text       start:0x000101D0 end:0x000101E0

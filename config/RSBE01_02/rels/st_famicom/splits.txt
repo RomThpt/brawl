@@ -155,6 +155,9 @@ mo_stub/st_famicom/bf_fn_68_62B0.c:
 mo_stub/st_famicom/fn_68_62BC.c:
 	.text       start:0x000062BC end:0x000062C4
 
+mo_stub/st_famicom/wi_fn_68_62D4.c:
+	.text       start:0x000062D4 end:0x000062FC
+
 mo_stub/st_famicom/bf_fn_68_62FC.c:
 	.text       start:0x000062FC end:0x0000630C
 
@@ -169,6 +172,9 @@ mo_stub/st_famicom/bf_fn_68_6378.c:
 
 mo_stub/st_famicom/fn_68_6384.c:
 	.text       start:0x00006384 end:0x0000638C
+
+mo_stub/st_famicom/wi_fn_68_639C.c:
+	.text       start:0x0000639C end:0x000063C4
 
 mo_stub/st_famicom/bf_fn_68_63C4.c:
 	.text       start:0x000063C4 end:0x000063D4
@@ -185,6 +191,9 @@ mo_stub/st_famicom/bf_fn_68_6440.c:
 mo_stub/st_famicom/fn_68_644C.c:
 	.text       start:0x0000644C end:0x00006454
 
+mo_stub/st_famicom/wi_fn_68_6464.c:
+	.text       start:0x00006464 end:0x0000648C
+
 mo_stub/st_famicom/bf_fn_68_648C.c:
 	.text       start:0x0000648C end:0x0000649C
 
@@ -193,6 +202,9 @@ mo_stub/st_famicom/bf_fn_68_649C.c:
 
 mo_stub/st_famicom/bf_fn_68_64AC.c:
 	.text       start:0x000064AC end:0x000064BC
+
+mo_stub/st_famicom/wi_fn_68_64FC.c:
+	.text       start:0x000064FC end:0x00006524
 
 mo_stub/st_famicom/bf_fn_68_6524.c:
 	.text       start:0x00006524 end:0x00006534
@@ -289,6 +301,9 @@ mo_stub/st_famicom/bf_fn_68_D6B0.c:
 
 mo_stub/st_famicom/bf_fn_68_D6C0.c:
 	.text       start:0x0000D6C0 end:0x0000D6D0
+
+mo_stub/st_famicom/wi_fn_68_D710.c:
+	.text       start:0x0000D710 end:0x0000D738
 
 mo_stub/st_famicom/bf_fn_68_D738.c:
 	.text       start:0x0000D738 end:0x0000D748
