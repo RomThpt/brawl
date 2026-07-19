@@ -25,6 +25,9 @@ mo_scene/sora_scene/sc_tutorial.cpp:
 mo_stub/sora_scene/fn_1_40D8.c:
 	.text       start:0x000040D8 end:0x000040E0
 
+mo_stub/sora_scene/dt___dt__16muMenuControllerFv.c:
+	.text       start:0x00005018 end:0x00005058
+
 mo_stub/sora_scene/fn_1_618C.c:
 	.text       start:0x0000618C end:0x00006194
 
@@ -101,6 +104,9 @@ mo_stub/sora_scene/fn_1_10A38.c:
 
 mo_stub/sora_scene/fn_1_13880.c:
 	.text       start:0x00013880 end:0x00013884
+
+mo_stub/sora_scene/dt_fn_1_139A0.c:
+	.text       start:0x000139A0 end:0x000139E0
 
 mo_stub/sora_scene/fn_1_1BD14.c:
 	.text       start:0x0001BD14 end:0x0001BD18

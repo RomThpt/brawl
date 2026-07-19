@@ -125,6 +125,9 @@ mo_stub/st_fzero/fn_61_3A6C.c:
 mo_stub/st_fzero/fn_61_3A7C.c:
 	.text       start:0x00003A7C end:0x00003A84
 
+mo_stub/st_fzero/dt_fn_61_7D94.c:
+	.text       start:0x00007D94 end:0x00007DD4
+
 mo_stub/st_fzero/fn_61_962C.c:
 	.text       start:0x0000962C end:0x00009634
 
@@ -136,6 +139,12 @@ mo_stub/st_fzero/fn_61_9638.c:
 
 mo_stub/st_fzero/fn_61_9640.c:
 	.text       start:0x00009640 end:0x00009648
+
+mo_stub/st_fzero/dt_fn_61_96CC.c:
+	.text       start:0x000096CC end:0x0000970C
+
+mo_stub/st_fzero/dt_fn_61_970C.c:
+	.text       start:0x0000970C end:0x0000974C
 
 mo_stub/st_fzero/fn_61_974C.c:
 	.text       start:0x0000974C end:0x00009750
@@ -155,6 +164,12 @@ mo_stub/st_fzero/fn_61_99DC.c:
 mo_stub/st_fzero/fn_61_9A2C.c:
 	.text       start:0x00009A2C end:0x00009A30
 
+mo_stub/st_fzero/dt_fn_61_9A30.c:
+	.text       start:0x00009A30 end:0x00009A70
+
+mo_stub/st_fzero/dt_fn_61_9B58.c:
+	.text       start:0x00009B58 end:0x00009B98
+
 mo_stub/st_fzero/bf_fn_61_9CF4.c:
 	.text       start:0x00009CF4 end:0x00009D00
 
@@ -166,6 +181,54 @@ mo_stub/st_fzero/bf_fn_61_9D10.c:
 
 mo_stub/st_fzero/fn_61_9D1C.c:
 	.text       start:0x00009D1C end:0x00009D24
+
+mo_stub/st_fzero/dt_fn_61_9D34.c:
+	.text       start:0x00009D34 end:0x00009D74
+
+mo_stub/st_fzero/dt_fn_61_9DDC.c:
+	.text       start:0x00009DDC end:0x00009E1C
+
+mo_stub/st_fzero/dt_fn_61_A138.c:
+	.text       start:0x0000A138 end:0x0000A178
+
+mo_stub/st_fzero/dt_fn_61_A178.c:
+	.text       start:0x0000A178 end:0x0000A1B8
+
+mo_stub/st_fzero/dt_fn_61_A1B8.c:
+	.text       start:0x0000A1B8 end:0x0000A1F8
+
+mo_stub/st_fzero/dt_fn_61_A1F8.c:
+	.text       start:0x0000A1F8 end:0x0000A238
+
+mo_stub/st_fzero/dt_fn_61_A238.c:
+	.text       start:0x0000A238 end:0x0000A278
+
+mo_stub/st_fzero/dt_fn_61_A278.c:
+	.text       start:0x0000A278 end:0x0000A2B8
+
+mo_stub/st_fzero/dt_fn_61_A2B8.c:
+	.text       start:0x0000A2B8 end:0x0000A2F8
+
+mo_stub/st_fzero/dt_fn_61_A2F8.c:
+	.text       start:0x0000A2F8 end:0x0000A338
+
+mo_stub/st_fzero/dt_fn_61_A338.c:
+	.text       start:0x0000A338 end:0x0000A378
+
+mo_stub/st_fzero/dt_fn_61_A378.c:
+	.text       start:0x0000A378 end:0x0000A3B8
+
+mo_stub/st_fzero/dt_fn_61_A3B8.c:
+	.text       start:0x0000A3B8 end:0x0000A3F8
+
+mo_stub/st_fzero/dt_fn_61_A3F8.c:
+	.text       start:0x0000A3F8 end:0x0000A438
+
+mo_stub/st_fzero/dt_fn_61_A46C.c:
+	.text       start:0x0000A46C end:0x0000A4AC
+
+mo_stub/st_fzero/dt_fn_61_A4AC.c:
+	.text       start:0x0000A4AC end:0x0000A4EC
 
 mo_stub/st_fzero/fn_61_A5EC.c:
 	.text       start:0x0000A5EC end:0x0000A604

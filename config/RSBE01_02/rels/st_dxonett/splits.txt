@@ -113,11 +113,20 @@ mo_stub/st_dxonett/fn_78_26C0.c:
 mo_stub/st_dxonett/fn_78_26C8.c:
 	.text       start:0x000026C8 end:0x000026D8
 
+mo_stub/st_dxonett/dt_fn_78_4070.c:
+	.text       start:0x00004070 end:0x000040B0
+
 mo_stub/st_dxonett/fn_78_468C.c:
 	.text       start:0x0000468C end:0x000046A0
 
 mo_stub/st_dxonett/fn_78_46A0.c:
 	.text       start:0x000046A0 end:0x000046A8
+
+mo_stub/st_dxonett/dt_fn_78_472C.c:
+	.text       start:0x0000472C end:0x0000476C
+
+mo_stub/st_dxonett/dt_fn_78_476C.c:
+	.text       start:0x0000476C end:0x000047AC
 
 mo_stub/st_dxonett/fn_78_47AC.c:
 	.text       start:0x000047AC end:0x000047B0
@@ -137,6 +146,12 @@ mo_stub/st_dxonett/fn_78_4A3C.c:
 mo_stub/st_dxonett/fn_78_4A8C.c:
 	.text       start:0x00004A8C end:0x00004A90
 
+mo_stub/st_dxonett/dt_fn_78_4A90.c:
+	.text       start:0x00004A90 end:0x00004AD0
+
+mo_stub/st_dxonett/dt_fn_78_4BB8.c:
+	.text       start:0x00004BB8 end:0x00004BF8
+
 mo_stub/st_dxonett/bf_fn_78_4D54.c:
 	.text       start:0x00004D54 end:0x00004D60
 
@@ -148,6 +163,54 @@ mo_stub/st_dxonett/bf_fn_78_4D70.c:
 
 mo_stub/st_dxonett/fn_78_4D7C.c:
 	.text       start:0x00004D7C end:0x00004D84
+
+mo_stub/st_dxonett/dt_fn_78_4D94.c:
+	.text       start:0x00004D94 end:0x00004DD4
+
+mo_stub/st_dxonett/dt_fn_78_4E3C.c:
+	.text       start:0x00004E3C end:0x00004E7C
+
+mo_stub/st_dxonett/dt_fn_78_5198.c:
+	.text       start:0x00005198 end:0x000051D8
+
+mo_stub/st_dxonett/dt_fn_78_51D8.c:
+	.text       start:0x000051D8 end:0x00005218
+
+mo_stub/st_dxonett/dt_fn_78_5218.c:
+	.text       start:0x00005218 end:0x00005258
+
+mo_stub/st_dxonett/dt_fn_78_5258.c:
+	.text       start:0x00005258 end:0x00005298
+
+mo_stub/st_dxonett/dt_fn_78_5298.c:
+	.text       start:0x00005298 end:0x000052D8
+
+mo_stub/st_dxonett/dt_fn_78_52D8.c:
+	.text       start:0x000052D8 end:0x00005318
+
+mo_stub/st_dxonett/dt_fn_78_5318.c:
+	.text       start:0x00005318 end:0x00005358
+
+mo_stub/st_dxonett/dt_fn_78_5358.c:
+	.text       start:0x00005358 end:0x00005398
+
+mo_stub/st_dxonett/dt_fn_78_5398.c:
+	.text       start:0x00005398 end:0x000053D8
+
+mo_stub/st_dxonett/dt_fn_78_53D8.c:
+	.text       start:0x000053D8 end:0x00005418
+
+mo_stub/st_dxonett/dt_fn_78_5418.c:
+	.text       start:0x00005418 end:0x00005458
+
+mo_stub/st_dxonett/dt_fn_78_5458.c:
+	.text       start:0x00005458 end:0x00005498
+
+mo_stub/st_dxonett/dt_fn_78_54CC.c:
+	.text       start:0x000054CC end:0x0000550C
+
+mo_stub/st_dxonett/dt_fn_78_550C.c:
+	.text       start:0x0000550C end:0x0000554C
 
 mo_stub/st_dxonett/fn_78_564C.c:
 	.text       start:0x0000564C end:0x00005654

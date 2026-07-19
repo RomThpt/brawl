@@ -33,6 +33,9 @@ mo_stub/sora_menu_collect_viewer/fn_6_817C.c:
 mo_stub/sora_menu_collect_viewer/fn_6_A360.c:
 	.text       start:0x0000A360 end:0x0000A368
 
+mo_stub/sora_menu_collect_viewer/dt_fn_6_A368.c:
+	.text       start:0x0000A368 end:0x0000A3A8
+
 mo_stub/sora_menu_collect_viewer/fn_6_B0FC.c:
 	.text       start:0x0000B0FC end:0x0000B100
 

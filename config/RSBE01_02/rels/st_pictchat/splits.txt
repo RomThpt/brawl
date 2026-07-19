@@ -137,8 +137,17 @@ mo_stub/st_pictchat/fn_73_3FF4.c:
 mo_stub/st_pictchat/fn_73_41D4.c:
 	.text       start:0x000041D4 end:0x000041D8
 
+mo_stub/st_pictchat/dt_fn_73_4518.c:
+	.text       start:0x00004518 end:0x00004558
+
 mo_stub/st_pictchat/fn_73_9370.c:
 	.text       start:0x00009370 end:0x0000938C
+
+mo_stub/st_pictchat/dt_fn_73_9410.c:
+	.text       start:0x00009410 end:0x00009450
+
+mo_stub/st_pictchat/dt_fn_73_9450.c:
+	.text       start:0x00009450 end:0x00009490
 
 mo_stub/st_pictchat/fn_73_9490.c:
 	.text       start:0x00009490 end:0x00009494
@@ -155,8 +164,14 @@ mo_stub/st_pictchat/fn_73_9720.c:
 mo_stub/st_pictchat/fn_73_9770.c:
 	.text       start:0x00009770 end:0x00009774
 
+mo_stub/st_pictchat/dt_fn_73_9774.c:
+	.text       start:0x00009774 end:0x000097B4
+
 mo_stub/st_pictchat/fn_73_97B4.c:
 	.text       start:0x000097B4 end:0x000097BC
+
+mo_stub/st_pictchat/dt_fn_73_9C44.c:
+	.text       start:0x00009C44 end:0x00009C84
 
 mo_stub/st_pictchat/bf_fn_73_9D78.c:
 	.text       start:0x00009D78 end:0x00009D84
@@ -217,6 +232,54 @@ mo_stub/st_pictchat/bf_fn_73_A05C.c:
 
 mo_stub/st_pictchat/fn_73_A068.c:
 	.text       start:0x0000A068 end:0x0000A070
+
+mo_stub/st_pictchat/dt_fn_73_A080.c:
+	.text       start:0x0000A080 end:0x0000A0C0
+
+mo_stub/st_pictchat/dt_fn_73_A128.c:
+	.text       start:0x0000A128 end:0x0000A168
+
+mo_stub/st_pictchat/dt_fn_73_A484.c:
+	.text       start:0x0000A484 end:0x0000A4C4
+
+mo_stub/st_pictchat/dt_fn_73_A4C4.c:
+	.text       start:0x0000A4C4 end:0x0000A504
+
+mo_stub/st_pictchat/dt_fn_73_A504.c:
+	.text       start:0x0000A504 end:0x0000A544
+
+mo_stub/st_pictchat/dt_fn_73_A544.c:
+	.text       start:0x0000A544 end:0x0000A584
+
+mo_stub/st_pictchat/dt_fn_73_A584.c:
+	.text       start:0x0000A584 end:0x0000A5C4
+
+mo_stub/st_pictchat/dt_fn_73_A5C4.c:
+	.text       start:0x0000A5C4 end:0x0000A604
+
+mo_stub/st_pictchat/dt_fn_73_A604.c:
+	.text       start:0x0000A604 end:0x0000A644
+
+mo_stub/st_pictchat/dt_fn_73_A644.c:
+	.text       start:0x0000A644 end:0x0000A684
+
+mo_stub/st_pictchat/dt_fn_73_A684.c:
+	.text       start:0x0000A684 end:0x0000A6C4
+
+mo_stub/st_pictchat/dt_fn_73_A6C4.c:
+	.text       start:0x0000A6C4 end:0x0000A704
+
+mo_stub/st_pictchat/dt_fn_73_A704.c:
+	.text       start:0x0000A704 end:0x0000A744
+
+mo_stub/st_pictchat/dt_fn_73_A744.c:
+	.text       start:0x0000A744 end:0x0000A784
+
+mo_stub/st_pictchat/dt_fn_73_A7B8.c:
+	.text       start:0x0000A7B8 end:0x0000A7F8
+
+mo_stub/st_pictchat/dt_fn_73_A7F8.c:
+	.text       start:0x0000A7F8 end:0x0000A838
 
 mo_stub/st_pictchat/fn_73_A938.c:
 	.text       start:0x0000A938 end:0x0000A944

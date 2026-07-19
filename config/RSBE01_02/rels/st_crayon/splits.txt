@@ -22,8 +22,20 @@ mo_stage/st_crayon/gr_crayon_yakumono.cpp:
 	.text       start:0x00002D6C end:0x00002E10
 	.data       start:0x00000F10 end:0x00001118
 
+mo_stub/st_crayon/dt_fn_56_36B4.c:
+	.text       start:0x000036B4 end:0x000036F4
+
+mo_stub/st_crayon/dt_fn_56_36F4.c:
+	.text       start:0x000036F4 end:0x00003734
+
 mo_stub/st_crayon/fn_56_500C.c:
 	.text       start:0x0000500C end:0x00005028
+
+mo_stub/st_crayon/dt_fn_56_50AC.c:
+	.text       start:0x000050AC end:0x000050EC
+
+mo_stub/st_crayon/dt_fn_56_50EC.c:
+	.text       start:0x000050EC end:0x0000512C
 
 mo_stub/st_crayon/fn_56_512C.c:
 	.text       start:0x0000512C end:0x00005130
@@ -76,6 +88,9 @@ mo_stub/st_crayon/fn_56_54B0.c:
 mo_stub/st_crayon/fn_56_5500.c:
 	.text       start:0x00005500 end:0x00005504
 
+mo_stub/st_crayon/dt_fn_56_5660.c:
+	.text       start:0x00005660 end:0x000056A0
+
 mo_stub/st_crayon/bf_fn_56_5844.c:
 	.text       start:0x00005844 end:0x00005850
 
@@ -99,6 +114,12 @@ mo_stub/st_crayon/bf_fn_56_5984.c:
 
 mo_stub/st_crayon/fn_56_5990.c:
 	.text       start:0x00005990 end:0x00005998
+
+mo_stub/st_crayon/dt_fn_56_5A10.c:
+	.text       start:0x00005A10 end:0x00005A50
+
+mo_stub/st_crayon/dt_fn_56_61AC.c:
+	.text       start:0x000061AC end:0x000061EC
 
 mo_stub/st_crayon/fn_56_62EC.c:
 	.text       start:0x000062EC end:0x000062F8

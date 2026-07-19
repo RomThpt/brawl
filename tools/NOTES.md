@@ -200,3 +200,19 @@ meurt immédiatement — c'est le chemin de génération des appels virtuels du
 front-end C++, pas une conséquence de la forme du code. Conclusion ferme : ce
 gisement (~1750 fonctions en comptant les variantes 16o, 20o et 52o) exige de
 vraies méthodes virtuelles C++.
+
+## CORRECTION : les destructeurs deleting TRIVIAUX se matchent (1417 fonctions)
+J'avais conclu plus haut que les destructeurs deleting étaient hors de portée du
+C. C'était trop général : je n'avais testé que la variante COMPLEXE (qui appelle
+un destructeur réel avant operator delete), dont l'ordonnancement résistait.
+
+La variante TRIVIALE — classes sans membre à détruire — est directe :
+    if (p) { if (flag > 0) operator_delete(p); } return p;
+64 octets, 16/16 instructions identiques au premier essai.
+
+LEÇON GÉNÉRALE : quand un motif échoue, tester ses VARIANTES PLUS SIMPLES avant
+de condamner la famille entière. Cette sur-généralisation m'a coûté ~1400
+fonctions (0.57% du code) le temps de m'en apercevoir.
+
+Le callee est lu dans la relocation REL24 plutôt que supposé, pour qu'un module
+appelant autre chose soit ignoré au lieu d'être mal matché.

@@ -6,6 +6,15 @@ Sections:
 	.data       type:data align:32
 	.bss        type:bss align:8
 
+mo_stub/sora_menu_main/dt_fn_2_37C.c:
+	.text       start:0x0000037C end:0x000003BC
+
+mo_stub/sora_menu_main/dt_fn_2_300C.c:
+	.text       start:0x0000300C end:0x0000304C
+
+mo_stub/sora_menu_main/dt_fn_2_304C.c:
+	.text       start:0x0000304C end:0x0000308C
+
 mo_stub/sora_menu_main/fn_2_4160.c:
 	.text       start:0x00004160 end:0x0000416C
 

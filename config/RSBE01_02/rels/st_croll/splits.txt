@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/st_croll/dt_fn_90_2F8.c:
+	.text       start:0x000002F8 end:0x00000338
+
 mo_stub/st_croll/fn_90_404.c:
 	.text       start:0x00000404 end:0x0000040C
 
@@ -28,6 +31,9 @@ mo_stub/st_croll/fn_90_4C38.c:
 
 mo_stub/st_croll/fn_90_519C.c:
 	.text       start:0x0000519C end:0x000051A4
+
+mo_stub/st_croll/dt_fn_90_645C.c:
+	.text       start:0x0000645C end:0x0000649C
 
 mo_stub/st_croll/fn_90_7A34.c:
 	.text       start:0x00007A34 end:0x00007A3C

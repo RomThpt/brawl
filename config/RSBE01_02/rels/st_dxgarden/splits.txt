@@ -74,8 +74,17 @@ mo_stub/st_dxgarden/fn_77_FF8.c:
 mo_stub/st_dxgarden/fn_77_1020.c:
 	.text       start:0x00001020 end:0x00001038
 
+mo_stub/st_dxgarden/dt_fn_77_2560.c:
+	.text       start:0x00002560 end:0x000025A0
+
 mo_stub/st_dxgarden/fn_77_2FB0.c:
 	.text       start:0x00002FB0 end:0x00002FCC
+
+mo_stub/st_dxgarden/dt_fn_77_3050.c:
+	.text       start:0x00003050 end:0x00003090
+
+mo_stub/st_dxgarden/dt_fn_77_3090.c:
+	.text       start:0x00003090 end:0x000030D0
 
 mo_stub/st_dxgarden/fn_77_30D0.c:
 	.text       start:0x000030D0 end:0x000030D4
@@ -92,6 +101,9 @@ mo_stub/st_dxgarden/fn_77_3360.c:
 mo_stub/st_dxgarden/fn_77_33B0.c:
 	.text       start:0x000033B0 end:0x000033B4
 
+mo_stub/st_dxgarden/dt_fn_77_349C.c:
+	.text       start:0x0000349C end:0x000034DC
+
 mo_stub/st_dxgarden/bf_fn_77_3638.c:
 	.text       start:0x00003638 end:0x00003644
 
@@ -103,6 +115,9 @@ mo_stub/st_dxgarden/bf_fn_77_3654.c:
 
 mo_stub/st_dxgarden/fn_77_3660.c:
 	.text       start:0x00003660 end:0x00003668
+
+mo_stub/st_dxgarden/dt_fn_77_3678.c:
+	.text       start:0x00003678 end:0x000036B8
 
 mo_stub/st_dxgarden/fn_77_3B70.c:
 	.text       start:0x00003B70 end:0x00003B80
