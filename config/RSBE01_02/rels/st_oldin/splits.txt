@@ -26,6 +26,12 @@ mo_stub/st_oldin/fn_53_3F68.c:
 mo_stub/st_oldin/fn_53_3F94.c:
 	.text       start:0x00003F94 end:0x00003F9C
 
+mo_stub/st_oldin/gl_fn_53_3F9C.c:
+	.text       start:0x00003F9C end:0x00003FA8
+
+mo_stub/st_oldin/gl_fn_53_3FA8.c:
+	.text       start:0x00003FA8 end:0x00003FB4
+
 mo_stub/st_oldin/fn_53_3FD8.c:
 	.text       start:0x00003FD8 end:0x00004000
 
@@ -40,6 +46,9 @@ mo_stub/st_oldin/fn_53_4028.c:
 
 mo_stub/st_oldin/fn_53_4030.c:
 	.text       start:0x00004030 end:0x00004040
+
+mo_stub/st_oldin/gl_fn_53_4040.c:
+	.text       start:0x00004040 end:0x0000404C
 
 mo_stub/st_oldin/fn_53_404C.c:
 	.text       start:0x0000404C end:0x00004050

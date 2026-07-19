@@ -23,6 +23,12 @@ mo_stub/st_dxpstadium/fn_83_2C0C.c:
 mo_stub/st_dxpstadium/fn_83_2C30.c:
 	.text       start:0x00002C30 end:0x00002C38
 
+mo_stub/st_dxpstadium/gl_fn_83_2C38.c:
+	.text       start:0x00002C38 end:0x00002C44
+
+mo_stub/st_dxpstadium/gl_fn_83_2C44.c:
+	.text       start:0x00002C44 end:0x00002C50
+
 mo_stub/st_dxpstadium/fn_83_2C74.c:
 	.text       start:0x00002C74 end:0x00002C7C
 
@@ -37,6 +43,9 @@ mo_stub/st_dxpstadium/fn_83_2CC4.c:
 
 mo_stub/st_dxpstadium/fn_83_2CCC.c:
 	.text       start:0x00002CCC end:0x00002CDC
+
+mo_stub/st_dxpstadium/gl_fn_83_2CDC.c:
+	.text       start:0x00002CDC end:0x00002CE8
 
 mo_stub/st_dxpstadium/fn_83_2CE8.c:
 	.text       start:0x00002CE8 end:0x00002CF4

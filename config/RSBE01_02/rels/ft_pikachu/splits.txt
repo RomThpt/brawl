@@ -191,6 +191,9 @@ mo_stub/ft_pikachu/fn_98_1154C.c:
 mo_stub/ft_pikachu/fn_98_14290.c:
 	.text       start:0x00014290 end:0x00014298
 
+mo_stub/ft_pikachu/gl_fn_98_1448C.c:
+	.text       start:0x0001448C end:0x00014498
+
 mo_stub/ft_pikachu/fn_98_14B10.c:
 	.text       start:0x00014B10 end:0x00014B18
 
@@ -206,11 +209,23 @@ mo_stub/ft_pikachu/fn_98_14C84.c:
 mo_stub/ft_pikachu/fn_98_14C8C.c:
 	.text       start:0x00014C8C end:0x00014CA4
 
+mo_stub/ft_pikachu/gl_fn_98_14CA4.c:
+	.text       start:0x00014CA4 end:0x00014CB0
+
 mo_stub/ft_pikachu/fn_98_14CB0.c:
 	.text       start:0x00014CB0 end:0x00014CB8
 
+mo_stub/ft_pikachu/gl_fn_98_14CB8.c:
+	.text       start:0x00014CB8 end:0x00014CC4
+
 mo_stub/ft_pikachu/fn_98_14CC4.c:
 	.text       start:0x00014CC4 end:0x00014CCC
+
+mo_stub/ft_pikachu/gl_fn_98_14CCC.c:
+	.text       start:0x00014CCC end:0x00014CD8
+
+mo_stub/ft_pikachu/gl_fn_98_14CD8.c:
+	.text       start:0x00014CD8 end:0x00014CE4
 
 mo_stub/ft_pikachu/fn_98_14CE4.c:
 	.text       start:0x00014CE4 end:0x00014CF8

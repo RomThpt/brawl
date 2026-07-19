@@ -89,6 +89,12 @@ mo_stub/st_pirates/fn_52_33B8.c:
 mo_stub/st_pirates/fn_52_33E4.c:
 	.text       start:0x000033E4 end:0x000033EC
 
+mo_stub/st_pirates/gl_fn_52_33EC.c:
+	.text       start:0x000033EC end:0x000033F8
+
+mo_stub/st_pirates/gl_fn_52_33F8.c:
+	.text       start:0x000033F8 end:0x00003404
+
 mo_stub/st_pirates/fn_52_3428.c:
 	.text       start:0x00003428 end:0x00003448
 
@@ -103,6 +109,9 @@ mo_stub/st_pirates/fn_52_3478.c:
 
 mo_stub/st_pirates/fn_52_3480.c:
 	.text       start:0x00003480 end:0x00003490
+
+mo_stub/st_pirates/gl_fn_52_3490.c:
+	.text       start:0x00003490 end:0x0000349C
 
 mo_stub/st_pirates/fn_52_349C.c:
 	.text       start:0x0000349C end:0x000034B8

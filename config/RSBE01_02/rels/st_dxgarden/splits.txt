@@ -32,6 +32,12 @@ mo_stub/st_dxgarden/fn_77_BB0.c:
 mo_stub/st_dxgarden/fn_77_BD4.c:
 	.text       start:0x00000BD4 end:0x00000BDC
 
+mo_stub/st_dxgarden/gl_fn_77_BDC.c:
+	.text       start:0x00000BDC end:0x00000BE8
+
+mo_stub/st_dxgarden/gl_fn_77_BE8.c:
+	.text       start:0x00000BE8 end:0x00000BF4
+
 mo_stub/st_dxgarden/fn_77_C18.c:
 	.text       start:0x00000C18 end:0x00000C20
 
@@ -43,6 +49,9 @@ mo_stub/st_dxgarden/fn_77_C60.c:
 
 mo_stub/st_dxgarden/fn_77_C68.c:
 	.text       start:0x00000C68 end:0x00000C80
+
+mo_stub/st_dxgarden/gl_fn_77_C80.c:
+	.text       start:0x00000C80 end:0x00000C8C
 
 mo_stub/st_dxgarden/fn_77_C8C.c:
 	.text       start:0x00000C8C end:0x00000C90

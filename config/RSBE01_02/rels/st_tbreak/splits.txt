@@ -35,11 +35,20 @@ mo_stub/st_tbreak/fn_89_1930.c:
 mo_stub/st_tbreak/fn_89_195C.c:
 	.text       start:0x0000195C end:0x00001964
 
+mo_stub/st_tbreak/gl_fn_89_1964.c:
+	.text       start:0x00001964 end:0x00001970
+
+mo_stub/st_tbreak/gl_fn_89_1970.c:
+	.text       start:0x00001970 end:0x0000197C
+
 mo_stub/st_tbreak/fn_89_19A0.c:
 	.text       start:0x000019A0 end:0x000019C4
 
 mo_stub/st_tbreak/fn_89_19E0.c:
 	.text       start:0x000019E0 end:0x00001A00
+
+mo_stub/st_tbreak/gl_fn_89_1A00.c:
+	.text       start:0x00001A00 end:0x00001A0C
 
 mo_stub/st_tbreak/fn_89_1A0C.c:
 	.text       start:0x00001A0C end:0x00001A10

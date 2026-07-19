@@ -50,6 +50,12 @@ mo_stub/st_donkey/fn_50_1D5C.c:
 mo_stub/st_donkey/fn_50_1D78.c:
 	.text       start:0x00001D78 end:0x00001D80
 
+mo_stub/st_donkey/gl_fn_50_1D80.c:
+	.text       start:0x00001D80 end:0x00001D8C
+
+mo_stub/st_donkey/gl_fn_50_1D8C.c:
+	.text       start:0x00001D8C end:0x00001D98
+
 mo_stub/st_donkey/fn_50_1DBC.c:
 	.text       start:0x00001DBC end:0x00001DCC
 
@@ -64,6 +70,9 @@ mo_stub/st_donkey/fn_50_1E0C.c:
 
 mo_stub/st_donkey/fn_50_1E14.c:
 	.text       start:0x00001E14 end:0x00001E24
+
+mo_stub/st_donkey/gl_fn_50_1E24.c:
+	.text       start:0x00001E24 end:0x00001E30
 
 mo_stub/st_donkey/fn_50_1E30.c:
 	.text       start:0x00001E30 end:0x00001E44

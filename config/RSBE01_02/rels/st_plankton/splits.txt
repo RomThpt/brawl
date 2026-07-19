@@ -41,6 +41,12 @@ mo_stub/st_plankton/fn_74_2418.c:
 mo_stub/st_plankton/fn_74_244C.c:
 	.text       start:0x0000244C end:0x00002454
 
+mo_stub/st_plankton/gl_fn_74_2454.c:
+	.text       start:0x00002454 end:0x00002460
+
+mo_stub/st_plankton/gl_fn_74_2460.c:
+	.text       start:0x00002460 end:0x0000246C
+
 mo_stub/st_plankton/fn_74_2490.c:
 	.text       start:0x00002490 end:0x000024B0
 
@@ -55,6 +61,9 @@ mo_stub/st_plankton/fn_74_24E0.c:
 
 mo_stub/st_plankton/fn_74_24E8.c:
 	.text       start:0x000024E8 end:0x000024F8
+
+mo_stub/st_plankton/gl_fn_74_24F8.c:
+	.text       start:0x000024F8 end:0x00002504
 
 mo_stub/st_plankton/fn_74_2504.c:
 	.text       start:0x00002504 end:0x00002528
@@ -89,11 +98,23 @@ mo_stub/st_plankton/fn_74_5A20.c:
 mo_stub/st_plankton/fn_74_5A38.c:
 	.text       start:0x00005A38 end:0x00005A3C
 
+mo_stub/st_plankton/gl_fn_74_5A3C.c:
+	.text       start:0x00005A3C end:0x00005A48
+
 mo_stub/st_plankton/fn_74_5A48.c:
 	.text       start:0x00005A48 end:0x00005A64
 
 mo_stub/st_plankton/fn_74_5A64.c:
 	.text       start:0x00005A64 end:0x00005A68
+
+mo_stub/st_plankton/gl_fn_74_5A68.c:
+	.text       start:0x00005A68 end:0x00005A74
+
+mo_stub/st_plankton/gl_fn_74_5A74.c:
+	.text       start:0x00005A74 end:0x00005A80
+
+mo_stub/st_plankton/gl_fn_74_5A80.c:
+	.text       start:0x00005A80 end:0x00005A8C
 
 mo_stub/st_plankton/fn_74_5A8C.c:
 	.text       start:0x00005A8C end:0x00005A9C
@@ -106,6 +127,9 @@ mo_stub/st_plankton/fn_74_5ABC.c:
 
 mo_stub/st_plankton/fn_74_5AD4.c:
 	.text       start:0x00005AD4 end:0x00005AE4
+
+mo_stub/st_plankton/gl_fn_74_5AE4.c:
+	.text       start:0x00005AE4 end:0x00005AF0
 
 mo_stub/st_plankton/fn_74_5AF0.c:
 	.text       start:0x00005AF0 end:0x00005B08
