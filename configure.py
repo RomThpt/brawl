@@ -5006,6 +5006,13 @@ config.libs = [
             Object(Matching, "mo_stub/sora_enemy/fam_fn_41_414E8.c"),
             Object(Matching, "mo_stub/sora_enemy/fam_fn_41_58508.c"),
             Object(Matching, "mo_stub/sora_enemy/fam_fn_41_68BDC.c"),
+            Object(Matching, "mo_stub/sora_enemy/fam_fn_41_38BB4.c"),
+            Object(Matching, "mo_stub/sora_enemy/fam_fn_41_4DD90.c"),
+            Object(Matching, "mo_stub/sora_enemy/fam_fn_41_52A00.c"),
+            Object(Matching, "mo_stub/sora_enemy/fam_fn_41_53E90.c"),
+            Object(Matching, "mo_stub/sora_enemy/fam_fn_41_56540.c"),
+            Object(Matching, "mo_stub/sora_enemy/fam_fn_41_5C0FC.c"),
+            Object(Matching, "mo_stub/sora_enemy/fam_fn_41_5DFD0.c"),
         ],
     },
     {

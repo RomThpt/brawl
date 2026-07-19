@@ -106,23 +106,29 @@ for sym in sorted(glob.glob(os.path.join(ROOT, "config/RSBE01_02/rels/*/symbols.
         # plain arithmetic. Count it so we can rank those families down.
         nv = sum(1 for i in range(0, sz - 3, 4)
                  if struct.unpack('>I', code[i:i + 4])[0] == 0x4E800421)
-        meta[h] = (len(inside), nv)
+        # leaf functions (no stack frame) are far easier: no argument-setup
+        # scheduling to reproduce. stwu r1,-N(r1) opens a frame.
+        w0 = struct.unpack('>I', code[0:4])[0]
+        frame = (w0 >> 26) == 37 and ((w0 >> 16) & 31) == 1
+        meta[h] = (len(inside), nv, frame)
 
 MAX_VCALL = int(os.environ.get("MAX_VCALL", "999"))
+LEAF_ONLY = os.environ.get("LEAF_ONLY") == "1"
 rows = []
 for h, v in groups.items():
     if len(v) < 2:
         continue
-    nrel, nv = meta[h]
-    if nrel > MAX_REL or nv > MAX_VCALL:
+    nrel, nv, frame = meta[h]
+    if nrel > MAX_REL or nv > MAX_VCALL or (LEAF_ONLY and frame):
         continue
-    rows.append((len(v) * v[0][3], len(v), v[0][3], nrel, nv, v[0]))
+    rows.append((len(v) * v[0][3], len(v), v[0][3], nrel, nv, frame, v[0]))
 rows.sort(reverse=True)
 
 cum = sum(r[0] for r in rows)
-print(f"familles : <={MAX_REL} reloc, <={MAX_VCALL} appels virtuels, taille >={MIN_SIZE}o "
-      f"-> {len(rows)} familles")
+print(f"familles : <={MAX_REL} reloc, <={MAX_VCALL} appels virtuels"
+      f"{', sans cadre de pile' if LEAF_ONLY else ''}, taille >={MIN_SIZE}o -> {len(rows)}")
 print(f"gain cumulé si toutes décompilées : {cum} o ({100*cum/TOTAL_CODE:.3f}% du code)\n")
-print(f"{'gain':>9} {'inst':>5} {'taille':>7} {'reloc':>6} {'vcall':>6}  module / fonction")
-for tot, cnt, sz, nrel, nv, ref in rows[:TOP_N]:
-    print(f"{tot:9d} {cnt:5d} {sz:7d} {nrel:6d} {nv:6d}  {ref[0]} {ref[1]} @0x{ref[2]:X}")
+print(f"{'gain':>9} {'inst':>5} {'taille':>7} {'reloc':>6} {'vcall':>6} {'pile':>5}  module / fonction")
+for tot, cnt, sz, nrel, nv, frame, ref in rows[:TOP_N]:
+    print(f"{tot:9d} {cnt:5d} {sz:7d} {nrel:6d} {nv:6d} {'oui' if frame else 'non':>5}  "
+          f"{ref[0]} {ref[1]} @0x{ref[2]:X}")
