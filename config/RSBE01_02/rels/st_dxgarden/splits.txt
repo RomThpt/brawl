@@ -116,6 +116,9 @@ mo_stub/st_dxgarden/bf_fn_77_3BCC.c:
 mo_stub/st_dxgarden/bf_fn_77_3BDC.c:
 	.text       start:0x00003BDC end:0x00003BEC
 
+mo_stub/st_dxgarden/bf_fn_77_3BFC.c:
+	.text       start:0x00003BFC end:0x00003C0C
+
 mo_stub/st_dxgarden/bf_fn_77_3C0C.c:
 	.text       start:0x00003C0C end:0x00003C1C
 
@@ -140,6 +143,9 @@ mo_stub/st_dxgarden/bf_fn_77_3C78.c:
 mo_stub/st_dxgarden/bf_fn_77_3C88.c:
 	.text       start:0x00003C88 end:0x00003C98
 
+mo_stub/st_dxgarden/bf_fn_77_3CA8.c:
+	.text       start:0x00003CA8 end:0x00003CB8
+
 mo_stub/st_dxgarden/bf_fn_77_3CB8.c:
 	.text       start:0x00003CB8 end:0x00003CC8
 
@@ -163,6 +169,9 @@ mo_stub/st_dxgarden/bf_fn_77_3D2C.c:
 
 mo_stub/st_dxgarden/bf_fn_77_3D3C.c:
 	.text       start:0x00003D3C end:0x00003D4C
+
+mo_stub/st_dxgarden/bf_fn_77_3D5C.c:
+	.text       start:0x00003D5C end:0x00003D6C
 
 mo_stub/st_dxgarden/bf_fn_77_3D6C.c:
 	.text       start:0x00003D6C end:0x00003D7C

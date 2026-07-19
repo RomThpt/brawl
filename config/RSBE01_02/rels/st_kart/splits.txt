@@ -179,6 +179,9 @@ mo_stub/st_kart/bf_fn_49_6B64.c:
 mo_stub/st_kart/bf_fn_49_6B74.c:
 	.text       start:0x00006B74 end:0x00006B84
 
+mo_stub/st_kart/bf_fn_49_6B94.c:
+	.text       start:0x00006B94 end:0x00006BA4
+
 mo_stub/st_kart/bf_fn_49_6BA4.c:
 	.text       start:0x00006BA4 end:0x00006BB4
 
@@ -209,6 +212,9 @@ mo_stub/st_kart/bf_fn_49_6C2C.c:
 mo_stub/st_kart/bf_fn_49_6C3C.c:
 	.text       start:0x00006C3C end:0x00006C4C
 
+mo_stub/st_kart/bf_fn_49_6C5C.c:
+	.text       start:0x00006C5C end:0x00006C6C
+
 mo_stub/st_kart/bf_fn_49_6C6C.c:
 	.text       start:0x00006C6C end:0x00006C7C
 
@@ -232,6 +238,9 @@ mo_stub/st_kart/bf_fn_49_6CD8.c:
 
 mo_stub/st_kart/bf_fn_49_6CE8.c:
 	.text       start:0x00006CE8 end:0x00006CF8
+
+mo_stub/st_kart/bf_fn_49_6D08.c:
+	.text       start:0x00006D08 end:0x00006D18
 
 mo_stub/st_kart/bf_fn_49_6D18.c:
 	.text       start:0x00006D18 end:0x00006D28
@@ -257,6 +266,9 @@ mo_stub/st_kart/bf_fn_49_6D8C.c:
 mo_stub/st_kart/bf_fn_49_6D9C.c:
 	.text       start:0x00006D9C end:0x00006DAC
 
+mo_stub/st_kart/bf_fn_49_6DBC.c:
+	.text       start:0x00006DBC end:0x00006DCC
+
 mo_stub/st_kart/bf_fn_49_6DCC.c:
 	.text       start:0x00006DCC end:0x00006DDC
 
@@ -281,6 +293,9 @@ mo_stub/st_kart/bf_fn_49_6E38.c:
 mo_stub/st_kart/bf_fn_49_6E48.c:
 	.text       start:0x00006E48 end:0x00006E58
 
+mo_stub/st_kart/bf_fn_49_6E68.c:
+	.text       start:0x00006E68 end:0x00006E78
+
 mo_stub/st_kart/bf_fn_49_6E78.c:
 	.text       start:0x00006E78 end:0x00006E88
 
@@ -304,6 +319,9 @@ mo_stub/st_kart/bf_fn_49_6EEC.c:
 
 mo_stub/st_kart/bf_fn_49_6EFC.c:
 	.text       start:0x00006EFC end:0x00006F0C
+
+mo_stub/st_kart/bf_fn_49_6F1C.c:
+	.text       start:0x00006F1C end:0x00006F2C
 
 mo_stub/st_kart/bf_fn_49_6F2C.c:
 	.text       start:0x00006F2C end:0x00006F3C
@@ -331,6 +349,9 @@ mo_stub/st_kart/bf_fn_49_6FB4.c:
 
 mo_stub/st_kart/bf_fn_49_6FC4.c:
 	.text       start:0x00006FC4 end:0x00006FD4
+
+mo_stub/st_kart/bf_fn_49_6FE4.c:
+	.text       start:0x00006FE4 end:0x00006FF4
 
 mo_stub/st_kart/bf_fn_49_6FF4.c:
 	.text       start:0x00006FF4 end:0x00007004

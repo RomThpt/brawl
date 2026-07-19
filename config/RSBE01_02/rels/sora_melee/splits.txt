@@ -179,6 +179,9 @@ mo_stub/sora_melee/bf_fn_27_1D320.c:
 mo_stub/sora_melee/bf_fn_27_1D330.c:
 	.text       start:0x0001D330 end:0x0001D340
 
+mo_stub/sora_melee/bf_fn_27_1D350.c:
+	.text       start:0x0001D350 end:0x0001D360
+
 mo_stub/sora_melee/bf_fn_27_1D360.c:
 	.text       start:0x0001D360 end:0x0001D370
 
@@ -208,6 +211,9 @@ mo_stub/sora_melee/bf_fn_27_1D3E8.c:
 
 mo_stub/sora_melee/bf_fn_27_1D3F8.c:
 	.text       start:0x0001D3F8 end:0x0001D408
+
+mo_stub/sora_melee/bf_fn_27_1D418.c:
+	.text       start:0x0001D418 end:0x0001D428
 
 mo_stub/sora_melee/bf_fn_27_1D428.c:
 	.text       start:0x0001D428 end:0x0001D438
@@ -239,6 +245,9 @@ mo_stub/sora_melee/bf_fn_27_1D4B0.c:
 mo_stub/sora_melee/bf_fn_27_1D4C0.c:
 	.text       start:0x0001D4C0 end:0x0001D4D0
 
+mo_stub/sora_melee/bf_fn_27_1D4E0.c:
+	.text       start:0x0001D4E0 end:0x0001D4F0
+
 mo_stub/sora_melee/bf_fn_27_1D4F0.c:
 	.text       start:0x0001D4F0 end:0x0001D500
 
@@ -265,6 +274,9 @@ mo_stub/sora_melee/bf_fn_27_1D578.c:
 
 mo_stub/sora_melee/bf_fn_27_1D588.c:
 	.text       start:0x0001D588 end:0x0001D598
+
+mo_stub/sora_melee/bf_fn_27_1D5A8.c:
+	.text       start:0x0001D5A8 end:0x0001D5B8
 
 mo_stub/sora_melee/bf_fn_27_1D5B8.c:
 	.text       start:0x0001D5B8 end:0x0001D5C8
@@ -426,6 +438,9 @@ mo_stub/sora_melee/bf_fn_27_38D8C.c:
 mo_stub/sora_melee/bf_fn_27_38D9C.c:
 	.text       start:0x00038D9C end:0x00038DAC
 
+mo_stub/sora_melee/bf_fn_27_38DBC.c:
+	.text       start:0x00038DBC end:0x00038DCC
+
 mo_stub/sora_melee/bf_fn_27_38DCC.c:
 	.text       start:0x00038DCC end:0x00038DDC
 
@@ -482,6 +497,9 @@ mo_stub/sora_melee/bf_fn_27_41A0C.c:
 
 mo_stub/sora_melee/bf_fn_27_41A1C.c:
 	.text       start:0x00041A1C end:0x00041A2C
+
+mo_stub/sora_melee/bf_fn_27_41A3C.c:
+	.text       start:0x00041A3C end:0x00041A4C
 
 mo_stub/sora_melee/bf_fn_27_41A4C.c:
 	.text       start:0x00041A4C end:0x00041A5C
@@ -570,6 +588,9 @@ mo_stub/sora_melee/bf_fn_27_4CB34.c:
 mo_stub/sora_melee/bf_fn_27_4CB44.c:
 	.text       start:0x0004CB44 end:0x0004CB54
 
+mo_stub/sora_melee/bf_fn_27_4CB64.c:
+	.text       start:0x0004CB64 end:0x0004CB74
+
 mo_stub/sora_melee/bf_fn_27_4CB74.c:
 	.text       start:0x0004CB74 end:0x0004CB84
 
@@ -636,6 +657,9 @@ mo_stub/sora_melee/bf_fn_27_542FC.c:
 mo_stub/sora_melee/bf_fn_27_5430C.c:
 	.text       start:0x0005430C end:0x0005431C
 
+mo_stub/sora_melee/bf_fn_27_5432C.c:
+	.text       start:0x0005432C end:0x0005433C
+
 mo_stub/sora_melee/bf_fn_27_5433C.c:
 	.text       start:0x0005433C end:0x0005434C
 
@@ -665,6 +689,9 @@ mo_stub/sora_melee/bf_fn_27_543C4.c:
 
 mo_stub/sora_melee/bf_fn_27_543D4.c:
 	.text       start:0x000543D4 end:0x000543E4
+
+mo_stub/sora_melee/bf_fn_27_543F4.c:
+	.text       start:0x000543F4 end:0x00054404
 
 mo_stub/sora_melee/bf_fn_27_54404.c:
 	.text       start:0x00054404 end:0x00054414
@@ -1031,6 +1058,9 @@ mo_stub/sora_melee/bf_fn_27_72DDC.c:
 mo_stub/sora_melee/bf_fn_27_72DEC.c:
 	.text       start:0x00072DEC end:0x00072DFC
 
+mo_stub/sora_melee/bf_fn_27_72E0C.c:
+	.text       start:0x00072E0C end:0x00072E1C
+
 mo_stub/sora_melee/bf_fn_27_72E1C.c:
 	.text       start:0x00072E1C end:0x00072E2C
 
@@ -1112,6 +1142,9 @@ mo_stub/sora_melee/bf_fn_27_761DC.c:
 mo_stub/sora_melee/bf_fn_27_761EC.c:
 	.text       start:0x000761EC end:0x000761FC
 
+mo_stub/sora_melee/bf_fn_27_7620C.c:
+	.text       start:0x0007620C end:0x0007621C
+
 mo_stub/sora_melee/bf_fn_27_7621C.c:
 	.text       start:0x0007621C end:0x0007622C
 
@@ -1156,6 +1189,9 @@ mo_stub/sora_melee/bf_fn_27_7AB7C.c:
 
 mo_stub/sora_melee/bf_fn_27_7AB8C.c:
 	.text       start:0x0007AB8C end:0x0007AB9C
+
+mo_stub/sora_melee/bf_fn_27_7ABAC.c:
+	.text       start:0x0007ABAC end:0x0007ABBC
 
 mo_stub/sora_melee/bf_fn_27_7ABBC.c:
 	.text       start:0x0007ABBC end:0x0007ABCC
@@ -3227,6 +3263,9 @@ mo_stub/sora_melee/bf_fn_27_88CF0.c:
 mo_stub/sora_melee/bf_fn_27_88D00.c:
 	.text       start:0x00088D00 end:0x00088D10
 
+mo_stub/sora_melee/bf_fn_27_88D20.c:
+	.text       start:0x00088D20 end:0x00088D30
+
 mo_stub/sora_melee/bf_fn_27_88D30.c:
 	.text       start:0x00088D30 end:0x00088D40
 
@@ -3323,6 +3362,9 @@ mo_stub/sora_melee/bf_fn_27_92738.c:
 mo_stub/sora_melee/bf_fn_27_92748.c:
 	.text       start:0x00092748 end:0x00092758
 
+mo_stub/sora_melee/bf_fn_27_92768.c:
+	.text       start:0x00092768 end:0x00092778
+
 mo_stub/sora_melee/bf_fn_27_92778.c:
 	.text       start:0x00092778 end:0x00092788
 
@@ -3413,6 +3455,9 @@ mo_stub/sora_melee/bf_fn_27_A1B18.c:
 mo_stub/sora_melee/bf_fn_27_A1B28.c:
 	.text       start:0x000A1B28 end:0x000A1B38
 
+mo_stub/sora_melee/bf_fn_27_A1B44.c:
+	.text       start:0x000A1B44 end:0x000A1B54
+
 mo_stub/sora_melee/bf_fn_27_A1B54.c:
 	.text       start:0x000A1B54 end:0x000A1B64
 
@@ -3439,6 +3484,9 @@ mo_stub/sora_melee/bf_fn_27_A1BD8.c:
 
 mo_stub/sora_melee/bf_fn_27_A1BE8.c:
 	.text       start:0x000A1BE8 end:0x000A1BF8
+
+mo_stub/sora_melee/bf_fn_27_A1C08.c:
+	.text       start:0x000A1C08 end:0x000A1C18
 
 mo_stub/sora_melee/bf_fn_27_A1C18.c:
 	.text       start:0x000A1C18 end:0x000A1C28
@@ -3525,6 +3573,9 @@ mo_stub/sora_melee/bf_fn_27_AAA38.c:
 mo_stub/sora_melee/bf_fn_27_AAA48.c:
 	.text       start:0x000AAA48 end:0x000AAA58
 
+mo_stub/sora_melee/bf_fn_27_AAA68.c:
+	.text       start:0x000AAA68 end:0x000AAA78
+
 mo_stub/sora_melee/bf_fn_27_AAA78.c:
 	.text       start:0x000AAA78 end:0x000AAA88
 
@@ -3563,6 +3614,9 @@ mo_stub/sora_melee/bf_fn_27_AC2E0.c:
 
 mo_stub/sora_melee/bf_fn_27_AC2F0.c:
 	.text       start:0x000AC2F0 end:0x000AC300
+
+mo_stub/sora_melee/bf_fn_27_AC310.c:
+	.text       start:0x000AC310 end:0x000AC320
 
 mo_stub/sora_melee/bf_fn_27_AC320.c:
 	.text       start:0x000AC320 end:0x000AC330
@@ -3605,6 +3659,9 @@ mo_stub/sora_melee/bf_fn_27_AE62C.c:
 
 mo_stub/sora_melee/bf_fn_27_AE63C.c:
 	.text       start:0x000AE63C end:0x000AE64C
+
+mo_stub/sora_melee/bf_fn_27_AE65C.c:
+	.text       start:0x000AE65C end:0x000AE66C
 
 mo_stub/sora_melee/bf_fn_27_AE66C.c:
 	.text       start:0x000AE66C end:0x000AE67C
@@ -3666,6 +3723,9 @@ mo_stub/sora_melee/bf_fn_27_B0374.c:
 mo_stub/sora_melee/bf_fn_27_B0384.c:
 	.text       start:0x000B0384 end:0x000B0394
 
+mo_stub/sora_melee/bf_fn_27_B03A4.c:
+	.text       start:0x000B03A4 end:0x000B03B4
+
 mo_stub/sora_melee/bf_fn_27_B03B4.c:
 	.text       start:0x000B03B4 end:0x000B03C4
 
@@ -3692,6 +3752,9 @@ mo_stub/sora_melee/bf_fn_27_B042C.c:
 
 mo_stub/sora_melee/bf_fn_27_B043C.c:
 	.text       start:0x000B043C end:0x000B044C
+
+mo_stub/sora_melee/bf_fn_27_B045C.c:
+	.text       start:0x000B045C end:0x000B046C
 
 mo_stub/sora_melee/bf_fn_27_B046C.c:
 	.text       start:0x000B046C end:0x000B047C
@@ -3728,6 +3791,9 @@ mo_stub/sora_melee/bf_fn_27_B1308.c:
 
 mo_stub/sora_melee/bf_fn_27_B1318.c:
 	.text       start:0x000B1318 end:0x000B1328
+
+mo_stub/sora_melee/bf_fn_27_B1338.c:
+	.text       start:0x000B1338 end:0x000B1348
 
 mo_stub/sora_melee/bf_fn_27_B1348.c:
 	.text       start:0x000B1348 end:0x000B1358
@@ -4020,6 +4086,9 @@ mo_stub/sora_melee/bf_fn_27_C44A0.c:
 mo_stub/sora_melee/bf_fn_27_C44B0.c:
 	.text       start:0x000C44B0 end:0x000C44C0
 
+mo_stub/sora_melee/bf_fn_27_C44D0.c:
+	.text       start:0x000C44D0 end:0x000C44E0
+
 mo_stub/sora_melee/bf_fn_27_C44E0.c:
 	.text       start:0x000C44E0 end:0x000C44F0
 
@@ -4062,6 +4131,9 @@ mo_stub/sora_melee/bf_fn_27_C51F8.c:
 mo_stub/sora_melee/bf_fn_27_C5208.c:
 	.text       start:0x000C5208 end:0x000C5218
 
+mo_stub/sora_melee/bf_fn_27_C5228.c:
+	.text       start:0x000C5228 end:0x000C5238
+
 mo_stub/sora_melee/bf_fn_27_C5238.c:
 	.text       start:0x000C5238 end:0x000C5248
 
@@ -4094,6 +4166,9 @@ mo_stub/sora_melee/bf_fn_27_C5AD8.c:
 
 mo_stub/sora_melee/bf_fn_27_C5AE8.c:
 	.text       start:0x000C5AE8 end:0x000C5AF8
+
+mo_stub/sora_melee/bf_fn_27_C5B08.c:
+	.text       start:0x000C5B08 end:0x000C5B18
 
 mo_stub/sora_melee/bf_fn_27_C5B18.c:
 	.text       start:0x000C5B18 end:0x000C5B28
@@ -4145,6 +4220,9 @@ mo_stub/sora_melee/bf_fn_27_C6F60.c:
 
 mo_stub/sora_melee/bf_fn_27_C6F70.c:
 	.text       start:0x000C6F70 end:0x000C6F80
+
+mo_stub/sora_melee/bf_fn_27_C6F90.c:
+	.text       start:0x000C6F90 end:0x000C6FA0
 
 mo_stub/sora_melee/bf_fn_27_C6FA0.c:
 	.text       start:0x000C6FA0 end:0x000C6FB0
@@ -4202,6 +4280,9 @@ mo_stub/sora_melee/bf_fn_27_C95AC.c:
 mo_stub/sora_melee/bf_fn_27_C95BC.c:
 	.text       start:0x000C95BC end:0x000C95CC
 
+mo_stub/sora_melee/bf_fn_27_C95DC.c:
+	.text       start:0x000C95DC end:0x000C95EC
+
 mo_stub/sora_melee/bf_fn_27_C95EC.c:
 	.text       start:0x000C95EC end:0x000C95FC
 
@@ -4228,6 +4309,9 @@ mo_stub/sora_melee/bf_fn_27_C9744.c:
 
 mo_stub/sora_melee/bf_fn_27_C9754.c:
 	.text       start:0x000C9754 end:0x000C9764
+
+mo_stub/sora_melee/bf_fn_27_C9774.c:
+	.text       start:0x000C9774 end:0x000C9784
 
 mo_stub/sora_melee/bf_fn_27_C9784.c:
 	.text       start:0x000C9784 end:0x000C9794
@@ -4256,6 +4340,9 @@ mo_stub/sora_melee/bf_fn_27_C98DC.c:
 mo_stub/sora_melee/bf_fn_27_C98EC.c:
 	.text       start:0x000C98EC end:0x000C98FC
 
+mo_stub/sora_melee/bf_fn_27_C990C.c:
+	.text       start:0x000C990C end:0x000C991C
+
 mo_stub/sora_melee/bf_fn_27_C991C.c:
 	.text       start:0x000C991C end:0x000C992C
 
@@ -4282,6 +4369,9 @@ mo_stub/sora_melee/bf_fn_27_C9A98.c:
 
 mo_stub/sora_melee/bf_fn_27_C9AA8.c:
 	.text       start:0x000C9AA8 end:0x000C9AB8
+
+mo_stub/sora_melee/bf_fn_27_C9AC8.c:
+	.text       start:0x000C9AC8 end:0x000C9AD8
 
 mo_stub/sora_melee/bf_fn_27_C9AD8.c:
 	.text       start:0x000C9AD8 end:0x000C9AE8
@@ -4310,6 +4400,9 @@ mo_stub/sora_melee/bf_fn_27_C9C30.c:
 mo_stub/sora_melee/bf_fn_27_C9C40.c:
 	.text       start:0x000C9C40 end:0x000C9C50
 
+mo_stub/sora_melee/bf_fn_27_C9C60.c:
+	.text       start:0x000C9C60 end:0x000C9C70
+
 mo_stub/sora_melee/bf_fn_27_C9C70.c:
 	.text       start:0x000C9C70 end:0x000C9C80
 
@@ -4336,6 +4429,9 @@ mo_stub/sora_melee/bf_fn_27_C9DC8.c:
 
 mo_stub/sora_melee/bf_fn_27_C9DD8.c:
 	.text       start:0x000C9DD8 end:0x000C9DE8
+
+mo_stub/sora_melee/bf_fn_27_C9DF8.c:
+	.text       start:0x000C9DF8 end:0x000C9E08
 
 mo_stub/sora_melee/bf_fn_27_C9E08.c:
 	.text       start:0x000C9E08 end:0x000C9E18
@@ -4364,6 +4460,9 @@ mo_stub/sora_melee/bf_fn_27_C9F60.c:
 mo_stub/sora_melee/bf_fn_27_C9F70.c:
 	.text       start:0x000C9F70 end:0x000C9F80
 
+mo_stub/sora_melee/bf_fn_27_C9F90.c:
+	.text       start:0x000C9F90 end:0x000C9FA0
+
 mo_stub/sora_melee/bf_fn_27_C9FA0.c:
 	.text       start:0x000C9FA0 end:0x000C9FB0
 
@@ -4390,6 +4489,9 @@ mo_stub/sora_melee/bf_fn_27_CA294.c:
 
 mo_stub/sora_melee/bf_fn_27_CA2A4.c:
 	.text       start:0x000CA2A4 end:0x000CA2B4
+
+mo_stub/sora_melee/bf_fn_27_CA2C4.c:
+	.text       start:0x000CA2C4 end:0x000CA2D4
 
 mo_stub/sora_melee/bf_fn_27_CA2D4.c:
 	.text       start:0x000CA2D4 end:0x000CA2E4
@@ -4418,6 +4520,9 @@ mo_stub/sora_melee/bf_fn_27_CA4CC.c:
 mo_stub/sora_melee/bf_fn_27_CA4DC.c:
 	.text       start:0x000CA4DC end:0x000CA4EC
 
+mo_stub/sora_melee/bf_fn_27_CA4FC.c:
+	.text       start:0x000CA4FC end:0x000CA50C
+
 mo_stub/sora_melee/bf_fn_27_CA50C.c:
 	.text       start:0x000CA50C end:0x000CA51C
 
@@ -4444,6 +4549,9 @@ mo_stub/sora_melee/bf_fn_27_CA6D0.c:
 
 mo_stub/sora_melee/bf_fn_27_CA6E0.c:
 	.text       start:0x000CA6E0 end:0x000CA6F0
+
+mo_stub/sora_melee/bf_fn_27_CA700.c:
+	.text       start:0x000CA700 end:0x000CA710
 
 mo_stub/sora_melee/bf_fn_27_CA710.c:
 	.text       start:0x000CA710 end:0x000CA720
@@ -4472,6 +4580,9 @@ mo_stub/sora_melee/bf_fn_27_CA868.c:
 mo_stub/sora_melee/bf_fn_27_CA878.c:
 	.text       start:0x000CA878 end:0x000CA888
 
+mo_stub/sora_melee/bf_fn_27_CA898.c:
+	.text       start:0x000CA898 end:0x000CA8A8
+
 mo_stub/sora_melee/bf_fn_27_CA8A8.c:
 	.text       start:0x000CA8A8 end:0x000CA8B8
 
@@ -4498,6 +4609,9 @@ mo_stub/sora_melee/bf_fn_27_CAA00.c:
 
 mo_stub/sora_melee/bf_fn_27_CAA10.c:
 	.text       start:0x000CAA10 end:0x000CAA20
+
+mo_stub/sora_melee/bf_fn_27_CAA30.c:
+	.text       start:0x000CAA30 end:0x000CAA40
 
 mo_stub/sora_melee/bf_fn_27_CAA40.c:
 	.text       start:0x000CAA40 end:0x000CAA50
@@ -4526,6 +4640,9 @@ mo_stub/sora_melee/bf_fn_27_CAB98.c:
 mo_stub/sora_melee/bf_fn_27_CABA8.c:
 	.text       start:0x000CABA8 end:0x000CABB8
 
+mo_stub/sora_melee/bf_fn_27_CABC8.c:
+	.text       start:0x000CABC8 end:0x000CABD8
+
 mo_stub/sora_melee/bf_fn_27_CABD8.c:
 	.text       start:0x000CABD8 end:0x000CABE8
 
@@ -4552,6 +4669,9 @@ mo_stub/sora_melee/bf_fn_27_CAD30.c:
 
 mo_stub/sora_melee/bf_fn_27_CAD40.c:
 	.text       start:0x000CAD40 end:0x000CAD50
+
+mo_stub/sora_melee/bf_fn_27_CAD60.c:
+	.text       start:0x000CAD60 end:0x000CAD70
 
 mo_stub/sora_melee/bf_fn_27_CAD70.c:
 	.text       start:0x000CAD70 end:0x000CAD80
@@ -4580,6 +4700,9 @@ mo_stub/sora_melee/bf_fn_27_CAEC8.c:
 mo_stub/sora_melee/bf_fn_27_CAED8.c:
 	.text       start:0x000CAED8 end:0x000CAEE8
 
+mo_stub/sora_melee/bf_fn_27_CAEF8.c:
+	.text       start:0x000CAEF8 end:0x000CAF08
+
 mo_stub/sora_melee/bf_fn_27_CAF08.c:
 	.text       start:0x000CAF08 end:0x000CAF18
 
@@ -4606,6 +4729,9 @@ mo_stub/sora_melee/bf_fn_27_CB0CC.c:
 
 mo_stub/sora_melee/bf_fn_27_CB0DC.c:
 	.text       start:0x000CB0DC end:0x000CB0EC
+
+mo_stub/sora_melee/bf_fn_27_CB0FC.c:
+	.text       start:0x000CB0FC end:0x000CB10C
 
 mo_stub/sora_melee/bf_fn_27_CB10C.c:
 	.text       start:0x000CB10C end:0x000CB11C
@@ -4634,6 +4760,9 @@ mo_stub/sora_melee/bf_fn_27_CB358.c:
 mo_stub/sora_melee/bf_fn_27_CB368.c:
 	.text       start:0x000CB368 end:0x000CB378
 
+mo_stub/sora_melee/bf_fn_27_CB388.c:
+	.text       start:0x000CB388 end:0x000CB398
+
 mo_stub/sora_melee/bf_fn_27_CB398.c:
 	.text       start:0x000CB398 end:0x000CB3A8
 
@@ -4660,6 +4789,9 @@ mo_stub/sora_melee/bf_fn_27_CB524.c:
 
 mo_stub/sora_melee/bf_fn_27_CB534.c:
 	.text       start:0x000CB534 end:0x000CB544
+
+mo_stub/sora_melee/bf_fn_27_CB554.c:
+	.text       start:0x000CB554 end:0x000CB564
 
 mo_stub/sora_melee/bf_fn_27_CB564.c:
 	.text       start:0x000CB564 end:0x000CB574
@@ -4688,6 +4820,9 @@ mo_stub/sora_melee/bf_fn_27_CB628.c:
 mo_stub/sora_melee/bf_fn_27_CB638.c:
 	.text       start:0x000CB638 end:0x000CB648
 
+mo_stub/sora_melee/bf_fn_27_CB658.c:
+	.text       start:0x000CB658 end:0x000CB668
+
 mo_stub/sora_melee/bf_fn_27_CB668.c:
 	.text       start:0x000CB668 end:0x000CB678
 
@@ -4714,6 +4849,9 @@ mo_stub/sora_melee/bf_fn_27_CB884.c:
 
 mo_stub/sora_melee/bf_fn_27_CB894.c:
 	.text       start:0x000CB894 end:0x000CB8A4
+
+mo_stub/sora_melee/bf_fn_27_CB8B4.c:
+	.text       start:0x000CB8B4 end:0x000CB8C4
 
 mo_stub/sora_melee/bf_fn_27_CB8C4.c:
 	.text       start:0x000CB8C4 end:0x000CB8D4
@@ -4742,6 +4880,9 @@ mo_stub/sora_melee/bf_fn_27_CBA1C.c:
 mo_stub/sora_melee/bf_fn_27_CBA2C.c:
 	.text       start:0x000CBA2C end:0x000CBA3C
 
+mo_stub/sora_melee/bf_fn_27_CBA4C.c:
+	.text       start:0x000CBA4C end:0x000CBA5C
+
 mo_stub/sora_melee/bf_fn_27_CBA5C.c:
 	.text       start:0x000CBA5C end:0x000CBA6C
 
@@ -4768,6 +4909,9 @@ mo_stub/sora_melee/bf_fn_27_CBB5C.c:
 
 mo_stub/sora_melee/bf_fn_27_CBB6C.c:
 	.text       start:0x000CBB6C end:0x000CBB7C
+
+mo_stub/sora_melee/bf_fn_27_CBB8C.c:
+	.text       start:0x000CBB8C end:0x000CBB9C
 
 mo_stub/sora_melee/bf_fn_27_CBB9C.c:
 	.text       start:0x000CBB9C end:0x000CBBAC
@@ -4796,6 +4940,9 @@ mo_stub/sora_melee/bf_fn_27_CBCD0.c:
 mo_stub/sora_melee/bf_fn_27_CBCE0.c:
 	.text       start:0x000CBCE0 end:0x000CBCF0
 
+mo_stub/sora_melee/bf_fn_27_CBD00.c:
+	.text       start:0x000CBD00 end:0x000CBD10
+
 mo_stub/sora_melee/bf_fn_27_CBD10.c:
 	.text       start:0x000CBD10 end:0x000CBD20
 
@@ -4822,6 +4969,9 @@ mo_stub/sora_melee/bf_fn_27_CBE44.c:
 
 mo_stub/sora_melee/bf_fn_27_CBE54.c:
 	.text       start:0x000CBE54 end:0x000CBE64
+
+mo_stub/sora_melee/bf_fn_27_CBE74.c:
+	.text       start:0x000CBE74 end:0x000CBE84
 
 mo_stub/sora_melee/bf_fn_27_CBE84.c:
 	.text       start:0x000CBE84 end:0x000CBE94
@@ -4850,6 +5000,9 @@ mo_stub/sora_melee/bf_fn_27_CBFDC.c:
 mo_stub/sora_melee/bf_fn_27_CBFEC.c:
 	.text       start:0x000CBFEC end:0x000CBFFC
 
+mo_stub/sora_melee/bf_fn_27_CC00C.c:
+	.text       start:0x000CC00C end:0x000CC01C
+
 mo_stub/sora_melee/bf_fn_27_CC01C.c:
 	.text       start:0x000CC01C end:0x000CC02C
 
@@ -4876,6 +5029,9 @@ mo_stub/sora_melee/bf_fn_27_CC174.c:
 
 mo_stub/sora_melee/bf_fn_27_CC184.c:
 	.text       start:0x000CC184 end:0x000CC194
+
+mo_stub/sora_melee/bf_fn_27_CC1A4.c:
+	.text       start:0x000CC1A4 end:0x000CC1B4
 
 mo_stub/sora_melee/bf_fn_27_CC1B4.c:
 	.text       start:0x000CC1B4 end:0x000CC1C4
@@ -4904,6 +5060,9 @@ mo_stub/sora_melee/bf_fn_27_CC45C.c:
 mo_stub/sora_melee/bf_fn_27_CC46C.c:
 	.text       start:0x000CC46C end:0x000CC47C
 
+mo_stub/sora_melee/bf_fn_27_CC48C.c:
+	.text       start:0x000CC48C end:0x000CC49C
+
 mo_stub/sora_melee/bf_fn_27_CC49C.c:
 	.text       start:0x000CC49C end:0x000CC4AC
 
@@ -4930,6 +5089,9 @@ mo_stub/sora_melee/bf_fn_27_CC6D8.c:
 
 mo_stub/sora_melee/bf_fn_27_CC6E8.c:
 	.text       start:0x000CC6E8 end:0x000CC6F8
+
+mo_stub/sora_melee/bf_fn_27_CC708.c:
+	.text       start:0x000CC708 end:0x000CC718
 
 mo_stub/sora_melee/bf_fn_27_CC718.c:
 	.text       start:0x000CC718 end:0x000CC728
@@ -4958,6 +5120,9 @@ mo_stub/sora_melee/bf_fn_27_CC870.c:
 mo_stub/sora_melee/bf_fn_27_CC880.c:
 	.text       start:0x000CC880 end:0x000CC890
 
+mo_stub/sora_melee/bf_fn_27_CC8A0.c:
+	.text       start:0x000CC8A0 end:0x000CC8B0
+
 mo_stub/sora_melee/bf_fn_27_CC8B0.c:
 	.text       start:0x000CC8B0 end:0x000CC8C0
 
@@ -4984,6 +5149,9 @@ mo_stub/sora_melee/bf_fn_27_CCA08.c:
 
 mo_stub/sora_melee/bf_fn_27_CCA18.c:
 	.text       start:0x000CCA18 end:0x000CCA28
+
+mo_stub/sora_melee/bf_fn_27_CCA38.c:
+	.text       start:0x000CCA38 end:0x000CCA48
 
 mo_stub/sora_melee/bf_fn_27_CCA48.c:
 	.text       start:0x000CCA48 end:0x000CCA58
@@ -5012,6 +5180,9 @@ mo_stub/sora_melee/bf_fn_27_CCCF0.c:
 mo_stub/sora_melee/bf_fn_27_CCD00.c:
 	.text       start:0x000CCD00 end:0x000CCD10
 
+mo_stub/sora_melee/bf_fn_27_CCD20.c:
+	.text       start:0x000CCD20 end:0x000CCD30
+
 mo_stub/sora_melee/bf_fn_27_CCD30.c:
 	.text       start:0x000CCD30 end:0x000CCD40
 
@@ -5038,6 +5209,9 @@ mo_stub/sora_melee/bf_fn_27_CCFF8.c:
 
 mo_stub/sora_melee/bf_fn_27_CD008.c:
 	.text       start:0x000CD008 end:0x000CD018
+
+mo_stub/sora_melee/bf_fn_27_CD028.c:
+	.text       start:0x000CD028 end:0x000CD038
 
 mo_stub/sora_melee/bf_fn_27_CD038.c:
 	.text       start:0x000CD038 end:0x000CD048
@@ -5066,6 +5240,9 @@ mo_stub/sora_melee/bf_fn_27_CD274.c:
 mo_stub/sora_melee/bf_fn_27_CD284.c:
 	.text       start:0x000CD284 end:0x000CD294
 
+mo_stub/sora_melee/bf_fn_27_CD2A4.c:
+	.text       start:0x000CD2A4 end:0x000CD2B4
+
 mo_stub/sora_melee/bf_fn_27_CD2B4.c:
 	.text       start:0x000CD2B4 end:0x000CD2C4
 
@@ -5092,6 +5269,9 @@ mo_stub/sora_melee/bf_fn_27_CD528.c:
 
 mo_stub/sora_melee/bf_fn_27_CD538.c:
 	.text       start:0x000CD538 end:0x000CD548
+
+mo_stub/sora_melee/bf_fn_27_CD558.c:
+	.text       start:0x000CD558 end:0x000CD568
 
 mo_stub/sora_melee/bf_fn_27_CD568.c:
 	.text       start:0x000CD568 end:0x000CD578
@@ -5120,6 +5300,9 @@ mo_stub/sora_melee/bf_fn_27_CD810.c:
 mo_stub/sora_melee/bf_fn_27_CD820.c:
 	.text       start:0x000CD820 end:0x000CD830
 
+mo_stub/sora_melee/bf_fn_27_CD840.c:
+	.text       start:0x000CD840 end:0x000CD850
+
 mo_stub/sora_melee/bf_fn_27_CD850.c:
 	.text       start:0x000CD850 end:0x000CD860
 
@@ -5146,6 +5329,9 @@ mo_stub/sora_melee/bf_fn_27_CD9B8.c:
 
 mo_stub/sora_melee/bf_fn_27_CD9C8.c:
 	.text       start:0x000CD9C8 end:0x000CD9D8
+
+mo_stub/sora_melee/bf_fn_27_CD9E8.c:
+	.text       start:0x000CD9E8 end:0x000CD9F8
 
 mo_stub/sora_melee/bf_fn_27_CD9F8.c:
 	.text       start:0x000CD9F8 end:0x000CDA08
@@ -5174,6 +5360,9 @@ mo_stub/sora_melee/bf_fn_27_CDC40.c:
 mo_stub/sora_melee/bf_fn_27_CDC50.c:
 	.text       start:0x000CDC50 end:0x000CDC60
 
+mo_stub/sora_melee/bf_fn_27_CDC70.c:
+	.text       start:0x000CDC70 end:0x000CDC80
+
 mo_stub/sora_melee/bf_fn_27_CDC80.c:
 	.text       start:0x000CDC80 end:0x000CDC90
 
@@ -5201,6 +5390,9 @@ mo_stub/sora_melee/bf_fn_27_CDE6C.c:
 mo_stub/sora_melee/bf_fn_27_CDE7C.c:
 	.text       start:0x000CDE7C end:0x000CDE8C
 
+mo_stub/sora_melee/bf_fn_27_CDE9C.c:
+	.text       start:0x000CDE9C end:0x000CDEAC
+
 mo_stub/sora_melee/bf_fn_27_CDEAC.c:
 	.text       start:0x000CDEAC end:0x000CDEBC
 
@@ -5227,6 +5419,9 @@ mo_stub/sora_melee/bf_fn_27_CE038.c:
 
 mo_stub/sora_melee/bf_fn_27_CE048.c:
 	.text       start:0x000CE048 end:0x000CE058
+
+mo_stub/sora_melee/bf_fn_27_CE068.c:
+	.text       start:0x000CE068 end:0x000CE078
 
 mo_stub/sora_melee/bf_fn_27_CE078.c:
 	.text       start:0x000CE078 end:0x000CE088
@@ -5258,6 +5453,9 @@ mo_stub/sora_melee/bf_fn_27_CE1D4.c:
 mo_stub/sora_melee/bf_fn_27_CE1E4.c:
 	.text       start:0x000CE1E4 end:0x000CE1F4
 
+mo_stub/sora_melee/bf_fn_27_CE204.c:
+	.text       start:0x000CE204 end:0x000CE214
+
 mo_stub/sora_melee/bf_fn_27_CE214.c:
 	.text       start:0x000CE214 end:0x000CE224
 
@@ -5284,6 +5482,9 @@ mo_stub/sora_melee/bf_fn_27_CE36C.c:
 
 mo_stub/sora_melee/bf_fn_27_CE37C.c:
 	.text       start:0x000CE37C end:0x000CE38C
+
+mo_stub/sora_melee/bf_fn_27_CE39C.c:
+	.text       start:0x000CE39C end:0x000CE3AC
 
 mo_stub/sora_melee/bf_fn_27_CE3AC.c:
 	.text       start:0x000CE3AC end:0x000CE3BC
@@ -5312,6 +5513,9 @@ mo_stub/sora_melee/bf_fn_27_CE504.c:
 mo_stub/sora_melee/bf_fn_27_CE514.c:
 	.text       start:0x000CE514 end:0x000CE524
 
+mo_stub/sora_melee/bf_fn_27_CE534.c:
+	.text       start:0x000CE534 end:0x000CE544
+
 mo_stub/sora_melee/bf_fn_27_CE544.c:
 	.text       start:0x000CE544 end:0x000CE554
 
@@ -5338,6 +5542,9 @@ mo_stub/sora_melee/bf_fn_27_CE69C.c:
 
 mo_stub/sora_melee/bf_fn_27_CE6AC.c:
 	.text       start:0x000CE6AC end:0x000CE6BC
+
+mo_stub/sora_melee/bf_fn_27_CE6CC.c:
+	.text       start:0x000CE6CC end:0x000CE6DC
 
 mo_stub/sora_melee/bf_fn_27_CE6DC.c:
 	.text       start:0x000CE6DC end:0x000CE6EC
@@ -5366,6 +5573,9 @@ mo_stub/sora_melee/bf_fn_27_CE834.c:
 mo_stub/sora_melee/bf_fn_27_CE844.c:
 	.text       start:0x000CE844 end:0x000CE854
 
+mo_stub/sora_melee/bf_fn_27_CE864.c:
+	.text       start:0x000CE864 end:0x000CE874
+
 mo_stub/sora_melee/bf_fn_27_CE874.c:
 	.text       start:0x000CE874 end:0x000CE884
 
@@ -5392,6 +5602,9 @@ mo_stub/sora_melee/bf_fn_27_CE9CC.c:
 
 mo_stub/sora_melee/bf_fn_27_CE9DC.c:
 	.text       start:0x000CE9DC end:0x000CE9EC
+
+mo_stub/sora_melee/bf_fn_27_CE9FC.c:
+	.text       start:0x000CE9FC end:0x000CEA0C
 
 mo_stub/sora_melee/bf_fn_27_CEA0C.c:
 	.text       start:0x000CEA0C end:0x000CEA1C
@@ -5420,6 +5633,9 @@ mo_stub/sora_melee/bf_fn_27_CEB64.c:
 mo_stub/sora_melee/bf_fn_27_CEB74.c:
 	.text       start:0x000CEB74 end:0x000CEB84
 
+mo_stub/sora_melee/bf_fn_27_CEB94.c:
+	.text       start:0x000CEB94 end:0x000CEBA4
+
 mo_stub/sora_melee/bf_fn_27_CEBA4.c:
 	.text       start:0x000CEBA4 end:0x000CEBB4
 
@@ -5446,6 +5662,9 @@ mo_stub/sora_melee/bf_fn_27_CECFC.c:
 
 mo_stub/sora_melee/bf_fn_27_CED0C.c:
 	.text       start:0x000CED0C end:0x000CED1C
+
+mo_stub/sora_melee/bf_fn_27_CED2C.c:
+	.text       start:0x000CED2C end:0x000CED3C
 
 mo_stub/sora_melee/bf_fn_27_CED3C.c:
 	.text       start:0x000CED3C end:0x000CED4C
@@ -5474,6 +5693,9 @@ mo_stub/sora_melee/bf_fn_27_CEE94.c:
 mo_stub/sora_melee/bf_fn_27_CEEA4.c:
 	.text       start:0x000CEEA4 end:0x000CEEB4
 
+mo_stub/sora_melee/bf_fn_27_CEEC4.c:
+	.text       start:0x000CEEC4 end:0x000CEED4
+
 mo_stub/sora_melee/bf_fn_27_CEED4.c:
 	.text       start:0x000CEED4 end:0x000CEEE4
 
@@ -5500,6 +5722,9 @@ mo_stub/sora_melee/bf_fn_27_CF02C.c:
 
 mo_stub/sora_melee/bf_fn_27_CF03C.c:
 	.text       start:0x000CF03C end:0x000CF04C
+
+mo_stub/sora_melee/bf_fn_27_CF05C.c:
+	.text       start:0x000CF05C end:0x000CF06C
 
 mo_stub/sora_melee/bf_fn_27_CF06C.c:
 	.text       start:0x000CF06C end:0x000CF07C
@@ -5528,6 +5753,9 @@ mo_stub/sora_melee/bf_fn_27_CF1C4.c:
 mo_stub/sora_melee/bf_fn_27_CF1D4.c:
 	.text       start:0x000CF1D4 end:0x000CF1E4
 
+mo_stub/sora_melee/bf_fn_27_CF1F4.c:
+	.text       start:0x000CF1F4 end:0x000CF204
+
 mo_stub/sora_melee/bf_fn_27_CF204.c:
 	.text       start:0x000CF204 end:0x000CF214
 
@@ -5554,6 +5782,9 @@ mo_stub/sora_melee/bf_fn_27_CF35C.c:
 
 mo_stub/sora_melee/bf_fn_27_CF36C.c:
 	.text       start:0x000CF36C end:0x000CF37C
+
+mo_stub/sora_melee/bf_fn_27_CF38C.c:
+	.text       start:0x000CF38C end:0x000CF39C
 
 mo_stub/sora_melee/bf_fn_27_CF39C.c:
 	.text       start:0x000CF39C end:0x000CF3AC
@@ -5582,6 +5813,9 @@ mo_stub/sora_melee/bf_fn_27_CF4F4.c:
 mo_stub/sora_melee/bf_fn_27_CF504.c:
 	.text       start:0x000CF504 end:0x000CF514
 
+mo_stub/sora_melee/bf_fn_27_CF524.c:
+	.text       start:0x000CF524 end:0x000CF534
+
 mo_stub/sora_melee/bf_fn_27_CF534.c:
 	.text       start:0x000CF534 end:0x000CF544
 
@@ -5608,6 +5842,9 @@ mo_stub/sora_melee/bf_fn_27_CF68C.c:
 
 mo_stub/sora_melee/bf_fn_27_CF69C.c:
 	.text       start:0x000CF69C end:0x000CF6AC
+
+mo_stub/sora_melee/bf_fn_27_CF6BC.c:
+	.text       start:0x000CF6BC end:0x000CF6CC
 
 mo_stub/sora_melee/bf_fn_27_CF6CC.c:
 	.text       start:0x000CF6CC end:0x000CF6DC
@@ -5636,6 +5873,9 @@ mo_stub/sora_melee/bf_fn_27_CF824.c:
 mo_stub/sora_melee/bf_fn_27_CF834.c:
 	.text       start:0x000CF834 end:0x000CF844
 
+mo_stub/sora_melee/bf_fn_27_CF854.c:
+	.text       start:0x000CF854 end:0x000CF864
+
 mo_stub/sora_melee/bf_fn_27_CF864.c:
 	.text       start:0x000CF864 end:0x000CF874
 
@@ -5662,6 +5902,9 @@ mo_stub/sora_melee/bf_fn_27_CF9BC.c:
 
 mo_stub/sora_melee/bf_fn_27_CF9CC.c:
 	.text       start:0x000CF9CC end:0x000CF9DC
+
+mo_stub/sora_melee/bf_fn_27_CF9EC.c:
+	.text       start:0x000CF9EC end:0x000CF9FC
 
 mo_stub/sora_melee/bf_fn_27_CF9FC.c:
 	.text       start:0x000CF9FC end:0x000CFA0C
@@ -5690,6 +5933,9 @@ mo_stub/sora_melee/bf_fn_27_CFB54.c:
 mo_stub/sora_melee/bf_fn_27_CFB64.c:
 	.text       start:0x000CFB64 end:0x000CFB74
 
+mo_stub/sora_melee/bf_fn_27_CFB84.c:
+	.text       start:0x000CFB84 end:0x000CFB94
+
 mo_stub/sora_melee/bf_fn_27_CFB94.c:
 	.text       start:0x000CFB94 end:0x000CFBA4
 
@@ -5716,6 +5962,9 @@ mo_stub/sora_melee/bf_fn_27_CFCEC.c:
 
 mo_stub/sora_melee/bf_fn_27_CFCFC.c:
 	.text       start:0x000CFCFC end:0x000CFD0C
+
+mo_stub/sora_melee/bf_fn_27_CFD1C.c:
+	.text       start:0x000CFD1C end:0x000CFD2C
 
 mo_stub/sora_melee/bf_fn_27_CFD2C.c:
 	.text       start:0x000CFD2C end:0x000CFD3C
@@ -5744,6 +5993,9 @@ mo_stub/sora_melee/bf_fn_27_CFE84.c:
 mo_stub/sora_melee/bf_fn_27_CFE94.c:
 	.text       start:0x000CFE94 end:0x000CFEA4
 
+mo_stub/sora_melee/bf_fn_27_CFEB4.c:
+	.text       start:0x000CFEB4 end:0x000CFEC4
+
 mo_stub/sora_melee/bf_fn_27_CFEC4.c:
 	.text       start:0x000CFEC4 end:0x000CFED4
 
@@ -5770,6 +6022,9 @@ mo_stub/sora_melee/bf_fn_27_D001C.c:
 
 mo_stub/sora_melee/bf_fn_27_D002C.c:
 	.text       start:0x000D002C end:0x000D003C
+
+mo_stub/sora_melee/bf_fn_27_D004C.c:
+	.text       start:0x000D004C end:0x000D005C
 
 mo_stub/sora_melee/bf_fn_27_D005C.c:
 	.text       start:0x000D005C end:0x000D006C
@@ -5798,6 +6053,9 @@ mo_stub/sora_melee/bf_fn_27_D01B4.c:
 mo_stub/sora_melee/bf_fn_27_D01C4.c:
 	.text       start:0x000D01C4 end:0x000D01D4
 
+mo_stub/sora_melee/bf_fn_27_D01E4.c:
+	.text       start:0x000D01E4 end:0x000D01F4
+
 mo_stub/sora_melee/bf_fn_27_D01F4.c:
 	.text       start:0x000D01F4 end:0x000D0204
 
@@ -5824,6 +6082,9 @@ mo_stub/sora_melee/bf_fn_27_D034C.c:
 
 mo_stub/sora_melee/bf_fn_27_D035C.c:
 	.text       start:0x000D035C end:0x000D036C
+
+mo_stub/sora_melee/bf_fn_27_D037C.c:
+	.text       start:0x000D037C end:0x000D038C
 
 mo_stub/sora_melee/bf_fn_27_D038C.c:
 	.text       start:0x000D038C end:0x000D039C
@@ -5852,6 +6113,9 @@ mo_stub/sora_melee/bf_fn_27_D04E4.c:
 mo_stub/sora_melee/bf_fn_27_D04F4.c:
 	.text       start:0x000D04F4 end:0x000D0504
 
+mo_stub/sora_melee/bf_fn_27_D0514.c:
+	.text       start:0x000D0514 end:0x000D0524
+
 mo_stub/sora_melee/bf_fn_27_D0524.c:
 	.text       start:0x000D0524 end:0x000D0534
 
@@ -5878,6 +6142,9 @@ mo_stub/sora_melee/bf_fn_27_D067C.c:
 
 mo_stub/sora_melee/bf_fn_27_D068C.c:
 	.text       start:0x000D068C end:0x000D069C
+
+mo_stub/sora_melee/bf_fn_27_D06AC.c:
+	.text       start:0x000D06AC end:0x000D06BC
 
 mo_stub/sora_melee/bf_fn_27_D06BC.c:
 	.text       start:0x000D06BC end:0x000D06CC
@@ -5906,6 +6173,9 @@ mo_stub/sora_melee/bf_fn_27_D0814.c:
 mo_stub/sora_melee/bf_fn_27_D0824.c:
 	.text       start:0x000D0824 end:0x000D0834
 
+mo_stub/sora_melee/bf_fn_27_D0844.c:
+	.text       start:0x000D0844 end:0x000D0854
+
 mo_stub/sora_melee/bf_fn_27_D0854.c:
 	.text       start:0x000D0854 end:0x000D0864
 
@@ -5932,6 +6202,9 @@ mo_stub/sora_melee/bf_fn_27_D09AC.c:
 
 mo_stub/sora_melee/bf_fn_27_D09BC.c:
 	.text       start:0x000D09BC end:0x000D09CC
+
+mo_stub/sora_melee/bf_fn_27_D09DC.c:
+	.text       start:0x000D09DC end:0x000D09EC
 
 mo_stub/sora_melee/bf_fn_27_D09EC.c:
 	.text       start:0x000D09EC end:0x000D09FC
@@ -5960,6 +6233,9 @@ mo_stub/sora_melee/bf_fn_27_D0B44.c:
 mo_stub/sora_melee/bf_fn_27_D0B54.c:
 	.text       start:0x000D0B54 end:0x000D0B64
 
+mo_stub/sora_melee/bf_fn_27_D0B74.c:
+	.text       start:0x000D0B74 end:0x000D0B84
+
 mo_stub/sora_melee/bf_fn_27_D0B84.c:
 	.text       start:0x000D0B84 end:0x000D0B94
 
@@ -5986,6 +6262,9 @@ mo_stub/sora_melee/bf_fn_27_D0CDC.c:
 
 mo_stub/sora_melee/bf_fn_27_D0CEC.c:
 	.text       start:0x000D0CEC end:0x000D0CFC
+
+mo_stub/sora_melee/bf_fn_27_D0D0C.c:
+	.text       start:0x000D0D0C end:0x000D0D1C
 
 mo_stub/sora_melee/bf_fn_27_D0D1C.c:
 	.text       start:0x000D0D1C end:0x000D0D2C
@@ -6014,6 +6293,9 @@ mo_stub/sora_melee/bf_fn_27_D0E74.c:
 mo_stub/sora_melee/bf_fn_27_D0E84.c:
 	.text       start:0x000D0E84 end:0x000D0E94
 
+mo_stub/sora_melee/bf_fn_27_D0EA4.c:
+	.text       start:0x000D0EA4 end:0x000D0EB4
+
 mo_stub/sora_melee/bf_fn_27_D0EB4.c:
 	.text       start:0x000D0EB4 end:0x000D0EC4
 
@@ -6040,6 +6322,9 @@ mo_stub/sora_melee/bf_fn_27_D100C.c:
 
 mo_stub/sora_melee/bf_fn_27_D101C.c:
 	.text       start:0x000D101C end:0x000D102C
+
+mo_stub/sora_melee/bf_fn_27_D103C.c:
+	.text       start:0x000D103C end:0x000D104C
 
 mo_stub/sora_melee/bf_fn_27_D104C.c:
 	.text       start:0x000D104C end:0x000D105C
@@ -6068,6 +6353,9 @@ mo_stub/sora_melee/bf_fn_27_D11A4.c:
 mo_stub/sora_melee/bf_fn_27_D11B4.c:
 	.text       start:0x000D11B4 end:0x000D11C4
 
+mo_stub/sora_melee/bf_fn_27_D11D4.c:
+	.text       start:0x000D11D4 end:0x000D11E4
+
 mo_stub/sora_melee/bf_fn_27_D11E4.c:
 	.text       start:0x000D11E4 end:0x000D11F4
 
@@ -6094,6 +6382,9 @@ mo_stub/sora_melee/bf_fn_27_D133C.c:
 
 mo_stub/sora_melee/bf_fn_27_D134C.c:
 	.text       start:0x000D134C end:0x000D135C
+
+mo_stub/sora_melee/bf_fn_27_D136C.c:
+	.text       start:0x000D136C end:0x000D137C
 
 mo_stub/sora_melee/bf_fn_27_D137C.c:
 	.text       start:0x000D137C end:0x000D138C
@@ -6122,6 +6413,9 @@ mo_stub/sora_melee/bf_fn_27_D14D4.c:
 mo_stub/sora_melee/bf_fn_27_D14E4.c:
 	.text       start:0x000D14E4 end:0x000D14F4
 
+mo_stub/sora_melee/bf_fn_27_D1504.c:
+	.text       start:0x000D1504 end:0x000D1514
+
 mo_stub/sora_melee/bf_fn_27_D1514.c:
 	.text       start:0x000D1514 end:0x000D1524
 
@@ -6148,6 +6442,9 @@ mo_stub/sora_melee/bf_fn_27_D166C.c:
 
 mo_stub/sora_melee/bf_fn_27_D167C.c:
 	.text       start:0x000D167C end:0x000D168C
+
+mo_stub/sora_melee/bf_fn_27_D169C.c:
+	.text       start:0x000D169C end:0x000D16AC
 
 mo_stub/sora_melee/bf_fn_27_D16AC.c:
 	.text       start:0x000D16AC end:0x000D16BC
@@ -6176,6 +6473,9 @@ mo_stub/sora_melee/bf_fn_27_D1964.c:
 mo_stub/sora_melee/bf_fn_27_D1974.c:
 	.text       start:0x000D1974 end:0x000D1984
 
+mo_stub/sora_melee/bf_fn_27_D1994.c:
+	.text       start:0x000D1994 end:0x000D19A4
+
 mo_stub/sora_melee/bf_fn_27_D19A4.c:
 	.text       start:0x000D19A4 end:0x000D19B4
 
@@ -6202,6 +6502,9 @@ mo_stub/sora_melee/bf_fn_27_D1C5C.c:
 
 mo_stub/sora_melee/bf_fn_27_D1C6C.c:
 	.text       start:0x000D1C6C end:0x000D1C7C
+
+mo_stub/sora_melee/bf_fn_27_D1C8C.c:
+	.text       start:0x000D1C8C end:0x000D1C9C
 
 mo_stub/sora_melee/bf_fn_27_D1C9C.c:
 	.text       start:0x000D1C9C end:0x000D1CAC
@@ -6230,6 +6533,9 @@ mo_stub/sora_melee/bf_fn_27_D1F54.c:
 mo_stub/sora_melee/bf_fn_27_D1F64.c:
 	.text       start:0x000D1F64 end:0x000D1F74
 
+mo_stub/sora_melee/bf_fn_27_D1F84.c:
+	.text       start:0x000D1F84 end:0x000D1F94
+
 mo_stub/sora_melee/bf_fn_27_D1F94.c:
 	.text       start:0x000D1F94 end:0x000D1FA4
 
@@ -6256,6 +6562,9 @@ mo_stub/sora_melee/bf_fn_27_D224C.c:
 
 mo_stub/sora_melee/bf_fn_27_D225C.c:
 	.text       start:0x000D225C end:0x000D226C
+
+mo_stub/sora_melee/bf_fn_27_D227C.c:
+	.text       start:0x000D227C end:0x000D228C
 
 mo_stub/sora_melee/bf_fn_27_D228C.c:
 	.text       start:0x000D228C end:0x000D229C
@@ -6284,6 +6593,9 @@ mo_stub/sora_melee/bf_fn_27_D25FC.c:
 mo_stub/sora_melee/bf_fn_27_D260C.c:
 	.text       start:0x000D260C end:0x000D261C
 
+mo_stub/sora_melee/bf_fn_27_D262C.c:
+	.text       start:0x000D262C end:0x000D263C
+
 mo_stub/sora_melee/bf_fn_27_D263C.c:
 	.text       start:0x000D263C end:0x000D264C
 
@@ -6310,6 +6622,9 @@ mo_stub/sora_melee/bf_fn_27_D2814.c:
 
 mo_stub/sora_melee/bf_fn_27_D2824.c:
 	.text       start:0x000D2824 end:0x000D2834
+
+mo_stub/sora_melee/bf_fn_27_D2844.c:
+	.text       start:0x000D2844 end:0x000D2854
 
 mo_stub/sora_melee/bf_fn_27_D2854.c:
 	.text       start:0x000D2854 end:0x000D2864
@@ -6338,6 +6653,9 @@ mo_stub/sora_melee/bf_fn_27_D2988.c:
 mo_stub/sora_melee/bf_fn_27_D2998.c:
 	.text       start:0x000D2998 end:0x000D29A8
 
+mo_stub/sora_melee/bf_fn_27_D29B8.c:
+	.text       start:0x000D29B8 end:0x000D29C8
+
 mo_stub/sora_melee/bf_fn_27_D29C8.c:
 	.text       start:0x000D29C8 end:0x000D29D8
 
@@ -6364,6 +6682,9 @@ mo_stub/sora_melee/bf_fn_27_D2B28.c:
 
 mo_stub/sora_melee/bf_fn_27_D2B38.c:
 	.text       start:0x000D2B38 end:0x000D2B48
+
+mo_stub/sora_melee/bf_fn_27_D2B58.c:
+	.text       start:0x000D2B58 end:0x000D2B68
 
 mo_stub/sora_melee/bf_fn_27_D2B68.c:
 	.text       start:0x000D2B68 end:0x000D2B78
@@ -6392,6 +6713,9 @@ mo_stub/sora_melee/bf_fn_27_D2C9C.c:
 mo_stub/sora_melee/bf_fn_27_D2CAC.c:
 	.text       start:0x000D2CAC end:0x000D2CBC
 
+mo_stub/sora_melee/bf_fn_27_D2CCC.c:
+	.text       start:0x000D2CCC end:0x000D2CDC
+
 mo_stub/sora_melee/bf_fn_27_D2CDC.c:
 	.text       start:0x000D2CDC end:0x000D2CEC
 
@@ -6418,6 +6742,9 @@ mo_stub/sora_melee/bf_fn_27_D2F38.c:
 
 mo_stub/sora_melee/bf_fn_27_D2F48.c:
 	.text       start:0x000D2F48 end:0x000D2F58
+
+mo_stub/sora_melee/bf_fn_27_D2F68.c:
+	.text       start:0x000D2F68 end:0x000D2F78
 
 mo_stub/sora_melee/bf_fn_27_D2F78.c:
 	.text       start:0x000D2F78 end:0x000D2F88
@@ -6446,6 +6773,9 @@ mo_stub/sora_melee/bf_fn_27_D3104.c:
 mo_stub/sora_melee/bf_fn_27_D3114.c:
 	.text       start:0x000D3114 end:0x000D3124
 
+mo_stub/sora_melee/bf_fn_27_D3134.c:
+	.text       start:0x000D3134 end:0x000D3144
+
 mo_stub/sora_melee/bf_fn_27_D3144.c:
 	.text       start:0x000D3144 end:0x000D3154
 
@@ -6472,6 +6802,9 @@ mo_stub/sora_melee/bf_fn_27_D3268.c:
 
 mo_stub/sora_melee/bf_fn_27_D3278.c:
 	.text       start:0x000D3278 end:0x000D3288
+
+mo_stub/sora_melee/bf_fn_27_D3298.c:
+	.text       start:0x000D3298 end:0x000D32A8
 
 mo_stub/sora_melee/bf_fn_27_D32A8.c:
 	.text       start:0x000D32A8 end:0x000D32B8
@@ -6500,6 +6833,9 @@ mo_stub/sora_melee/bf_fn_27_D34C0.c:
 mo_stub/sora_melee/bf_fn_27_D34D0.c:
 	.text       start:0x000D34D0 end:0x000D34E0
 
+mo_stub/sora_melee/bf_fn_27_D34F0.c:
+	.text       start:0x000D34F0 end:0x000D3500
+
 mo_stub/sora_melee/bf_fn_27_D3500.c:
 	.text       start:0x000D3500 end:0x000D3510
 
@@ -6527,6 +6863,9 @@ mo_stub/sora_melee/bf_fn_27_D3600.c:
 mo_stub/sora_melee/bf_fn_27_D3610.c:
 	.text       start:0x000D3610 end:0x000D3620
 
+mo_stub/sora_melee/bf_fn_27_D3630.c:
+	.text       start:0x000D3630 end:0x000D3640
+
 mo_stub/sora_melee/bf_fn_27_D3640.c:
 	.text       start:0x000D3640 end:0x000D3650
 
@@ -6553,6 +6892,9 @@ mo_stub/sora_melee/bf_fn_27_D3738.c:
 
 mo_stub/sora_melee/bf_fn_27_D3748.c:
 	.text       start:0x000D3748 end:0x000D3758
+
+mo_stub/sora_melee/bf_fn_27_D3768.c:
+	.text       start:0x000D3768 end:0x000D3778
 
 mo_stub/sora_melee/bf_fn_27_D3778.c:
 	.text       start:0x000D3778 end:0x000D3788
@@ -7241,6 +7583,9 @@ mo_stub/sora_melee/bf_fn_27_FE230.c:
 mo_stub/sora_melee/bf_fn_27_FE240.c:
 	.text       start:0x000FE240 end:0x000FE250
 
+mo_stub/sora_melee/bf_fn_27_FE260.c:
+	.text       start:0x000FE260 end:0x000FE270
+
 mo_stub/sora_melee/bf_fn_27_FE270.c:
 	.text       start:0x000FE270 end:0x000FE280
 
@@ -7267,6 +7612,9 @@ mo_stub/sora_melee/bf_fn_27_FE2F8.c:
 
 mo_stub/sora_melee/bf_fn_27_FE308.c:
 	.text       start:0x000FE308 end:0x000FE318
+
+mo_stub/sora_melee/bf_fn_27_FE328.c:
+	.text       start:0x000FE328 end:0x000FE338
 
 mo_stub/sora_melee/bf_fn_27_FE338.c:
 	.text       start:0x000FE338 end:0x000FE348
@@ -7295,6 +7643,9 @@ mo_stub/sora_melee/bf_fn_27_FE3B0.c:
 mo_stub/sora_melee/bf_fn_27_FE3C0.c:
 	.text       start:0x000FE3C0 end:0x000FE3D0
 
+mo_stub/sora_melee/bf_fn_27_FE3E0.c:
+	.text       start:0x000FE3E0 end:0x000FE3F0
+
 mo_stub/sora_melee/bf_fn_27_FE3F0.c:
 	.text       start:0x000FE3F0 end:0x000FE400
 
@@ -7321,6 +7672,9 @@ mo_stub/sora_melee/bf_fn_27_FE468.c:
 
 mo_stub/sora_melee/bf_fn_27_FE478.c:
 	.text       start:0x000FE478 end:0x000FE488
+
+mo_stub/sora_melee/bf_fn_27_FE498.c:
+	.text       start:0x000FE498 end:0x000FE4A8
 
 mo_stub/sora_melee/bf_fn_27_FE4A8.c:
 	.text       start:0x000FE4A8 end:0x000FE4B8
@@ -7349,6 +7703,9 @@ mo_stub/sora_melee/bf_fn_27_FE520.c:
 mo_stub/sora_melee/bf_fn_27_FE530.c:
 	.text       start:0x000FE530 end:0x000FE540
 
+mo_stub/sora_melee/bf_fn_27_FE550.c:
+	.text       start:0x000FE550 end:0x000FE560
+
 mo_stub/sora_melee/bf_fn_27_FE560.c:
 	.text       start:0x000FE560 end:0x000FE570
 
@@ -7375,6 +7732,9 @@ mo_stub/sora_melee/bf_fn_27_FE5D8.c:
 
 mo_stub/sora_melee/bf_fn_27_FE5E8.c:
 	.text       start:0x000FE5E8 end:0x000FE5F8
+
+mo_stub/sora_melee/bf_fn_27_FE608.c:
+	.text       start:0x000FE608 end:0x000FE618
 
 mo_stub/sora_melee/bf_fn_27_FE618.c:
 	.text       start:0x000FE618 end:0x000FE628
@@ -7403,6 +7763,9 @@ mo_stub/sora_melee/bf_fn_27_FE690.c:
 mo_stub/sora_melee/bf_fn_27_FE6A0.c:
 	.text       start:0x000FE6A0 end:0x000FE6B0
 
+mo_stub/sora_melee/bf_fn_27_FE6C0.c:
+	.text       start:0x000FE6C0 end:0x000FE6D0
+
 mo_stub/sora_melee/bf_fn_27_FE6D0.c:
 	.text       start:0x000FE6D0 end:0x000FE6E0
 
@@ -7429,6 +7792,9 @@ mo_stub/sora_melee/bf_fn_27_FE748.c:
 
 mo_stub/sora_melee/bf_fn_27_FE758.c:
 	.text       start:0x000FE758 end:0x000FE768
+
+mo_stub/sora_melee/bf_fn_27_FE778.c:
+	.text       start:0x000FE778 end:0x000FE788
 
 mo_stub/sora_melee/bf_fn_27_FE788.c:
 	.text       start:0x000FE788 end:0x000FE798
@@ -7457,6 +7823,9 @@ mo_stub/sora_melee/bf_fn_27_FE800.c:
 mo_stub/sora_melee/bf_fn_27_FE810.c:
 	.text       start:0x000FE810 end:0x000FE820
 
+mo_stub/sora_melee/bf_fn_27_FE830.c:
+	.text       start:0x000FE830 end:0x000FE840
+
 mo_stub/sora_melee/bf_fn_27_FE840.c:
 	.text       start:0x000FE840 end:0x000FE850
 
@@ -7483,6 +7852,9 @@ mo_stub/sora_melee/bf_fn_27_FE8B8.c:
 
 mo_stub/sora_melee/bf_fn_27_FE8C8.c:
 	.text       start:0x000FE8C8 end:0x000FE8D8
+
+mo_stub/sora_melee/bf_fn_27_FE8E8.c:
+	.text       start:0x000FE8E8 end:0x000FE8F8
 
 mo_stub/sora_melee/bf_fn_27_FE8F8.c:
 	.text       start:0x000FE8F8 end:0x000FE908
@@ -7511,6 +7883,9 @@ mo_stub/sora_melee/bf_fn_27_FE970.c:
 mo_stub/sora_melee/bf_fn_27_FE980.c:
 	.text       start:0x000FE980 end:0x000FE990
 
+mo_stub/sora_melee/bf_fn_27_FE9A0.c:
+	.text       start:0x000FE9A0 end:0x000FE9B0
+
 mo_stub/sora_melee/bf_fn_27_FE9B0.c:
 	.text       start:0x000FE9B0 end:0x000FE9C0
 
@@ -7537,6 +7912,9 @@ mo_stub/sora_melee/bf_fn_27_FEA28.c:
 
 mo_stub/sora_melee/bf_fn_27_FEA38.c:
 	.text       start:0x000FEA38 end:0x000FEA48
+
+mo_stub/sora_melee/bf_fn_27_FEA58.c:
+	.text       start:0x000FEA58 end:0x000FEA68
 
 mo_stub/sora_melee/bf_fn_27_FEA68.c:
 	.text       start:0x000FEA68 end:0x000FEA78
@@ -7565,6 +7943,9 @@ mo_stub/sora_melee/bf_fn_27_FEAE0.c:
 mo_stub/sora_melee/bf_fn_27_FEAF0.c:
 	.text       start:0x000FEAF0 end:0x000FEB00
 
+mo_stub/sora_melee/bf_fn_27_FEB10.c:
+	.text       start:0x000FEB10 end:0x000FEB20
+
 mo_stub/sora_melee/bf_fn_27_FEB20.c:
 	.text       start:0x000FEB20 end:0x000FEB30
 
@@ -7591,6 +7972,9 @@ mo_stub/sora_melee/bf_fn_27_FEB98.c:
 
 mo_stub/sora_melee/bf_fn_27_FEBA8.c:
 	.text       start:0x000FEBA8 end:0x000FEBB8
+
+mo_stub/sora_melee/bf_fn_27_FEBC8.c:
+	.text       start:0x000FEBC8 end:0x000FEBD8
 
 mo_stub/sora_melee/bf_fn_27_FEBD8.c:
 	.text       start:0x000FEBD8 end:0x000FEBE8
@@ -7619,6 +8003,9 @@ mo_stub/sora_melee/bf_fn_27_FEC50.c:
 mo_stub/sora_melee/bf_fn_27_FEC60.c:
 	.text       start:0x000FEC60 end:0x000FEC70
 
+mo_stub/sora_melee/bf_fn_27_FEC80.c:
+	.text       start:0x000FEC80 end:0x000FEC90
+
 mo_stub/sora_melee/bf_fn_27_FEC90.c:
 	.text       start:0x000FEC90 end:0x000FECA0
 
@@ -7645,6 +8032,9 @@ mo_stub/sora_melee/bf_fn_27_FED08.c:
 
 mo_stub/sora_melee/bf_fn_27_FED18.c:
 	.text       start:0x000FED18 end:0x000FED28
+
+mo_stub/sora_melee/bf_fn_27_FED38.c:
+	.text       start:0x000FED38 end:0x000FED48
 
 mo_stub/sora_melee/bf_fn_27_FED48.c:
 	.text       start:0x000FED48 end:0x000FED58
@@ -7673,6 +8063,9 @@ mo_stub/sora_melee/bf_fn_27_FEDC0.c:
 mo_stub/sora_melee/bf_fn_27_FEDD0.c:
 	.text       start:0x000FEDD0 end:0x000FEDE0
 
+mo_stub/sora_melee/bf_fn_27_FEDF0.c:
+	.text       start:0x000FEDF0 end:0x000FEE00
+
 mo_stub/sora_melee/bf_fn_27_FEE00.c:
 	.text       start:0x000FEE00 end:0x000FEE10
 
@@ -7699,6 +8092,9 @@ mo_stub/sora_melee/bf_fn_27_FEE78.c:
 
 mo_stub/sora_melee/bf_fn_27_FEE88.c:
 	.text       start:0x000FEE88 end:0x000FEE98
+
+mo_stub/sora_melee/bf_fn_27_FEEA8.c:
+	.text       start:0x000FEEA8 end:0x000FEEB8
 
 mo_stub/sora_melee/bf_fn_27_FEEB8.c:
 	.text       start:0x000FEEB8 end:0x000FEEC8
@@ -7727,6 +8123,9 @@ mo_stub/sora_melee/bf_fn_27_FEF30.c:
 mo_stub/sora_melee/bf_fn_27_FEF40.c:
 	.text       start:0x000FEF40 end:0x000FEF50
 
+mo_stub/sora_melee/bf_fn_27_FEF60.c:
+	.text       start:0x000FEF60 end:0x000FEF70
+
 mo_stub/sora_melee/bf_fn_27_FEF70.c:
 	.text       start:0x000FEF70 end:0x000FEF80
 
@@ -7753,6 +8152,9 @@ mo_stub/sora_melee/bf_fn_27_FEFE8.c:
 
 mo_stub/sora_melee/bf_fn_27_FEFF8.c:
 	.text       start:0x000FEFF8 end:0x000FF008
+
+mo_stub/sora_melee/bf_fn_27_FF018.c:
+	.text       start:0x000FF018 end:0x000FF028
 
 mo_stub/sora_melee/bf_fn_27_FF028.c:
 	.text       start:0x000FF028 end:0x000FF038
@@ -7781,6 +8183,9 @@ mo_stub/sora_melee/bf_fn_27_FF0A0.c:
 mo_stub/sora_melee/bf_fn_27_FF0B0.c:
 	.text       start:0x000FF0B0 end:0x000FF0C0
 
+mo_stub/sora_melee/bf_fn_27_FF0D0.c:
+	.text       start:0x000FF0D0 end:0x000FF0E0
+
 mo_stub/sora_melee/bf_fn_27_FF0E0.c:
 	.text       start:0x000FF0E0 end:0x000FF0F0
 
@@ -7807,6 +8212,9 @@ mo_stub/sora_melee/bf_fn_27_FF158.c:
 
 mo_stub/sora_melee/bf_fn_27_FF168.c:
 	.text       start:0x000FF168 end:0x000FF178
+
+mo_stub/sora_melee/bf_fn_27_FF188.c:
+	.text       start:0x000FF188 end:0x000FF198
 
 mo_stub/sora_melee/bf_fn_27_FF198.c:
 	.text       start:0x000FF198 end:0x000FF1A8
@@ -7835,6 +8243,9 @@ mo_stub/sora_melee/bf_fn_27_FF210.c:
 mo_stub/sora_melee/bf_fn_27_FF220.c:
 	.text       start:0x000FF220 end:0x000FF230
 
+mo_stub/sora_melee/bf_fn_27_FF240.c:
+	.text       start:0x000FF240 end:0x000FF250
+
 mo_stub/sora_melee/bf_fn_27_FF250.c:
 	.text       start:0x000FF250 end:0x000FF260
 
@@ -7862,6 +8273,9 @@ mo_stub/sora_melee/bf_fn_27_FF2C8.c:
 mo_stub/sora_melee/bf_fn_27_FF2D8.c:
 	.text       start:0x000FF2D8 end:0x000FF2E8
 
+mo_stub/sora_melee/bf_fn_27_FF2F8.c:
+	.text       start:0x000FF2F8 end:0x000FF308
+
 mo_stub/sora_melee/bf_fn_27_FF308.c:
 	.text       start:0x000FF308 end:0x000FF318
 
@@ -7888,6 +8302,9 @@ mo_stub/sora_melee/bf_fn_27_FF380.c:
 
 mo_stub/sora_melee/bf_fn_27_FF390.c:
 	.text       start:0x000FF390 end:0x000FF3A0
+
+mo_stub/sora_melee/bf_fn_27_FF3B0.c:
+	.text       start:0x000FF3B0 end:0x000FF3C0
 
 mo_stub/sora_melee/bf_fn_27_FF3C0.c:
 	.text       start:0x000FF3C0 end:0x000FF3D0
@@ -8381,6 +8798,9 @@ mo_stub/sora_melee/bf_fn_27_10EBC8.c:
 mo_stub/sora_melee/bf_fn_27_10EBD8.c:
 	.text       start:0x0010EBD8 end:0x0010EBE8
 
+mo_stub/sora_melee/bf_fn_27_10EBF8.c:
+	.text       start:0x0010EBF8 end:0x0010EC08
+
 mo_stub/sora_melee/bf_fn_27_10EC08.c:
 	.text       start:0x0010EC08 end:0x0010EC18
 
@@ -8414,6 +8834,9 @@ mo_stub/sora_melee/bf_fn_27_11B934.c:
 mo_stub/sora_melee/bf_fn_27_11B944.c:
 	.text       start:0x0011B944 end:0x0011B954
 
+mo_stub/sora_melee/bf_fn_27_11B964.c:
+	.text       start:0x0011B964 end:0x0011B974
+
 mo_stub/sora_melee/bf_fn_27_11B974.c:
 	.text       start:0x0011B974 end:0x0011B984
 
@@ -8434,6 +8857,9 @@ mo_stub/sora_melee/bf_fn_27_11B9EC.c:
 
 mo_stub/sora_melee/bf_fn_27_11B9FC.c:
 	.text       start:0x0011B9FC end:0x0011BA0C
+
+mo_stub/sora_melee/bf_fn_27_11BA1C.c:
+	.text       start:0x0011BA1C end:0x0011BA2C
 
 mo_stub/sora_melee/bf_fn_27_11BA2C.c:
 	.text       start:0x0011BA2C end:0x0011BA3C
@@ -8471,6 +8897,9 @@ mo_stub/sora_melee/bf_fn_27_122A80.c:
 mo_stub/sora_melee/bf_fn_27_122A90.c:
 	.text       start:0x00122A90 end:0x00122AA0
 
+mo_stub/sora_melee/bf_fn_27_122AB0.c:
+	.text       start:0x00122AB0 end:0x00122AC0
+
 mo_stub/sora_melee/bf_fn_27_122AC0.c:
 	.text       start:0x00122AC0 end:0x00122AD0
 
@@ -8495,6 +8924,9 @@ mo_stub/sora_melee/bf_fn_27_122B38.c:
 mo_stub/sora_melee/bf_fn_27_122B48.c:
 	.text       start:0x00122B48 end:0x00122B58
 
+mo_stub/sora_melee/bf_fn_27_122B68.c:
+	.text       start:0x00122B68 end:0x00122B78
+
 mo_stub/sora_melee/bf_fn_27_122B78.c:
 	.text       start:0x00122B78 end:0x00122B88
 
@@ -8515,6 +8947,9 @@ mo_stub/sora_melee/bf_fn_27_122BF0.c:
 
 mo_stub/sora_melee/bf_fn_27_122C00.c:
 	.text       start:0x00122C00 end:0x00122C10
+
+mo_stub/sora_melee/bf_fn_27_122C20.c:
+	.text       start:0x00122C20 end:0x00122C30
 
 mo_stub/sora_melee/bf_fn_27_122C30.c:
 	.text       start:0x00122C30 end:0x00122C40
@@ -8539,6 +8974,9 @@ mo_stub/sora_melee/bf_fn_27_124DC0.c:
 
 mo_stub/sora_melee/bf_fn_27_124DD0.c:
 	.text       start:0x00124DD0 end:0x00124DE0
+
+mo_stub/sora_melee/bf_fn_27_124DF0.c:
+	.text       start:0x00124DF0 end:0x00124E00
 
 mo_stub/sora_melee/bf_fn_27_124E00.c:
 	.text       start:0x00124E00 end:0x00124E10
@@ -8581,6 +9019,9 @@ mo_stub/sora_melee/bf_fn_27_14F268.c:
 mo_stub/sora_melee/bf_fn_27_14F278.c:
 	.text       start:0x0014F278 end:0x0014F288
 
+mo_stub/sora_melee/bf_fn_27_14F298.c:
+	.text       start:0x0014F298 end:0x0014F2A8
+
 mo_stub/sora_melee/bf_fn_27_14F2A8.c:
 	.text       start:0x0014F2A8 end:0x0014F2B8
 
@@ -8604,6 +9045,9 @@ mo_stub/sora_melee/bf_fn_27_14F320.c:
 
 mo_stub/sora_melee/bf_fn_27_14F330.c:
 	.text       start:0x0014F330 end:0x0014F340
+
+mo_stub/sora_melee/bf_fn_27_14F350.c:
+	.text       start:0x0014F350 end:0x0014F360
 
 mo_stub/sora_melee/bf_fn_27_14F360.c:
 	.text       start:0x0014F360 end:0x0014F370
@@ -8633,6 +9077,9 @@ mo_stub/sora_melee/bf_fn_27_197F50.c:
 mo_stub/sora_melee/bf_fn_27_197F60.c:
 	.text       start:0x00197F60 end:0x00197F70
 
+mo_stub/sora_melee/bf_fn_27_197F80.c:
+	.text       start:0x00197F80 end:0x00197F90
+
 mo_stub/sora_melee/bf_fn_27_197F90.c:
 	.text       start:0x00197F90 end:0x00197FA0
 
@@ -8656,6 +9103,9 @@ mo_stub/sora_melee/bf_fn_27_198090.c:
 
 mo_stub/sora_melee/bf_fn_27_1980A0.c:
 	.text       start:0x001980A0 end:0x001980B0
+
+mo_stub/sora_melee/bf_fn_27_1980C0.c:
+	.text       start:0x001980C0 end:0x001980D0
 
 mo_stub/sora_melee/bf_fn_27_1980D0.c:
 	.text       start:0x001980D0 end:0x001980E0
@@ -8681,6 +9131,9 @@ mo_stub/sora_melee/bf_fn_27_1981C8.c:
 mo_stub/sora_melee/bf_fn_27_1981D8.c:
 	.text       start:0x001981D8 end:0x001981E8
 
+mo_stub/sora_melee/bf_fn_27_1981F8.c:
+	.text       start:0x001981F8 end:0x00198208
+
 mo_stub/sora_melee/bf_fn_27_198208.c:
 	.text       start:0x00198208 end:0x00198218
 
@@ -8704,6 +9157,9 @@ mo_stub/sora_melee/bf_fn_27_198308.c:
 
 mo_stub/sora_melee/bf_fn_27_198318.c:
 	.text       start:0x00198318 end:0x00198328
+
+mo_stub/sora_melee/bf_fn_27_198338.c:
+	.text       start:0x00198338 end:0x00198348
 
 mo_stub/sora_melee/bf_fn_27_198348.c:
 	.text       start:0x00198348 end:0x00198358
@@ -8729,6 +9185,9 @@ mo_stub/sora_melee/bf_fn_27_1984A0.c:
 mo_stub/sora_melee/bf_fn_27_1984B0.c:
 	.text       start:0x001984B0 end:0x001984C0
 
+mo_stub/sora_melee/bf_fn_27_1984D0.c:
+	.text       start:0x001984D0 end:0x001984E0
+
 mo_stub/sora_melee/bf_fn_27_1984E0.c:
 	.text       start:0x001984E0 end:0x001984F0
 
@@ -8752,6 +9211,9 @@ mo_stub/sora_melee/bf_fn_27_198638.c:
 
 mo_stub/sora_melee/bf_fn_27_198648.c:
 	.text       start:0x00198648 end:0x00198658
+
+mo_stub/sora_melee/bf_fn_27_198668.c:
+	.text       start:0x00198668 end:0x00198678
 
 mo_stub/sora_melee/bf_fn_27_198678.c:
 	.text       start:0x00198678 end:0x00198688
@@ -8777,6 +9239,9 @@ mo_stub/sora_melee/bf_fn_27_1987D0.c:
 mo_stub/sora_melee/bf_fn_27_1987E0.c:
 	.text       start:0x001987E0 end:0x001987F0
 
+mo_stub/sora_melee/bf_fn_27_198800.c:
+	.text       start:0x00198800 end:0x00198810
+
 mo_stub/sora_melee/bf_fn_27_198810.c:
 	.text       start:0x00198810 end:0x00198820
 
@@ -8800,6 +9265,9 @@ mo_stub/sora_melee/bf_fn_27_198968.c:
 
 mo_stub/sora_melee/bf_fn_27_198978.c:
 	.text       start:0x00198978 end:0x00198988
+
+mo_stub/sora_melee/bf_fn_27_198998.c:
+	.text       start:0x00198998 end:0x001989A8
 
 mo_stub/sora_melee/bf_fn_27_1989A8.c:
 	.text       start:0x001989A8 end:0x001989B8
@@ -8825,6 +9293,9 @@ mo_stub/sora_melee/bf_fn_27_198B00.c:
 mo_stub/sora_melee/bf_fn_27_198B10.c:
 	.text       start:0x00198B10 end:0x00198B20
 
+mo_stub/sora_melee/bf_fn_27_198B30.c:
+	.text       start:0x00198B30 end:0x00198B40
+
 mo_stub/sora_melee/bf_fn_27_198B40.c:
 	.text       start:0x00198B40 end:0x00198B50
 
@@ -8848,6 +9319,9 @@ mo_stub/sora_melee/bf_fn_27_198D14.c:
 
 mo_stub/sora_melee/bf_fn_27_198D24.c:
 	.text       start:0x00198D24 end:0x00198D34
+
+mo_stub/sora_melee/bf_fn_27_198D40.c:
+	.text       start:0x00198D40 end:0x00198D50
 
 mo_stub/sora_melee/bf_fn_27_198D50.c:
 	.text       start:0x00198D50 end:0x00198D60
@@ -8873,6 +9347,9 @@ mo_stub/sora_melee/bf_fn_27_198E84.c:
 mo_stub/sora_melee/bf_fn_27_198E94.c:
 	.text       start:0x00198E94 end:0x00198EA4
 
+mo_stub/sora_melee/bf_fn_27_198EB4.c:
+	.text       start:0x00198EB4 end:0x00198EC4
+
 mo_stub/sora_melee/bf_fn_27_198EC4.c:
 	.text       start:0x00198EC4 end:0x00198ED4
 
@@ -8896,6 +9373,9 @@ mo_stub/sora_melee/bf_fn_27_198FF8.c:
 
 mo_stub/sora_melee/bf_fn_27_199008.c:
 	.text       start:0x00199008 end:0x00199018
+
+mo_stub/sora_melee/bf_fn_27_199028.c:
+	.text       start:0x00199028 end:0x00199038
 
 mo_stub/sora_melee/bf_fn_27_199038.c:
 	.text       start:0x00199038 end:0x00199048
@@ -8921,6 +9401,9 @@ mo_stub/sora_melee/bf_fn_27_19916C.c:
 mo_stub/sora_melee/bf_fn_27_19917C.c:
 	.text       start:0x0019917C end:0x0019918C
 
+mo_stub/sora_melee/bf_fn_27_19919C.c:
+	.text       start:0x0019919C end:0x001991AC
+
 mo_stub/sora_melee/bf_fn_27_1991AC.c:
 	.text       start:0x001991AC end:0x001991BC
 
@@ -8944,6 +9427,9 @@ mo_stub/sora_melee/bf_fn_27_199270.c:
 
 mo_stub/sora_melee/bf_fn_27_199280.c:
 	.text       start:0x00199280 end:0x00199290
+
+mo_stub/sora_melee/bf_fn_27_1992A0.c:
+	.text       start:0x001992A0 end:0x001992B0
 
 mo_stub/sora_melee/bf_fn_27_1992B0.c:
 	.text       start:0x001992B0 end:0x001992C0
@@ -8969,6 +9455,9 @@ mo_stub/sora_melee/bf_fn_27_199374.c:
 mo_stub/sora_melee/bf_fn_27_199384.c:
 	.text       start:0x00199384 end:0x00199394
 
+mo_stub/sora_melee/bf_fn_27_1993A4.c:
+	.text       start:0x001993A4 end:0x001993B4
+
 mo_stub/sora_melee/bf_fn_27_1993B4.c:
 	.text       start:0x001993B4 end:0x001993C4
 
@@ -8992,6 +9481,9 @@ mo_stub/sora_melee/bf_fn_27_199478.c:
 
 mo_stub/sora_melee/bf_fn_27_199488.c:
 	.text       start:0x00199488 end:0x00199498
+
+mo_stub/sora_melee/bf_fn_27_1994A8.c:
+	.text       start:0x001994A8 end:0x001994B8
 
 mo_stub/sora_melee/bf_fn_27_1994B8.c:
 	.text       start:0x001994B8 end:0x001994C8
@@ -9017,6 +9509,9 @@ mo_stub/sora_melee/bf_fn_27_199610.c:
 mo_stub/sora_melee/bf_fn_27_199620.c:
 	.text       start:0x00199620 end:0x00199630
 
+mo_stub/sora_melee/bf_fn_27_199640.c:
+	.text       start:0x00199640 end:0x00199650
+
 mo_stub/sora_melee/bf_fn_27_199650.c:
 	.text       start:0x00199650 end:0x00199660
 
@@ -9040,6 +9535,9 @@ mo_stub/sora_melee/bf_fn_27_1997A8.c:
 
 mo_stub/sora_melee/bf_fn_27_1997B8.c:
 	.text       start:0x001997B8 end:0x001997C8
+
+mo_stub/sora_melee/bf_fn_27_1997D8.c:
+	.text       start:0x001997D8 end:0x001997E8
 
 mo_stub/sora_melee/bf_fn_27_1997E8.c:
 	.text       start:0x001997E8 end:0x001997F8
@@ -9065,6 +9563,9 @@ mo_stub/sora_melee/bf_fn_27_199940.c:
 mo_stub/sora_melee/bf_fn_27_199950.c:
 	.text       start:0x00199950 end:0x00199960
 
+mo_stub/sora_melee/bf_fn_27_199970.c:
+	.text       start:0x00199970 end:0x00199980
+
 mo_stub/sora_melee/bf_fn_27_199980.c:
 	.text       start:0x00199980 end:0x00199990
 
@@ -9088,6 +9589,9 @@ mo_stub/sora_melee/bf_fn_27_199AD8.c:
 
 mo_stub/sora_melee/bf_fn_27_199AE8.c:
 	.text       start:0x00199AE8 end:0x00199AF8
+
+mo_stub/sora_melee/bf_fn_27_199B08.c:
+	.text       start:0x00199B08 end:0x00199B18
 
 mo_stub/sora_melee/bf_fn_27_199B18.c:
 	.text       start:0x00199B18 end:0x00199B28
@@ -9113,6 +9617,9 @@ mo_stub/sora_melee/bf_fn_27_199C18.c:
 mo_stub/sora_melee/bf_fn_27_199C28.c:
 	.text       start:0x00199C28 end:0x00199C38
 
+mo_stub/sora_melee/bf_fn_27_199C48.c:
+	.text       start:0x00199C48 end:0x00199C58
+
 mo_stub/sora_melee/bf_fn_27_199C58.c:
 	.text       start:0x00199C58 end:0x00199C68
 
@@ -9136,6 +9643,9 @@ mo_stub/sora_melee/bf_fn_27_199D58.c:
 
 mo_stub/sora_melee/bf_fn_27_199D68.c:
 	.text       start:0x00199D68 end:0x00199D78
+
+mo_stub/sora_melee/bf_fn_27_199D88.c:
+	.text       start:0x00199D88 end:0x00199D98
 
 mo_stub/sora_melee/bf_fn_27_199D98.c:
 	.text       start:0x00199D98 end:0x00199DA8
@@ -9161,6 +9671,9 @@ mo_stub/sora_melee/bf_fn_27_199E98.c:
 mo_stub/sora_melee/bf_fn_27_199EA8.c:
 	.text       start:0x00199EA8 end:0x00199EB8
 
+mo_stub/sora_melee/bf_fn_27_199EC8.c:
+	.text       start:0x00199EC8 end:0x00199ED8
+
 mo_stub/sora_melee/bf_fn_27_199ED8.c:
 	.text       start:0x00199ED8 end:0x00199EE8
 
@@ -9184,6 +9697,9 @@ mo_stub/sora_melee/bf_fn_27_199FD8.c:
 
 mo_stub/sora_melee/bf_fn_27_199FE8.c:
 	.text       start:0x00199FE8 end:0x00199FF8
+
+mo_stub/sora_melee/bf_fn_27_19A008.c:
+	.text       start:0x0019A008 end:0x0019A018
 
 mo_stub/sora_melee/bf_fn_27_19A018.c:
 	.text       start:0x0019A018 end:0x0019A028
@@ -9209,6 +9725,9 @@ mo_stub/sora_melee/bf_fn_27_19A118.c:
 mo_stub/sora_melee/bf_fn_27_19A128.c:
 	.text       start:0x0019A128 end:0x0019A138
 
+mo_stub/sora_melee/bf_fn_27_19A148.c:
+	.text       start:0x0019A148 end:0x0019A158
+
 mo_stub/sora_melee/bf_fn_27_19A158.c:
 	.text       start:0x0019A158 end:0x0019A168
 
@@ -9232,6 +9751,9 @@ mo_stub/sora_melee/bf_fn_27_19A258.c:
 
 mo_stub/sora_melee/bf_fn_27_19A268.c:
 	.text       start:0x0019A268 end:0x0019A278
+
+mo_stub/sora_melee/bf_fn_27_19A288.c:
+	.text       start:0x0019A288 end:0x0019A298
 
 mo_stub/sora_melee/bf_fn_27_19A298.c:
 	.text       start:0x0019A298 end:0x0019A2A8
@@ -9257,6 +9779,9 @@ mo_stub/sora_melee/bf_fn_27_19A398.c:
 mo_stub/sora_melee/bf_fn_27_19A3A8.c:
 	.text       start:0x0019A3A8 end:0x0019A3B8
 
+mo_stub/sora_melee/bf_fn_27_19A3C8.c:
+	.text       start:0x0019A3C8 end:0x0019A3D8
+
 mo_stub/sora_melee/bf_fn_27_19A3D8.c:
 	.text       start:0x0019A3D8 end:0x0019A3E8
 
@@ -9280,6 +9805,9 @@ mo_stub/sora_melee/bf_fn_27_19A4D8.c:
 
 mo_stub/sora_melee/bf_fn_27_19A4E8.c:
 	.text       start:0x0019A4E8 end:0x0019A4F8
+
+mo_stub/sora_melee/bf_fn_27_19A508.c:
+	.text       start:0x0019A508 end:0x0019A518
 
 mo_stub/sora_melee/bf_fn_27_19A518.c:
 	.text       start:0x0019A518 end:0x0019A528
@@ -9305,6 +9833,9 @@ mo_stub/sora_melee/bf_fn_27_19A618.c:
 mo_stub/sora_melee/bf_fn_27_19A628.c:
 	.text       start:0x0019A628 end:0x0019A638
 
+mo_stub/sora_melee/bf_fn_27_19A648.c:
+	.text       start:0x0019A648 end:0x0019A658
+
 mo_stub/sora_melee/bf_fn_27_19A658.c:
 	.text       start:0x0019A658 end:0x0019A668
 
@@ -9328,6 +9859,9 @@ mo_stub/sora_melee/bf_fn_27_19A758.c:
 
 mo_stub/sora_melee/bf_fn_27_19A768.c:
 	.text       start:0x0019A768 end:0x0019A778
+
+mo_stub/sora_melee/bf_fn_27_19A788.c:
+	.text       start:0x0019A788 end:0x0019A798
 
 mo_stub/sora_melee/bf_fn_27_19A798.c:
 	.text       start:0x0019A798 end:0x0019A7A8
@@ -9353,6 +9887,9 @@ mo_stub/sora_melee/bf_fn_27_19A898.c:
 mo_stub/sora_melee/bf_fn_27_19A8A8.c:
 	.text       start:0x0019A8A8 end:0x0019A8B8
 
+mo_stub/sora_melee/bf_fn_27_19A8C8.c:
+	.text       start:0x0019A8C8 end:0x0019A8D8
+
 mo_stub/sora_melee/bf_fn_27_19A8D8.c:
 	.text       start:0x0019A8D8 end:0x0019A8E8
 
@@ -9376,6 +9913,9 @@ mo_stub/sora_melee/bf_fn_27_19A9D8.c:
 
 mo_stub/sora_melee/bf_fn_27_19A9E8.c:
 	.text       start:0x0019A9E8 end:0x0019A9F8
+
+mo_stub/sora_melee/bf_fn_27_19AA08.c:
+	.text       start:0x0019AA08 end:0x0019AA18
 
 mo_stub/sora_melee/bf_fn_27_19AA18.c:
 	.text       start:0x0019AA18 end:0x0019AA28
@@ -9401,6 +9941,9 @@ mo_stub/sora_melee/bf_fn_27_19AC20.c:
 mo_stub/sora_melee/bf_fn_27_19AC30.c:
 	.text       start:0x0019AC30 end:0x0019AC40
 
+mo_stub/sora_melee/bf_fn_27_19AC50.c:
+	.text       start:0x0019AC50 end:0x0019AC60
+
 mo_stub/sora_melee/bf_fn_27_19AC60.c:
 	.text       start:0x0019AC60 end:0x0019AC70
 
@@ -9424,6 +9967,9 @@ mo_stub/sora_melee/bf_fn_27_19AE68.c:
 
 mo_stub/sora_melee/bf_fn_27_19AE78.c:
 	.text       start:0x0019AE78 end:0x0019AE88
+
+mo_stub/sora_melee/bf_fn_27_19AE98.c:
+	.text       start:0x0019AE98 end:0x0019AEA8
 
 mo_stub/sora_melee/bf_fn_27_19AEA8.c:
 	.text       start:0x0019AEA8 end:0x0019AEB8
@@ -9449,6 +9995,9 @@ mo_stub/sora_melee/bf_fn_27_19B0B0.c:
 mo_stub/sora_melee/bf_fn_27_19B0C0.c:
 	.text       start:0x0019B0C0 end:0x0019B0D0
 
+mo_stub/sora_melee/bf_fn_27_19B0E0.c:
+	.text       start:0x0019B0E0 end:0x0019B0F0
+
 mo_stub/sora_melee/bf_fn_27_19B0F0.c:
 	.text       start:0x0019B0F0 end:0x0019B100
 
@@ -9472,6 +10021,9 @@ mo_stub/sora_melee/bf_fn_27_19B2F8.c:
 
 mo_stub/sora_melee/bf_fn_27_19B308.c:
 	.text       start:0x0019B308 end:0x0019B318
+
+mo_stub/sora_melee/bf_fn_27_19B328.c:
+	.text       start:0x0019B328 end:0x0019B338
 
 mo_stub/sora_melee/bf_fn_27_19B338.c:
 	.text       start:0x0019B338 end:0x0019B348
@@ -9497,6 +10049,9 @@ mo_stub/sora_melee/bf_fn_27_19B540.c:
 mo_stub/sora_melee/bf_fn_27_19B550.c:
 	.text       start:0x0019B550 end:0x0019B560
 
+mo_stub/sora_melee/bf_fn_27_19B570.c:
+	.text       start:0x0019B570 end:0x0019B580
+
 mo_stub/sora_melee/bf_fn_27_19B580.c:
 	.text       start:0x0019B580 end:0x0019B590
 
@@ -9520,6 +10075,9 @@ mo_stub/sora_melee/bf_fn_27_19B788.c:
 
 mo_stub/sora_melee/bf_fn_27_19B798.c:
 	.text       start:0x0019B798 end:0x0019B7A8
+
+mo_stub/sora_melee/bf_fn_27_19B7B8.c:
+	.text       start:0x0019B7B8 end:0x0019B7C8
 
 mo_stub/sora_melee/bf_fn_27_19B7C8.c:
 	.text       start:0x0019B7C8 end:0x0019B7D8
@@ -9545,6 +10103,9 @@ mo_stub/sora_melee/bf_fn_27_19B9D0.c:
 mo_stub/sora_melee/bf_fn_27_19B9E0.c:
 	.text       start:0x0019B9E0 end:0x0019B9F0
 
+mo_stub/sora_melee/bf_fn_27_19BA00.c:
+	.text       start:0x0019BA00 end:0x0019BA10
+
 mo_stub/sora_melee/bf_fn_27_19BA10.c:
 	.text       start:0x0019BA10 end:0x0019BA20
 
@@ -9568,6 +10129,9 @@ mo_stub/sora_melee/bf_fn_27_19BC18.c:
 
 mo_stub/sora_melee/bf_fn_27_19BC28.c:
 	.text       start:0x0019BC28 end:0x0019BC38
+
+mo_stub/sora_melee/bf_fn_27_19BC48.c:
+	.text       start:0x0019BC48 end:0x0019BC58
 
 mo_stub/sora_melee/bf_fn_27_19BC58.c:
 	.text       start:0x0019BC58 end:0x0019BC68
@@ -9593,6 +10157,9 @@ mo_stub/sora_melee/bf_fn_27_19BD20.c:
 mo_stub/sora_melee/bf_fn_27_19BD30.c:
 	.text       start:0x0019BD30 end:0x0019BD40
 
+mo_stub/sora_melee/bf_fn_27_19BD50.c:
+	.text       start:0x0019BD50 end:0x0019BD60
+
 mo_stub/sora_melee/bf_fn_27_19BD60.c:
 	.text       start:0x0019BD60 end:0x0019BD70
 
@@ -9616,6 +10183,9 @@ mo_stub/sora_melee/bf_fn_27_19BEB8.c:
 
 mo_stub/sora_melee/bf_fn_27_19BEC8.c:
 	.text       start:0x0019BEC8 end:0x0019BED8
+
+mo_stub/sora_melee/bf_fn_27_19BEE8.c:
+	.text       start:0x0019BEE8 end:0x0019BEF8
 
 mo_stub/sora_melee/bf_fn_27_19BEF8.c:
 	.text       start:0x0019BEF8 end:0x0019BF08
@@ -9641,6 +10211,9 @@ mo_stub/sora_melee/bf_fn_27_19C050.c:
 mo_stub/sora_melee/bf_fn_27_19C060.c:
 	.text       start:0x0019C060 end:0x0019C070
 
+mo_stub/sora_melee/bf_fn_27_19C080.c:
+	.text       start:0x0019C080 end:0x0019C090
+
 mo_stub/sora_melee/bf_fn_27_19C090.c:
 	.text       start:0x0019C090 end:0x0019C0A0
 
@@ -9664,6 +10237,9 @@ mo_stub/sora_melee/bf_fn_27_19C298.c:
 
 mo_stub/sora_melee/bf_fn_27_19C2A8.c:
 	.text       start:0x0019C2A8 end:0x0019C2B8
+
+mo_stub/sora_melee/bf_fn_27_19C2C8.c:
+	.text       start:0x0019C2C8 end:0x0019C2D8
 
 mo_stub/sora_melee/bf_fn_27_19C2D8.c:
 	.text       start:0x0019C2D8 end:0x0019C2E8
@@ -9689,6 +10265,9 @@ mo_stub/sora_melee/bf_fn_27_19C4E0.c:
 mo_stub/sora_melee/bf_fn_27_19C4F0.c:
 	.text       start:0x0019C4F0 end:0x0019C500
 
+mo_stub/sora_melee/bf_fn_27_19C510.c:
+	.text       start:0x0019C510 end:0x0019C520
+
 mo_stub/sora_melee/bf_fn_27_19C520.c:
 	.text       start:0x0019C520 end:0x0019C530
 
@@ -9712,6 +10291,9 @@ mo_stub/sora_melee/bf_fn_27_19C728.c:
 
 mo_stub/sora_melee/bf_fn_27_19C738.c:
 	.text       start:0x0019C738 end:0x0019C748
+
+mo_stub/sora_melee/bf_fn_27_19C758.c:
+	.text       start:0x0019C758 end:0x0019C768
 
 mo_stub/sora_melee/bf_fn_27_19C768.c:
 	.text       start:0x0019C768 end:0x0019C778
@@ -9737,6 +10319,9 @@ mo_stub/sora_melee/bf_fn_27_19C89C.c:
 mo_stub/sora_melee/bf_fn_27_19C8AC.c:
 	.text       start:0x0019C8AC end:0x0019C8BC
 
+mo_stub/sora_melee/bf_fn_27_19C8CC.c:
+	.text       start:0x0019C8CC end:0x0019C8DC
+
 mo_stub/sora_melee/bf_fn_27_19C8DC.c:
 	.text       start:0x0019C8DC end:0x0019C8EC
 
@@ -9760,6 +10345,9 @@ mo_stub/sora_melee/bf_fn_27_19CB04.c:
 
 mo_stub/sora_melee/bf_fn_27_19CB14.c:
 	.text       start:0x0019CB14 end:0x0019CB24
+
+mo_stub/sora_melee/bf_fn_27_19CB34.c:
+	.text       start:0x0019CB34 end:0x0019CB44
 
 mo_stub/sora_melee/bf_fn_27_19CB44.c:
 	.text       start:0x0019CB44 end:0x0019CB54
@@ -9785,6 +10373,9 @@ mo_stub/sora_melee/bf_fn_27_19CD4C.c:
 mo_stub/sora_melee/bf_fn_27_19CD5C.c:
 	.text       start:0x0019CD5C end:0x0019CD6C
 
+mo_stub/sora_melee/bf_fn_27_19CD7C.c:
+	.text       start:0x0019CD7C end:0x0019CD8C
+
 mo_stub/sora_melee/bf_fn_27_19CD8C.c:
 	.text       start:0x0019CD8C end:0x0019CD9C
 
@@ -9808,6 +10399,9 @@ mo_stub/sora_melee/bf_fn_27_19CF94.c:
 
 mo_stub/sora_melee/bf_fn_27_19CFA4.c:
 	.text       start:0x0019CFA4 end:0x0019CFB4
+
+mo_stub/sora_melee/bf_fn_27_19CFC4.c:
+	.text       start:0x0019CFC4 end:0x0019CFD4
 
 mo_stub/sora_melee/bf_fn_27_19CFD4.c:
 	.text       start:0x0019CFD4 end:0x0019CFE4
@@ -9833,6 +10427,9 @@ mo_stub/sora_melee/bf_fn_27_19D1DC.c:
 mo_stub/sora_melee/bf_fn_27_19D1EC.c:
 	.text       start:0x0019D1EC end:0x0019D1FC
 
+mo_stub/sora_melee/bf_fn_27_19D20C.c:
+	.text       start:0x0019D20C end:0x0019D21C
+
 mo_stub/sora_melee/bf_fn_27_19D21C.c:
 	.text       start:0x0019D21C end:0x0019D22C
 
@@ -9856,6 +10453,9 @@ mo_stub/sora_melee/bf_fn_27_19D424.c:
 
 mo_stub/sora_melee/bf_fn_27_19D434.c:
 	.text       start:0x0019D434 end:0x0019D444
+
+mo_stub/sora_melee/bf_fn_27_19D454.c:
+	.text       start:0x0019D454 end:0x0019D464
 
 mo_stub/sora_melee/bf_fn_27_19D464.c:
 	.text       start:0x0019D464 end:0x0019D474
@@ -9881,6 +10481,9 @@ mo_stub/sora_melee/bf_fn_27_19D66C.c:
 mo_stub/sora_melee/bf_fn_27_19D67C.c:
 	.text       start:0x0019D67C end:0x0019D68C
 
+mo_stub/sora_melee/bf_fn_27_19D69C.c:
+	.text       start:0x0019D69C end:0x0019D6AC
+
 mo_stub/sora_melee/bf_fn_27_19D6AC.c:
 	.text       start:0x0019D6AC end:0x0019D6BC
 
@@ -9904,6 +10507,9 @@ mo_stub/sora_melee/bf_fn_27_19D8B4.c:
 
 mo_stub/sora_melee/bf_fn_27_19D8C4.c:
 	.text       start:0x0019D8C4 end:0x0019D8D4
+
+mo_stub/sora_melee/bf_fn_27_19D8E4.c:
+	.text       start:0x0019D8E4 end:0x0019D8F4
 
 mo_stub/sora_melee/bf_fn_27_19D8F4.c:
 	.text       start:0x0019D8F4 end:0x0019D904
@@ -9929,6 +10535,9 @@ mo_stub/sora_melee/bf_fn_27_19DAFC.c:
 mo_stub/sora_melee/bf_fn_27_19DB0C.c:
 	.text       start:0x0019DB0C end:0x0019DB1C
 
+mo_stub/sora_melee/bf_fn_27_19DB2C.c:
+	.text       start:0x0019DB2C end:0x0019DB3C
+
 mo_stub/sora_melee/bf_fn_27_19DB3C.c:
 	.text       start:0x0019DB3C end:0x0019DB4C
 
@@ -9952,6 +10561,9 @@ mo_stub/sora_melee/bf_fn_27_19DD44.c:
 
 mo_stub/sora_melee/bf_fn_27_19DD54.c:
 	.text       start:0x0019DD54 end:0x0019DD64
+
+mo_stub/sora_melee/bf_fn_27_19DD74.c:
+	.text       start:0x0019DD74 end:0x0019DD84
 
 mo_stub/sora_melee/bf_fn_27_19DD84.c:
 	.text       start:0x0019DD84 end:0x0019DD94
@@ -9977,6 +10589,9 @@ mo_stub/sora_melee/bf_fn_27_19DF8C.c:
 mo_stub/sora_melee/bf_fn_27_19DF9C.c:
 	.text       start:0x0019DF9C end:0x0019DFAC
 
+mo_stub/sora_melee/bf_fn_27_19DFBC.c:
+	.text       start:0x0019DFBC end:0x0019DFCC
+
 mo_stub/sora_melee/bf_fn_27_19DFCC.c:
 	.text       start:0x0019DFCC end:0x0019DFDC
 
@@ -10000,6 +10615,9 @@ mo_stub/sora_melee/bf_fn_27_19E1D4.c:
 
 mo_stub/sora_melee/bf_fn_27_19E1E4.c:
 	.text       start:0x0019E1E4 end:0x0019E1F4
+
+mo_stub/sora_melee/bf_fn_27_19E204.c:
+	.text       start:0x0019E204 end:0x0019E214
 
 mo_stub/sora_melee/bf_fn_27_19E214.c:
 	.text       start:0x0019E214 end:0x0019E224
@@ -10025,6 +10643,9 @@ mo_stub/sora_melee/bf_fn_27_19E41C.c:
 mo_stub/sora_melee/bf_fn_27_19E42C.c:
 	.text       start:0x0019E42C end:0x0019E43C
 
+mo_stub/sora_melee/bf_fn_27_19E44C.c:
+	.text       start:0x0019E44C end:0x0019E45C
+
 mo_stub/sora_melee/bf_fn_27_19E45C.c:
 	.text       start:0x0019E45C end:0x0019E46C
 
@@ -10048,6 +10669,9 @@ mo_stub/sora_melee/bf_fn_27_19E664.c:
 
 mo_stub/sora_melee/bf_fn_27_19E674.c:
 	.text       start:0x0019E674 end:0x0019E684
+
+mo_stub/sora_melee/bf_fn_27_19E694.c:
+	.text       start:0x0019E694 end:0x0019E6A4
 
 mo_stub/sora_melee/bf_fn_27_19E6A4.c:
 	.text       start:0x0019E6A4 end:0x0019E6B4
@@ -10073,6 +10697,9 @@ mo_stub/sora_melee/bf_fn_27_19E8AC.c:
 mo_stub/sora_melee/bf_fn_27_19E8BC.c:
 	.text       start:0x0019E8BC end:0x0019E8CC
 
+mo_stub/sora_melee/bf_fn_27_19E8DC.c:
+	.text       start:0x0019E8DC end:0x0019E8EC
+
 mo_stub/sora_melee/bf_fn_27_19E8EC.c:
 	.text       start:0x0019E8EC end:0x0019E8FC
 
@@ -10096,6 +10723,9 @@ mo_stub/sora_melee/bf_fn_27_19EA20.c:
 
 mo_stub/sora_melee/bf_fn_27_19EA30.c:
 	.text       start:0x0019EA30 end:0x0019EA40
+
+mo_stub/sora_melee/bf_fn_27_19EA50.c:
+	.text       start:0x0019EA50 end:0x0019EA60
 
 mo_stub/sora_melee/bf_fn_27_19EA60.c:
 	.text       start:0x0019EA60 end:0x0019EA70
@@ -10121,6 +10751,9 @@ mo_stub/sora_melee/bf_fn_27_19EBB8.c:
 mo_stub/sora_melee/bf_fn_27_19EBC8.c:
 	.text       start:0x0019EBC8 end:0x0019EBD8
 
+mo_stub/sora_melee/bf_fn_27_19EBE8.c:
+	.text       start:0x0019EBE8 end:0x0019EBF8
+
 mo_stub/sora_melee/bf_fn_27_19EBF8.c:
 	.text       start:0x0019EBF8 end:0x0019EC08
 
@@ -10144,6 +10777,9 @@ mo_stub/sora_melee/bf_fn_27_19ED50.c:
 
 mo_stub/sora_melee/bf_fn_27_19ED60.c:
 	.text       start:0x0019ED60 end:0x0019ED70
+
+mo_stub/sora_melee/bf_fn_27_19ED80.c:
+	.text       start:0x0019ED80 end:0x0019ED90
 
 mo_stub/sora_melee/bf_fn_27_19ED90.c:
 	.text       start:0x0019ED90 end:0x0019EDA0
@@ -10169,6 +10805,9 @@ mo_stub/sora_melee/bf_fn_27_19EEE8.c:
 mo_stub/sora_melee/bf_fn_27_19EEF8.c:
 	.text       start:0x0019EEF8 end:0x0019EF08
 
+mo_stub/sora_melee/bf_fn_27_19EF18.c:
+	.text       start:0x0019EF18 end:0x0019EF28
+
 mo_stub/sora_melee/bf_fn_27_19EF28.c:
 	.text       start:0x0019EF28 end:0x0019EF38
 
@@ -10192,6 +10831,9 @@ mo_stub/sora_melee/bf_fn_27_19F080.c:
 
 mo_stub/sora_melee/bf_fn_27_19F090.c:
 	.text       start:0x0019F090 end:0x0019F0A0
+
+mo_stub/sora_melee/bf_fn_27_19F0B0.c:
+	.text       start:0x0019F0B0 end:0x0019F0C0
 
 mo_stub/sora_melee/bf_fn_27_19F0C0.c:
 	.text       start:0x0019F0C0 end:0x0019F0D0
@@ -10217,6 +10859,9 @@ mo_stub/sora_melee/bf_fn_27_19F218.c:
 mo_stub/sora_melee/bf_fn_27_19F228.c:
 	.text       start:0x0019F228 end:0x0019F238
 
+mo_stub/sora_melee/bf_fn_27_19F248.c:
+	.text       start:0x0019F248 end:0x0019F258
+
 mo_stub/sora_melee/bf_fn_27_19F258.c:
 	.text       start:0x0019F258 end:0x0019F268
 
@@ -10240,6 +10885,9 @@ mo_stub/sora_melee/bf_fn_27_19F3B0.c:
 
 mo_stub/sora_melee/bf_fn_27_19F3C0.c:
 	.text       start:0x0019F3C0 end:0x0019F3D0
+
+mo_stub/sora_melee/bf_fn_27_19F3E0.c:
+	.text       start:0x0019F3E0 end:0x0019F3F0
 
 mo_stub/sora_melee/bf_fn_27_19F3F0.c:
 	.text       start:0x0019F3F0 end:0x0019F400
@@ -10265,6 +10913,9 @@ mo_stub/sora_melee/bf_fn_27_19F548.c:
 mo_stub/sora_melee/bf_fn_27_19F558.c:
 	.text       start:0x0019F558 end:0x0019F568
 
+mo_stub/sora_melee/bf_fn_27_19F578.c:
+	.text       start:0x0019F578 end:0x0019F588
+
 mo_stub/sora_melee/bf_fn_27_19F588.c:
 	.text       start:0x0019F588 end:0x0019F598
 
@@ -10288,6 +10939,9 @@ mo_stub/sora_melee/bf_fn_27_19F6E0.c:
 
 mo_stub/sora_melee/bf_fn_27_19F6F0.c:
 	.text       start:0x0019F6F0 end:0x0019F700
+
+mo_stub/sora_melee/bf_fn_27_19F710.c:
+	.text       start:0x0019F710 end:0x0019F720
 
 mo_stub/sora_melee/bf_fn_27_19F720.c:
 	.text       start:0x0019F720 end:0x0019F730
@@ -10313,6 +10967,9 @@ mo_stub/sora_melee/bf_fn_27_19F878.c:
 mo_stub/sora_melee/bf_fn_27_19F888.c:
 	.text       start:0x0019F888 end:0x0019F898
 
+mo_stub/sora_melee/bf_fn_27_19F8A8.c:
+	.text       start:0x0019F8A8 end:0x0019F8B8
+
 mo_stub/sora_melee/bf_fn_27_19F8B8.c:
 	.text       start:0x0019F8B8 end:0x0019F8C8
 
@@ -10336,6 +10993,9 @@ mo_stub/sora_melee/bf_fn_27_19FA10.c:
 
 mo_stub/sora_melee/bf_fn_27_19FA20.c:
 	.text       start:0x0019FA20 end:0x0019FA30
+
+mo_stub/sora_melee/bf_fn_27_19FA40.c:
+	.text       start:0x0019FA40 end:0x0019FA50
 
 mo_stub/sora_melee/bf_fn_27_19FA50.c:
 	.text       start:0x0019FA50 end:0x0019FA60
@@ -10361,6 +11021,9 @@ mo_stub/sora_melee/bf_fn_27_19FBA8.c:
 mo_stub/sora_melee/bf_fn_27_19FBB8.c:
 	.text       start:0x0019FBB8 end:0x0019FBC8
 
+mo_stub/sora_melee/bf_fn_27_19FBD8.c:
+	.text       start:0x0019FBD8 end:0x0019FBE8
+
 mo_stub/sora_melee/bf_fn_27_19FBE8.c:
 	.text       start:0x0019FBE8 end:0x0019FBF8
 
@@ -10384,6 +11047,9 @@ mo_stub/sora_melee/bf_fn_27_19FD40.c:
 
 mo_stub/sora_melee/bf_fn_27_19FD50.c:
 	.text       start:0x0019FD50 end:0x0019FD60
+
+mo_stub/sora_melee/bf_fn_27_19FD70.c:
+	.text       start:0x0019FD70 end:0x0019FD80
 
 mo_stub/sora_melee/bf_fn_27_19FD80.c:
 	.text       start:0x0019FD80 end:0x0019FD90
@@ -10409,6 +11075,9 @@ mo_stub/sora_melee/bf_fn_27_19FED8.c:
 mo_stub/sora_melee/bf_fn_27_19FEE8.c:
 	.text       start:0x0019FEE8 end:0x0019FEF8
 
+mo_stub/sora_melee/bf_fn_27_19FF08.c:
+	.text       start:0x0019FF08 end:0x0019FF18
+
 mo_stub/sora_melee/bf_fn_27_19FF18.c:
 	.text       start:0x0019FF18 end:0x0019FF28
 
@@ -10432,6 +11101,9 @@ mo_stub/sora_melee/bf_fn_27_1A0070.c:
 
 mo_stub/sora_melee/bf_fn_27_1A0080.c:
 	.text       start:0x001A0080 end:0x001A0090
+
+mo_stub/sora_melee/bf_fn_27_1A00A0.c:
+	.text       start:0x001A00A0 end:0x001A00B0
 
 mo_stub/sora_melee/bf_fn_27_1A00B0.c:
 	.text       start:0x001A00B0 end:0x001A00C0
@@ -10457,6 +11129,9 @@ mo_stub/sora_melee/bf_fn_27_1A0208.c:
 mo_stub/sora_melee/bf_fn_27_1A0218.c:
 	.text       start:0x001A0218 end:0x001A0228
 
+mo_stub/sora_melee/bf_fn_27_1A0238.c:
+	.text       start:0x001A0238 end:0x001A0248
+
 mo_stub/sora_melee/bf_fn_27_1A0248.c:
 	.text       start:0x001A0248 end:0x001A0258
 
@@ -10480,6 +11155,9 @@ mo_stub/sora_melee/bf_fn_27_1A03F0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A0400.c:
 	.text       start:0x001A0400 end:0x001A0410
+
+mo_stub/sora_melee/bf_fn_27_1A0420.c:
+	.text       start:0x001A0420 end:0x001A0430
 
 mo_stub/sora_melee/bf_fn_27_1A0430.c:
 	.text       start:0x001A0430 end:0x001A0440
@@ -10505,6 +11183,9 @@ mo_stub/sora_melee/bf_fn_27_1A0A10.c:
 mo_stub/sora_melee/bf_fn_27_1A0A20.c:
 	.text       start:0x001A0A20 end:0x001A0A30
 
+mo_stub/sora_melee/bf_fn_27_1A0A40.c:
+	.text       start:0x001A0A40 end:0x001A0A50
+
 mo_stub/sora_melee/bf_fn_27_1A0A50.c:
 	.text       start:0x001A0A50 end:0x001A0A60
 
@@ -10528,6 +11209,9 @@ mo_stub/sora_melee/bf_fn_27_1A0D08.c:
 
 mo_stub/sora_melee/bf_fn_27_1A0D18.c:
 	.text       start:0x001A0D18 end:0x001A0D28
+
+mo_stub/sora_melee/bf_fn_27_1A0D38.c:
+	.text       start:0x001A0D38 end:0x001A0D48
 
 mo_stub/sora_melee/bf_fn_27_1A0D48.c:
 	.text       start:0x001A0D48 end:0x001A0D58
@@ -10553,6 +11237,9 @@ mo_stub/sora_melee/bf_fn_27_1A1000.c:
 mo_stub/sora_melee/bf_fn_27_1A1010.c:
 	.text       start:0x001A1010 end:0x001A1020
 
+mo_stub/sora_melee/bf_fn_27_1A1030.c:
+	.text       start:0x001A1030 end:0x001A1040
+
 mo_stub/sora_melee/bf_fn_27_1A1040.c:
 	.text       start:0x001A1040 end:0x001A1050
 
@@ -10576,6 +11263,9 @@ mo_stub/sora_melee/bf_fn_27_1A1198.c:
 
 mo_stub/sora_melee/bf_fn_27_1A11A8.c:
 	.text       start:0x001A11A8 end:0x001A11B8
+
+mo_stub/sora_melee/bf_fn_27_1A11C8.c:
+	.text       start:0x001A11C8 end:0x001A11D8
 
 mo_stub/sora_melee/bf_fn_27_1A11D8.c:
 	.text       start:0x001A11D8 end:0x001A11E8
@@ -10601,6 +11291,9 @@ mo_stub/sora_melee/bf_fn_27_1A1330.c:
 mo_stub/sora_melee/bf_fn_27_1A1340.c:
 	.text       start:0x001A1340 end:0x001A1350
 
+mo_stub/sora_melee/bf_fn_27_1A1360.c:
+	.text       start:0x001A1360 end:0x001A1370
+
 mo_stub/sora_melee/bf_fn_27_1A1370.c:
 	.text       start:0x001A1370 end:0x001A1380
 
@@ -10624,6 +11317,9 @@ mo_stub/sora_melee/bf_fn_27_1A14C8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A14D8.c:
 	.text       start:0x001A14D8 end:0x001A14E8
+
+mo_stub/sora_melee/bf_fn_27_1A14F8.c:
+	.text       start:0x001A14F8 end:0x001A1508
 
 mo_stub/sora_melee/bf_fn_27_1A1508.c:
 	.text       start:0x001A1508 end:0x001A1518
@@ -10649,6 +11345,9 @@ mo_stub/sora_melee/bf_fn_27_1A163C.c:
 mo_stub/sora_melee/bf_fn_27_1A164C.c:
 	.text       start:0x001A164C end:0x001A165C
 
+mo_stub/sora_melee/bf_fn_27_1A166C.c:
+	.text       start:0x001A166C end:0x001A167C
+
 mo_stub/sora_melee/bf_fn_27_1A167C.c:
 	.text       start:0x001A167C end:0x001A168C
 
@@ -10672,6 +11371,9 @@ mo_stub/sora_melee/bf_fn_27_1A17B0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A17C0.c:
 	.text       start:0x001A17C0 end:0x001A17D0
+
+mo_stub/sora_melee/bf_fn_27_1A17E0.c:
+	.text       start:0x001A17E0 end:0x001A17F0
 
 mo_stub/sora_melee/bf_fn_27_1A17F0.c:
 	.text       start:0x001A17F0 end:0x001A1800
@@ -10697,6 +11399,9 @@ mo_stub/sora_melee/bf_fn_27_1A1924.c:
 mo_stub/sora_melee/bf_fn_27_1A1934.c:
 	.text       start:0x001A1934 end:0x001A1944
 
+mo_stub/sora_melee/bf_fn_27_1A1954.c:
+	.text       start:0x001A1954 end:0x001A1964
+
 mo_stub/sora_melee/bf_fn_27_1A1964.c:
 	.text       start:0x001A1964 end:0x001A1974
 
@@ -10720,6 +11425,9 @@ mo_stub/sora_melee/bf_fn_27_1A1A98.c:
 
 mo_stub/sora_melee/bf_fn_27_1A1AA8.c:
 	.text       start:0x001A1AA8 end:0x001A1AB8
+
+mo_stub/sora_melee/bf_fn_27_1A1AC8.c:
+	.text       start:0x001A1AC8 end:0x001A1AD8
 
 mo_stub/sora_melee/bf_fn_27_1A1AD8.c:
 	.text       start:0x001A1AD8 end:0x001A1AE8
@@ -10745,6 +11453,9 @@ mo_stub/sora_melee/bf_fn_27_1A1C0C.c:
 mo_stub/sora_melee/bf_fn_27_1A1C1C.c:
 	.text       start:0x001A1C1C end:0x001A1C2C
 
+mo_stub/sora_melee/bf_fn_27_1A1C3C.c:
+	.text       start:0x001A1C3C end:0x001A1C4C
+
 mo_stub/sora_melee/bf_fn_27_1A1C4C.c:
 	.text       start:0x001A1C4C end:0x001A1C5C
 
@@ -10768,6 +11479,9 @@ mo_stub/sora_melee/bf_fn_27_1A1D80.c:
 
 mo_stub/sora_melee/bf_fn_27_1A1D90.c:
 	.text       start:0x001A1D90 end:0x001A1DA0
+
+mo_stub/sora_melee/bf_fn_27_1A1DB0.c:
+	.text       start:0x001A1DB0 end:0x001A1DC0
 
 mo_stub/sora_melee/bf_fn_27_1A1DC0.c:
 	.text       start:0x001A1DC0 end:0x001A1DD0
@@ -10793,6 +11507,9 @@ mo_stub/sora_melee/bf_fn_27_1A1EF4.c:
 mo_stub/sora_melee/bf_fn_27_1A1F04.c:
 	.text       start:0x001A1F04 end:0x001A1F14
 
+mo_stub/sora_melee/bf_fn_27_1A1F24.c:
+	.text       start:0x001A1F24 end:0x001A1F34
+
 mo_stub/sora_melee/bf_fn_27_1A1F34.c:
 	.text       start:0x001A1F34 end:0x001A1F44
 
@@ -10816,6 +11533,9 @@ mo_stub/sora_melee/bf_fn_27_1A2068.c:
 
 mo_stub/sora_melee/bf_fn_27_1A2078.c:
 	.text       start:0x001A2078 end:0x001A2088
+
+mo_stub/sora_melee/bf_fn_27_1A2098.c:
+	.text       start:0x001A2098 end:0x001A20A8
 
 mo_stub/sora_melee/bf_fn_27_1A20A8.c:
 	.text       start:0x001A20A8 end:0x001A20B8
@@ -10841,6 +11561,9 @@ mo_stub/sora_melee/bf_fn_27_1A2170.c:
 mo_stub/sora_melee/bf_fn_27_1A2180.c:
 	.text       start:0x001A2180 end:0x001A2190
 
+mo_stub/sora_melee/bf_fn_27_1A21A0.c:
+	.text       start:0x001A21A0 end:0x001A21B0
+
 mo_stub/sora_melee/bf_fn_27_1A21B0.c:
 	.text       start:0x001A21B0 end:0x001A21C0
 
@@ -10864,6 +11587,9 @@ mo_stub/sora_melee/bf_fn_27_1A2290.c:
 
 mo_stub/sora_melee/bf_fn_27_1A22A0.c:
 	.text       start:0x001A22A0 end:0x001A22B0
+
+mo_stub/sora_melee/bf_fn_27_1A22C0.c:
+	.text       start:0x001A22C0 end:0x001A22D0
 
 mo_stub/sora_melee/bf_fn_27_1A22D0.c:
 	.text       start:0x001A22D0 end:0x001A22E0
@@ -10889,6 +11615,9 @@ mo_stub/sora_melee/bf_fn_27_1A2398.c:
 mo_stub/sora_melee/bf_fn_27_1A23A8.c:
 	.text       start:0x001A23A8 end:0x001A23B8
 
+mo_stub/sora_melee/bf_fn_27_1A23C8.c:
+	.text       start:0x001A23C8 end:0x001A23D8
+
 mo_stub/sora_melee/bf_fn_27_1A23D8.c:
 	.text       start:0x001A23D8 end:0x001A23E8
 
@@ -10912,6 +11641,9 @@ mo_stub/sora_melee/bf_fn_27_1A24A0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A24B0.c:
 	.text       start:0x001A24B0 end:0x001A24C0
+
+mo_stub/sora_melee/bf_fn_27_1A24D0.c:
+	.text       start:0x001A24D0 end:0x001A24E0
 
 mo_stub/sora_melee/bf_fn_27_1A24E0.c:
 	.text       start:0x001A24E0 end:0x001A24F0
@@ -10937,6 +11669,9 @@ mo_stub/sora_melee/bf_fn_27_1A25A8.c:
 mo_stub/sora_melee/bf_fn_27_1A25B8.c:
 	.text       start:0x001A25B8 end:0x001A25C8
 
+mo_stub/sora_melee/bf_fn_27_1A25D8.c:
+	.text       start:0x001A25D8 end:0x001A25E8
+
 mo_stub/sora_melee/bf_fn_27_1A25E8.c:
 	.text       start:0x001A25E8 end:0x001A25F8
 
@@ -10960,6 +11695,9 @@ mo_stub/sora_melee/bf_fn_27_1A26B0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A26C0.c:
 	.text       start:0x001A26C0 end:0x001A26D0
+
+mo_stub/sora_melee/bf_fn_27_1A26E0.c:
+	.text       start:0x001A26E0 end:0x001A26F0
 
 mo_stub/sora_melee/bf_fn_27_1A26F0.c:
 	.text       start:0x001A26F0 end:0x001A2700
@@ -10985,6 +11723,9 @@ mo_stub/sora_melee/bf_fn_27_1A296C.c:
 mo_stub/sora_melee/bf_fn_27_1A297C.c:
 	.text       start:0x001A297C end:0x001A298C
 
+mo_stub/sora_melee/bf_fn_27_1A299C.c:
+	.text       start:0x001A299C end:0x001A29AC
+
 mo_stub/sora_melee/bf_fn_27_1A29AC.c:
 	.text       start:0x001A29AC end:0x001A29BC
 
@@ -11008,6 +11749,9 @@ mo_stub/sora_melee/bf_fn_27_1A2B64.c:
 
 mo_stub/sora_melee/bf_fn_27_1A2B74.c:
 	.text       start:0x001A2B74 end:0x001A2B84
+
+mo_stub/sora_melee/bf_fn_27_1A2B94.c:
+	.text       start:0x001A2B94 end:0x001A2BA4
 
 mo_stub/sora_melee/bf_fn_27_1A2BA4.c:
 	.text       start:0x001A2BA4 end:0x001A2BB4
@@ -11033,6 +11777,9 @@ mo_stub/sora_melee/bf_fn_27_1A2D6C.c:
 mo_stub/sora_melee/bf_fn_27_1A2D7C.c:
 	.text       start:0x001A2D7C end:0x001A2D8C
 
+mo_stub/sora_melee/bf_fn_27_1A2D9C.c:
+	.text       start:0x001A2D9C end:0x001A2DAC
+
 mo_stub/sora_melee/bf_fn_27_1A2DAC.c:
 	.text       start:0x001A2DAC end:0x001A2DBC
 
@@ -11056,6 +11803,9 @@ mo_stub/sora_melee/bf_fn_27_1A2E70.c:
 
 mo_stub/sora_melee/bf_fn_27_1A2E80.c:
 	.text       start:0x001A2E80 end:0x001A2E90
+
+mo_stub/sora_melee/bf_fn_27_1A2EA0.c:
+	.text       start:0x001A2EA0 end:0x001A2EB0
 
 mo_stub/sora_melee/bf_fn_27_1A2EB0.c:
 	.text       start:0x001A2EB0 end:0x001A2EC0
@@ -11081,6 +11831,9 @@ mo_stub/sora_melee/bf_fn_27_1A2F74.c:
 mo_stub/sora_melee/bf_fn_27_1A2F84.c:
 	.text       start:0x001A2F84 end:0x001A2F94
 
+mo_stub/sora_melee/bf_fn_27_1A2FA4.c:
+	.text       start:0x001A2FA4 end:0x001A2FB4
+
 mo_stub/sora_melee/bf_fn_27_1A2FB4.c:
 	.text       start:0x001A2FB4 end:0x001A2FC4
 
@@ -11104,6 +11857,9 @@ mo_stub/sora_melee/bf_fn_27_1A3078.c:
 
 mo_stub/sora_melee/bf_fn_27_1A3088.c:
 	.text       start:0x001A3088 end:0x001A3098
+
+mo_stub/sora_melee/bf_fn_27_1A30A8.c:
+	.text       start:0x001A30A8 end:0x001A30B8
 
 mo_stub/sora_melee/bf_fn_27_1A30B8.c:
 	.text       start:0x001A30B8 end:0x001A30C8
@@ -11129,6 +11885,9 @@ mo_stub/sora_melee/bf_fn_27_1A317C.c:
 mo_stub/sora_melee/bf_fn_27_1A318C.c:
 	.text       start:0x001A318C end:0x001A319C
 
+mo_stub/sora_melee/bf_fn_27_1A31AC.c:
+	.text       start:0x001A31AC end:0x001A31BC
+
 mo_stub/sora_melee/bf_fn_27_1A31BC.c:
 	.text       start:0x001A31BC end:0x001A31CC
 
@@ -11152,6 +11911,9 @@ mo_stub/sora_melee/bf_fn_27_1A3280.c:
 
 mo_stub/sora_melee/bf_fn_27_1A3290.c:
 	.text       start:0x001A3290 end:0x001A32A0
+
+mo_stub/sora_melee/bf_fn_27_1A32B0.c:
+	.text       start:0x001A32B0 end:0x001A32C0
 
 mo_stub/sora_melee/bf_fn_27_1A32C0.c:
 	.text       start:0x001A32C0 end:0x001A32D0
@@ -11177,6 +11939,9 @@ mo_stub/sora_melee/bf_fn_27_1A3384.c:
 mo_stub/sora_melee/bf_fn_27_1A3394.c:
 	.text       start:0x001A3394 end:0x001A33A4
 
+mo_stub/sora_melee/bf_fn_27_1A33B4.c:
+	.text       start:0x001A33B4 end:0x001A33C4
+
 mo_stub/sora_melee/bf_fn_27_1A33C4.c:
 	.text       start:0x001A33C4 end:0x001A33D4
 
@@ -11200,6 +11965,9 @@ mo_stub/sora_melee/bf_fn_27_1A3488.c:
 
 mo_stub/sora_melee/bf_fn_27_1A3498.c:
 	.text       start:0x001A3498 end:0x001A34A8
+
+mo_stub/sora_melee/bf_fn_27_1A34B8.c:
+	.text       start:0x001A34B8 end:0x001A34C8
 
 mo_stub/sora_melee/bf_fn_27_1A34C8.c:
 	.text       start:0x001A34C8 end:0x001A34D8
@@ -11225,6 +11993,9 @@ mo_stub/sora_melee/bf_fn_27_1A358C.c:
 mo_stub/sora_melee/bf_fn_27_1A359C.c:
 	.text       start:0x001A359C end:0x001A35AC
 
+mo_stub/sora_melee/bf_fn_27_1A35BC.c:
+	.text       start:0x001A35BC end:0x001A35CC
+
 mo_stub/sora_melee/bf_fn_27_1A35CC.c:
 	.text       start:0x001A35CC end:0x001A35DC
 
@@ -11248,6 +12019,9 @@ mo_stub/sora_melee/bf_fn_27_1A3690.c:
 
 mo_stub/sora_melee/bf_fn_27_1A36A0.c:
 	.text       start:0x001A36A0 end:0x001A36B0
+
+mo_stub/sora_melee/bf_fn_27_1A36C0.c:
+	.text       start:0x001A36C0 end:0x001A36D0
 
 mo_stub/sora_melee/bf_fn_27_1A36D0.c:
 	.text       start:0x001A36D0 end:0x001A36E0
@@ -11273,6 +12047,9 @@ mo_stub/sora_melee/bf_fn_27_1A3794.c:
 mo_stub/sora_melee/bf_fn_27_1A37A4.c:
 	.text       start:0x001A37A4 end:0x001A37B4
 
+mo_stub/sora_melee/bf_fn_27_1A37C4.c:
+	.text       start:0x001A37C4 end:0x001A37D4
+
 mo_stub/sora_melee/bf_fn_27_1A37D4.c:
 	.text       start:0x001A37D4 end:0x001A37E4
 
@@ -11296,6 +12073,9 @@ mo_stub/sora_melee/bf_fn_27_1A3898.c:
 
 mo_stub/sora_melee/bf_fn_27_1A38A8.c:
 	.text       start:0x001A38A8 end:0x001A38B8
+
+mo_stub/sora_melee/bf_fn_27_1A38C8.c:
+	.text       start:0x001A38C8 end:0x001A38D8
 
 mo_stub/sora_melee/bf_fn_27_1A38D8.c:
 	.text       start:0x001A38D8 end:0x001A38E8
@@ -11321,6 +12101,9 @@ mo_stub/sora_melee/bf_fn_27_1A399C.c:
 mo_stub/sora_melee/bf_fn_27_1A39AC.c:
 	.text       start:0x001A39AC end:0x001A39BC
 
+mo_stub/sora_melee/bf_fn_27_1A39CC.c:
+	.text       start:0x001A39CC end:0x001A39DC
+
 mo_stub/sora_melee/bf_fn_27_1A39DC.c:
 	.text       start:0x001A39DC end:0x001A39EC
 
@@ -11344,6 +12127,9 @@ mo_stub/sora_melee/bf_fn_27_1A3AA0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A3AB0.c:
 	.text       start:0x001A3AB0 end:0x001A3AC0
+
+mo_stub/sora_melee/bf_fn_27_1A3AD0.c:
+	.text       start:0x001A3AD0 end:0x001A3AE0
 
 mo_stub/sora_melee/bf_fn_27_1A3AE0.c:
 	.text       start:0x001A3AE0 end:0x001A3AF0
@@ -11369,6 +12155,9 @@ mo_stub/sora_melee/bf_fn_27_1A3BA4.c:
 mo_stub/sora_melee/bf_fn_27_1A3BB4.c:
 	.text       start:0x001A3BB4 end:0x001A3BC4
 
+mo_stub/sora_melee/bf_fn_27_1A3BD4.c:
+	.text       start:0x001A3BD4 end:0x001A3BE4
+
 mo_stub/sora_melee/bf_fn_27_1A3BE4.c:
 	.text       start:0x001A3BE4 end:0x001A3BF4
 
@@ -11392,6 +12181,9 @@ mo_stub/sora_melee/bf_fn_27_1A3CA8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A3CB8.c:
 	.text       start:0x001A3CB8 end:0x001A3CC8
+
+mo_stub/sora_melee/bf_fn_27_1A3CD8.c:
+	.text       start:0x001A3CD8 end:0x001A3CE8
 
 mo_stub/sora_melee/bf_fn_27_1A3CE8.c:
 	.text       start:0x001A3CE8 end:0x001A3CF8
@@ -11417,6 +12209,9 @@ mo_stub/sora_melee/bf_fn_27_1A3DAC.c:
 mo_stub/sora_melee/bf_fn_27_1A3DBC.c:
 	.text       start:0x001A3DBC end:0x001A3DCC
 
+mo_stub/sora_melee/bf_fn_27_1A3DDC.c:
+	.text       start:0x001A3DDC end:0x001A3DEC
+
 mo_stub/sora_melee/bf_fn_27_1A3DEC.c:
 	.text       start:0x001A3DEC end:0x001A3DFC
 
@@ -11440,6 +12235,9 @@ mo_stub/sora_melee/bf_fn_27_1A3EB0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A3EC0.c:
 	.text       start:0x001A3EC0 end:0x001A3ED0
+
+mo_stub/sora_melee/bf_fn_27_1A3EE0.c:
+	.text       start:0x001A3EE0 end:0x001A3EF0
 
 mo_stub/sora_melee/bf_fn_27_1A3EF0.c:
 	.text       start:0x001A3EF0 end:0x001A3F00
@@ -11465,6 +12263,9 @@ mo_stub/sora_melee/bf_fn_27_1A3FB4.c:
 mo_stub/sora_melee/bf_fn_27_1A3FC4.c:
 	.text       start:0x001A3FC4 end:0x001A3FD4
 
+mo_stub/sora_melee/bf_fn_27_1A3FE4.c:
+	.text       start:0x001A3FE4 end:0x001A3FF4
+
 mo_stub/sora_melee/bf_fn_27_1A3FF4.c:
 	.text       start:0x001A3FF4 end:0x001A4004
 
@@ -11488,6 +12289,9 @@ mo_stub/sora_melee/bf_fn_27_1A40B8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A40C8.c:
 	.text       start:0x001A40C8 end:0x001A40D8
+
+mo_stub/sora_melee/bf_fn_27_1A40E8.c:
+	.text       start:0x001A40E8 end:0x001A40F8
 
 mo_stub/sora_melee/bf_fn_27_1A40F8.c:
 	.text       start:0x001A40F8 end:0x001A4108
@@ -11513,6 +12317,9 @@ mo_stub/sora_melee/bf_fn_27_1A41BC.c:
 mo_stub/sora_melee/bf_fn_27_1A41CC.c:
 	.text       start:0x001A41CC end:0x001A41DC
 
+mo_stub/sora_melee/bf_fn_27_1A41EC.c:
+	.text       start:0x001A41EC end:0x001A41FC
+
 mo_stub/sora_melee/bf_fn_27_1A41FC.c:
 	.text       start:0x001A41FC end:0x001A420C
 
@@ -11536,6 +12343,9 @@ mo_stub/sora_melee/bf_fn_27_1A42C0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A42D0.c:
 	.text       start:0x001A42D0 end:0x001A42E0
+
+mo_stub/sora_melee/bf_fn_27_1A42F0.c:
+	.text       start:0x001A42F0 end:0x001A4300
 
 mo_stub/sora_melee/bf_fn_27_1A4300.c:
 	.text       start:0x001A4300 end:0x001A4310
@@ -11561,6 +12371,9 @@ mo_stub/sora_melee/bf_fn_27_1A43C4.c:
 mo_stub/sora_melee/bf_fn_27_1A43D4.c:
 	.text       start:0x001A43D4 end:0x001A43E4
 
+mo_stub/sora_melee/bf_fn_27_1A43F4.c:
+	.text       start:0x001A43F4 end:0x001A4404
+
 mo_stub/sora_melee/bf_fn_27_1A4404.c:
 	.text       start:0x001A4404 end:0x001A4414
 
@@ -11584,6 +12397,9 @@ mo_stub/sora_melee/bf_fn_27_1A44C8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A44D8.c:
 	.text       start:0x001A44D8 end:0x001A44E8
+
+mo_stub/sora_melee/bf_fn_27_1A44F8.c:
+	.text       start:0x001A44F8 end:0x001A4508
 
 mo_stub/sora_melee/bf_fn_27_1A4508.c:
 	.text       start:0x001A4508 end:0x001A4518
@@ -11609,6 +12425,9 @@ mo_stub/sora_melee/bf_fn_27_1A45CC.c:
 mo_stub/sora_melee/bf_fn_27_1A45DC.c:
 	.text       start:0x001A45DC end:0x001A45EC
 
+mo_stub/sora_melee/bf_fn_27_1A45FC.c:
+	.text       start:0x001A45FC end:0x001A460C
+
 mo_stub/sora_melee/bf_fn_27_1A460C.c:
 	.text       start:0x001A460C end:0x001A461C
 
@@ -11632,6 +12451,9 @@ mo_stub/sora_melee/bf_fn_27_1A46D0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A46E0.c:
 	.text       start:0x001A46E0 end:0x001A46F0
+
+mo_stub/sora_melee/bf_fn_27_1A4700.c:
+	.text       start:0x001A4700 end:0x001A4710
 
 mo_stub/sora_melee/bf_fn_27_1A4710.c:
 	.text       start:0x001A4710 end:0x001A4720
@@ -11657,6 +12479,9 @@ mo_stub/sora_melee/bf_fn_27_1A47D4.c:
 mo_stub/sora_melee/bf_fn_27_1A47E4.c:
 	.text       start:0x001A47E4 end:0x001A47F4
 
+mo_stub/sora_melee/bf_fn_27_1A4804.c:
+	.text       start:0x001A4804 end:0x001A4814
+
 mo_stub/sora_melee/bf_fn_27_1A4814.c:
 	.text       start:0x001A4814 end:0x001A4824
 
@@ -11680,6 +12505,9 @@ mo_stub/sora_melee/bf_fn_27_1A48D8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A48E8.c:
 	.text       start:0x001A48E8 end:0x001A48F8
+
+mo_stub/sora_melee/bf_fn_27_1A4908.c:
+	.text       start:0x001A4908 end:0x001A4918
 
 mo_stub/sora_melee/bf_fn_27_1A4918.c:
 	.text       start:0x001A4918 end:0x001A4928
@@ -11705,6 +12533,9 @@ mo_stub/sora_melee/bf_fn_27_1A49DC.c:
 mo_stub/sora_melee/bf_fn_27_1A49EC.c:
 	.text       start:0x001A49EC end:0x001A49FC
 
+mo_stub/sora_melee/bf_fn_27_1A4A0C.c:
+	.text       start:0x001A4A0C end:0x001A4A1C
+
 mo_stub/sora_melee/bf_fn_27_1A4A1C.c:
 	.text       start:0x001A4A1C end:0x001A4A2C
 
@@ -11728,6 +12559,9 @@ mo_stub/sora_melee/bf_fn_27_1A4AE0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A4AF0.c:
 	.text       start:0x001A4AF0 end:0x001A4B00
+
+mo_stub/sora_melee/bf_fn_27_1A4B10.c:
+	.text       start:0x001A4B10 end:0x001A4B20
 
 mo_stub/sora_melee/bf_fn_27_1A4B20.c:
 	.text       start:0x001A4B20 end:0x001A4B30
@@ -11753,6 +12587,9 @@ mo_stub/sora_melee/bf_fn_27_1A4BE4.c:
 mo_stub/sora_melee/bf_fn_27_1A4BF4.c:
 	.text       start:0x001A4BF4 end:0x001A4C04
 
+mo_stub/sora_melee/bf_fn_27_1A4C14.c:
+	.text       start:0x001A4C14 end:0x001A4C24
+
 mo_stub/sora_melee/bf_fn_27_1A4C24.c:
 	.text       start:0x001A4C24 end:0x001A4C34
 
@@ -11776,6 +12613,9 @@ mo_stub/sora_melee/bf_fn_27_1A4CE8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A4CF8.c:
 	.text       start:0x001A4CF8 end:0x001A4D08
+
+mo_stub/sora_melee/bf_fn_27_1A4D18.c:
+	.text       start:0x001A4D18 end:0x001A4D28
 
 mo_stub/sora_melee/bf_fn_27_1A4D28.c:
 	.text       start:0x001A4D28 end:0x001A4D38
@@ -11801,6 +12641,9 @@ mo_stub/sora_melee/bf_fn_27_1A4DEC.c:
 mo_stub/sora_melee/bf_fn_27_1A4DFC.c:
 	.text       start:0x001A4DFC end:0x001A4E0C
 
+mo_stub/sora_melee/bf_fn_27_1A4E1C.c:
+	.text       start:0x001A4E1C end:0x001A4E2C
+
 mo_stub/sora_melee/bf_fn_27_1A4E2C.c:
 	.text       start:0x001A4E2C end:0x001A4E3C
 
@@ -11824,6 +12667,9 @@ mo_stub/sora_melee/bf_fn_27_1A4EF0.c:
 
 mo_stub/sora_melee/bf_fn_27_1A4F00.c:
 	.text       start:0x001A4F00 end:0x001A4F10
+
+mo_stub/sora_melee/bf_fn_27_1A4F20.c:
+	.text       start:0x001A4F20 end:0x001A4F30
 
 mo_stub/sora_melee/bf_fn_27_1A4F30.c:
 	.text       start:0x001A4F30 end:0x001A4F40
@@ -11849,6 +12695,9 @@ mo_stub/sora_melee/bf_fn_27_1A4FF4.c:
 mo_stub/sora_melee/bf_fn_27_1A5004.c:
 	.text       start:0x001A5004 end:0x001A5014
 
+mo_stub/sora_melee/bf_fn_27_1A5024.c:
+	.text       start:0x001A5024 end:0x001A5034
+
 mo_stub/sora_melee/bf_fn_27_1A5034.c:
 	.text       start:0x001A5034 end:0x001A5044
 
@@ -11872,6 +12721,9 @@ mo_stub/sora_melee/bf_fn_27_1A50F8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5108.c:
 	.text       start:0x001A5108 end:0x001A5118
+
+mo_stub/sora_melee/bf_fn_27_1A5128.c:
+	.text       start:0x001A5128 end:0x001A5138
 
 mo_stub/sora_melee/bf_fn_27_1A5138.c:
 	.text       start:0x001A5138 end:0x001A5148
@@ -11897,6 +12749,9 @@ mo_stub/sora_melee/bf_fn_27_1A51FC.c:
 mo_stub/sora_melee/bf_fn_27_1A520C.c:
 	.text       start:0x001A520C end:0x001A521C
 
+mo_stub/sora_melee/bf_fn_27_1A522C.c:
+	.text       start:0x001A522C end:0x001A523C
+
 mo_stub/sora_melee/bf_fn_27_1A523C.c:
 	.text       start:0x001A523C end:0x001A524C
 
@@ -11920,6 +12775,9 @@ mo_stub/sora_melee/bf_fn_27_1A5300.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5310.c:
 	.text       start:0x001A5310 end:0x001A5320
+
+mo_stub/sora_melee/bf_fn_27_1A5330.c:
+	.text       start:0x001A5330 end:0x001A5340
 
 mo_stub/sora_melee/bf_fn_27_1A5340.c:
 	.text       start:0x001A5340 end:0x001A5350
@@ -11945,6 +12803,9 @@ mo_stub/sora_melee/bf_fn_27_1A5404.c:
 mo_stub/sora_melee/bf_fn_27_1A5414.c:
 	.text       start:0x001A5414 end:0x001A5424
 
+mo_stub/sora_melee/bf_fn_27_1A5434.c:
+	.text       start:0x001A5434 end:0x001A5444
+
 mo_stub/sora_melee/bf_fn_27_1A5444.c:
 	.text       start:0x001A5444 end:0x001A5454
 
@@ -11968,6 +12829,9 @@ mo_stub/sora_melee/bf_fn_27_1A5508.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5518.c:
 	.text       start:0x001A5518 end:0x001A5528
+
+mo_stub/sora_melee/bf_fn_27_1A5538.c:
+	.text       start:0x001A5538 end:0x001A5548
 
 mo_stub/sora_melee/bf_fn_27_1A5548.c:
 	.text       start:0x001A5548 end:0x001A5558
@@ -11993,6 +12857,9 @@ mo_stub/sora_melee/bf_fn_27_1A560C.c:
 mo_stub/sora_melee/bf_fn_27_1A561C.c:
 	.text       start:0x001A561C end:0x001A562C
 
+mo_stub/sora_melee/bf_fn_27_1A563C.c:
+	.text       start:0x001A563C end:0x001A564C
+
 mo_stub/sora_melee/bf_fn_27_1A564C.c:
 	.text       start:0x001A564C end:0x001A565C
 
@@ -12016,6 +12883,9 @@ mo_stub/sora_melee/bf_fn_27_1A5710.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5720.c:
 	.text       start:0x001A5720 end:0x001A5730
+
+mo_stub/sora_melee/bf_fn_27_1A5740.c:
+	.text       start:0x001A5740 end:0x001A5750
 
 mo_stub/sora_melee/bf_fn_27_1A5750.c:
 	.text       start:0x001A5750 end:0x001A5760
@@ -12041,6 +12911,9 @@ mo_stub/sora_melee/bf_fn_27_1A5814.c:
 mo_stub/sora_melee/bf_fn_27_1A5824.c:
 	.text       start:0x001A5824 end:0x001A5834
 
+mo_stub/sora_melee/bf_fn_27_1A5844.c:
+	.text       start:0x001A5844 end:0x001A5854
+
 mo_stub/sora_melee/bf_fn_27_1A5854.c:
 	.text       start:0x001A5854 end:0x001A5864
 
@@ -12064,6 +12937,9 @@ mo_stub/sora_melee/bf_fn_27_1A5918.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5928.c:
 	.text       start:0x001A5928 end:0x001A5938
+
+mo_stub/sora_melee/bf_fn_27_1A5948.c:
+	.text       start:0x001A5948 end:0x001A5958
 
 mo_stub/sora_melee/bf_fn_27_1A5958.c:
 	.text       start:0x001A5958 end:0x001A5968
@@ -12089,6 +12965,9 @@ mo_stub/sora_melee/bf_fn_27_1A5A1C.c:
 mo_stub/sora_melee/bf_fn_27_1A5A2C.c:
 	.text       start:0x001A5A2C end:0x001A5A3C
 
+mo_stub/sora_melee/bf_fn_27_1A5A4C.c:
+	.text       start:0x001A5A4C end:0x001A5A5C
+
 mo_stub/sora_melee/bf_fn_27_1A5A5C.c:
 	.text       start:0x001A5A5C end:0x001A5A6C
 
@@ -12112,6 +12991,9 @@ mo_stub/sora_melee/bf_fn_27_1A5B20.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5B30.c:
 	.text       start:0x001A5B30 end:0x001A5B40
+
+mo_stub/sora_melee/bf_fn_27_1A5B50.c:
+	.text       start:0x001A5B50 end:0x001A5B60
 
 mo_stub/sora_melee/bf_fn_27_1A5B60.c:
 	.text       start:0x001A5B60 end:0x001A5B70
@@ -12137,6 +13019,9 @@ mo_stub/sora_melee/bf_fn_27_1A5C24.c:
 mo_stub/sora_melee/bf_fn_27_1A5C34.c:
 	.text       start:0x001A5C34 end:0x001A5C44
 
+mo_stub/sora_melee/bf_fn_27_1A5C54.c:
+	.text       start:0x001A5C54 end:0x001A5C64
+
 mo_stub/sora_melee/bf_fn_27_1A5C64.c:
 	.text       start:0x001A5C64 end:0x001A5C74
 
@@ -12160,6 +13045,9 @@ mo_stub/sora_melee/bf_fn_27_1A5D28.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5D38.c:
 	.text       start:0x001A5D38 end:0x001A5D48
+
+mo_stub/sora_melee/bf_fn_27_1A5D58.c:
+	.text       start:0x001A5D58 end:0x001A5D68
 
 mo_stub/sora_melee/bf_fn_27_1A5D68.c:
 	.text       start:0x001A5D68 end:0x001A5D78
@@ -12185,6 +13073,9 @@ mo_stub/sora_melee/bf_fn_27_1A5E2C.c:
 mo_stub/sora_melee/bf_fn_27_1A5E3C.c:
 	.text       start:0x001A5E3C end:0x001A5E4C
 
+mo_stub/sora_melee/bf_fn_27_1A5E5C.c:
+	.text       start:0x001A5E5C end:0x001A5E6C
+
 mo_stub/sora_melee/bf_fn_27_1A5E6C.c:
 	.text       start:0x001A5E6C end:0x001A5E7C
 
@@ -12208,6 +13099,9 @@ mo_stub/sora_melee/bf_fn_27_1A5F30.c:
 
 mo_stub/sora_melee/bf_fn_27_1A5F40.c:
 	.text       start:0x001A5F40 end:0x001A5F50
+
+mo_stub/sora_melee/bf_fn_27_1A5F60.c:
+	.text       start:0x001A5F60 end:0x001A5F70
 
 mo_stub/sora_melee/bf_fn_27_1A5F70.c:
 	.text       start:0x001A5F70 end:0x001A5F80
@@ -12233,6 +13127,9 @@ mo_stub/sora_melee/bf_fn_27_1A6034.c:
 mo_stub/sora_melee/bf_fn_27_1A6044.c:
 	.text       start:0x001A6044 end:0x001A6054
 
+mo_stub/sora_melee/bf_fn_27_1A6064.c:
+	.text       start:0x001A6064 end:0x001A6074
+
 mo_stub/sora_melee/bf_fn_27_1A6074.c:
 	.text       start:0x001A6074 end:0x001A6084
 
@@ -12256,6 +13153,9 @@ mo_stub/sora_melee/bf_fn_27_1A6138.c:
 
 mo_stub/sora_melee/bf_fn_27_1A6148.c:
 	.text       start:0x001A6148 end:0x001A6158
+
+mo_stub/sora_melee/bf_fn_27_1A6168.c:
+	.text       start:0x001A6168 end:0x001A6178
 
 mo_stub/sora_melee/bf_fn_27_1A6178.c:
 	.text       start:0x001A6178 end:0x001A6188
@@ -12281,6 +13181,9 @@ mo_stub/sora_melee/bf_fn_27_1A623C.c:
 mo_stub/sora_melee/bf_fn_27_1A624C.c:
 	.text       start:0x001A624C end:0x001A625C
 
+mo_stub/sora_melee/bf_fn_27_1A626C.c:
+	.text       start:0x001A626C end:0x001A627C
+
 mo_stub/sora_melee/bf_fn_27_1A627C.c:
 	.text       start:0x001A627C end:0x001A628C
 
@@ -12304,6 +13207,9 @@ mo_stub/sora_melee/bf_fn_27_1A6340.c:
 
 mo_stub/sora_melee/bf_fn_27_1A6350.c:
 	.text       start:0x001A6350 end:0x001A6360
+
+mo_stub/sora_melee/bf_fn_27_1A6370.c:
+	.text       start:0x001A6370 end:0x001A6380
 
 mo_stub/sora_melee/bf_fn_27_1A6380.c:
 	.text       start:0x001A6380 end:0x001A6390
@@ -12329,6 +13235,9 @@ mo_stub/sora_melee/bf_fn_27_1A6444.c:
 mo_stub/sora_melee/bf_fn_27_1A6454.c:
 	.text       start:0x001A6454 end:0x001A6464
 
+mo_stub/sora_melee/bf_fn_27_1A6474.c:
+	.text       start:0x001A6474 end:0x001A6484
+
 mo_stub/sora_melee/bf_fn_27_1A6484.c:
 	.text       start:0x001A6484 end:0x001A6494
 
@@ -12352,6 +13261,9 @@ mo_stub/sora_melee/bf_fn_27_1A6548.c:
 
 mo_stub/sora_melee/bf_fn_27_1A6558.c:
 	.text       start:0x001A6558 end:0x001A6568
+
+mo_stub/sora_melee/bf_fn_27_1A6578.c:
+	.text       start:0x001A6578 end:0x001A6588
 
 mo_stub/sora_melee/bf_fn_27_1A6588.c:
 	.text       start:0x001A6588 end:0x001A6598
@@ -12377,6 +13289,9 @@ mo_stub/sora_melee/bf_fn_27_1A664C.c:
 mo_stub/sora_melee/bf_fn_27_1A665C.c:
 	.text       start:0x001A665C end:0x001A666C
 
+mo_stub/sora_melee/bf_fn_27_1A667C.c:
+	.text       start:0x001A667C end:0x001A668C
+
 mo_stub/sora_melee/bf_fn_27_1A668C.c:
 	.text       start:0x001A668C end:0x001A669C
 
@@ -12400,6 +13315,9 @@ mo_stub/sora_melee/bf_fn_27_1A6750.c:
 
 mo_stub/sora_melee/bf_fn_27_1A6760.c:
 	.text       start:0x001A6760 end:0x001A6770
+
+mo_stub/sora_melee/bf_fn_27_1A6780.c:
+	.text       start:0x001A6780 end:0x001A6790
 
 mo_stub/sora_melee/bf_fn_27_1A6790.c:
 	.text       start:0x001A6790 end:0x001A67A0
@@ -12425,6 +13343,9 @@ mo_stub/sora_melee/bf_fn_27_1A6854.c:
 mo_stub/sora_melee/bf_fn_27_1A6864.c:
 	.text       start:0x001A6864 end:0x001A6874
 
+mo_stub/sora_melee/bf_fn_27_1A6884.c:
+	.text       start:0x001A6884 end:0x001A6894
+
 mo_stub/sora_melee/bf_fn_27_1A6894.c:
 	.text       start:0x001A6894 end:0x001A68A4
 
@@ -12448,6 +13369,9 @@ mo_stub/sora_melee/bf_fn_27_1A6958.c:
 
 mo_stub/sora_melee/bf_fn_27_1A6968.c:
 	.text       start:0x001A6968 end:0x001A6978
+
+mo_stub/sora_melee/bf_fn_27_1A6988.c:
+	.text       start:0x001A6988 end:0x001A6998
 
 mo_stub/sora_melee/bf_fn_27_1A6998.c:
 	.text       start:0x001A6998 end:0x001A69A8
@@ -12473,6 +13397,9 @@ mo_stub/sora_melee/bf_fn_27_1A6A5C.c:
 mo_stub/sora_melee/bf_fn_27_1A6A6C.c:
 	.text       start:0x001A6A6C end:0x001A6A7C
 
+mo_stub/sora_melee/bf_fn_27_1A6A8C.c:
+	.text       start:0x001A6A8C end:0x001A6A9C
+
 mo_stub/sora_melee/bf_fn_27_1A6A9C.c:
 	.text       start:0x001A6A9C end:0x001A6AAC
 
@@ -12496,6 +13423,9 @@ mo_stub/sora_melee/bf_fn_27_1A6B60.c:
 
 mo_stub/sora_melee/bf_fn_27_1A6B70.c:
 	.text       start:0x001A6B70 end:0x001A6B80
+
+mo_stub/sora_melee/bf_fn_27_1A6B90.c:
+	.text       start:0x001A6B90 end:0x001A6BA0
 
 mo_stub/sora_melee/bf_fn_27_1A6BA0.c:
 	.text       start:0x001A6BA0 end:0x001A6BB0
@@ -12521,6 +13451,9 @@ mo_stub/sora_melee/bf_fn_27_1A6C64.c:
 mo_stub/sora_melee/bf_fn_27_1A6C74.c:
 	.text       start:0x001A6C74 end:0x001A6C84
 
+mo_stub/sora_melee/bf_fn_27_1A6C94.c:
+	.text       start:0x001A6C94 end:0x001A6CA4
+
 mo_stub/sora_melee/bf_fn_27_1A6CA4.c:
 	.text       start:0x001A6CA4 end:0x001A6CB4
 
@@ -12544,6 +13477,9 @@ mo_stub/sora_melee/bf_fn_27_1A6D68.c:
 
 mo_stub/sora_melee/bf_fn_27_1A6D78.c:
 	.text       start:0x001A6D78 end:0x001A6D88
+
+mo_stub/sora_melee/bf_fn_27_1A6D98.c:
+	.text       start:0x001A6D98 end:0x001A6DA8
 
 mo_stub/sora_melee/bf_fn_27_1A6DA8.c:
 	.text       start:0x001A6DA8 end:0x001A6DB8
@@ -12569,6 +13505,9 @@ mo_stub/sora_melee/bf_fn_27_1A6E6C.c:
 mo_stub/sora_melee/bf_fn_27_1A6E7C.c:
 	.text       start:0x001A6E7C end:0x001A6E8C
 
+mo_stub/sora_melee/bf_fn_27_1A6E9C.c:
+	.text       start:0x001A6E9C end:0x001A6EAC
+
 mo_stub/sora_melee/bf_fn_27_1A6EAC.c:
 	.text       start:0x001A6EAC end:0x001A6EBC
 
@@ -12592,6 +13531,9 @@ mo_stub/sora_melee/bf_fn_27_1A7064.c:
 
 mo_stub/sora_melee/bf_fn_27_1A7074.c:
 	.text       start:0x001A7074 end:0x001A7084
+
+mo_stub/sora_melee/bf_fn_27_1A7094.c:
+	.text       start:0x001A7094 end:0x001A70A4
 
 mo_stub/sora_melee/bf_fn_27_1A70A4.c:
 	.text       start:0x001A70A4 end:0x001A70B4
@@ -12617,6 +13559,9 @@ mo_stub/sora_melee/bf_fn_27_1A7290.c:
 mo_stub/sora_melee/bf_fn_27_1A72A0.c:
 	.text       start:0x001A72A0 end:0x001A72B0
 
+mo_stub/sora_melee/bf_fn_27_1A72C0.c:
+	.text       start:0x001A72C0 end:0x001A72D0
+
 mo_stub/sora_melee/bf_fn_27_1A72D0.c:
 	.text       start:0x001A72D0 end:0x001A72E0
 
@@ -12640,6 +13585,9 @@ mo_stub/sora_melee/bf_fn_27_1A73C8.c:
 
 mo_stub/sora_melee/bf_fn_27_1A73D8.c:
 	.text       start:0x001A73D8 end:0x001A73E8
+
+mo_stub/sora_melee/bf_fn_27_1A73F8.c:
+	.text       start:0x001A73F8 end:0x001A7408
 
 mo_stub/sora_melee/bf_fn_27_1A7408.c:
 	.text       start:0x001A7408 end:0x001A7418
@@ -12665,6 +13613,9 @@ mo_stub/sora_melee/bf_fn_27_1A7500.c:
 mo_stub/sora_melee/bf_fn_27_1A7510.c:
 	.text       start:0x001A7510 end:0x001A7520
 
+mo_stub/sora_melee/bf_fn_27_1A7530.c:
+	.text       start:0x001A7530 end:0x001A7540
+
 mo_stub/sora_melee/bf_fn_27_1A7540.c:
 	.text       start:0x001A7540 end:0x001A7550
 
@@ -12688,6 +13639,9 @@ mo_stub/sora_melee/bf_fn_27_1A7640.c:
 
 mo_stub/sora_melee/bf_fn_27_1A7650.c:
 	.text       start:0x001A7650 end:0x001A7660
+
+mo_stub/sora_melee/bf_fn_27_1A7670.c:
+	.text       start:0x001A7670 end:0x001A7680
 
 mo_stub/sora_melee/bf_fn_27_1A7680.c:
 	.text       start:0x001A7680 end:0x001A7690
@@ -13199,6 +14153,9 @@ mo_stub/sora_melee/bf_fn_27_1CF56C.c:
 mo_stub/sora_melee/bf_fn_27_1CF57C.c:
 	.text       start:0x001CF57C end:0x001CF58C
 
+mo_stub/sora_melee/bf_fn_27_1CF59C.c:
+	.text       start:0x001CF59C end:0x001CF5AC
+
 mo_stub/sora_melee/bf_fn_27_1CF5AC.c:
 	.text       start:0x001CF5AC end:0x001CF5BC
 
@@ -13219,6 +14176,9 @@ mo_stub/sora_melee/bf_fn_27_1CF624.c:
 
 mo_stub/sora_melee/bf_fn_27_1CF634.c:
 	.text       start:0x001CF634 end:0x001CF644
+
+mo_stub/sora_melee/bf_fn_27_1CF654.c:
+	.text       start:0x001CF654 end:0x001CF664
 
 mo_stub/sora_melee/bf_fn_27_1CF664.c:
 	.text       start:0x001CF664 end:0x001CF674
@@ -13241,6 +14201,9 @@ mo_stub/sora_melee/bf_fn_27_1CF6DC.c:
 mo_stub/sora_melee/bf_fn_27_1CF6EC.c:
 	.text       start:0x001CF6EC end:0x001CF6FC
 
+mo_stub/sora_melee/bf_fn_27_1CF70C.c:
+	.text       start:0x001CF70C end:0x001CF71C
+
 mo_stub/sora_melee/bf_fn_27_1CF71C.c:
 	.text       start:0x001CF71C end:0x001CF72C
 
@@ -13261,6 +14224,9 @@ mo_stub/sora_melee/bf_fn_27_1CF794.c:
 
 mo_stub/sora_melee/bf_fn_27_1CF7A4.c:
 	.text       start:0x001CF7A4 end:0x001CF7B4
+
+mo_stub/sora_melee/bf_fn_27_1CF7C4.c:
+	.text       start:0x001CF7C4 end:0x001CF7D4
 
 mo_stub/sora_melee/bf_fn_27_1CF7D4.c:
 	.text       start:0x001CF7D4 end:0x001CF7E4
@@ -13283,6 +14249,9 @@ mo_stub/sora_melee/bf_fn_27_1CF84C.c:
 mo_stub/sora_melee/bf_fn_27_1CF85C.c:
 	.text       start:0x001CF85C end:0x001CF86C
 
+mo_stub/sora_melee/bf_fn_27_1CF87C.c:
+	.text       start:0x001CF87C end:0x001CF88C
+
 mo_stub/sora_melee/bf_fn_27_1CF88C.c:
 	.text       start:0x001CF88C end:0x001CF89C
 
@@ -13303,6 +14272,9 @@ mo_stub/sora_melee/bf_fn_27_1CF904.c:
 
 mo_stub/sora_melee/bf_fn_27_1CF914.c:
 	.text       start:0x001CF914 end:0x001CF924
+
+mo_stub/sora_melee/bf_fn_27_1CF934.c:
+	.text       start:0x001CF934 end:0x001CF944
 
 mo_stub/sora_melee/bf_fn_27_1CF944.c:
 	.text       start:0x001CF944 end:0x001CF954
@@ -13325,6 +14297,9 @@ mo_stub/sora_melee/bf_fn_27_1CF9BC.c:
 mo_stub/sora_melee/bf_fn_27_1CF9CC.c:
 	.text       start:0x001CF9CC end:0x001CF9DC
 
+mo_stub/sora_melee/bf_fn_27_1CF9EC.c:
+	.text       start:0x001CF9EC end:0x001CF9FC
+
 mo_stub/sora_melee/bf_fn_27_1CF9FC.c:
 	.text       start:0x001CF9FC end:0x001CFA0C
 
@@ -13345,6 +14320,9 @@ mo_stub/sora_melee/bf_fn_27_1CFA74.c:
 
 mo_stub/sora_melee/bf_fn_27_1CFA84.c:
 	.text       start:0x001CFA84 end:0x001CFA94
+
+mo_stub/sora_melee/bf_fn_27_1CFAA4.c:
+	.text       start:0x001CFAA4 end:0x001CFAB4
 
 mo_stub/sora_melee/bf_fn_27_1CFAB4.c:
 	.text       start:0x001CFAB4 end:0x001CFAC4
@@ -13367,6 +14345,9 @@ mo_stub/sora_melee/bf_fn_27_1CFB2C.c:
 mo_stub/sora_melee/bf_fn_27_1CFB3C.c:
 	.text       start:0x001CFB3C end:0x001CFB4C
 
+mo_stub/sora_melee/bf_fn_27_1CFB5C.c:
+	.text       start:0x001CFB5C end:0x001CFB6C
+
 mo_stub/sora_melee/bf_fn_27_1CFB6C.c:
 	.text       start:0x001CFB6C end:0x001CFB7C
 
@@ -13387,6 +14368,9 @@ mo_stub/sora_melee/bf_fn_27_1CFBE4.c:
 
 mo_stub/sora_melee/bf_fn_27_1CFBF4.c:
 	.text       start:0x001CFBF4 end:0x001CFC04
+
+mo_stub/sora_melee/bf_fn_27_1CFC14.c:
+	.text       start:0x001CFC14 end:0x001CFC24
 
 mo_stub/sora_melee/bf_fn_27_1CFC24.c:
 	.text       start:0x001CFC24 end:0x001CFC34
@@ -13409,6 +14393,9 @@ mo_stub/sora_melee/bf_fn_27_1CFC9C.c:
 mo_stub/sora_melee/bf_fn_27_1CFCAC.c:
 	.text       start:0x001CFCAC end:0x001CFCBC
 
+mo_stub/sora_melee/bf_fn_27_1CFCCC.c:
+	.text       start:0x001CFCCC end:0x001CFCDC
+
 mo_stub/sora_melee/bf_fn_27_1CFCDC.c:
 	.text       start:0x001CFCDC end:0x001CFCEC
 
@@ -13429,6 +14416,9 @@ mo_stub/sora_melee/bf_fn_27_1CFD54.c:
 
 mo_stub/sora_melee/bf_fn_27_1CFD64.c:
 	.text       start:0x001CFD64 end:0x001CFD74
+
+mo_stub/sora_melee/bf_fn_27_1CFD84.c:
+	.text       start:0x001CFD84 end:0x001CFD94
 
 mo_stub/sora_melee/bf_fn_27_1CFD94.c:
 	.text       start:0x001CFD94 end:0x001CFDA4
@@ -13451,6 +14441,9 @@ mo_stub/sora_melee/bf_fn_27_1CFE0C.c:
 mo_stub/sora_melee/bf_fn_27_1CFE1C.c:
 	.text       start:0x001CFE1C end:0x001CFE2C
 
+mo_stub/sora_melee/bf_fn_27_1CFE3C.c:
+	.text       start:0x001CFE3C end:0x001CFE4C
+
 mo_stub/sora_melee/bf_fn_27_1CFE4C.c:
 	.text       start:0x001CFE4C end:0x001CFE5C
 
@@ -13471,6 +14464,9 @@ mo_stub/sora_melee/bf_fn_27_1CFEC4.c:
 
 mo_stub/sora_melee/bf_fn_27_1CFED4.c:
 	.text       start:0x001CFED4 end:0x001CFEE4
+
+mo_stub/sora_melee/bf_fn_27_1CFEF4.c:
+	.text       start:0x001CFEF4 end:0x001CFF04
 
 mo_stub/sora_melee/bf_fn_27_1CFF04.c:
 	.text       start:0x001CFF04 end:0x001CFF14
@@ -13493,6 +14489,9 @@ mo_stub/sora_melee/bf_fn_27_1CFF7C.c:
 mo_stub/sora_melee/bf_fn_27_1CFF8C.c:
 	.text       start:0x001CFF8C end:0x001CFF9C
 
+mo_stub/sora_melee/bf_fn_27_1CFFAC.c:
+	.text       start:0x001CFFAC end:0x001CFFBC
+
 mo_stub/sora_melee/bf_fn_27_1CFFBC.c:
 	.text       start:0x001CFFBC end:0x001CFFCC
 
@@ -13513,6 +14512,9 @@ mo_stub/sora_melee/bf_fn_27_1D0034.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0044.c:
 	.text       start:0x001D0044 end:0x001D0054
+
+mo_stub/sora_melee/bf_fn_27_1D0064.c:
+	.text       start:0x001D0064 end:0x001D0074
 
 mo_stub/sora_melee/bf_fn_27_1D0074.c:
 	.text       start:0x001D0074 end:0x001D0084
@@ -13535,6 +14537,9 @@ mo_stub/sora_melee/bf_fn_27_1D00EC.c:
 mo_stub/sora_melee/bf_fn_27_1D00FC.c:
 	.text       start:0x001D00FC end:0x001D010C
 
+mo_stub/sora_melee/bf_fn_27_1D011C.c:
+	.text       start:0x001D011C end:0x001D012C
+
 mo_stub/sora_melee/bf_fn_27_1D012C.c:
 	.text       start:0x001D012C end:0x001D013C
 
@@ -13555,6 +14560,9 @@ mo_stub/sora_melee/bf_fn_27_1D01A4.c:
 
 mo_stub/sora_melee/bf_fn_27_1D01B4.c:
 	.text       start:0x001D01B4 end:0x001D01C4
+
+mo_stub/sora_melee/bf_fn_27_1D01D4.c:
+	.text       start:0x001D01D4 end:0x001D01E4
 
 mo_stub/sora_melee/bf_fn_27_1D01E4.c:
 	.text       start:0x001D01E4 end:0x001D01F4
@@ -13577,6 +14585,9 @@ mo_stub/sora_melee/bf_fn_27_1D025C.c:
 mo_stub/sora_melee/bf_fn_27_1D026C.c:
 	.text       start:0x001D026C end:0x001D027C
 
+mo_stub/sora_melee/bf_fn_27_1D028C.c:
+	.text       start:0x001D028C end:0x001D029C
+
 mo_stub/sora_melee/bf_fn_27_1D029C.c:
 	.text       start:0x001D029C end:0x001D02AC
 
@@ -13597,6 +14608,9 @@ mo_stub/sora_melee/bf_fn_27_1D0314.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0324.c:
 	.text       start:0x001D0324 end:0x001D0334
+
+mo_stub/sora_melee/bf_fn_27_1D0344.c:
+	.text       start:0x001D0344 end:0x001D0354
 
 mo_stub/sora_melee/bf_fn_27_1D0354.c:
 	.text       start:0x001D0354 end:0x001D0364
@@ -13619,6 +14633,9 @@ mo_stub/sora_melee/bf_fn_27_1D03CC.c:
 mo_stub/sora_melee/bf_fn_27_1D03DC.c:
 	.text       start:0x001D03DC end:0x001D03EC
 
+mo_stub/sora_melee/bf_fn_27_1D03FC.c:
+	.text       start:0x001D03FC end:0x001D040C
+
 mo_stub/sora_melee/bf_fn_27_1D040C.c:
 	.text       start:0x001D040C end:0x001D041C
 
@@ -13639,6 +14656,9 @@ mo_stub/sora_melee/bf_fn_27_1D0484.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0494.c:
 	.text       start:0x001D0494 end:0x001D04A4
+
+mo_stub/sora_melee/bf_fn_27_1D04B4.c:
+	.text       start:0x001D04B4 end:0x001D04C4
 
 mo_stub/sora_melee/bf_fn_27_1D04C4.c:
 	.text       start:0x001D04C4 end:0x001D04D4
@@ -13661,6 +14681,9 @@ mo_stub/sora_melee/bf_fn_27_1D053C.c:
 mo_stub/sora_melee/bf_fn_27_1D054C.c:
 	.text       start:0x001D054C end:0x001D055C
 
+mo_stub/sora_melee/bf_fn_27_1D056C.c:
+	.text       start:0x001D056C end:0x001D057C
+
 mo_stub/sora_melee/bf_fn_27_1D057C.c:
 	.text       start:0x001D057C end:0x001D058C
 
@@ -13681,6 +14704,9 @@ mo_stub/sora_melee/bf_fn_27_1D05F4.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0604.c:
 	.text       start:0x001D0604 end:0x001D0614
+
+mo_stub/sora_melee/bf_fn_27_1D0624.c:
+	.text       start:0x001D0624 end:0x001D0634
 
 mo_stub/sora_melee/bf_fn_27_1D0634.c:
 	.text       start:0x001D0634 end:0x001D0644
@@ -13703,6 +14729,9 @@ mo_stub/sora_melee/bf_fn_27_1D06AC.c:
 mo_stub/sora_melee/bf_fn_27_1D06BC.c:
 	.text       start:0x001D06BC end:0x001D06CC
 
+mo_stub/sora_melee/bf_fn_27_1D06DC.c:
+	.text       start:0x001D06DC end:0x001D06EC
+
 mo_stub/sora_melee/bf_fn_27_1D06EC.c:
 	.text       start:0x001D06EC end:0x001D06FC
 
@@ -13723,6 +14752,9 @@ mo_stub/sora_melee/bf_fn_27_1D0764.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0774.c:
 	.text       start:0x001D0774 end:0x001D0784
+
+mo_stub/sora_melee/bf_fn_27_1D0794.c:
+	.text       start:0x001D0794 end:0x001D07A4
 
 mo_stub/sora_melee/bf_fn_27_1D07A4.c:
 	.text       start:0x001D07A4 end:0x001D07B4
@@ -13745,6 +14777,9 @@ mo_stub/sora_melee/bf_fn_27_1D081C.c:
 mo_stub/sora_melee/bf_fn_27_1D082C.c:
 	.text       start:0x001D082C end:0x001D083C
 
+mo_stub/sora_melee/bf_fn_27_1D084C.c:
+	.text       start:0x001D084C end:0x001D085C
+
 mo_stub/sora_melee/bf_fn_27_1D085C.c:
 	.text       start:0x001D085C end:0x001D086C
 
@@ -13765,6 +14800,9 @@ mo_stub/sora_melee/bf_fn_27_1D08D4.c:
 
 mo_stub/sora_melee/bf_fn_27_1D08E4.c:
 	.text       start:0x001D08E4 end:0x001D08F4
+
+mo_stub/sora_melee/bf_fn_27_1D0904.c:
+	.text       start:0x001D0904 end:0x001D0914
 
 mo_stub/sora_melee/bf_fn_27_1D0914.c:
 	.text       start:0x001D0914 end:0x001D0924
@@ -13787,6 +14825,9 @@ mo_stub/sora_melee/bf_fn_27_1D098C.c:
 mo_stub/sora_melee/bf_fn_27_1D099C.c:
 	.text       start:0x001D099C end:0x001D09AC
 
+mo_stub/sora_melee/bf_fn_27_1D09BC.c:
+	.text       start:0x001D09BC end:0x001D09CC
+
 mo_stub/sora_melee/bf_fn_27_1D09CC.c:
 	.text       start:0x001D09CC end:0x001D09DC
 
@@ -13807,6 +14848,9 @@ mo_stub/sora_melee/bf_fn_27_1D0A44.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0A54.c:
 	.text       start:0x001D0A54 end:0x001D0A64
+
+mo_stub/sora_melee/bf_fn_27_1D0A74.c:
+	.text       start:0x001D0A74 end:0x001D0A84
 
 mo_stub/sora_melee/bf_fn_27_1D0A84.c:
 	.text       start:0x001D0A84 end:0x001D0A94
@@ -13829,6 +14873,9 @@ mo_stub/sora_melee/bf_fn_27_1D0AFC.c:
 mo_stub/sora_melee/bf_fn_27_1D0B0C.c:
 	.text       start:0x001D0B0C end:0x001D0B1C
 
+mo_stub/sora_melee/bf_fn_27_1D0B2C.c:
+	.text       start:0x001D0B2C end:0x001D0B3C
+
 mo_stub/sora_melee/bf_fn_27_1D0B3C.c:
 	.text       start:0x001D0B3C end:0x001D0B4C
 
@@ -13849,6 +14896,9 @@ mo_stub/sora_melee/bf_fn_27_1D0BB4.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0BC4.c:
 	.text       start:0x001D0BC4 end:0x001D0BD4
+
+mo_stub/sora_melee/bf_fn_27_1D0BE4.c:
+	.text       start:0x001D0BE4 end:0x001D0BF4
 
 mo_stub/sora_melee/bf_fn_27_1D0BF4.c:
 	.text       start:0x001D0BF4 end:0x001D0C04
@@ -13871,6 +14921,9 @@ mo_stub/sora_melee/bf_fn_27_1D0C6C.c:
 mo_stub/sora_melee/bf_fn_27_1D0C7C.c:
 	.text       start:0x001D0C7C end:0x001D0C8C
 
+mo_stub/sora_melee/bf_fn_27_1D0C9C.c:
+	.text       start:0x001D0C9C end:0x001D0CAC
+
 mo_stub/sora_melee/bf_fn_27_1D0CAC.c:
 	.text       start:0x001D0CAC end:0x001D0CBC
 
@@ -13891,6 +14944,9 @@ mo_stub/sora_melee/bf_fn_27_1D0D24.c:
 
 mo_stub/sora_melee/bf_fn_27_1D0D34.c:
 	.text       start:0x001D0D34 end:0x001D0D44
+
+mo_stub/sora_melee/bf_fn_27_1D0D54.c:
+	.text       start:0x001D0D54 end:0x001D0D64
 
 mo_stub/sora_melee/bf_fn_27_1D0D64.c:
 	.text       start:0x001D0D64 end:0x001D0D74
@@ -13919,6 +14975,9 @@ mo_stub/sora_melee/bf_fn_27_1D5A9C.c:
 mo_stub/sora_melee/bf_fn_27_1D5AAC.c:
 	.text       start:0x001D5AAC end:0x001D5ABC
 
+mo_stub/sora_melee/bf_fn_27_1D5ACC.c:
+	.text       start:0x001D5ACC end:0x001D5ADC
+
 mo_stub/sora_melee/bf_fn_27_1D5ADC.c:
 	.text       start:0x001D5ADC end:0x001D5AEC
 
@@ -13943,6 +15002,9 @@ mo_stub/sora_melee/bf_fn_27_1D7E38.c:
 mo_stub/sora_melee/bf_fn_27_1D7E48.c:
 	.text       start:0x001D7E48 end:0x001D7E58
 
+mo_stub/sora_melee/bf_fn_27_1D7E68.c:
+	.text       start:0x001D7E68 end:0x001D7E78
+
 mo_stub/sora_melee/bf_fn_27_1D7E78.c:
 	.text       start:0x001D7E78 end:0x001D7E88
 
@@ -13960,6 +15022,9 @@ mo_stub/sora_melee/bf_fn_27_1E7BD0.c:
 
 mo_stub/sora_melee/bf_fn_27_1E7BE0.c:
 	.text       start:0x001E7BE0 end:0x001E7BF0
+
+mo_stub/sora_melee/bf_fn_27_1E7C00.c:
+	.text       start:0x001E7C00 end:0x001E7C10
 
 mo_stub/sora_melee/bf_fn_27_1E7C10.c:
 	.text       start:0x001E7C10 end:0x001E7C20
@@ -13985,6 +15050,9 @@ mo_stub/sora_melee/bf_fn_27_1E7C98.c:
 mo_stub/sora_melee/bf_fn_27_1E7CA8.c:
 	.text       start:0x001E7CA8 end:0x001E7CB8
 
+mo_stub/sora_melee/bf_fn_27_1E7CC8.c:
+	.text       start:0x001E7CC8 end:0x001E7CD8
+
 mo_stub/sora_melee/bf_fn_27_1E7CD8.c:
 	.text       start:0x001E7CD8 end:0x001E7CE8
 
@@ -14008,6 +15076,9 @@ mo_stub/sora_melee/bf_fn_27_1E7D60.c:
 
 mo_stub/sora_melee/bf_fn_27_1E7D70.c:
 	.text       start:0x001E7D70 end:0x001E7D80
+
+mo_stub/sora_melee/bf_fn_27_1E7D90.c:
+	.text       start:0x001E7D90 end:0x001E7DA0
 
 mo_stub/sora_melee/bf_fn_27_1E7DA0.c:
 	.text       start:0x001E7DA0 end:0x001E7DB0
@@ -14033,6 +15104,9 @@ mo_stub/sora_melee/bf_fn_27_1E7E28.c:
 mo_stub/sora_melee/bf_fn_27_1E7E38.c:
 	.text       start:0x001E7E38 end:0x001E7E48
 
+mo_stub/sora_melee/bf_fn_27_1E7E58.c:
+	.text       start:0x001E7E58 end:0x001E7E68
+
 mo_stub/sora_melee/bf_fn_27_1E7E68.c:
 	.text       start:0x001E7E68 end:0x001E7E78
 
@@ -14056,6 +15130,9 @@ mo_stub/sora_melee/bf_fn_27_1E7EF0.c:
 
 mo_stub/sora_melee/bf_fn_27_1E7F00.c:
 	.text       start:0x001E7F00 end:0x001E7F10
+
+mo_stub/sora_melee/bf_fn_27_1E7F20.c:
+	.text       start:0x001E7F20 end:0x001E7F30
 
 mo_stub/sora_melee/bf_fn_27_1E7F30.c:
 	.text       start:0x001E7F30 end:0x001E7F40
@@ -14091,6 +15168,9 @@ mo_stub/sora_melee/bf_fn_27_2648B4.c:
 mo_stub/sora_melee/bf_fn_27_2648C4.c:
 	.text       start:0x002648C4 end:0x002648D4
 
+mo_stub/sora_melee/bf_fn_27_2648E4.c:
+	.text       start:0x002648E4 end:0x002648F4
+
 mo_stub/sora_melee/bf_fn_27_2648F4.c:
 	.text       start:0x002648F4 end:0x00264904
 
@@ -14115,6 +15195,9 @@ mo_stub/sora_melee/bf_fn_27_2649E4.c:
 mo_stub/sora_melee/bf_fn_27_2649F4.c:
 	.text       start:0x002649F4 end:0x00264A04
 
+mo_stub/sora_melee/bf_fn_27_264A14.c:
+	.text       start:0x00264A14 end:0x00264A24
+
 mo_stub/sora_melee/bf_fn_27_264A24.c:
 	.text       start:0x00264A24 end:0x00264A34
 
@@ -14138,6 +15221,9 @@ mo_stub/sora_melee/bf_fn_27_268A04.c:
 
 mo_stub/sora_melee/bf_fn_27_268A14.c:
 	.text       start:0x00268A14 end:0x00268A24
+
+mo_stub/sora_melee/bf_fn_27_268A34.c:
+	.text       start:0x00268A34 end:0x00268A44
 
 mo_stub/sora_melee/bf_fn_27_268A44.c:
 	.text       start:0x00268A44 end:0x00268A54
@@ -14235,6 +15321,9 @@ mo_stub/sora_melee/bf_fn_27_295668.c:
 mo_stub/sora_melee/bf_fn_27_295678.c:
 	.text       start:0x00295678 end:0x00295688
 
+mo_stub/sora_melee/bf_fn_27_295698.c:
+	.text       start:0x00295698 end:0x002956A8
+
 mo_stub/sora_melee/bf_fn_27_2956A8.c:
 	.text       start:0x002956A8 end:0x002956B8
 
@@ -14256,6 +15345,9 @@ mo_stub/sora_melee/bf_fn_27_295720.c:
 mo_stub/sora_melee/bf_fn_27_295730.c:
 	.text       start:0x00295730 end:0x00295740
 
+mo_stub/sora_melee/bf_fn_27_295750.c:
+	.text       start:0x00295750 end:0x00295760
+
 mo_stub/sora_melee/bf_fn_27_295760.c:
 	.text       start:0x00295760 end:0x00295770
 
@@ -14274,6 +15366,9 @@ mo_stub/sora_melee/bf_fn_27_2957CC.c:
 mo_stub/sora_melee/bf_fn_27_2957DC.c:
 	.text       start:0x002957DC end:0x002957EC
 
+mo_stub/sora_melee/bf_fn_27_2957FC.c:
+	.text       start:0x002957FC end:0x0029580C
+
 mo_stub/sora_melee/bf_fn_27_29580C.c:
 	.text       start:0x0029580C end:0x0029581C
 
@@ -14288,6 +15383,9 @@ mo_stub/sora_melee/bf_fn_27_295864.c:
 
 mo_stub/sora_melee/bf_fn_27_295874.c:
 	.text       start:0x00295874 end:0x00295884
+
+mo_stub/sora_melee/bf_fn_27_295894.c:
+	.text       start:0x00295894 end:0x002958A4
 
 mo_stub/sora_melee/bf_fn_27_2958A4.c:
 	.text       start:0x002958A4 end:0x002958B4
@@ -14304,6 +15402,9 @@ mo_stub/sora_melee/bf_fn_27_2958FC.c:
 mo_stub/sora_melee/bf_fn_27_29590C.c:
 	.text       start:0x0029590C end:0x0029591C
 
+mo_stub/sora_melee/bf_fn_27_29592C.c:
+	.text       start:0x0029592C end:0x0029593C
+
 mo_stub/sora_melee/bf_fn_27_29593C.c:
 	.text       start:0x0029593C end:0x0029594C
 
@@ -14318,6 +15419,9 @@ mo_stub/sora_melee/bf_fn_27_295994.c:
 
 mo_stub/sora_melee/bf_fn_27_2959A4.c:
 	.text       start:0x002959A4 end:0x002959B4
+
+mo_stub/sora_melee/bf_fn_27_2959C4.c:
+	.text       start:0x002959C4 end:0x002959D4
 
 mo_stub/sora_melee/bf_fn_27_2959D4.c:
 	.text       start:0x002959D4 end:0x002959E4
@@ -14334,6 +15438,9 @@ mo_stub/sora_melee/bf_fn_27_295A2C.c:
 mo_stub/sora_melee/bf_fn_27_295A3C.c:
 	.text       start:0x00295A3C end:0x00295A4C
 
+mo_stub/sora_melee/bf_fn_27_295A5C.c:
+	.text       start:0x00295A5C end:0x00295A6C
+
 mo_stub/sora_melee/bf_fn_27_295A6C.c:
 	.text       start:0x00295A6C end:0x00295A7C
 
@@ -14348,6 +15455,9 @@ mo_stub/sora_melee/bf_fn_27_295AC4.c:
 
 mo_stub/sora_melee/bf_fn_27_295AD4.c:
 	.text       start:0x00295AD4 end:0x00295AE4
+
+mo_stub/sora_melee/bf_fn_27_295AF4.c:
+	.text       start:0x00295AF4 end:0x00295B04
 
 mo_stub/sora_melee/bf_fn_27_295B04.c:
 	.text       start:0x00295B04 end:0x00295B14
@@ -14369,6 +15479,9 @@ mo_stub/sora_melee/bf_fn_27_295B78.c:
 
 mo_stub/sora_melee/bf_fn_27_295B88.c:
 	.text       start:0x00295B88 end:0x00295B98
+
+mo_stub/sora_melee/bf_fn_27_295BA8.c:
+	.text       start:0x00295BA8 end:0x00295BB8
 
 mo_stub/sora_melee/bf_fn_27_295BB8.c:
 	.text       start:0x00295BB8 end:0x00295BC8
@@ -14394,6 +15507,9 @@ mo_stub/sora_melee/bf_fn_27_295C40.c:
 mo_stub/sora_melee/bf_fn_27_295C50.c:
 	.text       start:0x00295C50 end:0x00295C60
 
+mo_stub/sora_melee/bf_fn_27_295C70.c:
+	.text       start:0x00295C70 end:0x00295C80
+
 mo_stub/sora_melee/bf_fn_27_295C80.c:
 	.text       start:0x00295C80 end:0x00295C90
 
@@ -14412,6 +15528,9 @@ mo_stub/sora_melee/bf_fn_27_295CEC.c:
 mo_stub/sora_melee/bf_fn_27_295CFC.c:
 	.text       start:0x00295CFC end:0x00295D0C
 
+mo_stub/sora_melee/bf_fn_27_295D1C.c:
+	.text       start:0x00295D1C end:0x00295D2C
+
 mo_stub/sora_melee/bf_fn_27_295D2C.c:
 	.text       start:0x00295D2C end:0x00295D3C
 
@@ -14429,6 +15548,9 @@ mo_stub/sora_melee/bf_fn_27_295D90.c:
 
 mo_stub/sora_melee/bf_fn_27_295DA0.c:
 	.text       start:0x00295DA0 end:0x00295DB0
+
+mo_stub/sora_melee/bf_fn_27_295DC0.c:
+	.text       start:0x00295DC0 end:0x00295DD0
 
 mo_stub/sora_melee/bf_fn_27_295DD0.c:
 	.text       start:0x00295DD0 end:0x00295DE0
@@ -14454,6 +15576,9 @@ mo_stub/sora_melee/bf_fn_27_295E58.c:
 mo_stub/sora_melee/bf_fn_27_295E68.c:
 	.text       start:0x00295E68 end:0x00295E78
 
+mo_stub/sora_melee/bf_fn_27_295E88.c:
+	.text       start:0x00295E88 end:0x00295E98
+
 mo_stub/sora_melee/bf_fn_27_295E98.c:
 	.text       start:0x00295E98 end:0x00295EA8
 
@@ -14477,6 +15602,9 @@ mo_stub/sora_melee/bf_fn_27_295F20.c:
 
 mo_stub/sora_melee/bf_fn_27_295F30.c:
 	.text       start:0x00295F30 end:0x00295F40
+
+mo_stub/sora_melee/bf_fn_27_295F50.c:
+	.text       start:0x00295F50 end:0x00295F60
 
 mo_stub/sora_melee/bf_fn_27_295F60.c:
 	.text       start:0x00295F60 end:0x00295F70
@@ -14502,6 +15630,9 @@ mo_stub/sora_melee/bf_fn_27_295FE8.c:
 mo_stub/sora_melee/bf_fn_27_295FF8.c:
 	.text       start:0x00295FF8 end:0x00296008
 
+mo_stub/sora_melee/bf_fn_27_296018.c:
+	.text       start:0x00296018 end:0x00296028
+
 mo_stub/sora_melee/bf_fn_27_296028.c:
 	.text       start:0x00296028 end:0x00296038
 
@@ -14526,6 +15657,9 @@ mo_stub/sora_melee/bf_fn_27_2960B0.c:
 mo_stub/sora_melee/bf_fn_27_2960C0.c:
 	.text       start:0x002960C0 end:0x002960D0
 
+mo_stub/sora_melee/bf_fn_27_2960E0.c:
+	.text       start:0x002960E0 end:0x002960F0
+
 mo_stub/sora_melee/bf_fn_27_2960F0.c:
 	.text       start:0x002960F0 end:0x00296100
 
@@ -14549,6 +15683,9 @@ mo_stub/sora_melee/bf_fn_27_296178.c:
 
 mo_stub/sora_melee/bf_fn_27_296188.c:
 	.text       start:0x00296188 end:0x00296198
+
+mo_stub/sora_melee/bf_fn_27_2961A8.c:
+	.text       start:0x002961A8 end:0x002961B8
 
 mo_stub/sora_melee/bf_fn_27_2961B8.c:
 	.text       start:0x002961B8 end:0x002961C8
@@ -14586,6 +15723,9 @@ mo_stub/sora_melee/bf_fn_27_2AE0C4.c:
 mo_stub/sora_melee/bf_fn_27_2AE0D4.c:
 	.text       start:0x002AE0D4 end:0x002AE0E4
 
+mo_stub/sora_melee/bf_fn_27_2AE0F4.c:
+	.text       start:0x002AE0F4 end:0x002AE104
+
 mo_stub/sora_melee/bf_fn_27_2AE104.c:
 	.text       start:0x002AE104 end:0x002AE114
 
@@ -14613,6 +15753,9 @@ mo_stub/sora_melee/bf_fn_27_2EB910.c:
 mo_stub/sora_melee/bf_fn_27_2EB920.c:
 	.text       start:0x002EB920 end:0x002EB930
 
+mo_stub/sora_melee/bf_fn_27_2EB940.c:
+	.text       start:0x002EB940 end:0x002EB950
+
 mo_stub/sora_melee/bf_fn_27_2EB950.c:
 	.text       start:0x002EB950 end:0x002EB960
 
@@ -14636,6 +15779,9 @@ mo_stub/sora_melee/bf_fn_27_2EB9D8.c:
 
 mo_stub/sora_melee/bf_fn_27_2EB9E8.c:
 	.text       start:0x002EB9E8 end:0x002EB9F8
+
+mo_stub/sora_melee/bf_fn_27_2EBA08.c:
+	.text       start:0x002EBA08 end:0x002EBA18
 
 mo_stub/sora_melee/bf_fn_27_2EBA18.c:
 	.text       start:0x002EBA18 end:0x002EBA28
@@ -14661,6 +15807,9 @@ mo_stub/sora_melee/bf_fn_27_385B04.c:
 mo_stub/sora_melee/bf_fn_27_385B14.c:
 	.text       start:0x00385B14 end:0x00385B24
 
+mo_stub/sora_melee/bf_fn_27_385B34.c:
+	.text       start:0x00385B34 end:0x00385B44
+
 mo_stub/sora_melee/bf_fn_27_385B44.c:
 	.text       start:0x00385B44 end:0x00385B54
 
@@ -14685,6 +15834,9 @@ mo_stub/sora_melee/bf_fn_27_385BCC.c:
 mo_stub/sora_melee/bf_fn_27_385BDC.c:
 	.text       start:0x00385BDC end:0x00385BEC
 
+mo_stub/sora_melee/bf_fn_27_385BFC.c:
+	.text       start:0x00385BFC end:0x00385C0C
+
 mo_stub/sora_melee/bf_fn_27_385C0C.c:
 	.text       start:0x00385C0C end:0x00385C1C
 
@@ -14708,6 +15860,9 @@ mo_stub/sora_melee/bf_fn_27_385C94.c:
 
 mo_stub/sora_melee/bf_fn_27_385CA4.c:
 	.text       start:0x00385CA4 end:0x00385CB4
+
+mo_stub/sora_melee/bf_fn_27_385CC4.c:
+	.text       start:0x00385CC4 end:0x00385CD4
 
 mo_stub/sora_melee/bf_fn_27_385CD4.c:
 	.text       start:0x00385CD4 end:0x00385CE4
@@ -14739,6 +15894,9 @@ mo_stub/sora_melee/bf_fn_27_389DCC.c:
 mo_stub/sora_melee/bf_fn_27_389DDC.c:
 	.text       start:0x00389DDC end:0x00389DEC
 
+mo_stub/sora_melee/bf_fn_27_389DFC.c:
+	.text       start:0x00389DFC end:0x00389E0C
+
 mo_stub/sora_melee/bf_fn_27_389E0C.c:
 	.text       start:0x00389E0C end:0x00389E1C
 
@@ -14763,6 +15921,9 @@ mo_stub/sora_melee/bf_fn_27_390230.c:
 mo_stub/sora_melee/bf_fn_27_390240.c:
 	.text       start:0x00390240 end:0x00390250
 
+mo_stub/sora_melee/bf_fn_27_390260.c:
+	.text       start:0x00390260 end:0x00390270
+
 mo_stub/sora_melee/bf_fn_27_390270.c:
 	.text       start:0x00390270 end:0x00390280
 
@@ -14784,6 +15945,9 @@ mo_stub/sora_melee/bf_fn_27_3902E8.c:
 mo_stub/sora_melee/bf_fn_27_3902F8.c:
 	.text       start:0x003902F8 end:0x00390308
 
+mo_stub/sora_melee/bf_fn_27_390318.c:
+	.text       start:0x00390318 end:0x00390328
+
 mo_stub/sora_melee/bf_fn_27_390328.c:
 	.text       start:0x00390328 end:0x00390338
 
@@ -14804,6 +15968,9 @@ mo_stub/sora_melee/bf_fn_27_3903A0.c:
 
 mo_stub/sora_melee/bf_fn_27_3903B0.c:
 	.text       start:0x003903B0 end:0x003903C0
+
+mo_stub/sora_melee/bf_fn_27_3903D0.c:
+	.text       start:0x003903D0 end:0x003903E0
 
 mo_stub/sora_melee/bf_fn_27_3903E0.c:
 	.text       start:0x003903E0 end:0x003903F0
@@ -14829,6 +15996,9 @@ mo_stub/sora_melee/bf_fn_27_390468.c:
 mo_stub/sora_melee/bf_fn_27_390478.c:
 	.text       start:0x00390478 end:0x00390488
 
+mo_stub/sora_melee/bf_fn_27_390498.c:
+	.text       start:0x00390498 end:0x003904A8
+
 mo_stub/sora_melee/bf_fn_27_3904A8.c:
 	.text       start:0x003904A8 end:0x003904B8
 
@@ -14853,6 +16023,9 @@ mo_stub/sora_melee/bf_fn_27_395778.c:
 mo_stub/sora_melee/bf_fn_27_395788.c:
 	.text       start:0x00395788 end:0x00395798
 
+mo_stub/sora_melee/bf_fn_27_3957A8.c:
+	.text       start:0x003957A8 end:0x003957B8
+
 mo_stub/sora_melee/bf_fn_27_3957B8.c:
 	.text       start:0x003957B8 end:0x003957C8
 
@@ -14876,6 +16049,9 @@ mo_stub/sora_melee/bf_fn_27_395840.c:
 
 mo_stub/sora_melee/bf_fn_27_395850.c:
 	.text       start:0x00395850 end:0x00395860
+
+mo_stub/sora_melee/bf_fn_27_395870.c:
+	.text       start:0x00395870 end:0x00395880
 
 mo_stub/sora_melee/bf_fn_27_395880.c:
 	.text       start:0x00395880 end:0x00395890

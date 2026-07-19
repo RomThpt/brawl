@@ -167,6 +167,9 @@ mo_stub/st_metalgear/bf_fn_71_9EA4.c:
 mo_stub/st_metalgear/bf_fn_71_9EB4.c:
 	.text       start:0x00009EB4 end:0x00009EC4
 
+mo_stub/st_metalgear/bf_fn_71_9ED4.c:
+	.text       start:0x00009ED4 end:0x00009EE4
+
 mo_stub/st_metalgear/bf_fn_71_9EE4.c:
 	.text       start:0x00009EE4 end:0x00009EF4
 
@@ -196,6 +199,9 @@ mo_stub/st_metalgear/bf_fn_71_9F6C.c:
 
 mo_stub/st_metalgear/bf_fn_71_9F7C.c:
 	.text       start:0x00009F7C end:0x00009F8C
+
+mo_stub/st_metalgear/bf_fn_71_9F9C.c:
+	.text       start:0x00009F9C end:0x00009FAC
 
 mo_stub/st_metalgear/bf_fn_71_9FAC.c:
 	.text       start:0x00009FAC end:0x00009FBC
@@ -227,6 +233,9 @@ mo_stub/st_metalgear/bf_fn_71_A034.c:
 mo_stub/st_metalgear/bf_fn_71_A044.c:
 	.text       start:0x0000A044 end:0x0000A054
 
+mo_stub/st_metalgear/bf_fn_71_A064.c:
+	.text       start:0x0000A064 end:0x0000A074
+
 mo_stub/st_metalgear/bf_fn_71_A074.c:
 	.text       start:0x0000A074 end:0x0000A084
 
@@ -251,6 +260,9 @@ mo_stub/st_metalgear/bf_fn_71_A0E0.c:
 mo_stub/st_metalgear/bf_fn_71_A0F0.c:
 	.text       start:0x0000A0F0 end:0x0000A100
 
+mo_stub/st_metalgear/bf_fn_71_A110.c:
+	.text       start:0x0000A110 end:0x0000A120
+
 mo_stub/st_metalgear/bf_fn_71_A120.c:
 	.text       start:0x0000A120 end:0x0000A130
 
@@ -274,6 +286,9 @@ mo_stub/st_metalgear/bf_fn_71_A194.c:
 
 mo_stub/st_metalgear/bf_fn_71_A1A4.c:
 	.text       start:0x0000A1A4 end:0x0000A1B4
+
+mo_stub/st_metalgear/bf_fn_71_A1C4.c:
+	.text       start:0x0000A1C4 end:0x0000A1D4
 
 mo_stub/st_metalgear/bf_fn_71_A1D4.c:
 	.text       start:0x0000A1D4 end:0x0000A1E4
@@ -356,6 +371,9 @@ mo_stub/st_metalgear/bf_fn_71_F6A4.c:
 mo_stub/st_metalgear/bf_fn_71_F6B4.c:
 	.text       start:0x0000F6B4 end:0x0000F6C4
 
+mo_stub/st_metalgear/bf_fn_71_F6D4.c:
+	.text       start:0x0000F6D4 end:0x0000F6E4
+
 mo_stub/st_metalgear/bf_fn_71_F6E4.c:
 	.text       start:0x0000F6E4 end:0x0000F6F4
 
@@ -379,6 +397,9 @@ mo_stub/st_metalgear/bf_fn_71_F758.c:
 
 mo_stub/st_metalgear/bf_fn_71_F768.c:
 	.text       start:0x0000F768 end:0x0000F778
+
+mo_stub/st_metalgear/bf_fn_71_F788.c:
+	.text       start:0x0000F788 end:0x0000F798
 
 mo_stub/st_metalgear/bf_fn_71_F798.c:
 	.text       start:0x0000F798 end:0x0000F7A8

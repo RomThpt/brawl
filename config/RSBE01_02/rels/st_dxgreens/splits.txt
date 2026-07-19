@@ -179,6 +179,9 @@ mo_stub/st_dxgreens/bf_fn_79_569C.c:
 mo_stub/st_dxgreens/bf_fn_79_56AC.c:
 	.text       start:0x000056AC end:0x000056BC
 
+mo_stub/st_dxgreens/bf_fn_79_56CC.c:
+	.text       start:0x000056CC end:0x000056DC
+
 mo_stub/st_dxgreens/bf_fn_79_56DC.c:
 	.text       start:0x000056DC end:0x000056EC
 
@@ -202,6 +205,9 @@ mo_stub/st_dxgreens/bf_fn_79_5750.c:
 
 mo_stub/st_dxgreens/bf_fn_79_5760.c:
 	.text       start:0x00005760 end:0x00005770
+
+mo_stub/st_dxgreens/bf_fn_79_5780.c:
+	.text       start:0x00005780 end:0x00005790
 
 mo_stub/st_dxgreens/bf_fn_79_5790.c:
 	.text       start:0x00005790 end:0x000057A0
@@ -233,6 +239,9 @@ mo_stub/st_dxgreens/bf_fn_79_5818.c:
 mo_stub/st_dxgreens/bf_fn_79_5828.c:
 	.text       start:0x00005828 end:0x00005838
 
+mo_stub/st_dxgreens/bf_fn_79_5848.c:
+	.text       start:0x00005848 end:0x00005858
+
 mo_stub/st_dxgreens/bf_fn_79_5858.c:
 	.text       start:0x00005858 end:0x00005868
 
@@ -263,6 +272,9 @@ mo_stub/st_dxgreens/bf_fn_79_58E0.c:
 mo_stub/st_dxgreens/bf_fn_79_58F0.c:
 	.text       start:0x000058F0 end:0x00005900
 
+mo_stub/st_dxgreens/bf_fn_79_5910.c:
+	.text       start:0x00005910 end:0x00005920
+
 mo_stub/st_dxgreens/bf_fn_79_5920.c:
 	.text       start:0x00005920 end:0x00005930
 
@@ -286,6 +298,9 @@ mo_stub/st_dxgreens/bf_fn_79_598C.c:
 
 mo_stub/st_dxgreens/bf_fn_79_599C.c:
 	.text       start:0x0000599C end:0x000059AC
+
+mo_stub/st_dxgreens/bf_fn_79_59BC.c:
+	.text       start:0x000059BC end:0x000059CC
 
 mo_stub/st_dxgreens/bf_fn_79_59CC.c:
 	.text       start:0x000059CC end:0x000059DC
@@ -311,6 +326,9 @@ mo_stub/st_dxgreens/bf_fn_79_5A40.c:
 mo_stub/st_dxgreens/bf_fn_79_5A50.c:
 	.text       start:0x00005A50 end:0x00005A60
 
+mo_stub/st_dxgreens/bf_fn_79_5A70.c:
+	.text       start:0x00005A70 end:0x00005A80
+
 mo_stub/st_dxgreens/bf_fn_79_5A80.c:
 	.text       start:0x00005A80 end:0x00005A90
 
@@ -335,6 +353,9 @@ mo_stub/st_dxgreens/bf_fn_79_5AEC.c:
 mo_stub/st_dxgreens/bf_fn_79_5AFC.c:
 	.text       start:0x00005AFC end:0x00005B0C
 
+mo_stub/st_dxgreens/bf_fn_79_5B1C.c:
+	.text       start:0x00005B1C end:0x00005B2C
+
 mo_stub/st_dxgreens/bf_fn_79_5B2C.c:
 	.text       start:0x00005B2C end:0x00005B3C
 
@@ -358,6 +379,9 @@ mo_stub/st_dxgreens/bf_fn_79_5BA0.c:
 
 mo_stub/st_dxgreens/bf_fn_79_5BB0.c:
 	.text       start:0x00005BB0 end:0x00005BC0
+
+mo_stub/st_dxgreens/bf_fn_79_5BD0.c:
+	.text       start:0x00005BD0 end:0x00005BE0
 
 mo_stub/st_dxgreens/bf_fn_79_5BE0.c:
 	.text       start:0x00005BE0 end:0x00005BF0
@@ -385,6 +409,9 @@ mo_stub/st_dxgreens/bf_fn_79_5C68.c:
 
 mo_stub/st_dxgreens/bf_fn_79_5C78.c:
 	.text       start:0x00005C78 end:0x00005C88
+
+mo_stub/st_dxgreens/bf_fn_79_5C98.c:
+	.text       start:0x00005C98 end:0x00005CA8
 
 mo_stub/st_dxgreens/bf_fn_79_5CA8.c:
 	.text       start:0x00005CA8 end:0x00005CB8
