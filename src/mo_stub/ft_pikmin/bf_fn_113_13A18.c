@@ -1,0 +1,9 @@
+typedef struct {
+    char pad[8];
+    unsigned int p0 : 5;
+    unsigned int f : 5;
+} S;
+
+void fn_113_13A18(S* p, int v) {
+    p->f = v;
+}

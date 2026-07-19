@@ -122,20 +122,80 @@ mo_stub/st_plankton/fn_74_5B64.c:
 mo_stub/st_plankton/fn_74_5BB4.c:
 	.text       start:0x00005BB4 end:0x00005BB8
 
+mo_stub/st_plankton/bf_fn_74_5F28.c:
+	.text       start:0x00005F28 end:0x00005F34
+
 mo_stub/st_plankton/fn_74_5F34.c:
 	.text       start:0x00005F34 end:0x00005F3C
+
+mo_stub/st_plankton/bf_fn_74_687C.c:
+	.text       start:0x0000687C end:0x0000688C
+
+mo_stub/st_plankton/bf_fn_74_689C.c:
+	.text       start:0x0000689C end:0x000068AC
+
+mo_stub/st_plankton/bf_fn_74_68DC.c:
+	.text       start:0x000068DC end:0x000068E8
 
 mo_stub/st_plankton/fn_74_68E8.c:
 	.text       start:0x000068E8 end:0x000068F0
 
+mo_stub/st_plankton/bf_fn_74_6928.c:
+	.text       start:0x00006928 end:0x00006938
+
+mo_stub/st_plankton/bf_fn_74_6944.c:
+	.text       start:0x00006944 end:0x00006954
+
+mo_stub/st_plankton/bf_fn_74_6964.c:
+	.text       start:0x00006964 end:0x00006974
+
+mo_stub/st_plankton/bf_fn_74_69A4.c:
+	.text       start:0x000069A4 end:0x000069B0
+
 mo_stub/st_plankton/fn_74_69B0.c:
 	.text       start:0x000069B0 end:0x000069B8
+
+mo_stub/st_plankton/bf_fn_74_69F0.c:
+	.text       start:0x000069F0 end:0x00006A00
+
+mo_stub/st_plankton/bf_fn_74_6A0C.c:
+	.text       start:0x00006A0C end:0x00006A1C
+
+mo_stub/st_plankton/bf_fn_74_6A2C.c:
+	.text       start:0x00006A2C end:0x00006A3C
+
+mo_stub/st_plankton/bf_fn_74_6A6C.c:
+	.text       start:0x00006A6C end:0x00006A78
 
 mo_stub/st_plankton/fn_74_6A78.c:
 	.text       start:0x00006A78 end:0x00006A80
 
+mo_stub/st_plankton/bf_fn_74_6AB8.c:
+	.text       start:0x00006AB8 end:0x00006AC8
+
+mo_stub/st_plankton/bf_fn_74_6AC8.c:
+	.text       start:0x00006AC8 end:0x00006AD8
+
+mo_stub/st_plankton/bf_fn_74_6AD8.c:
+	.text       start:0x00006AD8 end:0x00006AE8
+
+mo_stub/st_plankton/bf_fn_74_6B50.c:
+	.text       start:0x00006B50 end:0x00006B60
+
+mo_stub/st_plankton/bf_fn_74_6B6C.c:
+	.text       start:0x00006B6C end:0x00006B7C
+
+mo_stub/st_plankton/bf_fn_74_6B8C.c:
+	.text       start:0x00006B8C end:0x00006B9C
+
+mo_stub/st_plankton/bf_fn_74_6BCC.c:
+	.text       start:0x00006BCC end:0x00006BD8
+
 mo_stub/st_plankton/fn_74_6BD8.c:
 	.text       start:0x00006BD8 end:0x00006BE0
+
+mo_stub/st_plankton/bf_fn_74_6C18.c:
+	.text       start:0x00006C18 end:0x00006C28
 
 mo_stub/st_plankton/fn_74_7884.c:
 	.text       start:0x00007884 end:0x0000788C

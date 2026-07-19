@@ -125,6 +125,9 @@ mo_stub/st_ice/fn_62_53CC.c:
 mo_stub/st_ice/fn_62_541C.c:
 	.text       start:0x0000541C end:0x00005420
 
+mo_stub/st_ice/bf_fn_62_5700.c:
+	.text       start:0x00005700 end:0x0000570C
+
 mo_stub/st_ice/fn_62_570C.c:
 	.text       start:0x0000570C end:0x00005714
 
@@ -137,11 +140,44 @@ mo_stub/st_ice/fn_62_5FF4.c:
 mo_stub/st_ice/fn_62_6010.c:
 	.text       start:0x00006010 end:0x0000601C
 
+mo_stub/st_ice/bf_fn_62_6028.c:
+	.text       start:0x00006028 end:0x00006038
+
+mo_stub/st_ice/bf_fn_62_6048.c:
+	.text       start:0x00006048 end:0x00006058
+
+mo_stub/st_ice/bf_fn_62_6088.c:
+	.text       start:0x00006088 end:0x00006094
+
 mo_stub/st_ice/fn_62_6094.c:
 	.text       start:0x00006094 end:0x0000609C
 
+mo_stub/st_ice/bf_fn_62_60D4.c:
+	.text       start:0x000060D4 end:0x000060E4
+
+mo_stub/st_ice/bf_fn_62_60E4.c:
+	.text       start:0x000060E4 end:0x000060F4
+
+mo_stub/st_ice/bf_fn_62_60F4.c:
+	.text       start:0x000060F4 end:0x00006104
+
+mo_stub/st_ice/bf_fn_62_616C.c:
+	.text       start:0x0000616C end:0x0000617C
+
+mo_stub/st_ice/bf_fn_62_6188.c:
+	.text       start:0x00006188 end:0x00006198
+
+mo_stub/st_ice/bf_fn_62_61A8.c:
+	.text       start:0x000061A8 end:0x000061B8
+
+mo_stub/st_ice/bf_fn_62_61E8.c:
+	.text       start:0x000061E8 end:0x000061F4
+
 mo_stub/st_ice/fn_62_61F4.c:
 	.text       start:0x000061F4 end:0x000061FC
+
+mo_stub/st_ice/bf_fn_62_6234.c:
+	.text       start:0x00006234 end:0x00006244
 
 mo_stub/st_ice/fn_62_6C80.c:
 	.text       start:0x00006C80 end:0x00006C88
@@ -194,17 +230,65 @@ mo_stub/st_ice/fn_62_9D4C.c:
 mo_stub/st_ice/fn_62_9D74.c:
 	.text       start:0x00009D74 end:0x00009D84
 
+mo_stub/st_ice/bf_fn_62_A04C.c:
+	.text       start:0x0000A04C end:0x0000A058
+
 mo_stub/st_ice/fn_62_A058.c:
 	.text       start:0x0000A058 end:0x0000A060
+
+mo_stub/st_ice/bf_fn_62_A450.c:
+	.text       start:0x0000A450 end:0x0000A460
+
+mo_stub/st_ice/bf_fn_62_A470.c:
+	.text       start:0x0000A470 end:0x0000A480
+
+mo_stub/st_ice/bf_fn_62_A4B0.c:
+	.text       start:0x0000A4B0 end:0x0000A4BC
 
 mo_stub/st_ice/fn_62_A4BC.c:
 	.text       start:0x0000A4BC end:0x0000A4C4
 
+mo_stub/st_ice/bf_fn_62_A4FC.c:
+	.text       start:0x0000A4FC end:0x0000A50C
+
+mo_stub/st_ice/bf_fn_62_A518.c:
+	.text       start:0x0000A518 end:0x0000A528
+
+mo_stub/st_ice/bf_fn_62_A538.c:
+	.text       start:0x0000A538 end:0x0000A548
+
+mo_stub/st_ice/bf_fn_62_A578.c:
+	.text       start:0x0000A578 end:0x0000A584
+
 mo_stub/st_ice/fn_62_A584.c:
 	.text       start:0x0000A584 end:0x0000A58C
 
+mo_stub/st_ice/bf_fn_62_A5C4.c:
+	.text       start:0x0000A5C4 end:0x0000A5D4
+
+mo_stub/st_ice/bf_fn_62_A5D4.c:
+	.text       start:0x0000A5D4 end:0x0000A5E4
+
+mo_stub/st_ice/bf_fn_62_A5E4.c:
+	.text       start:0x0000A5E4 end:0x0000A5F4
+
+mo_stub/st_ice/bf_fn_62_A65C.c:
+	.text       start:0x0000A65C end:0x0000A66C
+
+mo_stub/st_ice/bf_fn_62_A678.c:
+	.text       start:0x0000A678 end:0x0000A688
+
+mo_stub/st_ice/bf_fn_62_A698.c:
+	.text       start:0x0000A698 end:0x0000A6A8
+
+mo_stub/st_ice/bf_fn_62_A6D8.c:
+	.text       start:0x0000A6D8 end:0x0000A6E4
+
 mo_stub/st_ice/fn_62_A6E4.c:
 	.text       start:0x0000A6E4 end:0x0000A6EC
+
+mo_stub/st_ice/bf_fn_62_A724.c:
+	.text       start:0x0000A724 end:0x0000A734
 
 mo_stub/st_ice/fn_62_B390.c:
 	.text       start:0x0000B390 end:0x0000B398
@@ -233,8 +317,20 @@ mo_stub/st_ice/fn_62_CD9C.c:
 mo_stub/st_ice/fn_62_CDC4.c:
 	.text       start:0x0000CDC4 end:0x0000CDCC
 
+mo_stub/st_ice/bf_fn_62_EFD4.c:
+	.text       start:0x0000EFD4 end:0x0000EFE0
+
 mo_stub/st_ice/fn_62_EFE0.c:
 	.text       start:0x0000EFE0 end:0x0000EFE8
+
+mo_stub/st_ice/bf_fn_62_EFE8.c:
+	.text       start:0x0000EFE8 end:0x0000EFF8
+
+mo_stub/st_ice/bf_fn_62_EFF8.c:
+	.text       start:0x0000EFF8 end:0x0000F008
+
+mo_stub/st_ice/bf_fn_62_F070.c:
+	.text       start:0x0000F070 end:0x0000F080
 
 mo_stub/st_ice/fn_62_F080.c:
 	.text       start:0x0000F080 end:0x0000F0A0

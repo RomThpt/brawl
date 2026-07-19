@@ -128,6 +128,9 @@ mo_stub/st_dxonett/fn_78_4A3C.c:
 mo_stub/st_dxonett/fn_78_4A8C.c:
 	.text       start:0x00004A8C end:0x00004A90
 
+mo_stub/st_dxonett/bf_fn_78_4D70.c:
+	.text       start:0x00004D70 end:0x00004D7C
+
 mo_stub/st_dxonett/fn_78_4D7C.c:
 	.text       start:0x00004D7C end:0x00004D84
 
@@ -143,11 +146,44 @@ mo_stub/st_dxonett/fn_78_5668.c:
 mo_stub/st_dxonett/fn_78_5684.c:
 	.text       start:0x00005684 end:0x0000568C
 
+mo_stub/st_dxonett/bf_fn_78_5698.c:
+	.text       start:0x00005698 end:0x000056A8
+
+mo_stub/st_dxonett/bf_fn_78_56B8.c:
+	.text       start:0x000056B8 end:0x000056C8
+
+mo_stub/st_dxonett/bf_fn_78_56F8.c:
+	.text       start:0x000056F8 end:0x00005704
+
 mo_stub/st_dxonett/fn_78_5704.c:
 	.text       start:0x00005704 end:0x0000570C
 
+mo_stub/st_dxonett/bf_fn_78_5744.c:
+	.text       start:0x00005744 end:0x00005754
+
+mo_stub/st_dxonett/bf_fn_78_5754.c:
+	.text       start:0x00005754 end:0x00005764
+
+mo_stub/st_dxonett/bf_fn_78_5764.c:
+	.text       start:0x00005764 end:0x00005774
+
+mo_stub/st_dxonett/bf_fn_78_57DC.c:
+	.text       start:0x000057DC end:0x000057EC
+
+mo_stub/st_dxonett/bf_fn_78_57F8.c:
+	.text       start:0x000057F8 end:0x00005808
+
+mo_stub/st_dxonett/bf_fn_78_5818.c:
+	.text       start:0x00005818 end:0x00005828
+
+mo_stub/st_dxonett/bf_fn_78_5858.c:
+	.text       start:0x00005858 end:0x00005864
+
 mo_stub/st_dxonett/fn_78_5864.c:
 	.text       start:0x00005864 end:0x0000586C
+
+mo_stub/st_dxonett/bf_fn_78_58A4.c:
+	.text       start:0x000058A4 end:0x000058B4
 
 mo_stub/st_dxonett/fn_78_62F0.c:
 	.text       start:0x000062F0 end:0x000062F8

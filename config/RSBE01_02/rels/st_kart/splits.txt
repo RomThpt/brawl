@@ -134,8 +134,14 @@ mo_stub/st_kart/fn_49_5D0C.c:
 mo_stub/st_kart/fn_49_5D1C.c:
 	.text       start:0x00005D1C end:0x00005D20
 
+mo_stub/st_kart/bf_fn_49_607C.c:
+	.text       start:0x0000607C end:0x00006088
+
 mo_stub/st_kart/fn_49_6088.c:
 	.text       start:0x00006088 end:0x00006090
+
+mo_stub/st_kart/bf_fn_49_6208.c:
+	.text       start:0x00006208 end:0x00006214
 
 mo_stub/st_kart/fn_49_6214.c:
 	.text       start:0x00006214 end:0x0000621C
@@ -149,20 +155,98 @@ mo_stub/st_kart/fn_49_6B14.c:
 mo_stub/st_kart/fn_49_6B28.c:
 	.text       start:0x00006B28 end:0x00006B48
 
+mo_stub/st_kart/bf_fn_49_6B54.c:
+	.text       start:0x00006B54 end:0x00006B64
+
+mo_stub/st_kart/bf_fn_49_6B74.c:
+	.text       start:0x00006B74 end:0x00006B84
+
+mo_stub/st_kart/bf_fn_49_6BB4.c:
+	.text       start:0x00006BB4 end:0x00006BC0
+
 mo_stub/st_kart/fn_49_6BC0.c:
 	.text       start:0x00006BC0 end:0x00006BC8
+
+mo_stub/st_kart/bf_fn_49_6C00.c:
+	.text       start:0x00006C00 end:0x00006C10
+
+mo_stub/st_kart/bf_fn_49_6C1C.c:
+	.text       start:0x00006C1C end:0x00006C2C
+
+mo_stub/st_kart/bf_fn_49_6C3C.c:
+	.text       start:0x00006C3C end:0x00006C4C
+
+mo_stub/st_kart/bf_fn_49_6C7C.c:
+	.text       start:0x00006C7C end:0x00006C88
 
 mo_stub/st_kart/fn_49_6C88.c:
 	.text       start:0x00006C88 end:0x00006C90
 
+mo_stub/st_kart/bf_fn_49_6CC8.c:
+	.text       start:0x00006CC8 end:0x00006CD8
+
+mo_stub/st_kart/bf_fn_49_6CD8.c:
+	.text       start:0x00006CD8 end:0x00006CE8
+
+mo_stub/st_kart/bf_fn_49_6CE8.c:
+	.text       start:0x00006CE8 end:0x00006CF8
+
+mo_stub/st_kart/bf_fn_49_6D60.c:
+	.text       start:0x00006D60 end:0x00006D70
+
+mo_stub/st_kart/bf_fn_49_6D7C.c:
+	.text       start:0x00006D7C end:0x00006D8C
+
+mo_stub/st_kart/bf_fn_49_6D9C.c:
+	.text       start:0x00006D9C end:0x00006DAC
+
+mo_stub/st_kart/bf_fn_49_6DDC.c:
+	.text       start:0x00006DDC end:0x00006DE8
+
 mo_stub/st_kart/fn_49_6DE8.c:
 	.text       start:0x00006DE8 end:0x00006DF0
+
+mo_stub/st_kart/bf_fn_49_6E28.c:
+	.text       start:0x00006E28 end:0x00006E38
+
+mo_stub/st_kart/bf_fn_49_6E38.c:
+	.text       start:0x00006E38 end:0x00006E48
+
+mo_stub/st_kart/bf_fn_49_6E48.c:
+	.text       start:0x00006E48 end:0x00006E58
+
+mo_stub/st_kart/bf_fn_49_6EC0.c:
+	.text       start:0x00006EC0 end:0x00006ED0
+
+mo_stub/st_kart/bf_fn_49_6EDC.c:
+	.text       start:0x00006EDC end:0x00006EEC
+
+mo_stub/st_kart/bf_fn_49_6EFC.c:
+	.text       start:0x00006EFC end:0x00006F0C
+
+mo_stub/st_kart/bf_fn_49_6F3C.c:
+	.text       start:0x00006F3C end:0x00006F48
 
 mo_stub/st_kart/fn_49_6F48.c:
 	.text       start:0x00006F48 end:0x00006F50
 
+mo_stub/st_kart/bf_fn_49_6F88.c:
+	.text       start:0x00006F88 end:0x00006F98
+
+mo_stub/st_kart/bf_fn_49_6FA4.c:
+	.text       start:0x00006FA4 end:0x00006FB4
+
+mo_stub/st_kart/bf_fn_49_6FC4.c:
+	.text       start:0x00006FC4 end:0x00006FD4
+
+mo_stub/st_kart/bf_fn_49_7004.c:
+	.text       start:0x00007004 end:0x00007010
+
 mo_stub/st_kart/fn_49_7010.c:
 	.text       start:0x00007010 end:0x00007018
+
+mo_stub/st_kart/bf_fn_49_7050.c:
+	.text       start:0x00007050 end:0x00007060
 
 mo_stub/st_kart/fn_49_7CBC.c:
 	.text       start:0x00007CBC end:0x00007CC4
