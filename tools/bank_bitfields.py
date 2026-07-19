@@ -91,13 +91,20 @@ def classify(a, sz):
         r = rlw(w1, 21)                                    # rlwinm + srawi -> signed get
         if r and (w2 >> 26) == 31 and ((w2 >> 1) & 0x3FF) == 824:
             rS, rA, SH, MB, ME = r
-            if rS != 0 or rA != 0 or ((w2 >> 21) & 31) != 3 or ((w2 >> 16) & 31) != 0:
+            # srawi encodes destination in rA (bits 20-16), source in rS (25-21)
+            if rS != 0 or rA != 0 or ((w2 >> 21) & 31) != 0 or ((w2 >> 16) & 31) != 3:
                 return None
             n = (w2 >> 11) & 31
             width = 32 - n
-            if width <= 0 or ME != MB + width:
+            if width <= 0 or ME != MB + width - 1:
                 return None
             return ("get", off, (MB + SH) % 32, width, True)
+        if r and stw_off(w2, 0, 3) == off:                  # rlwinm + stw -> clear field
+            rS, rA, SH, MB, ME = r
+            if rS != 0 or rA != 0 or SH != 0 or MB <= ME:
+                return None
+            # wrapped mask keeps everything except [ME+1 .. MB-1]: that is the field
+            return ("clr", off, ME + 1, MB - ME - 1, False)
         return None
     if sz == 12:
         w0, w1, w2 = w(a, 0), w(a, 1), w(a, 2)
@@ -106,6 +113,14 @@ def classify(a, sz):
         off = lwz_off(w0, 0, 3)
         if off is None or off < 0:
             return None
+        # lwz + srawi -> signed field sitting at the top of the word
+        if (w1 >> 26) == 31 and ((w1 >> 1) & 0x3FF) == 824:
+            if ((w1 >> 21) & 31) != 0 or ((w1 >> 16) & 31) != 3:
+                return None
+            n = (w1 >> 11) & 31
+            if n <= 0 or n >= 32:
+                return None
+            return ("get", off, 0, 32 - n, True)
         r = rlw(w1, 21)                                    # rlwinm -> unsigned get
         if not r:
             return None
@@ -148,6 +163,8 @@ for line in open(os.path.join(ROOT, "config/RSBE01_02/rels", module, "symbols.tx
     src = struct_for(off, start, width, signed)
     if kind == "set":
         src += f"void {n}(S* p, int v) {{\n    p->f = v;\n}}\n"
+    elif kind == "clr":
+        src += f"void {n}(S* p) {{\n    p->f = 0;\n}}\n"
     else:
         ty = "int" if signed else "unsigned int"
         src += f"{ty} {n}(S* p) {{\n    return p->f;\n}}\n"
