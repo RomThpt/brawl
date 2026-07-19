@@ -148,3 +148,26 @@ Méthode de récupération après un lot partiellement cassé : identifier les R
 échec dans la sortie ninja, retirer sélectivement les unités de ces modules
 (splits.txt + Object dans configure.py + fichiers src), rebuilder. Bien plus
 rapide que de tout jeter.
+
+## 9 modules qui refusent les getters de globaux (non élucidé)
+ft_falco, ft_gamewatch, ft_link, ft_luigi, ft_mario, ft_pit, ft_samus, ft_snake,
+ft_toonlink rejettent systématiquement ces unités.
+
+Diagnostic poussé : le .text produit est BYTE-IDENTIQUE à la cible (vérifié
+instruction par instruction sur ft_mario). Le build rapporte "126 files OK" avec
+seulement ft_mario.rel en écart. L'écart est donc dans la table de relocations du
+REL, pas dans le code — probablement parce que le symbole déduit de
+(section, offset) n'est pas celui qu'utilisait l'original (alias, ou plusieurs
+symboles à la même adresse dont le linker choisit un autre).
+
+Écartés via une liste SKIP dans bank_globals.py. ~164 unités en jeu.
+
+Enseignement : un .text identique ne garantit pas un REL identique. Quand le code
+matche mais que le module échoue, regarder du côté des relocations et des
+symboles référencés, pas du code généré.
+
+## Hygiène : entrées orphelines
+Des grinds interrompus laissent des entrées dans splits.txt sans Object
+correspondant dans configure.py (warning "Missing configuration for ..."). Elles
+ne cassent pas le build mais polluent. Nettoyage : chercher les chemins présents
+dans un splits.txt et absents de configure.py, et les retirer.
