@@ -31,18 +31,22 @@ def text_section(rel):
 
 
 def relocated_offsets(rel, text_idx):
-    """Byte offsets inside .text that the loader patches (so they differ per module)."""
+    """offset-in-.text -> (type, target_module, target_section, addend).
+
+    The target identity matters: two functions can share a shape but call
+    different things, and those are NOT interchangeable decompilations.
+    """
     try:
         imp_off = struct.unpack('>I', rel[0x28:0x2C])[0]
         imp_size = struct.unpack('>I', rel[0x2C:0x30])[0]
     except struct.error:
-        return set()
-    out = set()
+        return {}
+    out = {}
     for i in range(imp_size // 8):
         e = imp_off + i * 8
         if e + 8 > len(rel):
             break
-        _, roff = struct.unpack('>II', rel[e:e + 8])
+        mid, roff = struct.unpack('>II', rel[e:e + 8])
         pos, cur_sec, cur = roff, -1, 0
         while pos + 8 <= len(rel):
             off, typ, sec, add = struct.unpack('>HBBI', rel[pos:pos + 8])
@@ -56,7 +60,7 @@ def relocated_offsets(rel, text_idx):
             if typ == 201:          # R_DOLPHIN_NOP (advance only)
                 continue
             if cur_sec == text_idx:
-                out.add(cur)
+                out[cur] = (typ, mid, sec, add)
     return out
 
 
@@ -107,7 +111,10 @@ for sym in sorted(glob.glob(os.path.join(ROOT, "config/RSBE01_02/rels/*/symbols.
         code = rel[toff + a:toff + a + sz]
         if len(code) < sz:
             continue
-        h = hashlib.sha1(normalise(code, a, relocs)).hexdigest()
+        # identity = normalised instructions + what the relocations actually point at
+        tgt = sorted((o - a, t, mid, sec, add) for o, (t, mid, sec, add) in relocs.items()
+                     if a <= o < a + sz)
+        h = hashlib.sha1(normalise(code, a, relocs) + repr(tgt).encode()).hexdigest()
         groups[h].append((mod, n, a, sz))
 
 fam = [(len(v) * v[0][3], len(v), v[0][3], v) for v in groups.values() if len(v) > 1]
