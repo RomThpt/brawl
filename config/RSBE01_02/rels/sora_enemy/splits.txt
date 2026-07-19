@@ -570,6 +570,9 @@ mo_enemy/sora_enemy/cymal/em_cymal_param_accesser.cpp:
 mo_stub/sora_enemy/fn_41_3B938.c:
 	.text       start:0x0003B938 end:0x0003B948
 
+mo_stub/sora_enemy/fam_3B948.c:
+	.text       start:0x0003B948 end:0x0003B9B0
+
 mo_stub/sora_enemy/fn_41_3B9B0.c:
 	.text       start:0x0003B9B0 end:0x0003B9B8
 
@@ -647,6 +650,9 @@ mo_enemy/sora_enemy/mite/em_mite_param_accesser.cpp:
 
 mo_stub/sora_enemy/fn_41_414D8.c:
 	.text       start:0x000414D8 end:0x000414E8
+
+mo_stub/sora_enemy/fam_fn_41_414E8.c:
+	.text       start:0x000414E8 end:0x00041550
 
 mo_stub/sora_enemy/fn_41_41578.c:
 	.text       start:0x00041578 end:0x00041598
@@ -915,6 +921,9 @@ mo_stub/sora_enemy/fn_41_584F8.c:
 mo_stub/sora_enemy/fn_41_58500.c:
 	.text       start:0x00058500 end:0x00058508
 
+mo_stub/sora_enemy/fam_fn_41_58508.c:
+	.text       start:0x00058508 end:0x00058570
+
 mo_stub/sora_enemy/fn_41_58588.c:
 	.text       start:0x00058588 end:0x00058590
 
@@ -1096,6 +1105,9 @@ mo_enemy/sora_enemy/taboo/wnem_proc_taboo.cpp:
 
 mo_stub/sora_enemy/fn_41_68BCC.c:
 	.text       start:0x00068BCC end:0x00068BDC
+
+mo_stub/sora_enemy/fam_fn_41_68BDC.c:
+	.text       start:0x00068BDC end:0x00068C44
 
 mo_stub/sora_enemy/fn_41_68C44.c:
 	.text       start:0x00068C44 end:0x00068C5C
