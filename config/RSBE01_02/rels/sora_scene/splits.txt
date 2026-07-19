@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/sora_scene/ms_fn_1_464.c:
+	.text       start:0x00000464 end:0x00000470
+
 mo_scene/sora_scene/stub_fn_1_670.c:
 	.text       start:0x00000670 end:0x00000678
 
@@ -27,6 +30,9 @@ mo_stub/sora_scene/fn_1_40D8.c:
 
 mo_stub/sora_scene/dt___dt__16muMenuControllerFv.c:
 	.text       start:0x00005018 end:0x00005058
+
+mo_stub/sora_scene/ms_fn_1_5E64.c:
+	.text       start:0x00005E64 end:0x00005E70
 
 mo_stub/sora_scene/fn_1_618C.c:
 	.text       start:0x0000618C end:0x00006194
@@ -74,9 +80,15 @@ mo_stub/sora_scene/fn_1_8ACC.c:
 mo_stub/sora_scene/fn_1_8D44.c:
 	.text       start:0x00008D44 end:0x00008D4C
 
+mo_stub/sora_scene/ms_fn_1_B54C.c:
+	.text       start:0x0000B54C end:0x0000B558
+
 mo_scene/sora_scene/sc_net_time_result.cpp:
 	.text       start:0x0000C824 end:0x0000C9C4
 	.data       start:0x000040D0 end:0x00004140
+
+mo_stub/sora_scene/ms_fn_1_E760.c:
+	.text       start:0x0000E760 end:0x0000E76C
 
 mo_stub/sora_scene/fn_1_E9C0.c:
 	.text       start:0x0000E9C0 end:0x0000E9C8
@@ -123,6 +135,9 @@ mo_scene/sora_scene/sc_adv_diff.cpp:
 	.text       start:0x0001C4A8 end:0x0001C668
 	.rodata     start:0x000008C0 end:0x000008D0
 	.data       start:0x00005E48 end:0x00005F50
+
+mo_stub/sora_scene/ms_fn_1_1EDE0.c:
+	.text       start:0x0001EDE0 end:0x0001EDEC
 
 mo_scene/sora_scene/sc_adv_result.cpp:
 	.text       start:0x0001FDEC end:0x0002006C
@@ -171,8 +186,14 @@ mo_stub/sora_scene/fn_1_359A0.c:
 mo_stub/sora_scene/fn_1_363F0.c:
 	.text       start:0x000363F0 end:0x000363F4
 
+mo_stub/sora_scene/ms_fn_1_36738.c:
+	.text       start:0x00036738 end:0x00036744
+
 mo_stub/sora_scene/fn_1_36930.c:
 	.text       start:0x00036930 end:0x00036934
+
+mo_stub/sora_scene/ms_fn_1_36984.c:
+	.text       start:0x00036984 end:0x00036990
 
 mo_stub/sora_scene/fn_1_36C40.c:
 	.text       start:0x00036C40 end:0x00036C44
@@ -189,6 +210,9 @@ mo_stub/sora_scene/fn_1_38E94.c:
 mo_stub/sora_scene/fn_1_39BAC.c:
 	.text       start:0x00039BAC end:0x00039BB0
 
+mo_stub/sora_scene/ms_fn_1_3A3B0.c:
+	.text       start:0x0003A3B0 end:0x0003A3BC
+
 mo_stub/sora_scene/fn_1_3A4D8.c:
 	.text       start:0x0003A4D8 end:0x0003A4DC
 
@@ -204,8 +228,14 @@ mo_stub/sora_scene/fn_1_3BC60.c:
 mo_stub/sora_scene/fn_1_3C664.c:
 	.text       start:0x0003C664 end:0x0003C668
 
+mo_stub/sora_scene/ms_fn_1_3CDA0.c:
+	.text       start:0x0003CDA0 end:0x0003CDAC
+
 mo_stub/sora_scene/fn_1_3CF68.c:
 	.text       start:0x0003CF68 end:0x0003CF6C
+
+mo_stub/sora_scene/ms_fn_1_3CFBC.c:
+	.text       start:0x0003CFBC end:0x0003CFC8
 
 mo_stub/sora_scene/fn_1_3D128.c:
 	.text       start:0x0003D128 end:0x0003D12C

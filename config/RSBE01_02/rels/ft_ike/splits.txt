@@ -101,11 +101,20 @@ mo_stub/ft_ike/acc_fn_119_A928.c:
 mo_stub/ft_ike/fn_119_B690.c:
 	.text       start:0x0000B690 end:0x0000B694
 
+mo_stub/ft_ike/ms_fn_119_B778.c:
+	.text       start:0x0000B778 end:0x0000B784
+
+mo_stub/ft_ike/ms_fn_119_B784.c:
+	.text       start:0x0000B784 end:0x0000B790
+
 mo_stub/ft_ike/fn_119_BD9C.c:
 	.text       start:0x0000BD9C end:0x0000BDA0
 
 mo_stub/ft_ike/fn_119_BDD8.c:
 	.text       start:0x0000BDD8 end:0x0000BDE0
+
+mo_stub/ft_ike/ms_fn_119_BDE0.c:
+	.text       start:0x0000BDE0 end:0x0000BDEC
 
 mo_stub/ft_ike/acc_fn_119_BE24.c:
 	.text       start:0x0000BE24 end:0x0000BE3C
@@ -154,6 +163,9 @@ mo_stub/ft_ike/acc_fn_119_C47C.c:
 
 mo_stub/ft_ike/fn_119_C524.c:
 	.text       start:0x0000C524 end:0x0000C52C
+
+mo_stub/ft_ike/ms_fn_119_C52C.c:
+	.text       start:0x0000C52C end:0x0000C538
 
 mo_stub/ft_ike/fn_119_C754.c:
 	.text       start:0x0000C754 end:0x0000C774

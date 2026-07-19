@@ -110,11 +110,20 @@ mo_stub/ft_sonic/acc_fn_123_B5EC.c:
 mo_stub/ft_sonic/fn_123_C2F8.c:
 	.text       start:0x0000C2F8 end:0x0000C2FC
 
+mo_stub/ft_sonic/ms_fn_123_C3CC.c:
+	.text       start:0x0000C3CC end:0x0000C3D8
+
+mo_stub/ft_sonic/ms_fn_123_C3D8.c:
+	.text       start:0x0000C3D8 end:0x0000C3E4
+
 mo_stub/ft_sonic/fn_123_CCE8.c:
 	.text       start:0x0000CCE8 end:0x0000CCEC
 
 mo_stub/ft_sonic/fn_123_CD24.c:
 	.text       start:0x0000CD24 end:0x0000CD2C
+
+mo_stub/ft_sonic/ms_fn_123_CD2C.c:
+	.text       start:0x0000CD2C end:0x0000CD38
 
 mo_stub/ft_sonic/acc_fn_123_D08C.c:
 	.text       start:0x0000D08C end:0x0000D0A4
@@ -163,6 +172,9 @@ mo_stub/ft_sonic/acc_fn_123_EC84.c:
 
 mo_stub/ft_sonic/fn_123_ED2C.c:
 	.text       start:0x0000ED2C end:0x0000ED34
+
+mo_stub/ft_sonic/ms_fn_123_ED34.c:
+	.text       start:0x0000ED34 end:0x0000ED40
 
 mo_stub/ft_sonic/fn_123_EF30.c:
 	.text       start:0x0000EF30 end:0x0000EF50
@@ -533,6 +545,9 @@ mo_stub/ft_sonic/fn_123_1794C.c:
 mo_stub/ft_sonic/fn_123_17974.c:
 	.text       start:0x00017974 end:0x00017980
 
+mo_stub/ft_sonic/ms_fn_123_17980.c:
+	.text       start:0x00017980 end:0x0001798C
+
 mo_stub/ft_sonic/acc_fn_123_1798C.c:
 	.text       start:0x0001798C end:0x000179A4
 
@@ -544,6 +559,9 @@ mo_stub/ft_sonic/acc_fn_123_17A3C.c:
 
 mo_stub/ft_sonic/fn_123_17AE4.c:
 	.text       start:0x00017AE4 end:0x00017AEC
+
+mo_stub/ft_sonic/ms_fn_123_17AEC.c:
+	.text       start:0x00017AEC end:0x00017AF8
 
 mo_stub/ft_sonic/fn_123_17AF8.c:
 	.text       start:0x00017AF8 end:0x00017B20

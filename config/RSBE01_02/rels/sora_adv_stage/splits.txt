@@ -1063,6 +1063,9 @@ mo_adv_stage/gr_adventure_final.cpp:
 	.rodata     start:0x000008E8 end:0x000008F4
 	.data       start:0x000177D8 end:0x000179F8
 
+mo_stub/sora_adv_stage/ms_fn_40_3E188.c:
+	.text       start:0x0003E188 end:0x0003E194
+
 mo_stub/sora_adv_stage/dt_fn_40_3E220.c:
 	.text       start:0x0003E220 end:0x0003E260
 
@@ -1074,6 +1077,12 @@ mo_stub/sora_adv_stage/fn_40_42DC4.c:
 
 mo_stub/sora_adv_stage/fn_40_42DC8.c:
 	.text       start:0x00042DC8 end:0x00042DD0
+
+mo_stub/sora_adv_stage/ms_fn_40_437D0.c:
+	.text       start:0x000437D0 end:0x000437DC
+
+mo_stub/sora_adv_stage/ms_fn_40_44100.c:
+	.text       start:0x00044100 end:0x0004410C
 
 mo_stub/sora_adv_stage/fn_40_47624.c:
 	.text       start:0x00047624 end:0x0004762C

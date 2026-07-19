@@ -116,11 +116,20 @@ mo_stub/ft_yoshi/acc_fn_95_D154.c:
 mo_stub/ft_yoshi/fn_95_DECC.c:
 	.text       start:0x0000DECC end:0x0000DED0
 
+mo_stub/ft_yoshi/ms_fn_95_DFB4.c:
+	.text       start:0x0000DFB4 end:0x0000DFC0
+
+mo_stub/ft_yoshi/ms_fn_95_DFC0.c:
+	.text       start:0x0000DFC0 end:0x0000DFCC
+
 mo_stub/ft_yoshi/fn_95_E5D8.c:
 	.text       start:0x0000E5D8 end:0x0000E5DC
 
 mo_stub/ft_yoshi/fn_95_E614.c:
 	.text       start:0x0000E614 end:0x0000E61C
+
+mo_stub/ft_yoshi/ms_fn_95_E61C.c:
+	.text       start:0x0000E61C end:0x0000E628
 
 mo_stub/ft_yoshi/acc_fn_95_E660.c:
 	.text       start:0x0000E660 end:0x0000E678
@@ -169,6 +178,9 @@ mo_stub/ft_yoshi/acc_fn_95_ECB8.c:
 
 mo_stub/ft_yoshi/fn_95_ED60.c:
 	.text       start:0x0000ED60 end:0x0000ED68
+
+mo_stub/ft_yoshi/ms_fn_95_ED68.c:
+	.text       start:0x0000ED68 end:0x0000ED74
 
 mo_stub/ft_yoshi/fn_95_EF64.c:
 	.text       start:0x0000EF64 end:0x0000EF84
