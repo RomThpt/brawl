@@ -101,3 +101,31 @@ Formes bitfield gérées au final :
 - lwz + rlwinm                 -> return p->f (non signé)
 - lwz + rlwinm(SH=0, MB>ME) + stw -> p->f = 0 (masque inversé : le champ effacé
   est [ME+1 .. MB-1])
+
+## Destructeurs "deleting" : NON écrivables à la main (échec documenté)
+Forme (2357x en 92o + 1520x en 96o, ~2.3% du code) :
+    if (this) { real_dtor(this, 0); if ((short)flag > 0) operator delete(this); }
+    return this;
+avec `__dl__FPv` = operator delete dans le DOL.
+
+Transcrit en C, le résultat fait 88 octets au lieu de 92 : le compilateur garde
+`this` dans r3 alors que la cible le recharge depuis r30, et il ordonne les
+sauvegardes différemment. Deux variantes essayées, la seconde pire (2/23).
+
+Raison de fond : cette fonction est SYNTHÉTISÉE par MWCC à partir de la classe
+(c'est le "deleting destructor" que le compilateur émet à côté du destructeur
+réel). Elle n'est pas écrite par le programmeur, donc pas reproductible en
+l'écrivant à la main — il faut définir la classe C++ et laisser le compilateur
+l'émettre.
+
+## Constat sur le plafond de l'approche "motifs"
+Les gisements restants les plus gros sont tous des constructions SYNTHÉTISÉES
+par le compilateur C++ :
+- destructeurs deleting (2357x + 1520x, ~2.3% du code)
+- thunks d'appel virtuel (~1300x, r12 réutilisé)
+Aucun n'est atteignable en écrivant du C. Ils exigent les définitions de classes
+(membres aux bons offsets, méthodes virtuelles aux bons slots), c'est-à-dire le
+travail de fond d'un projet de décompilation C++.
+
+Ce qui reste mécanisable en C est essentiellement épuisé : accesseurs d'index,
+champs de bits, index circulaires (~4300 fonctions matchées au total).
