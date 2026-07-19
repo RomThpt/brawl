@@ -6,6 +6,12 @@ Sections:
 	.data       type:data align:32
 	.bss        type:bss align:8
 
+mo_stub/sora_adv_menu_difficulty/dt_fn_32_264.c:
+	.text       start:0x00000264 end:0x000002A4
+
+mo_stub/sora_adv_menu_difficulty/dt_fn_32_2E4.c:
+	.text       start:0x000002E4 end:0x00000324
+
 mo_stub/sora_adv_menu_difficulty/fn_32_7EC.c:
 	.text       start:0x000007EC end:0x000007F0
 

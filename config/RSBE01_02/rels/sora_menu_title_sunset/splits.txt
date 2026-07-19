@@ -6,6 +6,12 @@ Sections:
 	.data       type:data align:32
 	.bss        type:bss align:8
 
+mo_stub/sora_menu_title_sunset/dt_fn_25_C78.c:
+	.text       start:0x00000C78 end:0x00000CB8
+
+mo_stub/sora_menu_title_sunset/dt_fn_25_CB8.c:
+	.text       start:0x00000CB8 end:0x00000CF8
+
 mo_stub/sora_menu_title_sunset/fn_25_1424.c:
 	.text       start:0x00001424 end:0x0000142C
 

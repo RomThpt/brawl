@@ -164,6 +164,15 @@ mo_stub/st_gw/fn_63_518C.c:
 mo_stub/st_gw/fn_63_5528.c:
 	.text       start:0x00005528 end:0x0000552C
 
+mo_stub/st_gw/dt_fn_63_85F4.c:
+	.text       start:0x000085F4 end:0x00008634
+
+mo_stub/st_gw/dt_fn_63_8634.c:
+	.text       start:0x00008634 end:0x00008674
+
+mo_stub/st_gw/dt_fn_63_8674.c:
+	.text       start:0x00008674 end:0x000086B4
+
 mo_stub/st_gw/fn_63_933C.c:
 	.text       start:0x0000933C end:0x00009344
 
@@ -172,6 +181,12 @@ mo_stub/st_gw/fn_63_9344.c:
 
 mo_stub/st_gw/fn_63_9348.c:
 	.text       start:0x00009348 end:0x00009358
+
+mo_stub/st_gw/dt_fn_63_93DC.c:
+	.text       start:0x000093DC end:0x0000941C
+
+mo_stub/st_gw/dt_fn_63_941C.c:
+	.text       start:0x0000941C end:0x0000945C
 
 mo_stub/st_gw/fn_63_945C.c:
 	.text       start:0x0000945C end:0x00009460
@@ -230,6 +245,12 @@ mo_stub/st_gw/fn_63_97E0.c:
 mo_stub/st_gw/fn_63_9830.c:
 	.text       start:0x00009830 end:0x00009834
 
+mo_stub/st_gw/dt_fn_63_9834.c:
+	.text       start:0x00009834 end:0x00009874
+
+mo_stub/st_gw/dt_fn_63_99D0.c:
+	.text       start:0x000099D0 end:0x00009A10
+
 mo_stub/st_gw/bf_fn_63_9BB4.c:
 	.text       start:0x00009BB4 end:0x00009BC0
 
@@ -253,6 +274,93 @@ mo_stub/st_gw/bf_fn_63_9D5C.c:
 
 mo_stub/st_gw/fn_63_9D68.c:
 	.text       start:0x00009D68 end:0x00009D70
+
+mo_stub/st_gw/dt_fn_63_9D80.c:
+	.text       start:0x00009D80 end:0x00009DC0
+
+mo_stub/st_gw/dt_fn_63_9E90.c:
+	.text       start:0x00009E90 end:0x00009ED0
+
+mo_stub/st_gw/dt_fn_63_9ED0.c:
+	.text       start:0x00009ED0 end:0x00009F10
+
+mo_stub/st_gw/dt_fn_63_A1F4.c:
+	.text       start:0x0000A1F4 end:0x0000A234
+
+mo_stub/st_gw/dt_fn_63_A234.c:
+	.text       start:0x0000A234 end:0x0000A274
+
+mo_stub/st_gw/dt_fn_63_A590.c:
+	.text       start:0x0000A590 end:0x0000A5D0
+
+mo_stub/st_gw/dt_fn_63_A5D0.c:
+	.text       start:0x0000A5D0 end:0x0000A610
+
+mo_stub/st_gw/dt_fn_63_A610.c:
+	.text       start:0x0000A610 end:0x0000A650
+
+mo_stub/st_gw/dt_fn_63_A650.c:
+	.text       start:0x0000A650 end:0x0000A690
+
+mo_stub/st_gw/dt_fn_63_A690.c:
+	.text       start:0x0000A690 end:0x0000A6D0
+
+mo_stub/st_gw/dt_fn_63_A6D0.c:
+	.text       start:0x0000A6D0 end:0x0000A710
+
+mo_stub/st_gw/dt_fn_63_A710.c:
+	.text       start:0x0000A710 end:0x0000A750
+
+mo_stub/st_gw/dt_fn_63_A750.c:
+	.text       start:0x0000A750 end:0x0000A790
+
+mo_stub/st_gw/dt_fn_63_A790.c:
+	.text       start:0x0000A790 end:0x0000A7D0
+
+mo_stub/st_gw/dt_fn_63_A7D0.c:
+	.text       start:0x0000A7D0 end:0x0000A810
+
+mo_stub/st_gw/dt_fn_63_A810.c:
+	.text       start:0x0000A810 end:0x0000A850
+
+mo_stub/st_gw/dt_fn_63_A850.c:
+	.text       start:0x0000A850 end:0x0000A890
+
+mo_stub/st_gw/dt_fn_63_A890.c:
+	.text       start:0x0000A890 end:0x0000A8D0
+
+mo_stub/st_gw/dt_fn_63_A8D0.c:
+	.text       start:0x0000A8D0 end:0x0000A910
+
+mo_stub/st_gw/dt_fn_63_A910.c:
+	.text       start:0x0000A910 end:0x0000A950
+
+mo_stub/st_gw/dt_fn_63_A950.c:
+	.text       start:0x0000A950 end:0x0000A990
+
+mo_stub/st_gw/dt_fn_63_A990.c:
+	.text       start:0x0000A990 end:0x0000A9D0
+
+mo_stub/st_gw/dt_fn_63_A9D0.c:
+	.text       start:0x0000A9D0 end:0x0000AA10
+
+mo_stub/st_gw/dt_fn_63_AA44.c:
+	.text       start:0x0000AA44 end:0x0000AA84
+
+mo_stub/st_gw/dt_fn_63_AA84.c:
+	.text       start:0x0000AA84 end:0x0000AAC4
+
+mo_stub/st_gw/dt_fn_63_AAC4.c:
+	.text       start:0x0000AAC4 end:0x0000AB04
+
+mo_stub/st_gw/dt_fn_63_AB38.c:
+	.text       start:0x0000AB38 end:0x0000AB78
+
+mo_stub/st_gw/dt_fn_63_AB78.c:
+	.text       start:0x0000AB78 end:0x0000ABB8
+
+mo_stub/st_gw/dt_fn_63_ABDC.c:
+	.text       start:0x0000ABDC end:0x0000AC1C
 
 mo_stub/st_gw/fn_63_AD1C.c:
 	.text       start:0x0000AD1C end:0x0000AD28

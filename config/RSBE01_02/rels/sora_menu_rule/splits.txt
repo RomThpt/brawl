@@ -12,6 +12,9 @@ mo_stub/sora_menu_rule/fn_18_B30.c:
 mo_stub/sora_menu_rule/fn_18_B4C.c:
 	.text       start:0x00000B4C end:0x00000B54
 
+mo_stub/sora_menu_rule/dt_fn_18_CE0.c:
+	.text       start:0x00000CE0 end:0x00000D20
+
 mo_stub/sora_menu_rule/fn_18_F6C.c:
 	.text       start:0x00000F6C end:0x00000F78
 
