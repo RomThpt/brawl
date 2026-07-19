@@ -89,6 +89,15 @@ mo_stub/ft_metaknight/fn_111_8A00.c:
 mo_stub/ft_metaknight/fn_111_97F8.c:
 	.text       start:0x000097F8 end:0x00009808
 
+mo_stub/ft_metaknight/gl_fn_111_9808.c:
+	.text       start:0x00009808 end:0x00009814
+
+mo_stub/ft_metaknight/gl_fn_111_9828.c:
+	.text       start:0x00009828 end:0x00009834
+
+mo_stub/ft_metaknight/gl_fn_111_9834.c:
+	.text       start:0x00009834 end:0x00009840
+
 mo_stub/ft_metaknight/acc_fn_111_9884.c:
 	.text       start:0x00009884 end:0x0000989C
 
@@ -176,8 +185,23 @@ mo_stub/ft_metaknight/fn_111_C914.c:
 mo_stub/ft_metaknight/fn_111_C95C.c:
 	.text       start:0x0000C95C end:0x0000C960
 
+mo_stub/ft_metaknight/gl_fn_111_C9A8.c:
+	.text       start:0x0000C9A8 end:0x0000C9B8
+
+mo_stub/ft_metaknight/gl_fn_111_CC54.c:
+	.text       start:0x0000CC54 end:0x0000CC64
+
+mo_stub/ft_metaknight/gl_fn_111_D20C.c:
+	.text       start:0x0000D20C end:0x0000D21C
+
+mo_stub/ft_metaknight/gl_fn_111_D6DC.c:
+	.text       start:0x0000D6DC end:0x0000D6EC
+
 mo_stub/ft_metaknight/fn_111_D824.c:
 	.text       start:0x0000D824 end:0x0000D828
+
+mo_stub/ft_metaknight/gl_fn_111_DD54.c:
+	.text       start:0x0000DD54 end:0x0000DD64
 
 mo_stub/ft_metaknight/fn_111_10BD0.c:
 	.text       start:0x00010BD0 end:0x00010BD8

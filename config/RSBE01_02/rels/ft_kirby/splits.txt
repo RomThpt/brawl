@@ -17,6 +17,9 @@ mo_stub/ft_kirby/fn_96_28D0.c:
 mo_stub/ft_kirby/fn_96_AF94.c:
 	.text       start:0x0000AF94 end:0x0000AF98
 
+mo_stub/ft_kirby/gl_fn_96_B488.c:
+	.text       start:0x0000B488 end:0x0000B494
+
 mo_stub/ft_kirby/fn_96_BC64.c:
 	.text       start:0x0000BC64 end:0x0000BC6C
 
@@ -100,6 +103,15 @@ mo_stub/ft_kirby/fn_96_F5E0.c:
 
 mo_stub/ft_kirby/fn_96_115E8.c:
 	.text       start:0x000115E8 end:0x000115F0
+
+mo_stub/ft_kirby/gl_fn_96_115FC.c:
+	.text       start:0x000115FC end:0x00011608
+
+mo_stub/ft_kirby/gl_fn_96_1161C.c:
+	.text       start:0x0001161C end:0x00011628
+
+mo_stub/ft_kirby/gl_fn_96_11628.c:
+	.text       start:0x00011628 end:0x00011634
 
 mo_stub/ft_kirby/acc_fn_96_116D8.c:
 	.text       start:0x000116D8 end:0x000116F0
@@ -239,8 +251,23 @@ mo_stub/ft_kirby/fn_96_13D2C.c:
 mo_stub/ft_kirby/fn_96_13D80.c:
 	.text       start:0x00013D80 end:0x00013D84
 
+mo_stub/ft_kirby/gl_fn_96_13EE0.c:
+	.text       start:0x00013EE0 end:0x00013EF0
+
+mo_stub/ft_kirby/gl_fn_96_13EF0.c:
+	.text       start:0x00013EF0 end:0x00013F00
+
+mo_stub/ft_kirby/gl_fn_96_13F00.c:
+	.text       start:0x00013F00 end:0x00013F10
+
+mo_stub/ft_kirby/gl_fn_96_13F10.c:
+	.text       start:0x00013F10 end:0x00013F20
+
 mo_stub/ft_kirby/fn_96_141A8.c:
 	.text       start:0x000141A8 end:0x000141AC
+
+mo_stub/ft_kirby/gl_fn_96_14364.c:
+	.text       start:0x00014364 end:0x00014374
 
 mo_stub/ft_kirby/fn_96_14C00.c:
 	.text       start:0x00014C00 end:0x00014C04
@@ -248,20 +275,44 @@ mo_stub/ft_kirby/fn_96_14C00.c:
 mo_stub/ft_kirby/fn_96_15278.c:
 	.text       start:0x00015278 end:0x0001527C
 
+mo_stub/ft_kirby/gl_fn_96_15BA8.c:
+	.text       start:0x00015BA8 end:0x00015BB8
+
+mo_stub/ft_kirby/gl_fn_96_15BB8.c:
+	.text       start:0x00015BB8 end:0x00015BC8
+
+mo_stub/ft_kirby/gl_fn_96_15BC8.c:
+	.text       start:0x00015BC8 end:0x00015BD8
+
 mo_stub/ft_kirby/fn_96_15D64.c:
 	.text       start:0x00015D64 end:0x00015D68
 
 mo_stub/ft_kirby/fn_96_15D68.c:
 	.text       start:0x00015D68 end:0x00015D6C
 
+mo_stub/ft_kirby/gl_fn_96_16150.c:
+	.text       start:0x00016150 end:0x00016160
+
 mo_stub/ft_kirby/fn_96_163D8.c:
 	.text       start:0x000163D8 end:0x000163E0
+
+mo_stub/ft_kirby/gl_fn_96_168B8.c:
+	.text       start:0x000168B8 end:0x000168C8
 
 mo_stub/ft_kirby/fn_96_169B8.c:
 	.text       start:0x000169B8 end:0x000169BC
 
+mo_stub/ft_kirby/gl_fn_96_16BD0.c:
+	.text       start:0x00016BD0 end:0x00016BE0
+
 mo_stub/ft_kirby/fn_96_16F0C.c:
 	.text       start:0x00016F0C end:0x00016F10
+
+mo_stub/ft_kirby/gl_fn_96_17820.c:
+	.text       start:0x00017820 end:0x00017830
+
+mo_stub/ft_kirby/gl_fn_96_17B00.c:
+	.text       start:0x00017B00 end:0x00017B10
 
 mo_stub/ft_kirby/fn_96_17C20.c:
 	.text       start:0x00017C20 end:0x00017C24
@@ -269,8 +320,14 @@ mo_stub/ft_kirby/fn_96_17C20.c:
 mo_stub/ft_kirby/fn_96_17EF0.c:
 	.text       start:0x00017EF0 end:0x00017EF4
 
+mo_stub/ft_kirby/gl_fn_96_18010.c:
+	.text       start:0x00018010 end:0x00018020
+
 mo_stub/ft_kirby/fn_96_1930C.c:
 	.text       start:0x0001930C end:0x00019310
+
+mo_stub/ft_kirby/gl_fn_96_1C234.c:
+	.text       start:0x0001C234 end:0x0001C244
 
 mo_stub/ft_kirby/bf_fn_96_1E17C.c:
 	.text       start:0x0001E17C end:0x0001E188
@@ -512,6 +569,9 @@ mo_stub/ft_kirby/fn_96_2408C.c:
 mo_stub/ft_kirby/fn_96_2439C.c:
 	.text       start:0x0002439C end:0x000243A0
 
+mo_stub/ft_kirby/gl_fn_96_24428.c:
+	.text       start:0x00024428 end:0x00024438
+
 mo_stub/ft_kirby/fn_96_25E8C.c:
 	.text       start:0x00025E8C end:0x00025EAC
 
@@ -530,6 +590,9 @@ mo_stub/ft_kirby/fn_96_285E4.c:
 mo_stub/ft_kirby/fn_96_2860C.c:
 	.text       start:0x0002860C end:0x0002861C
 
+mo_stub/ft_kirby/gl_fn_96_28FB8.c:
+	.text       start:0x00028FB8 end:0x00028FC8
+
 mo_stub/ft_kirby/fn_96_2AF14.c:
 	.text       start:0x0002AF14 end:0x0002AF2C
 
@@ -547,6 +610,9 @@ mo_stub/ft_kirby/fn_96_2D1E0.c:
 
 mo_stub/ft_kirby/fn_96_2D208.c:
 	.text       start:0x0002D208 end:0x0002D220
+
+mo_stub/ft_kirby/gl_fn_96_2DA94.c:
+	.text       start:0x0002DA94 end:0x0002DAA4
 
 mo_stub/ft_kirby/fn_96_2F860.c:
 	.text       start:0x0002F860 end:0x0002F870

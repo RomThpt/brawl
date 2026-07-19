@@ -89,6 +89,9 @@ mo_stub/ft_zako/fn_126_7A3C.c:
 mo_stub/ft_zako/fn_126_7A54.c:
 	.text       start:0x00007A54 end:0x00007A5C
 
+mo_stub/ft_zako/gl_fn_126_7A5C.c:
+	.text       start:0x00007A5C end:0x00007A68
+
 mo_stub/ft_zako/fn_126_87EC.c:
 	.text       start:0x000087EC end:0x000087F0
 
@@ -158,6 +161,9 @@ mo_stub/ft_zako/fn_126_B6F0.c:
 mo_stub/ft_zako/fn_126_B718.c:
 	.text       start:0x0000B718 end:0x0000B720
 
+mo_stub/ft_zako/gl_fn_126_B720.c:
+	.text       start:0x0000B720 end:0x0000B72C
+
 mo_stub/ft_zako/fn_126_B91C.c:
 	.text       start:0x0000B91C end:0x0000B92C
 
@@ -170,6 +176,9 @@ mo_stub/ft_zako/fn_126_D66C.c:
 mo_stub/ft_zako/fn_126_D68C.c:
 	.text       start:0x0000D68C end:0x0000D694
 
+mo_stub/ft_zako/gl_fn_126_D694.c:
+	.text       start:0x0000D694 end:0x0000D6A0
+
 mo_stub/ft_zako/fn_126_D890.c:
 	.text       start:0x0000D890 end:0x0000D8A0
 
@@ -181,6 +190,9 @@ mo_stub/ft_zako/fn_126_F5E8.c:
 
 mo_stub/ft_zako/fn_126_F600.c:
 	.text       start:0x0000F600 end:0x0000F608
+
+mo_stub/ft_zako/gl_fn_126_F608.c:
+	.text       start:0x0000F608 end:0x0000F614
 
 mo_stub/ft_zako/fn_126_F804.c:
 	.text       start:0x0000F804 end:0x0000F814

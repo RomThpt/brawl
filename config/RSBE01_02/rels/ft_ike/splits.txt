@@ -83,6 +83,15 @@ mo_stub/ft_ike/fn_119_9A94.c:
 mo_stub/ft_ike/fn_119_A89C.c:
 	.text       start:0x0000A89C end:0x0000A8AC
 
+mo_stub/ft_ike/gl_fn_119_A8AC.c:
+	.text       start:0x0000A8AC end:0x0000A8B8
+
+mo_stub/ft_ike/gl_fn_119_A8CC.c:
+	.text       start:0x0000A8CC end:0x0000A8D8
+
+mo_stub/ft_ike/gl_fn_119_A8D8.c:
+	.text       start:0x0000A8D8 end:0x0000A8E4
+
 mo_stub/ft_ike/acc_fn_119_A928.c:
 	.text       start:0x0000A928 end:0x0000A940
 
@@ -185,11 +194,23 @@ mo_stub/ft_ike/fn_119_D288.c:
 mo_stub/ft_ike/fn_119_D2D0.c:
 	.text       start:0x0000D2D0 end:0x0000D2D8
 
+mo_stub/ft_ike/gl_fn_119_D320.c:
+	.text       start:0x0000D320 end:0x0000D330
+
 mo_stub/ft_ike/fn_119_DA8C.c:
 	.text       start:0x0000DA8C end:0x0000DA90
 
+mo_stub/ft_ike/gl_fn_119_DDA4.c:
+	.text       start:0x0000DDA4 end:0x0000DDB4
+
+mo_stub/ft_ike/gl_fn_119_EE14.c:
+	.text       start:0x0000EE14 end:0x0000EE24
+
 mo_stub/ft_ike/fn_119_F898.c:
 	.text       start:0x0000F898 end:0x0000F89C
+
+mo_stub/ft_ike/gl_fn_119_FBB4.c:
+	.text       start:0x0000FBB4 end:0x0000FBC4
 
 mo_stub/ft_ike/fn_119_13238.c:
 	.text       start:0x00013238 end:0x00013250
@@ -307,6 +328,9 @@ mo_stub/ft_ike/fn_119_13914.c:
 
 mo_stub/ft_ike/fn_119_13CC0.c:
 	.text       start:0x00013CC0 end:0x00013CC4
+
+mo_stub/ft_ike/gl_fn_119_13DD8.c:
+	.text       start:0x00013DD8 end:0x00013DE8
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00013DE8 end:0x00013E84

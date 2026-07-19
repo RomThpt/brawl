@@ -86,6 +86,15 @@ mo_stub/ft_koopa/fn_102_9310.c:
 mo_stub/ft_koopa/fn_102_A19C.c:
 	.text       start:0x0000A19C end:0x0000A1A4
 
+mo_stub/ft_koopa/gl_fn_102_A1B0.c:
+	.text       start:0x0000A1B0 end:0x0000A1BC
+
+mo_stub/ft_koopa/gl_fn_102_A1D0.c:
+	.text       start:0x0000A1D0 end:0x0000A1DC
+
+mo_stub/ft_koopa/gl_fn_102_A1DC.c:
+	.text       start:0x0000A1DC end:0x0000A1E8
+
 mo_stub/ft_koopa/fn_102_AFE8.c:
 	.text       start:0x0000AFE8 end:0x0000AFEC
 
@@ -167,8 +176,35 @@ mo_stub/ft_koopa/fn_102_D5C8.c:
 mo_stub/ft_koopa/fn_102_D60C.c:
 	.text       start:0x0000D60C end:0x0000D610
 
+mo_stub/ft_koopa/gl_fn_102_D674.c:
+	.text       start:0x0000D674 end:0x0000D684
+
+mo_stub/ft_koopa/gl_fn_102_D684.c:
+	.text       start:0x0000D684 end:0x0000D694
+
+mo_stub/ft_koopa/gl_fn_102_E104.c:
+	.text       start:0x0000E104 end:0x0000E114
+
+mo_stub/ft_koopa/gl_fn_102_E114.c:
+	.text       start:0x0000E114 end:0x0000E124
+
 mo_stub/ft_koopa/fn_102_E290.c:
 	.text       start:0x0000E290 end:0x0000E294
+
+mo_stub/ft_koopa/gl_fn_102_F474.c:
+	.text       start:0x0000F474 end:0x0000F484
+
+mo_stub/ft_koopa/gl_fn_102_F484.c:
+	.text       start:0x0000F484 end:0x0000F494
+
+mo_stub/ft_koopa/gl_fn_102_F494.c:
+	.text       start:0x0000F494 end:0x0000F4A4
+
+mo_stub/ft_koopa/gl_fn_102_F4A4.c:
+	.text       start:0x0000F4A4 end:0x0000F4B4
+
+mo_stub/ft_koopa/gl_fn_102_F4B4.c:
+	.text       start:0x0000F4B4 end:0x0000F4C4
 
 mo_stub/ft_koopa/fn_102_1416C.c:
 	.text       start:0x0001416C end:0x00014174
@@ -179,6 +215,15 @@ mo_stub/ft_koopa/fn_102_14174.c:
 mo_stub/ft_koopa/fn_102_14D34.c:
 	.text       start:0x00014D34 end:0x00014D3C
 
+mo_stub/ft_koopa/gl_fn_102_14D48.c:
+	.text       start:0x00014D48 end:0x00014D54
+
+mo_stub/ft_koopa/gl_fn_102_14D68.c:
+	.text       start:0x00014D68 end:0x00014D74
+
+mo_stub/ft_koopa/gl_fn_102_14D74.c:
+	.text       start:0x00014D74 end:0x00014D80
+
 mo_stub/ft_koopa/fn_102_14FDC.c:
 	.text       start:0x00014FDC end:0x00014FEC
 
@@ -188,8 +233,38 @@ mo_stub/ft_koopa/fn_102_14FEC.c:
 mo_stub/ft_koopa/fn_102_15624.c:
 	.text       start:0x00015624 end:0x00015628
 
+mo_stub/ft_koopa/gl_fn_102_156B0.c:
+	.text       start:0x000156B0 end:0x000156C0
+
+mo_stub/ft_koopa/gl_fn_102_16994.c:
+	.text       start:0x00016994 end:0x000169A4
+
+mo_stub/ft_koopa/gl_fn_102_169A4.c:
+	.text       start:0x000169A4 end:0x000169B4
+
+mo_stub/ft_koopa/gl_fn_102_17424.c:
+	.text       start:0x00017424 end:0x00017434
+
+mo_stub/ft_koopa/gl_fn_102_17434.c:
+	.text       start:0x00017434 end:0x00017444
+
 mo_stub/ft_koopa/fn_102_175B0.c:
 	.text       start:0x000175B0 end:0x000175B4
+
+mo_stub/ft_koopa/gl_fn_102_18760.c:
+	.text       start:0x00018760 end:0x00018770
+
+mo_stub/ft_koopa/gl_fn_102_18770.c:
+	.text       start:0x00018770 end:0x00018780
+
+mo_stub/ft_koopa/gl_fn_102_18780.c:
+	.text       start:0x00018780 end:0x00018790
+
+mo_stub/ft_koopa/gl_fn_102_18790.c:
+	.text       start:0x00018790 end:0x000187A0
+
+mo_stub/ft_koopa/gl_fn_102_187A0.c:
+	.text       start:0x000187A0 end:0x000187B0
 
 mo_stub/ft_koopa/fn_102_1BC90.c:
 	.text       start:0x0001BC90 end:0x0001BC98

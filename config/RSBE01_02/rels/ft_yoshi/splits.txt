@@ -86,6 +86,15 @@ mo_stub/ft_yoshi/fn_95_B9B8.c:
 mo_stub/ft_yoshi/fn_95_CFF4.c:
 	.text       start:0x0000CFF4 end:0x0000CFFC
 
+mo_stub/ft_yoshi/gl_fn_95_D008.c:
+	.text       start:0x0000D008 end:0x0000D014
+
+mo_stub/ft_yoshi/gl_fn_95_D028.c:
+	.text       start:0x0000D028 end:0x0000D034
+
+mo_stub/ft_yoshi/gl_fn_95_D034.c:
+	.text       start:0x0000D034 end:0x0000D040
+
 mo_stub/ft_yoshi/acc_fn_95_D084.c:
 	.text       start:0x0000D084 end:0x0000D0AC
 
@@ -170,6 +179,9 @@ mo_stub/ft_yoshi/fn_95_EFA4.c:
 mo_stub/ft_yoshi/fn_95_EFBC.c:
 	.text       start:0x0000EFBC end:0x0000EFC4
 
+mo_stub/ft_yoshi/gl_fn_95_F204.c:
+	.text       start:0x0000F204 end:0x0000F214
+
 mo_stub/ft_yoshi/fn_95_F2F0.c:
 	.text       start:0x0000F2F0 end:0x0000F2F8
 
@@ -188,14 +200,53 @@ mo_stub/ft_yoshi/fn_95_F35C.c:
 mo_stub/ft_yoshi/gl_fn_95_F3D4.c:
 	.text       start:0x0000F3D4 end:0x0000F3E0
 
+mo_stub/ft_yoshi/gl_fn_95_F928.c:
+	.text       start:0x0000F928 end:0x0000F938
+
+mo_stub/ft_yoshi/gl_fn_95_FB4C.c:
+	.text       start:0x0000FB4C end:0x0000FB5C
+
+mo_stub/ft_yoshi/gl_fn_95_FDC8.c:
+	.text       start:0x0000FDC8 end:0x0000FDD8
+
 mo_stub/ft_yoshi/fn_95_10374.c:
 	.text       start:0x00010374 end:0x00010378
 
 mo_stub/ft_yoshi/fn_95_10DA4.c:
 	.text       start:0x00010DA4 end:0x00010DAC
 
+mo_stub/ft_yoshi/gl_fn_95_1100C.c:
+	.text       start:0x0001100C end:0x0001101C
+
+mo_stub/ft_yoshi/gl_fn_95_11C94.c:
+	.text       start:0x00011C94 end:0x00011CA4
+
+mo_stub/ft_yoshi/gl_fn_95_121DC.c:
+	.text       start:0x000121DC end:0x000121EC
+
+mo_stub/ft_yoshi/gl_fn_95_12D70.c:
+	.text       start:0x00012D70 end:0x00012D80
+
+mo_stub/ft_yoshi/gl_fn_95_135C4.c:
+	.text       start:0x000135C4 end:0x000135D4
+
+mo_stub/ft_yoshi/gl_fn_95_138AC.c:
+	.text       start:0x000138AC end:0x000138BC
+
+mo_stub/ft_yoshi/gl_fn_95_139CC.c:
+	.text       start:0x000139CC end:0x000139DC
+
+mo_stub/ft_yoshi/gl_fn_95_13B68.c:
+	.text       start:0x00013B68 end:0x00013B78
+
 mo_stub/ft_yoshi/fn_95_142D8.c:
 	.text       start:0x000142D8 end:0x000142E0
+
+mo_stub/ft_yoshi/gl_fn_95_14368.c:
+	.text       start:0x00014368 end:0x00014378
+
+mo_stub/ft_yoshi/gl_fn_95_144A8.c:
+	.text       start:0x000144A8 end:0x000144B8
 
 mo_stub/ft_yoshi/fn_95_172AC.c:
 	.text       start:0x000172AC end:0x000172BC

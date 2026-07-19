@@ -95,6 +95,15 @@ mo_stub/ft_iceclimber/fn_105_DE4C.c:
 mo_stub/ft_iceclimber/fn_105_F458.c:
 	.text       start:0x0000F458 end:0x0000F460
 
+mo_stub/ft_iceclimber/gl_fn_105_F46C.c:
+	.text       start:0x0000F46C end:0x0000F478
+
+mo_stub/ft_iceclimber/gl_fn_105_F48C.c:
+	.text       start:0x0000F48C end:0x0000F498
+
+mo_stub/ft_iceclimber/gl_fn_105_F498.c:
+	.text       start:0x0000F498 end:0x0000F4A4
+
 mo_stub/ft_iceclimber/acc_fn_105_F4E8.c:
 	.text       start:0x0000F4E8 end:0x0000F500
 
@@ -197,8 +206,41 @@ mo_stub/ft_iceclimber/fn_105_13064.c:
 mo_stub/ft_iceclimber/fn_105_13070.c:
 	.text       start:0x00013070 end:0x00013074
 
+mo_stub/ft_iceclimber/gl_fn_105_130BC.c:
+	.text       start:0x000130BC end:0x000130CC
+
+mo_stub/ft_iceclimber/gl_fn_105_13720.c:
+	.text       start:0x00013720 end:0x00013730
+
+mo_stub/ft_iceclimber/gl_fn_105_13E68.c:
+	.text       start:0x00013E68 end:0x00013E78
+
 mo_stub/ft_iceclimber/fn_105_13E78.c:
 	.text       start:0x00013E78 end:0x00013E7C
+
+mo_stub/ft_iceclimber/gl_fn_105_14468.c:
+	.text       start:0x00014468 end:0x00014478
+
+mo_stub/ft_iceclimber/gl_fn_105_14964.c:
+	.text       start:0x00014964 end:0x00014974
+
+mo_stub/ft_iceclimber/gl_fn_105_14BD8.c:
+	.text       start:0x00014BD8 end:0x00014BE8
+
+mo_stub/ft_iceclimber/gl_fn_105_15040.c:
+	.text       start:0x00015040 end:0x00015050
+
+mo_stub/ft_iceclimber/gl_fn_105_1579C.c:
+	.text       start:0x0001579C end:0x000157AC
+
+mo_stub/ft_iceclimber/gl_fn_105_15BB4.c:
+	.text       start:0x00015BB4 end:0x00015BC4
+
+mo_stub/ft_iceclimber/gl_fn_105_15E88.c:
+	.text       start:0x00015E88 end:0x00015E98
+
+mo_stub/ft_iceclimber/gl_fn_105_16174.c:
+	.text       start:0x00016174 end:0x00016184
 
 mo_stub/ft_iceclimber/fn_105_18158.c:
 	.text       start:0x00018158 end:0x00018168
@@ -391,6 +433,9 @@ mo_stub/ft_iceclimber/fn_105_1EB18.c:
 
 mo_stub/ft_iceclimber/fn_105_1EB38.c:
 	.text       start:0x0001EB38 end:0x0001EB50
+
+mo_stub/ft_iceclimber/gl_fn_105_1EE7C.c:
+	.text       start:0x0001EE7C end:0x0001EE8C
 
 mo_stub/ft_iceclimber/fn_105_21070.c:
 	.text       start:0x00021070 end:0x00021080

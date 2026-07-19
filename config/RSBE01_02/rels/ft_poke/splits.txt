@@ -92,6 +92,15 @@ mo_stub/ft_poke/fn_116_A994.c:
 mo_stub/ft_poke/fn_116_BC58.c:
 	.text       start:0x0000BC58 end:0x0000BC60
 
+mo_stub/ft_poke/gl_fn_116_BC6C.c:
+	.text       start:0x0000BC6C end:0x0000BC78
+
+mo_stub/ft_poke/gl_fn_116_BC8C.c:
+	.text       start:0x0000BC8C end:0x0000BC98
+
+mo_stub/ft_poke/gl_fn_116_BC98.c:
+	.text       start:0x0000BC98 end:0x0000BCA4
+
 mo_stub/ft_poke/acc_fn_116_BCE8.c:
 	.text       start:0x0000BCE8 end:0x0000BD30
 
@@ -199,6 +208,9 @@ mo_stub/ft_poke/fn_116_DEE8.c:
 
 mo_stub/ft_poke/fn_116_DF2C.c:
 	.text       start:0x0000DF2C end:0x0000DF30
+
+mo_stub/ft_poke/gl_fn_116_DF78.c:
+	.text       start:0x0000DF78 end:0x0000DF88
 
 mo_stub/ft_poke/fn_116_111C4.c:
 	.text       start:0x000111C4 end:0x000111CC
@@ -314,11 +326,23 @@ mo_stub/ft_poke/fn_116_13B68.c:
 mo_stub/ft_poke/fn_116_13B80.c:
 	.text       start:0x00013B80 end:0x00013BA8
 
+mo_stub/ft_poke/gl_fn_116_13DBC.c:
+	.text       start:0x00013DBC end:0x00013DCC
+
 mo_stub/ft_poke/fn_116_1892C.c:
 	.text       start:0x0001892C end:0x00018934
 
 mo_stub/ft_poke/fn_116_19600.c:
 	.text       start:0x00019600 end:0x00019608
+
+mo_stub/ft_poke/gl_fn_116_19614.c:
+	.text       start:0x00019614 end:0x00019620
+
+mo_stub/ft_poke/gl_fn_116_19634.c:
+	.text       start:0x00019634 end:0x00019640
+
+mo_stub/ft_poke/gl_fn_116_19640.c:
+	.text       start:0x00019640 end:0x0001964C
 
 mo_stub/ft_poke/fn_116_19CEC.c:
 	.text       start:0x00019CEC end:0x00019CF0
@@ -359,11 +383,23 @@ mo_stub/ft_poke/fn_116_1A570.c:
 mo_stub/ft_poke/fn_116_1A598.c:
 	.text       start:0x0001A598 end:0x0001A5B8
 
+mo_stub/ft_poke/gl_fn_116_1B62C.c:
+	.text       start:0x0001B62C end:0x0001B63C
+
 mo_stub/ft_poke/fn_116_204D4.c:
 	.text       start:0x000204D4 end:0x000204DC
 
 mo_stub/ft_poke/fn_116_213C4.c:
 	.text       start:0x000213C4 end:0x000213CC
+
+mo_stub/ft_poke/gl_fn_116_213D8.c:
+	.text       start:0x000213D8 end:0x000213E4
+
+mo_stub/ft_poke/gl_fn_116_213F8.c:
+	.text       start:0x000213F8 end:0x00021404
+
+mo_stub/ft_poke/gl_fn_116_21404.c:
+	.text       start:0x00021404 end:0x00021410
 
 mo_stub/ft_poke/acc_fn_116_21410.c:
 	.text       start:0x00021410 end:0x00021428
@@ -397,6 +433,9 @@ mo_stub/ft_poke/fn_116_23B94.c:
 
 mo_stub/ft_poke/fn_116_23BA4.c:
 	.text       start:0x00023BA4 end:0x00023BA8
+
+mo_stub/ft_poke/gl_fn_116_23F3C.c:
+	.text       start:0x00023F3C end:0x00023F4C
 
 mo_stub/ft_poke/fn_116_265EC.c:
 	.text       start:0x000265EC end:0x000265F4

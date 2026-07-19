@@ -87,12 +87,37 @@ def target_of(a):
     return SYMS.get((sec, hi[3]))
 
 
+def sign16(v):
+    return v - 0x10000 if v >= 0x8000 else v
+
+
 def classify(a, sz):
+    if sz == 16:
+        w0, w1, w2, w3 = w(a, 0), w(a, 1), w(a, 2), w(a, 3)
+        if w3 != 0x4E800020:
+            return None
+        # lis rX,HA(sym) ; addi rX,rX,LO(sym) ; stw rX,OFF(r3) -> p->field = &sym
+        if (w0 >> 26) != 15 or ((w0 >> 16) & 31) != 0:
+            return None
+        rX = (w0 >> 21) & 31
+        if (w1 >> 26) != 14 or ((w1 >> 21) & 31) != rX or ((w1 >> 16) & 31) != rX:
+            return None
+        if (w2 >> 26) != 36 or ((w2 >> 21) & 31) != rX or ((w2 >> 16) & 31) != 3:
+            return None
+        name = target_of(a)
+        if not name:
+            return None
+        return ("store", name, sign16(w2 & 0xFFFF))
     if sz != 12:
         return None
     w0, w1, w2 = w(a, 0), w(a, 1), w(a, 2)
     if w2 != 0x4E800020:
         return None
+    # addis r3,r3,HI ; addi r3,r3,LO -> return p + (HI<<16)+LO  (offset too big for addi)
+    if (w0 >> 26) == 15 and ((w0 >> 21) & 31) == 3 and ((w0 >> 16) & 31) == 3 \
+            and (w1 >> 26) == 14 and ((w1 >> 21) & 31) == 3 and ((w1 >> 16) & 31) == 3 \
+            and (a + 2) not in R:
+        return ("bigoff", None, (sign16(w0 & 0xFFFF) << 16) + sign16(w1 & 0xFFFF))
     if (w0 >> 26) != 15 or ((w0 >> 16) & 31) != 0:      # lis rX, 0
         return None
     rX = (w0 >> 21) & 31
@@ -102,11 +127,11 @@ def classify(a, sz):
     if (w1 >> 26) == 48 and ((w1 >> 16) & 31) == rX:    # lfs f1, LO(rX)
         if ((w1 >> 21) & 31) != 1:
             return None
-        return ("float", name)
+        return ("float", name, 0)
     if (w1 >> 26) == 14 and ((w1 >> 16) & 31) == rX:    # addi r3, rX, LO
         if ((w1 >> 21) & 31) != 3:
             return None
-        return ("addr", name)
+        return ("addr", name, 0)
     return None
 
 
@@ -136,13 +161,18 @@ for line in open(os.path.join(ROOT, "config/RSBE01_02/rels", module, "symbols.tx
     c = classify(a, sz)
     if not c:
         continue
-    kind, sym = c
+    kind, sym, extra = c
     if sym == n:
         continue
     if kind == "float":
         src = f"extern const float {sym};\n\nfloat {n}(void) {{\n    return {sym};\n}}\n"
-    else:
+    elif kind == "addr":
         src = f"extern char {sym};\n\nvoid* {n}(void) {{\n    return &{sym};\n}}\n"
+    elif kind == "store":
+        src = (f"extern char {sym};\n\nvoid {n}(void* p) {{\n"
+               f"    *(void**)((char*)p + {extra}) = &{sym};\n}}\n")
+    else:
+        src = f"void* {n}(void* p) {{\n    return (char*)p + {extra};\n}}\n"
     add_unit_rel.add(module, f"mo_stub/{module}/gl_{n}.c", a, a + sz, src)
     addrs.append(f"{module}:{a:08X}")
     banked += 1
