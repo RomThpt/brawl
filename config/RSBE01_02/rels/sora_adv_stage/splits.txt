@@ -32,8 +32,14 @@ mo_stub/sora_adv_stage/fn_40_4798.c:
 mo_stub/sora_adv_stage/fn_40_5098.c:
 	.text       start:0x00005098 end:0x000050A0
 
+mo_stub/sora_adv_stage/fd_getInitializeInfo__6GroundFi.c:
+	.text       start:0x00005EE4 end:0x00005EEC
+
 mo_stub/sora_adv_stage/xm_fn_40_6FEC.c:
 	.text       start:0x00006FEC end:0x00006FF4
+
+mo_stub/sora_adv_stage/fd_adventureEventGetItem__6GroundFiP13stTriggerData.c:
+	.text       start:0x00007CA4 end:0x00007CAC
 
 mo_stub/sora_adv_stage/fn_40_8A88.c:
 	.text       start:0x00008A88 end:0x00008A94
