@@ -89,6 +89,15 @@ mo_stub/ft_mario/rm_fn_91_A7B0.c:
 mo_stub/ft_mario/fn_91_A7C8.c:
 	.text       start:0x0000A7C8 end:0x0000A7D0
 
+mo_stub/ft_mario/fm_fn_91_A7F8.c:
+	.text       start:0x0000A7F8 end:0x0000A810
+
+mo_stub/ft_mario/fm_fn_91_A810.c:
+	.text       start:0x0000A810 end:0x0000A828
+
+mo_stub/ft_mario/fm_fn_91_A828.c:
+	.text       start:0x0000A828 end:0x0000A840
+
 mo_stub/ft_mario/pi_fn_91_A840.c:
 	.text       start:0x0000A840 end:0x0000A850
 

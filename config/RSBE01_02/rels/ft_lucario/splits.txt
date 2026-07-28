@@ -95,6 +95,15 @@ mo_stub/ft_lucario/rm_fn_118_A408.c:
 mo_stub/ft_lucario/fn_118_A420.c:
 	.text       start:0x0000A420 end:0x0000A428
 
+mo_stub/ft_lucario/fm_fn_118_A450.c:
+	.text       start:0x0000A450 end:0x0000A468
+
+mo_stub/ft_lucario/fm_fn_118_A468.c:
+	.text       start:0x0000A468 end:0x0000A480
+
+mo_stub/ft_lucario/fm_fn_118_A480.c:
+	.text       start:0x0000A480 end:0x0000A498
+
 mo_stub/ft_lucario/pi_fn_118_A498.c:
 	.text       start:0x0000A498 end:0x0000A4A8
 

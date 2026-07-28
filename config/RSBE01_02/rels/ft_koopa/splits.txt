@@ -86,6 +86,15 @@ mo_stub/ft_koopa/rm_fn_102_91A0.c:
 mo_stub/ft_koopa/fn_102_91B8.c:
 	.text       start:0x000091B8 end:0x000091C0
 
+mo_stub/ft_koopa/fm_fn_102_91E8.c:
+	.text       start:0x000091E8 end:0x00009200
+
+mo_stub/ft_koopa/fm_fn_102_9200.c:
+	.text       start:0x00009200 end:0x00009218
+
+mo_stub/ft_koopa/fm_fn_102_9218.c:
+	.text       start:0x00009218 end:0x00009230
+
 mo_stub/ft_koopa/pi_fn_102_9230.c:
 	.text       start:0x00009230 end:0x00009240
 

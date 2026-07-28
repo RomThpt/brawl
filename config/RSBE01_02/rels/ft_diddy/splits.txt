@@ -89,6 +89,15 @@ mo_stub/ft_diddy/rm_fn_115_A334.c:
 mo_stub/ft_diddy/fn_115_A34C.c:
 	.text       start:0x0000A34C end:0x0000A354
 
+mo_stub/ft_diddy/fm_fn_115_A37C.c:
+	.text       start:0x0000A37C end:0x0000A394
+
+mo_stub/ft_diddy/fm_fn_115_A394.c:
+	.text       start:0x0000A394 end:0x0000A3AC
+
+mo_stub/ft_diddy/fm_fn_115_A3AC.c:
+	.text       start:0x0000A3AC end:0x0000A3C4
+
 mo_stub/ft_diddy/pi_fn_115_A3C4.c:
 	.text       start:0x0000A3C4 end:0x0000A3D4
 

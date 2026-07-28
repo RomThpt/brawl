@@ -83,6 +83,15 @@ mo_stub/ft_captain/rm_fn_100_98AC.c:
 mo_stub/ft_captain/fn_100_98C4.c:
 	.text       start:0x000098C4 end:0x000098CC
 
+mo_stub/ft_captain/fm_fn_100_98F4.c:
+	.text       start:0x000098F4 end:0x0000990C
+
+mo_stub/ft_captain/fm_fn_100_990C.c:
+	.text       start:0x0000990C end:0x00009924
+
+mo_stub/ft_captain/fm_fn_100_9924.c:
+	.text       start:0x00009924 end:0x0000993C
+
 mo_stub/ft_captain/pi_fn_100_993C.c:
 	.text       start:0x0000993C end:0x0000994C
 

@@ -95,6 +95,15 @@ mo_stub/ft_iceclimber/rm_fn_105_DCDC.c:
 mo_stub/ft_iceclimber/fn_105_DCF4.c:
 	.text       start:0x0000DCF4 end:0x0000DCFC
 
+mo_stub/ft_iceclimber/fm_fn_105_DD24.c:
+	.text       start:0x0000DD24 end:0x0000DD3C
+
+mo_stub/ft_iceclimber/fm_fn_105_DD3C.c:
+	.text       start:0x0000DD3C end:0x0000DD54
+
+mo_stub/ft_iceclimber/fm_fn_105_DD54.c:
+	.text       start:0x0000DD54 end:0x0000DD6C
+
 mo_stub/ft_iceclimber/pi_fn_105_DD6C.c:
 	.text       start:0x0000DD6C end:0x0000DD7C
 

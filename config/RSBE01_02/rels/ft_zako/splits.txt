@@ -86,6 +86,15 @@ mo_stub/ft_zako/rm_fn_126_753C.c:
 mo_stub/ft_zako/fn_126_7554.c:
 	.text       start:0x00007554 end:0x0000755C
 
+mo_stub/ft_zako/fm_fn_126_7584.c:
+	.text       start:0x00007584 end:0x0000759C
+
+mo_stub/ft_zako/fm_fn_126_759C.c:
+	.text       start:0x0000759C end:0x000075B4
+
+mo_stub/ft_zako/fm_fn_126_75B4.c:
+	.text       start:0x000075B4 end:0x000075CC
+
 mo_stub/ft_zako/pi_fn_126_75CC.c:
 	.text       start:0x000075CC end:0x000075DC
 

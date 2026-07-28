@@ -83,6 +83,15 @@ mo_stub/ft_donkey/rm_fn_92_9A18.c:
 mo_stub/ft_donkey/fn_92_9A30.c:
 	.text       start:0x00009A30 end:0x00009A38
 
+mo_stub/ft_donkey/fm_fn_92_9A60.c:
+	.text       start:0x00009A60 end:0x00009A78
+
+mo_stub/ft_donkey/fm_fn_92_9A78.c:
+	.text       start:0x00009A78 end:0x00009A90
+
+mo_stub/ft_donkey/fm_fn_92_9A90.c:
+	.text       start:0x00009A90 end:0x00009AA8
+
 mo_stub/ft_donkey/pi_fn_92_9AA8.c:
 	.text       start:0x00009AA8 end:0x00009AB8
 

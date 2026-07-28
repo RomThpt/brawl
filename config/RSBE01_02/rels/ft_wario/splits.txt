@@ -83,6 +83,15 @@ mo_stub/ft_wario/rm_fn_110_9890.c:
 mo_stub/ft_wario/fn_110_98A8.c:
 	.text       start:0x000098A8 end:0x000098B0
 
+mo_stub/ft_wario/fm_fn_110_98D8.c:
+	.text       start:0x000098D8 end:0x000098F0
+
+mo_stub/ft_wario/fm_fn_110_98F0.c:
+	.text       start:0x000098F0 end:0x00009908
+
+mo_stub/ft_wario/fm_fn_110_9908.c:
+	.text       start:0x00009908 end:0x00009920
+
 mo_stub/ft_wario/pi_fn_110_9920.c:
 	.text       start:0x00009920 end:0x00009930
 

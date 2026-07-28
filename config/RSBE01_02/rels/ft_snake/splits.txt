@@ -92,6 +92,15 @@ mo_stub/ft_snake/rm_fn_122_F70C.c:
 mo_stub/ft_snake/fn_122_F724.c:
 	.text       start:0x0000F724 end:0x0000F72C
 
+mo_stub/ft_snake/fm_fn_122_F754.c:
+	.text       start:0x0000F754 end:0x0000F76C
+
+mo_stub/ft_snake/fm_fn_122_F76C.c:
+	.text       start:0x0000F76C end:0x0000F784
+
+mo_stub/ft_snake/fm_fn_122_F784.c:
+	.text       start:0x0000F784 end:0x0000F79C
+
 mo_stub/ft_snake/pi_fn_122_F79C.c:
 	.text       start:0x0000F79C end:0x0000F7AC
 

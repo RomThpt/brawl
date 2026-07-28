@@ -86,6 +86,15 @@ mo_stub/ft_zelda/rm_fn_104_A9F8.c:
 mo_stub/ft_zelda/fn_104_AA10.c:
 	.text       start:0x0000AA10 end:0x0000AA18
 
+mo_stub/ft_zelda/fm_fn_104_AA40.c:
+	.text       start:0x0000AA40 end:0x0000AA58
+
+mo_stub/ft_zelda/fm_fn_104_AA58.c:
+	.text       start:0x0000AA58 end:0x0000AA70
+
+mo_stub/ft_zelda/fm_fn_104_AA70.c:
+	.text       start:0x0000AA70 end:0x0000AA88
+
 mo_stub/ft_zelda/pi_fn_104_AA88.c:
 	.text       start:0x0000AA88 end:0x0000AA98
 
