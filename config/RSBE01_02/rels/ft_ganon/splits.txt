@@ -80,8 +80,20 @@ mo_stub/ft_ganon/fn_109_9150.c:
 mo_stub/ft_ganon/fn_109_922C.c:
 	.text       start:0x0000922C end:0x00009234
 
+mo_stub/ft_ganon/pi_fn_109_92A4.c:
+	.text       start:0x000092A4 end:0x000092B4
+
+mo_stub/ft_ganon/pi_fn_109_92B4.c:
+	.text       start:0x000092B4 end:0x000092C4
+
 mo_stub/ft_ganon/fn_109_92C4.c:
 	.text       start:0x000092C4 end:0x000092CC
+
+mo_stub/ft_ganon/pi_fn_109_9364.c:
+	.text       start:0x00009364 end:0x00009374
+
+mo_stub/ft_ganon/pi_fn_109_9374.c:
+	.text       start:0x00009374 end:0x00009384
 
 mo_stub/ft_ganon/fn_109_9384.c:
 	.text       start:0x00009384 end:0x0000938C

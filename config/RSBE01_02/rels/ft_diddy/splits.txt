@@ -83,8 +83,20 @@ mo_stub/ft_diddy/fn_115_A270.c:
 mo_stub/ft_diddy/fn_115_A34C.c:
 	.text       start:0x0000A34C end:0x0000A354
 
+mo_stub/ft_diddy/pi_fn_115_A3C4.c:
+	.text       start:0x0000A3C4 end:0x0000A3D4
+
+mo_stub/ft_diddy/pi_fn_115_A3D4.c:
+	.text       start:0x0000A3D4 end:0x0000A3E4
+
 mo_stub/ft_diddy/fn_115_A3E4.c:
 	.text       start:0x0000A3E4 end:0x0000A3EC
+
+mo_stub/ft_diddy/pi_fn_115_A484.c:
+	.text       start:0x0000A484 end:0x0000A494
+
+mo_stub/ft_diddy/pi_fn_115_A494.c:
+	.text       start:0x0000A494 end:0x0000A4A4
 
 mo_stub/ft_diddy/fn_115_A4A4.c:
 	.text       start:0x0000A4A4 end:0x0000A4AC

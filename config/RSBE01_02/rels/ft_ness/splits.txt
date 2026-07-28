@@ -77,8 +77,20 @@ mo_stub/ft_ness/fn_101_D2E8.c:
 mo_stub/ft_ness/fn_101_D3C4.c:
 	.text       start:0x0000D3C4 end:0x0000D3CC
 
+mo_stub/ft_ness/pi_fn_101_D43C.c:
+	.text       start:0x0000D43C end:0x0000D44C
+
+mo_stub/ft_ness/pi_fn_101_D44C.c:
+	.text       start:0x0000D44C end:0x0000D45C
+
 mo_stub/ft_ness/fn_101_D45C.c:
 	.text       start:0x0000D45C end:0x0000D464
+
+mo_stub/ft_ness/pi_fn_101_D4FC.c:
+	.text       start:0x0000D4FC end:0x0000D50C
+
+mo_stub/ft_ness/pi_fn_101_D50C.c:
+	.text       start:0x0000D50C end:0x0000D51C
 
 mo_stub/ft_ness/fn_101_D51C.c:
 	.text       start:0x0000D51C end:0x0000D524

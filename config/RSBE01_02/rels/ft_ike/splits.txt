@@ -77,8 +77,20 @@ mo_stub/ft_ike/fn_119_9850.c:
 mo_stub/ft_ike/fn_119_993C.c:
 	.text       start:0x0000993C end:0x00009944
 
+mo_stub/ft_ike/pi_fn_119_99B4.c:
+	.text       start:0x000099B4 end:0x000099C4
+
+mo_stub/ft_ike/pi_fn_119_99C4.c:
+	.text       start:0x000099C4 end:0x000099D4
+
 mo_stub/ft_ike/fn_119_99D4.c:
 	.text       start:0x000099D4 end:0x000099DC
+
+mo_stub/ft_ike/pi_fn_119_9A74.c:
+	.text       start:0x00009A74 end:0x00009A84
+
+mo_stub/ft_ike/pi_fn_119_9A84.c:
+	.text       start:0x00009A84 end:0x00009A94
 
 mo_stub/ft_ike/fn_119_9A94.c:
 	.text       start:0x00009A94 end:0x00009A9C

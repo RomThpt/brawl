@@ -128,6 +128,12 @@ mo_stub/st_donkey/fn_50_5A38.c:
 mo_stub/st_donkey/fn_50_5A88.c:
 	.text       start:0x00005A88 end:0x00005A8C
 
+mo_stub/st_donkey/pi_fn_50_5B54.c:
+	.text       start:0x00005B54 end:0x00005B64
+
+mo_stub/st_donkey/pi_fn_50_5B64.c:
+	.text       start:0x00005B64 end:0x00005B74
+
 mo_stub/st_donkey/dt_fn_50_5B74.c:
 	.text       start:0x00005B74 end:0x00005BB4
 

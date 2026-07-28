@@ -521,6 +521,12 @@ mo_stub/st_norfair/xm_fn_54_B324.c:
 mo_stub/st_norfair/xm_fn_54_B32C.c:
 	.text       start:0x0000B32C end:0x0000B334
 
+mo_stub/st_norfair/pi_fn_54_E3FC.c:
+	.text       start:0x0000E3FC end:0x0000E40C
+
+mo_stub/st_norfair/pi_fn_54_E40C.c:
+	.text       start:0x0000E40C end:0x0000E41C
+
 mo_stub/st_norfair/bf_fn_54_E484.c:
 	.text       start:0x0000E484 end:0x0000E490
 
@@ -565,6 +571,12 @@ mo_stub/st_norfair/fn_54_E564.c:
 
 mo_stub/st_norfair/fn_54_EFC8.c:
 	.text       start:0x0000EFC8 end:0x0000EFD0
+
+mo_stub/st_norfair/pi_fn_54_10090.c:
+	.text       start:0x00010090 end:0x000100A0
+
+mo_stub/st_norfair/pi_fn_54_100A0.c:
+	.text       start:0x000100A0 end:0x000100B0
 
 mo_stub/st_norfair/bf_fn_54_10118.c:
 	.text       start:0x00010118 end:0x00010124

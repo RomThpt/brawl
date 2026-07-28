@@ -722,6 +722,12 @@ mo_stub/st_jungle/fn_51_11900.c:
 mo_stub/st_jungle/fn_51_16074.c:
 	.text       start:0x00016074 end:0x00016078
 
+mo_stub/st_jungle/pi_fn_51_1667C.c:
+	.text       start:0x0001667C end:0x0001668C
+
+mo_stub/st_jungle/pi_fn_51_1668C.c:
+	.text       start:0x0001668C end:0x0001669C
+
 mo_stub/st_jungle/fn_51_1669C.c:
 	.text       start:0x0001669C end:0x000166A4
 

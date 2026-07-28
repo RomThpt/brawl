@@ -77,8 +77,20 @@ mo_stub/ft_pit/fn_112_A920.c:
 mo_stub/ft_pit/fn_112_A9FC.c:
 	.text       start:0x0000A9FC end:0x0000AA04
 
+mo_stub/ft_pit/pi_fn_112_AA74.c:
+	.text       start:0x0000AA74 end:0x0000AA84
+
+mo_stub/ft_pit/pi_fn_112_AA84.c:
+	.text       start:0x0000AA84 end:0x0000AA94
+
 mo_stub/ft_pit/fn_112_AA94.c:
 	.text       start:0x0000AA94 end:0x0000AA9C
+
+mo_stub/ft_pit/pi_fn_112_AB34.c:
+	.text       start:0x0000AB34 end:0x0000AB44
+
+mo_stub/ft_pit/pi_fn_112_AB44.c:
+	.text       start:0x0000AB44 end:0x0000AB54
 
 mo_stub/ft_pit/fn_112_AB54.c:
 	.text       start:0x0000AB54 end:0x0000AB5C
