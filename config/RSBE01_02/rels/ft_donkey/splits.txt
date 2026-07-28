@@ -101,6 +101,12 @@ mo_stub/ft_donkey/pi_fn_92_9AB8.c:
 mo_stub/ft_donkey/fn_92_9AC8.c:
 	.text       start:0x00009AC8 end:0x00009AD0
 
+mo_stub/ft_donkey/ii_fn_92_9AD0.c:
+	.text       start:0x00009AD0 end:0x00009AE8
+
+mo_stub/ft_donkey/ii_fn_92_9AE8.c:
+	.text       start:0x00009AE8 end:0x00009B00
+
 mo_stub/ft_donkey/rm_fn_92_9B20.c:
 	.text       start:0x00009B20 end:0x00009B38
 

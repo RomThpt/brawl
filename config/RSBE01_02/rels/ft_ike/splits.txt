@@ -101,6 +101,12 @@ mo_stub/ft_ike/pi_fn_119_99C4.c:
 mo_stub/ft_ike/fn_119_99D4.c:
 	.text       start:0x000099D4 end:0x000099DC
 
+mo_stub/ft_ike/ii_fn_119_99DC.c:
+	.text       start:0x000099DC end:0x000099F4
+
+mo_stub/ft_ike/ii_fn_119_99F4.c:
+	.text       start:0x000099F4 end:0x00009A0C
+
 mo_stub/ft_ike/rm_fn_119_9A2C.c:
 	.text       start:0x00009A2C end:0x00009A44
 

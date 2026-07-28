@@ -104,6 +104,12 @@ mo_stub/ft_zelda/pi_fn_104_AA98.c:
 mo_stub/ft_zelda/fn_104_AAA8.c:
 	.text       start:0x0000AAA8 end:0x0000AAB0
 
+mo_stub/ft_zelda/ii_fn_104_AAB0.c:
+	.text       start:0x0000AAB0 end:0x0000AAC8
+
+mo_stub/ft_zelda/ii_fn_104_AAC8.c:
+	.text       start:0x0000AAC8 end:0x0000AAE0
+
 mo_stub/ft_zelda/rm_fn_104_AB00.c:
 	.text       start:0x0000AB00 end:0x0000AB18
 

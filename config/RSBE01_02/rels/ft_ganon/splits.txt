@@ -104,6 +104,12 @@ mo_stub/ft_ganon/pi_fn_109_92B4.c:
 mo_stub/ft_ganon/fn_109_92C4.c:
 	.text       start:0x000092C4 end:0x000092CC
 
+mo_stub/ft_ganon/ii_fn_109_92CC.c:
+	.text       start:0x000092CC end:0x000092E4
+
+mo_stub/ft_ganon/ii_fn_109_92E4.c:
+	.text       start:0x000092E4 end:0x000092FC
+
 mo_stub/ft_ganon/rm_fn_109_931C.c:
 	.text       start:0x0000931C end:0x00009334
 

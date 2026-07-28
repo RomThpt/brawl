@@ -113,6 +113,12 @@ mo_stub/ft_iceclimber/pi_fn_105_DD7C.c:
 mo_stub/ft_iceclimber/fn_105_DD8C.c:
 	.text       start:0x0000DD8C end:0x0000DD94
 
+mo_stub/ft_iceclimber/ii_fn_105_DD94.c:
+	.text       start:0x0000DD94 end:0x0000DDAC
+
+mo_stub/ft_iceclimber/ii_fn_105_DDAC.c:
+	.text       start:0x0000DDAC end:0x0000DDC4
+
 mo_stub/ft_iceclimber/rm_fn_105_DDE4.c:
 	.text       start:0x0000DDE4 end:0x0000DDFC
 

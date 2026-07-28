@@ -107,6 +107,12 @@ mo_stub/ft_wolf/pi_fn_125_B2F8.c:
 mo_stub/ft_wolf/fn_125_B308.c:
 	.text       start:0x0000B308 end:0x0000B310
 
+mo_stub/ft_wolf/ii_fn_125_B310.c:
+	.text       start:0x0000B310 end:0x0000B328
+
+mo_stub/ft_wolf/ii_fn_125_B328.c:
+	.text       start:0x0000B328 end:0x0000B340
+
 mo_stub/ft_wolf/rm_fn_125_B360.c:
 	.text       start:0x0000B360 end:0x0000B378
 
