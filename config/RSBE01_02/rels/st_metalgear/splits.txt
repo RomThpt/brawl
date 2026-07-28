@@ -488,6 +488,12 @@ mo_stub/st_metalgear/xm_fn_71_DC68.c:
 mo_stub/st_metalgear/dt_fn_71_EDC8.c:
 	.text       start:0x0000EDC8 end:0x0000EE08
 
+mo_stub/st_metalgear/pi_fn_71_F028.c:
+	.text       start:0x0000F028 end:0x0000F038
+
+mo_stub/st_metalgear/pi_fn_71_F038.c:
+	.text       start:0x0000F038 end:0x0000F048
+
 mo_stub/st_metalgear/dt_fn_71_F048.c:
 	.text       start:0x0000F048 end:0x0000F088
 

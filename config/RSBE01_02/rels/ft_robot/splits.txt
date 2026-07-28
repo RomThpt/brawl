@@ -83,8 +83,20 @@ mo_stub/ft_robot/fn_120_9980.c:
 mo_stub/ft_robot/fn_120_9A5C.c:
 	.text       start:0x00009A5C end:0x00009A64
 
+mo_stub/ft_robot/pi_fn_120_9AD4.c:
+	.text       start:0x00009AD4 end:0x00009AE4
+
+mo_stub/ft_robot/pi_fn_120_9AE4.c:
+	.text       start:0x00009AE4 end:0x00009AF4
+
 mo_stub/ft_robot/fn_120_9AF4.c:
 	.text       start:0x00009AF4 end:0x00009AFC
+
+mo_stub/ft_robot/pi_fn_120_9B94.c:
+	.text       start:0x00009B94 end:0x00009BA4
+
+mo_stub/ft_robot/pi_fn_120_9BA4.c:
+	.text       start:0x00009BA4 end:0x00009BB4
 
 mo_stub/ft_robot/fn_120_9BB4.c:
 	.text       start:0x00009BB4 end:0x00009BBC

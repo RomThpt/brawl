@@ -167,6 +167,12 @@ mo_stub/st_fzero/fn_61_9A2C.c:
 mo_stub/st_fzero/dt_fn_61_9A30.c:
 	.text       start:0x00009A30 end:0x00009A70
 
+mo_stub/st_fzero/pi_fn_61_9B38.c:
+	.text       start:0x00009B38 end:0x00009B48
+
+mo_stub/st_fzero/pi_fn_61_9B48.c:
+	.text       start:0x00009B48 end:0x00009B58
+
 mo_stub/st_fzero/dt_fn_61_9B58.c:
 	.text       start:0x00009B58 end:0x00009B98
 
@@ -373,6 +379,12 @@ mo_stub/st_fzero/xm_fn_61_CAE0.c:
 
 mo_stub/st_fzero/xm_fn_61_CAE8.c:
 	.text       start:0x0000CAE8 end:0x0000CAF0
+
+mo_stub/st_fzero/pi_fn_61_E680.c:
+	.text       start:0x0000E680 end:0x0000E690
+
+mo_stub/st_fzero/pi_fn_61_E690.c:
+	.text       start:0x0000E690 end:0x0000E6A0
 
 mo_stub/st_fzero/bf_fn_61_E708.c:
 	.text       start:0x0000E708 end:0x0000E714

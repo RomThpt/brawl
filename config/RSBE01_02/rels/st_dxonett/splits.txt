@@ -149,6 +149,12 @@ mo_stub/st_dxonett/fn_78_4A8C.c:
 mo_stub/st_dxonett/dt_fn_78_4A90.c:
 	.text       start:0x00004A90 end:0x00004AD0
 
+mo_stub/st_dxonett/pi_fn_78_4B98.c:
+	.text       start:0x00004B98 end:0x00004BA8
+
+mo_stub/st_dxonett/pi_fn_78_4BA8.c:
+	.text       start:0x00004BA8 end:0x00004BB8
+
 mo_stub/st_dxonett/dt_fn_78_4BB8.c:
 	.text       start:0x00004BB8 end:0x00004BF8
 

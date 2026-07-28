@@ -158,6 +158,12 @@ mo_stub/st_pirates/fn_52_6C68.c:
 mo_stub/st_pirates/fn_52_6CB8.c:
 	.text       start:0x00006CB8 end:0x00006CBC
 
+mo_stub/st_pirates/pi_fn_52_6D84.c:
+	.text       start:0x00006D84 end:0x00006D94
+
+mo_stub/st_pirates/pi_fn_52_6D94.c:
+	.text       start:0x00006D94 end:0x00006DA4
+
 mo_stub/st_pirates/dt_fn_52_6DA4.c:
 	.text       start:0x00006DA4 end:0x00006DE4
 
@@ -322,6 +328,12 @@ mo_stub/st_pirates/fn_52_128D8.c:
 
 mo_stub/st_pirates/fn_52_12D68.c:
 	.text       start:0x00012D68 end:0x00012D6C
+
+mo_stub/st_pirates/pi_fn_52_13648.c:
+	.text       start:0x00013648 end:0x00013658
+
+mo_stub/st_pirates/pi_fn_52_13658.c:
+	.text       start:0x00013658 end:0x00013668
 
 mo_stub/st_pirates/fn_52_13668.c:
 	.text       start:0x00013668 end:0x00013670

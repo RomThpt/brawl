@@ -170,6 +170,12 @@ mo_stub/st_dxgreens/fn_79_3F88.c:
 mo_stub/st_dxgreens/dt_fn_79_3F8C.c:
 	.text       start:0x00003F8C end:0x00003FCC
 
+mo_stub/st_dxgreens/pi_fn_79_4094.c:
+	.text       start:0x00004094 end:0x000040A4
+
+mo_stub/st_dxgreens/pi_fn_79_40A4.c:
+	.text       start:0x000040A4 end:0x000040B4
+
 mo_stub/st_dxgreens/dt_fn_79_4210.c:
 	.text       start:0x00004210 end:0x00004250
 

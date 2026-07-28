@@ -25338,6 +25338,9 @@ mo_stub/sora_melee/xm_fn_27_264C70.c:
 mo_stub/sora_melee/xm_fn_27_264C78.c:
 	.text       start:0x00264C78 end:0x00264C80
 
+mo_stub/sora_melee/pi_fn_27_2655FC.c:
+	.text       start:0x002655FC end:0x0026560C
+
 mo_stub/sora_melee/dt_fn_27_2689A8.c:
 	.text       start:0x002689A8 end:0x002689E8
 

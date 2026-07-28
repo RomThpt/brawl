@@ -119,8 +119,20 @@ mo_stub/ft_pikmin/fn_113_CBB0.c:
 mo_stub/ft_pikmin/fn_113_CC8C.c:
 	.text       start:0x0000CC8C end:0x0000CC94
 
+mo_stub/ft_pikmin/pi_fn_113_CD04.c:
+	.text       start:0x0000CD04 end:0x0000CD14
+
+mo_stub/ft_pikmin/pi_fn_113_CD14.c:
+	.text       start:0x0000CD14 end:0x0000CD24
+
 mo_stub/ft_pikmin/fn_113_CD24.c:
 	.text       start:0x0000CD24 end:0x0000CD2C
+
+mo_stub/ft_pikmin/pi_fn_113_CDC4.c:
+	.text       start:0x0000CDC4 end:0x0000CDD4
+
+mo_stub/ft_pikmin/pi_fn_113_CDD4.c:
+	.text       start:0x0000CDD4 end:0x0000CDE4
 
 mo_stub/ft_pikmin/fn_113_CDE4.c:
 	.text       start:0x0000CDE4 end:0x0000CDEC

@@ -259,3 +259,21 @@ Sur 4492 candidats, 2278 ont une cible déclarable en C. Les autres visent des
 méthodes de templates C++ dont le nom mangé contient `<` `>` : le générateur les
 écarte via un test d'identifiant valide plutôt que de produire du code qui ne
 compile pas.
+
+## Destructeur supprimant, variante `short flag` (1166x, 0.68% code) — TOUJOURS BLOQUÉ
+
+Forme (64o) : prologue complet (stwu ; mflr ; stw r0 ; stw r31 ; mr r31,r3) PUIS
+`cmpwi r3,0 ; beq` PUIS `extsh. r0,r4 ; ble` PUIS `bl operator delete` PUIS
+restauration et `mr r3,r31` (return this).
+
+Diffère du destructeur trivial déjà matché sur DEUX points : le test du flag est
+`extsh. r0,r4` (flag traité comme short) au lieu de `cmpwi r4,0`, et surtout le
+`cmpwi r3,0` (test de this) est placé APRÈS `mr r31,r3`, pas hoisté en tête.
+
+Banc de test rapide `tools/trycc.sh <f.c>` (compile isolée + désassemblage dtk,
+~2s). Reproduit `extsh.` avec `if ((short)flag > 0)` sur un flag `int` ; mais
+MWCC hoiste TOUJOURS le `cmpwi r3,0` juste après `mflr` (position 2), jamais
+après `mr r31,r3` (position 5). Testé : if imbriqué, `&&` combiné, early-return,
+variable short intermédiaire, unsigned short, void*/char* casts — tous placent
+le cmpwi en position 2. Le layout de la cible est celui d'un destructeur
+SYNTHÉTISÉ par le front-end C++, non reproductible depuis du C ordinaire.

@@ -77,8 +77,20 @@ mo_stub/ft_luigi/fn_99_89EC.c:
 mo_stub/ft_luigi/fn_99_8AC8.c:
 	.text       start:0x00008AC8 end:0x00008AD0
 
+mo_stub/ft_luigi/pi_fn_99_8B40.c:
+	.text       start:0x00008B40 end:0x00008B50
+
+mo_stub/ft_luigi/pi_fn_99_8B50.c:
+	.text       start:0x00008B50 end:0x00008B60
+
 mo_stub/ft_luigi/fn_99_8B60.c:
 	.text       start:0x00008B60 end:0x00008B68
+
+mo_stub/ft_luigi/pi_fn_99_8C00.c:
+	.text       start:0x00008C00 end:0x00008C10
+
+mo_stub/ft_luigi/pi_fn_99_8C10.c:
+	.text       start:0x00008C10 end:0x00008C20
 
 mo_stub/ft_luigi/fn_99_8C20.c:
 	.text       start:0x00008C20 end:0x00008C28

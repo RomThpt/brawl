@@ -80,8 +80,20 @@ mo_stub/ft_zako/fn_126_7478.c:
 mo_stub/ft_zako/fn_126_7554.c:
 	.text       start:0x00007554 end:0x0000755C
 
+mo_stub/ft_zako/pi_fn_126_75CC.c:
+	.text       start:0x000075CC end:0x000075DC
+
+mo_stub/ft_zako/pi_fn_126_75DC.c:
+	.text       start:0x000075DC end:0x000075EC
+
 mo_stub/ft_zako/fn_126_75EC.c:
 	.text       start:0x000075EC end:0x000075F4
+
+mo_stub/ft_zako/pi_fn_126_768C.c:
+	.text       start:0x0000768C end:0x0000769C
+
+mo_stub/ft_zako/pi_fn_126_769C.c:
+	.text       start:0x0000769C end:0x000076AC
 
 mo_stub/ft_zako/fn_126_76AC.c:
 	.text       start:0x000076AC end:0x000076B4

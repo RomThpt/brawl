@@ -227,6 +227,9 @@ mo_stub/st_mariopast/xm_fn_48_78D8.c:
 mo_stub/st_mariopast/xm_fn_48_78E0.c:
 	.text       start:0x000078E0 end:0x000078E8
 
+mo_stub/st_mariopast/pi_fn_48_7CB8.c:
+	.text       start:0x00007CB8 end:0x00007CC8
+
 mo_stub/st_mariopast/bf_fn_48_AE5C.c:
 	.text       start:0x0000AE5C end:0x0000AE68
 

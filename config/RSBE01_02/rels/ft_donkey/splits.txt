@@ -77,8 +77,20 @@ mo_stub/ft_donkey/fn_92_9954.c:
 mo_stub/ft_donkey/fn_92_9A30.c:
 	.text       start:0x00009A30 end:0x00009A38
 
+mo_stub/ft_donkey/pi_fn_92_9AA8.c:
+	.text       start:0x00009AA8 end:0x00009AB8
+
+mo_stub/ft_donkey/pi_fn_92_9AB8.c:
+	.text       start:0x00009AB8 end:0x00009AC8
+
 mo_stub/ft_donkey/fn_92_9AC8.c:
 	.text       start:0x00009AC8 end:0x00009AD0
+
+mo_stub/ft_donkey/pi_fn_92_9B68.c:
+	.text       start:0x00009B68 end:0x00009B78
+
+mo_stub/ft_donkey/pi_fn_92_9B78.c:
+	.text       start:0x00009B78 end:0x00009B88
 
 mo_stub/ft_donkey/fn_92_9B88.c:
 	.text       start:0x00009B88 end:0x00009B90

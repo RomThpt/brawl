@@ -83,8 +83,20 @@ mo_stub/ft_metaknight/fn_111_87CC.c:
 mo_stub/ft_metaknight/fn_111_88A8.c:
 	.text       start:0x000088A8 end:0x000088B0
 
+mo_stub/ft_metaknight/pi_fn_111_8920.c:
+	.text       start:0x00008920 end:0x00008930
+
+mo_stub/ft_metaknight/pi_fn_111_8930.c:
+	.text       start:0x00008930 end:0x00008940
+
 mo_stub/ft_metaknight/fn_111_8940.c:
 	.text       start:0x00008940 end:0x00008948
+
+mo_stub/ft_metaknight/pi_fn_111_89E0.c:
+	.text       start:0x000089E0 end:0x000089F0
+
+mo_stub/ft_metaknight/pi_fn_111_89F0.c:
+	.text       start:0x000089F0 end:0x00008A00
 
 mo_stub/ft_metaknight/fn_111_8A00.c:
 	.text       start:0x00008A00 end:0x00008A08
