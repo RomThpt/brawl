@@ -29,7 +29,7 @@ for line in open(os.path.join(ROOT, "config/RSBE01_02/splits.txt")):
 isdone = lambda a: any(s <= a < e for s, e in done)
 
 # bad-list: functions that break the DOL when carved (skip them)
-BADFILE = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/bad_funcs.txt"
+BADFILE = os.path.join(ROOT, ".bankstate", "bad_funcs.txt")
 bad = set()
 if os.path.exists(BADFILE):
     for line in open(BADFILE):
@@ -173,6 +173,6 @@ for g in groups:
     add_unit.add(path, start, end, src)
     print(f"unit {path} [0x{start:08X}-0x{end:08X}] {len(g)} fn")
     banked += len(g)
-with open("/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/last_batch.txt", "w") as f:
+with open(os.path.join(ROOT, ".bankstate", "last_batch.txt"), "w") as f:
     f.write("\n".join("%08X" % a for a in banked_addrs) + "\n")
 print(f"TOTAL banked units: {len(groups)} covering {banked} functions")

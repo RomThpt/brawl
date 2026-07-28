@@ -7,8 +7,16 @@ where target lives in another module (or the DOL). The branch carries a REL24
 relocation giving the target module id and offset; resolving that against the
 target's symbol table yields the name.
 
+A branch staying inside the module carries no relocation, since the displacement
+is already correct in the section. Those are resolved by adding the (sign
+extended) displacement to the branch address and looking the result up in the
+module's own symbol table; a target that is not exactly the start of a known
+function is rejected rather than guessed at. These are typically this-adjusting
+thunks emitted for multiple inheritance.
+
 Two things make this safe to automate:
-  - the callee is read from the relocation, never guessed;
+  - the callee is read from the relocation (or from an exact local symbol match),
+    never guessed;
   - names that are not valid C identifiers are skipped. Many targets are C++
     template methods whose mangled names contain angle brackets, and those simply
     cannot be declared from a C file.
@@ -23,8 +31,8 @@ import add_unit_rel
 ROOT = add_unit_rel.ROOT
 module = sys.argv[1]
 maxf = int(sys.argv[2]) if len(sys.argv) > 2 else 5000
-LAST = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/last_rel.txt"
-BADFILE = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/bad_rel.txt"
+LAST = os.path.join(ROOT, ".bankstate", "last_rel.txt")
+BADFILE = os.path.join(ROOT, ".bankstate", "bad_rel.txt")
 IDENT = re.compile(r'^[A-Za-z_]\w*$')
 
 # module id -> name, read from each REL header
@@ -96,16 +104,23 @@ def classify(a, sz):
     if (w1 >> 26) != 18 or (w1 & 3):             # plain b, no link, no absolute
         return None
     r = R.get(a + 4)
-    if not r or r[0] != 10:                      # REL24
-        return None
-    _, mid, sec, add = r
-    if mid == 0:                                 # into the DOL
-        name = text_symbols(None).get(add)
+    if r is None:
+        # branche locale: pas de relocation, le déplacement est déjà bon
+        d = w1 & 0x03FFFFFC
+        if d >= 0x02000000:
+            d -= 0x04000000
+        name = text_symbols(module).get(a + 4 + d)
+    elif r[0] == 10:                             # REL24
+        _, mid, sec, add = r
+        if mid == 0:                             # into the DOL
+            name = text_symbols(None).get(add)
+        else:
+            mod_name = ID2MOD.get(mid)
+            if mod_name is None or mod_name == module:
+                return None
+            name = text_symbols(mod_name).get(add)
     else:
-        mod_name = ID2MOD.get(mid)
-        if mod_name is None or mod_name == module:
-            return None
-        name = text_symbols(mod_name).get(add)
+        return None
     if not name or not IDENT.match(name):        # C++ template manglings, etc.
         return None
     v = w0 & 0xFFFF

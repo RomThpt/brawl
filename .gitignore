@@ -33,3 +33,7 @@ compile_commands.json
 # Miscellaneous
 /*.txt
 *.exe
+
+# état local des générateurs de matching (non versionné)
+.bankstate/
+orig/RSBE01_02/game.iso

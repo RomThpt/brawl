@@ -9,7 +9,7 @@ Usage: python3 tools/disasm.py <module> <hex_addr> [size]
 """
 import struct, sys, os, re
 
-ROOT = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/brawl"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # primary-opcode instructions: prim -> (mnemonic, form)
 PRIM = {

@@ -18,8 +18,8 @@ import add_unit_rel
 ROOT = add_unit_rel.ROOT
 module = sys.argv[1]
 maxf = int(sys.argv[2]) if len(sys.argv) > 2 else 5000
-LAST = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/last_rel.txt"
-BADFILE = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/bad_rel.txt"
+LAST = os.path.join(ROOT, ".bankstate", "last_rel.txt")
+BADFILE = os.path.join(ROOT, ".bankstate", "bad_rel.txt")
 IDENT = re.compile(r'^[A-Za-z_]\w*$')
 
 # Modules dont le .text généré est correct mais dont le REL diffère malgré tout

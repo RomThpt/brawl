@@ -19,7 +19,7 @@ The candidates module must define:
 """
 import json, subprocess, sys, importlib.util, os, itertools
 
-ROOT = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/brawl"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CLI = os.path.join(ROOT, "build/tools/objdiff-cli")
 
 

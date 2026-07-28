@@ -12,7 +12,7 @@ Usage: python3 tools/rank_families.py [min_size] [max_relocs] [top_n]
 import struct, re, os, sys, glob, hashlib
 from collections import defaultdict
 
-ROOT = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/brawl"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MIN_SIZE = int(sys.argv[1]) if len(sys.argv) > 1 else 100
 MAX_REL = int(sys.argv[2]) if len(sys.argv) > 2 else 999
 TOP_N = int(sys.argv[3]) if len(sys.argv) > 3 else 25

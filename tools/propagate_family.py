@@ -10,7 +10,7 @@ Usage: python3 tools/propagate_family.py <ref_module> <ref_hex_addr> <size> <tem
 """
 import struct, re, os, sys, glob
 
-ROOT = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/brawl"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
 import add_unit_rel
 

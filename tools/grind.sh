@@ -1,9 +1,10 @@
 #!/bin/bash
 # Safe autonomous grind: bank small batches of trivial functions, verify the DOL
 # sha1 (127 files OK) before committing; on failure, blacklist the batch and revert.
-cd /private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/brawl || exit 1
-BAD=/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/bad_funcs.txt
-LAST=/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/last_batch.txt
+cd "$(dirname "$0")/.." || exit 1
+ROOT=$(pwd)
+BAD="$ROOT/.bankstate/bad_funcs.txt"
+LAST="$ROOT/.bankstate/last_batch.txt"
 CYCLES=${1:-15}
 ok=0; skipped=0
 for i in $(seq 1 "$CYCLES"); do

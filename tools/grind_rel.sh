@@ -2,9 +2,10 @@
 # Safe REL grind: for each module, bank small verified batches of trivial functions.
 # On a batch build failure, BISECT: revert, then retry the same functions one at a time
 # (batch=1) so only the truly-bad function is blacklisted and the good ones are recovered.
-cd /private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/brawl || exit 1
-BAD=/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/bad_rel.txt
-LAST=/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/last_rel.txt
+cd "$(dirname "$0")/.." || exit 1
+ROOT=$(pwd)
+BAD="$ROOT/.bankstate/bad_rel.txt"
+LAST="$ROOT/.bankstate/last_rel.txt"
 BATCHES=${1:-6}; START=${2:-0}; COUNT=${3:-15}
 MODLIST=$(ls config/RSBE01_02/rels/ | tail -n +$((START+1)) | head -n "$COUNT")
 ok=0; skip=0
