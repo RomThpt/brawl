@@ -83,6 +83,12 @@ mo_stub/ft_snake/fn_122_F600.c:
 mo_stub/ft_snake/fn_122_F628.c:
 	.text       start:0x0000F628 end:0x0000F650
 
+mo_stub/ft_snake/rm_fn_122_F6E0.c:
+	.text       start:0x0000F6E0 end:0x0000F6F8
+
+mo_stub/ft_snake/rm_fn_122_F70C.c:
+	.text       start:0x0000F70C end:0x0000F724
+
 mo_stub/ft_snake/fn_122_F724.c:
 	.text       start:0x0000F724 end:0x0000F72C
 
@@ -94,6 +100,15 @@ mo_stub/ft_snake/pi_fn_122_F7AC.c:
 
 mo_stub/ft_snake/fn_122_F7BC.c:
 	.text       start:0x0000F7BC end:0x0000F7C4
+
+mo_stub/ft_snake/rm_fn_122_F814.c:
+	.text       start:0x0000F814 end:0x0000F82C
+
+mo_stub/ft_snake/rm_fn_122_F82C.c:
+	.text       start:0x0000F82C end:0x0000F844
+
+mo_stub/ft_snake/rm_fn_122_F844.c:
+	.text       start:0x0000F844 end:0x0000F85C
 
 mo_stub/ft_snake/pi_fn_122_F85C.c:
 	.text       start:0x0000F85C end:0x0000F86C

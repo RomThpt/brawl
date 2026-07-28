@@ -83,6 +83,12 @@ mo_stub/ft_poke/fn_116_A6D8.c:
 mo_stub/ft_poke/fn_116_A760.c:
 	.text       start:0x0000A760 end:0x0000A768
 
+mo_stub/ft_poke/rm_fn_116_A7F8.c:
+	.text       start:0x0000A7F8 end:0x0000A810
+
+mo_stub/ft_poke/rm_fn_116_A824.c:
+	.text       start:0x0000A824 end:0x0000A83C
+
 mo_stub/ft_poke/fn_116_A83C.c:
 	.text       start:0x0000A83C end:0x0000A844
 
@@ -94,6 +100,15 @@ mo_stub/ft_poke/pi_fn_116_A8C4.c:
 
 mo_stub/ft_poke/fn_116_A8D4.c:
 	.text       start:0x0000A8D4 end:0x0000A8DC
+
+mo_stub/ft_poke/rm_fn_116_A92C.c:
+	.text       start:0x0000A92C end:0x0000A944
+
+mo_stub/ft_poke/rm_fn_116_A944.c:
+	.text       start:0x0000A944 end:0x0000A95C
+
+mo_stub/ft_poke/rm_fn_116_A95C.c:
+	.text       start:0x0000A95C end:0x0000A974
 
 mo_stub/ft_poke/pi_fn_116_A974.c:
 	.text       start:0x0000A974 end:0x0000A984

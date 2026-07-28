@@ -80,6 +80,12 @@ mo_stub/ft_sonic/fn_123_A2DC.c:
 mo_stub/ft_sonic/fn_123_A35C.c:
 	.text       start:0x0000A35C end:0x0000A364
 
+mo_stub/ft_sonic/rm_fn_123_A3F4.c:
+	.text       start:0x0000A3F4 end:0x0000A40C
+
+mo_stub/ft_sonic/rm_fn_123_A420.c:
+	.text       start:0x0000A420 end:0x0000A438
+
 mo_stub/ft_sonic/fn_123_A438.c:
 	.text       start:0x0000A438 end:0x0000A440
 
@@ -91,6 +97,15 @@ mo_stub/ft_sonic/pi_fn_123_A4C0.c:
 
 mo_stub/ft_sonic/fn_123_A4D0.c:
 	.text       start:0x0000A4D0 end:0x0000A4D8
+
+mo_stub/ft_sonic/rm_fn_123_A528.c:
+	.text       start:0x0000A528 end:0x0000A540
+
+mo_stub/ft_sonic/rm_fn_123_A540.c:
+	.text       start:0x0000A540 end:0x0000A558
+
+mo_stub/ft_sonic/rm_fn_123_A558.c:
+	.text       start:0x0000A558 end:0x0000A570
 
 mo_stub/ft_sonic/pi_fn_123_A570.c:
 	.text       start:0x0000A570 end:0x0000A580

@@ -71,6 +71,12 @@ mo_stub/ft_dedede/fn_117_A58C.c:
 mo_stub/ft_dedede/fn_117_A654.c:
 	.text       start:0x0000A654 end:0x0000A65C
 
+mo_stub/ft_dedede/rm_fn_117_A6EC.c:
+	.text       start:0x0000A6EC end:0x0000A704
+
+mo_stub/ft_dedede/rm_fn_117_A718.c:
+	.text       start:0x0000A718 end:0x0000A730
+
 mo_stub/ft_dedede/fn_117_A730.c:
 	.text       start:0x0000A730 end:0x0000A738
 
@@ -82,6 +88,15 @@ mo_stub/ft_dedede/pi_fn_117_A7B8.c:
 
 mo_stub/ft_dedede/fn_117_A7C8.c:
 	.text       start:0x0000A7C8 end:0x0000A7D0
+
+mo_stub/ft_dedede/rm_fn_117_A820.c:
+	.text       start:0x0000A820 end:0x0000A838
+
+mo_stub/ft_dedede/rm_fn_117_A838.c:
+	.text       start:0x0000A838 end:0x0000A850
+
+mo_stub/ft_dedede/rm_fn_117_A850.c:
+	.text       start:0x0000A850 end:0x0000A868
 
 mo_stub/ft_dedede/pi_fn_117_A868.c:
 	.text       start:0x0000A868 end:0x0000A878

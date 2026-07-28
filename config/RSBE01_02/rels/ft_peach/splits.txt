@@ -80,6 +80,12 @@ mo_stub/ft_peach/fn_103_A030.c:
 mo_stub/ft_peach/fn_103_A0A8.c:
 	.text       start:0x0000A0A8 end:0x0000A0B0
 
+mo_stub/ft_peach/rm_fn_103_A140.c:
+	.text       start:0x0000A140 end:0x0000A158
+
+mo_stub/ft_peach/rm_fn_103_A16C.c:
+	.text       start:0x0000A16C end:0x0000A184
+
 mo_stub/ft_peach/fn_103_A184.c:
 	.text       start:0x0000A184 end:0x0000A18C
 
@@ -91,6 +97,15 @@ mo_stub/ft_peach/pi_fn_103_A20C.c:
 
 mo_stub/ft_peach/fn_103_A21C.c:
 	.text       start:0x0000A21C end:0x0000A224
+
+mo_stub/ft_peach/rm_fn_103_A274.c:
+	.text       start:0x0000A274 end:0x0000A28C
+
+mo_stub/ft_peach/rm_fn_103_A28C.c:
+	.text       start:0x0000A28C end:0x0000A2A4
+
+mo_stub/ft_peach/rm_fn_103_A2A4.c:
+	.text       start:0x0000A2A4 end:0x0000A2BC
 
 mo_stub/ft_peach/pi_fn_103_A2BC.c:
 	.text       start:0x0000A2BC end:0x0000A2CC

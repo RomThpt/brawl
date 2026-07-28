@@ -80,6 +80,12 @@ mo_stub/ft_mario/fn_91_A674.c:
 mo_stub/ft_mario/fn_91_A6EC.c:
 	.text       start:0x0000A6EC end:0x0000A6F4
 
+mo_stub/ft_mario/rm_fn_91_A784.c:
+	.text       start:0x0000A784 end:0x0000A79C
+
+mo_stub/ft_mario/rm_fn_91_A7B0.c:
+	.text       start:0x0000A7B0 end:0x0000A7C8
+
 mo_stub/ft_mario/fn_91_A7C8.c:
 	.text       start:0x0000A7C8 end:0x0000A7D0
 
@@ -91,6 +97,15 @@ mo_stub/ft_mario/pi_fn_91_A850.c:
 
 mo_stub/ft_mario/fn_91_A860.c:
 	.text       start:0x0000A860 end:0x0000A868
+
+mo_stub/ft_mario/rm_fn_91_A8B8.c:
+	.text       start:0x0000A8B8 end:0x0000A8D0
+
+mo_stub/ft_mario/rm_fn_91_A8D0.c:
+	.text       start:0x0000A8D0 end:0x0000A8E8
+
+mo_stub/ft_mario/rm_fn_91_A8E8.c:
+	.text       start:0x0000A8E8 end:0x0000A900
 
 mo_stub/ft_mario/pi_fn_91_A900.c:
 	.text       start:0x0000A900 end:0x0000A910

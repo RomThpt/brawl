@@ -80,6 +80,12 @@ mo_stub/ft_wolf/fn_125_B16C.c:
 mo_stub/ft_wolf/fn_125_B188.c:
 	.text       start:0x0000B188 end:0x0000B19C
 
+mo_stub/ft_wolf/rm_fn_125_B22C.c:
+	.text       start:0x0000B22C end:0x0000B244
+
+mo_stub/ft_wolf/rm_fn_125_B258.c:
+	.text       start:0x0000B258 end:0x0000B270
+
 mo_stub/ft_wolf/fn_125_B270.c:
 	.text       start:0x0000B270 end:0x0000B278
 
@@ -91,6 +97,15 @@ mo_stub/ft_wolf/pi_fn_125_B2F8.c:
 
 mo_stub/ft_wolf/fn_125_B308.c:
 	.text       start:0x0000B308 end:0x0000B310
+
+mo_stub/ft_wolf/rm_fn_125_B360.c:
+	.text       start:0x0000B360 end:0x0000B378
+
+mo_stub/ft_wolf/rm_fn_125_B378.c:
+	.text       start:0x0000B378 end:0x0000B390
+
+mo_stub/ft_wolf/rm_fn_125_B390.c:
+	.text       start:0x0000B390 end:0x0000B3A8
 
 mo_stub/ft_wolf/pi_fn_125_B3A8.c:
 	.text       start:0x0000B3A8 end:0x0000B3B8

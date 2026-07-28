@@ -80,6 +80,12 @@ mo_stub/ft_lucas/fn_114_CCAC.c:
 mo_stub/ft_lucas/fn_114_CD24.c:
 	.text       start:0x0000CD24 end:0x0000CD2C
 
+mo_stub/ft_lucas/rm_fn_114_CDBC.c:
+	.text       start:0x0000CDBC end:0x0000CDD4
+
+mo_stub/ft_lucas/rm_fn_114_CDE8.c:
+	.text       start:0x0000CDE8 end:0x0000CE00
+
 mo_stub/ft_lucas/fn_114_CE00.c:
 	.text       start:0x0000CE00 end:0x0000CE08
 
@@ -91,6 +97,15 @@ mo_stub/ft_lucas/pi_fn_114_CE88.c:
 
 mo_stub/ft_lucas/fn_114_CE98.c:
 	.text       start:0x0000CE98 end:0x0000CEA0
+
+mo_stub/ft_lucas/rm_fn_114_CEF0.c:
+	.text       start:0x0000CEF0 end:0x0000CF08
+
+mo_stub/ft_lucas/rm_fn_114_CF08.c:
+	.text       start:0x0000CF08 end:0x0000CF20
+
+mo_stub/ft_lucas/rm_fn_114_CF20.c:
+	.text       start:0x0000CF20 end:0x0000CF38
 
 mo_stub/ft_lucas/pi_fn_114_CF38.c:
 	.text       start:0x0000CF38 end:0x0000CF48
