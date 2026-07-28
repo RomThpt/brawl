@@ -21,8 +21,8 @@ import add_unit_rel
 ROOT = add_unit_rel.ROOT
 module = sys.argv[1]
 maxf = int(sys.argv[2]) if len(sys.argv) > 2 else 2000
-LAST = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/last_rel.txt"
-BADFILE = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/bad_rel.txt"
+LAST = os.path.join(ROOT, ".bankstate", "last_rel.txt")
+BADFILE = os.path.join(ROOT, ".bankstate", "bad_rel.txt")
 
 # REL section index -> the name the symbol table uses
 SECNAME = {1: ".text", 2: ".ctors", 3: ".dtors", 4: ".rodata", 5: ".data", 6: ".bss"}

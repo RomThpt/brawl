@@ -8,7 +8,7 @@ Usage: python3 tools/add_unit.py <unit_path> <start_hex> <end_hex> <src_file>
 """
 import sys, os
 
-ROOT = "/private/tmp/claude-501/-Users-romt/acb283f2-d321-48f9-955d-3b2312329564/scratchpad/brawl"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SPLITS = os.path.join(ROOT, "config/RSBE01_02/splits.txt")
 CONFIG = os.path.join(ROOT, "configure.py")
 
