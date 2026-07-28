@@ -18,6 +18,12 @@ mo_stage/st_crayon/st_crayon.cpp:
 	.data       start:0x00000000 end:0x000003F0
 	.bss        start:0x00000008 end:0x00000018
 
+mo_stub/st_crayon/fd_adventureEventGetItem__6GroundFiP13stTriggerData.c:
+	.text       start:0x000013C4 end:0x000013CC
+
+mo_stub/st_crayon/fd_getInitializeInfo__6GroundFi.c:
+	.text       start:0x000013CC end:0x000013D4
+
 mo_stage/st_crayon/gr_crayon_yakumono.cpp:
 	.text       start:0x00002D6C end:0x00002E10
 	.data       start:0x00000F10 end:0x00001118
