@@ -104,6 +104,12 @@ mo_stub/ft_koopa/pi_fn_102_9240.c:
 mo_stub/ft_koopa/fn_102_9250.c:
 	.text       start:0x00009250 end:0x00009258
 
+mo_stub/ft_koopa/ii_fn_102_9258.c:
+	.text       start:0x00009258 end:0x00009270
+
+mo_stub/ft_koopa/ii_fn_102_9270.c:
+	.text       start:0x00009270 end:0x00009288
+
 mo_stub/ft_koopa/rm_fn_102_92A8.c:
 	.text       start:0x000092A8 end:0x000092C0
 

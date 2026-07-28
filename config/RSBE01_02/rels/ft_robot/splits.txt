@@ -107,6 +107,12 @@ mo_stub/ft_robot/pi_fn_120_9AE4.c:
 mo_stub/ft_robot/fn_120_9AF4.c:
 	.text       start:0x00009AF4 end:0x00009AFC
 
+mo_stub/ft_robot/ii_fn_120_9AFC.c:
+	.text       start:0x00009AFC end:0x00009B14
+
+mo_stub/ft_robot/ii_fn_120_9B14.c:
+	.text       start:0x00009B14 end:0x00009B2C
+
 mo_stub/ft_robot/rm_fn_120_9B4C.c:
 	.text       start:0x00009B4C end:0x00009B64
 

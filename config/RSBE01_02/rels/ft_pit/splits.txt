@@ -101,6 +101,12 @@ mo_stub/ft_pit/pi_fn_112_AA84.c:
 mo_stub/ft_pit/fn_112_AA94.c:
 	.text       start:0x0000AA94 end:0x0000AA9C
 
+mo_stub/ft_pit/ii_fn_112_AA9C.c:
+	.text       start:0x0000AA9C end:0x0000AAB4
+
+mo_stub/ft_pit/ii_fn_112_AAB4.c:
+	.text       start:0x0000AAB4 end:0x0000AACC
+
 mo_stub/ft_pit/rm_fn_112_AAEC.c:
 	.text       start:0x0000AAEC end:0x0000AB04
 

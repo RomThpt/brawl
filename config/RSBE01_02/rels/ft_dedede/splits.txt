@@ -98,6 +98,12 @@ mo_stub/ft_dedede/pi_fn_117_A7B8.c:
 mo_stub/ft_dedede/fn_117_A7C8.c:
 	.text       start:0x0000A7C8 end:0x0000A7D0
 
+mo_stub/ft_dedede/ii_fn_117_A7D0.c:
+	.text       start:0x0000A7D0 end:0x0000A7E8
+
+mo_stub/ft_dedede/ii_fn_117_A7E8.c:
+	.text       start:0x0000A7E8 end:0x0000A800
+
 mo_stub/ft_dedede/rm_fn_117_A820.c:
 	.text       start:0x0000A820 end:0x0000A838
 

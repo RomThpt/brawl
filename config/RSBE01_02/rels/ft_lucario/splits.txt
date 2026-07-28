@@ -113,6 +113,12 @@ mo_stub/ft_lucario/pi_fn_118_A4A8.c:
 mo_stub/ft_lucario/fn_118_A4B8.c:
 	.text       start:0x0000A4B8 end:0x0000A4C0
 
+mo_stub/ft_lucario/ii_fn_118_A4C0.c:
+	.text       start:0x0000A4C0 end:0x0000A4D8
+
+mo_stub/ft_lucario/ii_fn_118_A4D8.c:
+	.text       start:0x0000A4D8 end:0x0000A4F0
+
 mo_stub/ft_lucario/rm_fn_118_A510.c:
 	.text       start:0x0000A510 end:0x0000A528
 

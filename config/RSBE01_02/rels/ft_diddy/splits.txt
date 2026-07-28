@@ -107,6 +107,12 @@ mo_stub/ft_diddy/pi_fn_115_A3D4.c:
 mo_stub/ft_diddy/fn_115_A3E4.c:
 	.text       start:0x0000A3E4 end:0x0000A3EC
 
+mo_stub/ft_diddy/ii_fn_115_A3EC.c:
+	.text       start:0x0000A3EC end:0x0000A404
+
+mo_stub/ft_diddy/ii_fn_115_A404.c:
+	.text       start:0x0000A404 end:0x0000A41C
+
 mo_stub/ft_diddy/rm_fn_115_A43C.c:
 	.text       start:0x0000A43C end:0x0000A454
 

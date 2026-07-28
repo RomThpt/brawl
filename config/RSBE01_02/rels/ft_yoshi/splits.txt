@@ -104,6 +104,12 @@ mo_stub/ft_yoshi/pi_fn_95_B8E8.c:
 mo_stub/ft_yoshi/fn_95_B8F8.c:
 	.text       start:0x0000B8F8 end:0x0000B900
 
+mo_stub/ft_yoshi/ii_fn_95_B900.c:
+	.text       start:0x0000B900 end:0x0000B918
+
+mo_stub/ft_yoshi/ii_fn_95_B918.c:
+	.text       start:0x0000B918 end:0x0000B930
+
 mo_stub/ft_yoshi/rm_fn_95_B950.c:
 	.text       start:0x0000B950 end:0x0000B968
 

@@ -143,6 +143,12 @@ mo_stub/ft_pikmin/pi_fn_113_CD14.c:
 mo_stub/ft_pikmin/fn_113_CD24.c:
 	.text       start:0x0000CD24 end:0x0000CD2C
 
+mo_stub/ft_pikmin/ii_fn_113_CD2C.c:
+	.text       start:0x0000CD2C end:0x0000CD44
+
+mo_stub/ft_pikmin/ii_fn_113_CD44.c:
+	.text       start:0x0000CD44 end:0x0000CD5C
+
 mo_stub/ft_pikmin/rm_fn_113_CD7C.c:
 	.text       start:0x0000CD7C end:0x0000CD94
 

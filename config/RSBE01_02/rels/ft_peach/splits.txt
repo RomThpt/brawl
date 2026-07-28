@@ -107,6 +107,12 @@ mo_stub/ft_peach/pi_fn_103_A20C.c:
 mo_stub/ft_peach/fn_103_A21C.c:
 	.text       start:0x0000A21C end:0x0000A224
 
+mo_stub/ft_peach/ii_fn_103_A224.c:
+	.text       start:0x0000A224 end:0x0000A23C
+
+mo_stub/ft_peach/ii_fn_103_A23C.c:
+	.text       start:0x0000A23C end:0x0000A254
+
 mo_stub/ft_peach/rm_fn_103_A274.c:
 	.text       start:0x0000A274 end:0x0000A28C
 
