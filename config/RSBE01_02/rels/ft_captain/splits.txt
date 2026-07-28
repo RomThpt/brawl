@@ -74,6 +74,12 @@ mo_stub/ft_captain/fn_100_9770.c:
 mo_stub/ft_captain/fn_100_97E8.c:
 	.text       start:0x000097E8 end:0x000097F0
 
+mo_stub/ft_captain/rm_fn_100_9880.c:
+	.text       start:0x00009880 end:0x00009898
+
+mo_stub/ft_captain/rm_fn_100_98AC.c:
+	.text       start:0x000098AC end:0x000098C4
+
 mo_stub/ft_captain/fn_100_98C4.c:
 	.text       start:0x000098C4 end:0x000098CC
 
@@ -85,6 +91,15 @@ mo_stub/ft_captain/pi_fn_100_994C.c:
 
 mo_stub/ft_captain/fn_100_995C.c:
 	.text       start:0x0000995C end:0x00009964
+
+mo_stub/ft_captain/rm_fn_100_99B4.c:
+	.text       start:0x000099B4 end:0x000099CC
+
+mo_stub/ft_captain/rm_fn_100_99CC.c:
+	.text       start:0x000099CC end:0x000099E4
+
+mo_stub/ft_captain/rm_fn_100_99E4.c:
+	.text       start:0x000099E4 end:0x000099FC
 
 mo_stub/ft_captain/pi_fn_100_99FC.c:
 	.text       start:0x000099FC end:0x00009A0C

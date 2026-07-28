@@ -74,6 +74,12 @@ mo_stub/ft_wario/fn_110_974C.c:
 mo_stub/ft_wario/fn_110_97CC.c:
 	.text       start:0x000097CC end:0x000097D4
 
+mo_stub/ft_wario/rm_fn_110_9864.c:
+	.text       start:0x00009864 end:0x0000987C
+
+mo_stub/ft_wario/rm_fn_110_9890.c:
+	.text       start:0x00009890 end:0x000098A8
+
 mo_stub/ft_wario/fn_110_98A8.c:
 	.text       start:0x000098A8 end:0x000098B0
 
@@ -85,6 +91,15 @@ mo_stub/ft_wario/pi_fn_110_9930.c:
 
 mo_stub/ft_wario/fn_110_9940.c:
 	.text       start:0x00009940 end:0x00009948
+
+mo_stub/ft_wario/rm_fn_110_9998.c:
+	.text       start:0x00009998 end:0x000099B0
+
+mo_stub/ft_wario/rm_fn_110_99B0.c:
+	.text       start:0x000099B0 end:0x000099C8
+
+mo_stub/ft_wario/rm_fn_110_99C8.c:
+	.text       start:0x000099C8 end:0x000099E0
 
 mo_stub/ft_wario/pi_fn_110_99E0.c:
 	.text       start:0x000099E0 end:0x000099F0

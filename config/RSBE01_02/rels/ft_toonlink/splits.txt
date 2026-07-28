@@ -86,6 +86,12 @@ mo_stub/ft_toonlink/fn_121_B124.c:
 mo_stub/ft_toonlink/fn_121_B18C.c:
 	.text       start:0x0000B18C end:0x0000B194
 
+mo_stub/ft_toonlink/rm_fn_121_B224.c:
+	.text       start:0x0000B224 end:0x0000B23C
+
+mo_stub/ft_toonlink/rm_fn_121_B250.c:
+	.text       start:0x0000B250 end:0x0000B268
+
 mo_stub/ft_toonlink/fn_121_B268.c:
 	.text       start:0x0000B268 end:0x0000B270
 
@@ -97,6 +103,15 @@ mo_stub/ft_toonlink/pi_fn_121_B2F0.c:
 
 mo_stub/ft_toonlink/fn_121_B300.c:
 	.text       start:0x0000B300 end:0x0000B308
+
+mo_stub/ft_toonlink/rm_fn_121_B358.c:
+	.text       start:0x0000B358 end:0x0000B370
+
+mo_stub/ft_toonlink/rm_fn_121_B370.c:
+	.text       start:0x0000B370 end:0x0000B388
+
+mo_stub/ft_toonlink/rm_fn_121_B388.c:
+	.text       start:0x0000B388 end:0x0000B3A0
 
 mo_stub/ft_toonlink/pi_fn_121_B3A0.c:
 	.text       start:0x0000B3A0 end:0x0000B3B0

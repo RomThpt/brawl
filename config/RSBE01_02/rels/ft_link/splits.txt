@@ -86,6 +86,12 @@ mo_stub/ft_link/fn_93_B128.c:
 mo_stub/ft_link/fn_93_B190.c:
 	.text       start:0x0000B190 end:0x0000B198
 
+mo_stub/ft_link/rm_fn_93_B228.c:
+	.text       start:0x0000B228 end:0x0000B240
+
+mo_stub/ft_link/rm_fn_93_B254.c:
+	.text       start:0x0000B254 end:0x0000B26C
+
 mo_stub/ft_link/fn_93_B26C.c:
 	.text       start:0x0000B26C end:0x0000B274
 
@@ -97,6 +103,15 @@ mo_stub/ft_link/pi_fn_93_B2F4.c:
 
 mo_stub/ft_link/fn_93_B304.c:
 	.text       start:0x0000B304 end:0x0000B30C
+
+mo_stub/ft_link/rm_fn_93_B35C.c:
+	.text       start:0x0000B35C end:0x0000B374
+
+mo_stub/ft_link/rm_fn_93_B374.c:
+	.text       start:0x0000B374 end:0x0000B38C
+
+mo_stub/ft_link/rm_fn_93_B38C.c:
+	.text       start:0x0000B38C end:0x0000B3A4
 
 mo_stub/ft_link/pi_fn_93_B3A4.c:
 	.text       start:0x0000B3A4 end:0x0000B3B4

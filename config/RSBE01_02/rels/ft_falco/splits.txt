@@ -74,6 +74,12 @@ mo_stub/ft_falco/fn_108_B074.c:
 mo_stub/ft_falco/fn_108_B0EC.c:
 	.text       start:0x0000B0EC end:0x0000B0F4
 
+mo_stub/ft_falco/rm_fn_108_B184.c:
+	.text       start:0x0000B184 end:0x0000B19C
+
+mo_stub/ft_falco/rm_fn_108_B1B0.c:
+	.text       start:0x0000B1B0 end:0x0000B1C8
+
 mo_stub/ft_falco/fn_108_B1C8.c:
 	.text       start:0x0000B1C8 end:0x0000B1D0
 
@@ -85,6 +91,15 @@ mo_stub/ft_falco/pi_fn_108_B250.c:
 
 mo_stub/ft_falco/fn_108_B260.c:
 	.text       start:0x0000B260 end:0x0000B268
+
+mo_stub/ft_falco/rm_fn_108_B2B8.c:
+	.text       start:0x0000B2B8 end:0x0000B2D0
+
+mo_stub/ft_falco/rm_fn_108_B2D0.c:
+	.text       start:0x0000B2D0 end:0x0000B2E8
+
+mo_stub/ft_falco/rm_fn_108_B2E8.c:
+	.text       start:0x0000B2E8 end:0x0000B300
 
 mo_stub/ft_falco/pi_fn_108_B300.c:
 	.text       start:0x0000B300 end:0x0000B310
