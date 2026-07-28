@@ -83,6 +83,15 @@ mo_stub/ft_ness/rm_fn_101_D3AC.c:
 mo_stub/ft_ness/fn_101_D3C4.c:
 	.text       start:0x0000D3C4 end:0x0000D3CC
 
+mo_stub/ft_ness/fm_fn_101_D3F4.c:
+	.text       start:0x0000D3F4 end:0x0000D40C
+
+mo_stub/ft_ness/fm_fn_101_D40C.c:
+	.text       start:0x0000D40C end:0x0000D424
+
+mo_stub/ft_ness/fm_fn_101_D424.c:
+	.text       start:0x0000D424 end:0x0000D43C
+
 mo_stub/ft_ness/pi_fn_101_D43C.c:
 	.text       start:0x0000D43C end:0x0000D44C
 

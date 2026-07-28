@@ -86,6 +86,15 @@ mo_stub/ft_ganon/rm_fn_109_9214.c:
 mo_stub/ft_ganon/fn_109_922C.c:
 	.text       start:0x0000922C end:0x00009234
 
+mo_stub/ft_ganon/fm_fn_109_925C.c:
+	.text       start:0x0000925C end:0x00009274
+
+mo_stub/ft_ganon/fm_fn_109_9274.c:
+	.text       start:0x00009274 end:0x0000928C
+
+mo_stub/ft_ganon/fm_fn_109_928C.c:
+	.text       start:0x0000928C end:0x000092A4
+
 mo_stub/ft_ganon/pi_fn_109_92A4.c:
 	.text       start:0x000092A4 end:0x000092B4
 

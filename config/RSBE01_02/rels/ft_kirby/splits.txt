@@ -104,6 +104,15 @@ mo_stub/ft_kirby/rm_fn_96_F470.c:
 mo_stub/ft_kirby/fn_96_F488.c:
 	.text       start:0x0000F488 end:0x0000F490
 
+mo_stub/ft_kirby/fm_fn_96_F4B8.c:
+	.text       start:0x0000F4B8 end:0x0000F4D0
+
+mo_stub/ft_kirby/fm_fn_96_F4D0.c:
+	.text       start:0x0000F4D0 end:0x0000F4E8
+
+mo_stub/ft_kirby/fm_fn_96_F4E8.c:
+	.text       start:0x0000F4E8 end:0x0000F500
+
 mo_stub/ft_kirby/pi_fn_96_F500.c:
 	.text       start:0x0000F500 end:0x0000F510
 

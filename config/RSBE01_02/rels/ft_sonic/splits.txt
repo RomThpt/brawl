@@ -89,6 +89,15 @@ mo_stub/ft_sonic/rm_fn_123_A420.c:
 mo_stub/ft_sonic/fn_123_A438.c:
 	.text       start:0x0000A438 end:0x0000A440
 
+mo_stub/ft_sonic/fm_fn_123_A468.c:
+	.text       start:0x0000A468 end:0x0000A480
+
+mo_stub/ft_sonic/fm_fn_123_A480.c:
+	.text       start:0x0000A480 end:0x0000A498
+
+mo_stub/ft_sonic/fm_fn_123_A498.c:
+	.text       start:0x0000A498 end:0x0000A4B0
+
 mo_stub/ft_sonic/pi_fn_123_A4B0.c:
 	.text       start:0x0000A4B0 end:0x0000A4C0
 

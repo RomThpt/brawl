@@ -89,6 +89,15 @@ mo_stub/ft_peach/rm_fn_103_A16C.c:
 mo_stub/ft_peach/fn_103_A184.c:
 	.text       start:0x0000A184 end:0x0000A18C
 
+mo_stub/ft_peach/fm_fn_103_A1B4.c:
+	.text       start:0x0000A1B4 end:0x0000A1CC
+
+mo_stub/ft_peach/fm_fn_103_A1CC.c:
+	.text       start:0x0000A1CC end:0x0000A1E4
+
+mo_stub/ft_peach/fm_fn_103_A1E4.c:
+	.text       start:0x0000A1E4 end:0x0000A1FC
+
 mo_stub/ft_peach/pi_fn_103_A1FC.c:
 	.text       start:0x0000A1FC end:0x0000A20C
 

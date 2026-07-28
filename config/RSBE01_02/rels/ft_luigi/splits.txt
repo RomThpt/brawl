@@ -83,6 +83,15 @@ mo_stub/ft_luigi/rm_fn_99_8AB0.c:
 mo_stub/ft_luigi/fn_99_8AC8.c:
 	.text       start:0x00008AC8 end:0x00008AD0
 
+mo_stub/ft_luigi/fm_fn_99_8AF8.c:
+	.text       start:0x00008AF8 end:0x00008B10
+
+mo_stub/ft_luigi/fm_fn_99_8B10.c:
+	.text       start:0x00008B10 end:0x00008B28
+
+mo_stub/ft_luigi/fm_fn_99_8B28.c:
+	.text       start:0x00008B28 end:0x00008B40
+
 mo_stub/ft_luigi/pi_fn_99_8B40.c:
 	.text       start:0x00008B40 end:0x00008B50
 

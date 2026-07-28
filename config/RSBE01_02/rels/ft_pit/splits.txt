@@ -83,6 +83,15 @@ mo_stub/ft_pit/rm_fn_112_A9E4.c:
 mo_stub/ft_pit/fn_112_A9FC.c:
 	.text       start:0x0000A9FC end:0x0000AA04
 
+mo_stub/ft_pit/fm_fn_112_AA2C.c:
+	.text       start:0x0000AA2C end:0x0000AA44
+
+mo_stub/ft_pit/fm_fn_112_AA44.c:
+	.text       start:0x0000AA44 end:0x0000AA5C
+
+mo_stub/ft_pit/fm_fn_112_AA5C.c:
+	.text       start:0x0000AA5C end:0x0000AA74
+
 mo_stub/ft_pit/pi_fn_112_AA74.c:
 	.text       start:0x0000AA74 end:0x0000AA84
 
