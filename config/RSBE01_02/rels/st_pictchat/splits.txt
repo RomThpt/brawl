@@ -143,6 +143,9 @@ mo_stub/st_pictchat/fn_73_3FF4.c:
 mo_stub/st_pictchat/fn_73_41D4.c:
 	.text       start:0x000041D4 end:0x000041D8
 
+mo_stub/st_pictchat/fs_fn_73_41D8.c:
+	.text       start:0x000041D8 end:0x000041E8
+
 mo_stub/st_pictchat/dt_fn_73_4518.c:
 	.text       start:0x00004518 end:0x00004558
 

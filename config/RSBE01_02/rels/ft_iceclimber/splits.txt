@@ -20,8 +20,14 @@ mo_stub/ft_iceclimber/fn_105_AF48.c:
 mo_stub/ft_iceclimber/fn_105_AF4C.c:
 	.text       start:0x0000AF4C end:0x0000AF54
 
+mo_stub/ft_iceclimber/fs_fn_105_BD70.c:
+	.text       start:0x0000BD70 end:0x0000BD7C
+
 mo_stub/ft_iceclimber/fn_105_BF14.c:
 	.text       start:0x0000BF14 end:0x0000BF18
+
+mo_stub/ft_iceclimber/fs_fn_105_C1C0.c:
+	.text       start:0x0000C1C0 end:0x0000C1D0
 
 mo_stub/ft_iceclimber/fn_105_D540.c:
 	.text       start:0x0000D540 end:0x0000D548

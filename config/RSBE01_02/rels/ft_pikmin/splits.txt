@@ -44,11 +44,17 @@ mo_stub/ft_pikmin/gl_fn_113_80E8.c:
 mo_stub/ft_pikmin/fn_113_80F4.c:
 	.text       start:0x000080F4 end:0x000080FC
 
+mo_stub/ft_pikmin/fs_fn_113_A1D0.c:
+	.text       start:0x0000A1D0 end:0x0000A1E0
+
 mo_stub/ft_pikmin/fc_fn_113_B7F0.c:
 	.text       start:0x0000B7F0 end:0x0000B804
 
 mo_stub/ft_pikmin/fc_fn_113_BC00.c:
 	.text       start:0x0000BC00 end:0x0000BC14
+
+mo_stub/ft_pikmin/fs_fn_113_C30C.c:
+	.text       start:0x0000C30C end:0x0000C318
 
 mo_stub/ft_pikmin/fn_113_C534.c:
 	.text       start:0x0000C534 end:0x0000C53C

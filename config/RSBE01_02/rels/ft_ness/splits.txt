@@ -386,6 +386,9 @@ mo_stub/ft_ness/gl_fn_101_12C98.c:
 mo_stub/ft_ness/gl_fn_101_12EA4.c:
 	.text       start:0x00012EA4 end:0x00012EB4
 
+mo_stub/ft_ness/fs_fn_101_1303C.c:
+	.text       start:0x0001303C end:0x0001304C
+
 mo_stub/ft_ness/gl_fn_101_131EC.c:
 	.text       start:0x000131EC end:0x000131FC
 
@@ -643,6 +646,9 @@ mo_stub/ft_ness/gl_fn_101_16644.c:
 
 mo_stub/ft_ness/gl_fn_101_168A8.c:
 	.text       start:0x000168A8 end:0x000168B8
+
+mo_stub/ft_ness/fs_fn_101_19134.c:
+	.text       start:0x00019134 end:0x00019140
 
 mo_stub/ft_ness/fn_101_19F48.c:
 	.text       start:0x00019F48 end:0x00019F50

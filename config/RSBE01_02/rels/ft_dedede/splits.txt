@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_dedede/fn_117_67D4.c:
 	.text       start:0x000067D4 end:0x000067DC
 
+mo_stub/ft_dedede/fs_fn_117_92AC.c:
+	.text       start:0x000092AC end:0x000092BC
+
 mo_stub/ft_dedede/fn_117_99D8.c:
 	.text       start:0x000099D8 end:0x000099E0
 
@@ -394,6 +397,9 @@ mo_stub/ft_dedede/fn_117_11694.c:
 
 mo_stub/ft_dedede/gl_fn_117_11BAC.c:
 	.text       start:0x00011BAC end:0x00011BBC
+
+mo_stub/ft_dedede/fs_fn_117_15158.c:
+	.text       start:0x00015158 end:0x00015164
 
 mo_stub/ft_dedede/fn_117_15168.c:
 	.text       start:0x00015168 end:0x00015170

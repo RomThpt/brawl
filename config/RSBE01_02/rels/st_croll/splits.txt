@@ -20,6 +20,9 @@ mo_stub/st_croll/fn_90_404.c:
 mo_stub/st_croll/el_fn_90_1228.c:
 	.text       start:0x00001228 end:0x00001234
 
+mo_stub/st_croll/fs_fn_90_12D8.c:
+	.text       start:0x000012D8 end:0x000012E8
+
 mo_stub/st_croll/fn_90_1C94.c:
 	.text       start:0x00001C94 end:0x00001CA0
 

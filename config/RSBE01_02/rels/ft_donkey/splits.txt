@@ -353,6 +353,9 @@ mo_stub/ft_donkey/fn_92_CF60.c:
 mo_stub/ft_donkey/gl_fn_92_CFB0.c:
 	.text       start:0x0000CFB0 end:0x0000CFC0
 
+mo_stub/ft_donkey/fs_fn_92_D29C.c:
+	.text       start:0x0000D29C end:0x0000D2AC
+
 mo_stub/ft_donkey/fn_92_D2AC.c:
 	.text       start:0x0000D2AC end:0x0000D2B0
 

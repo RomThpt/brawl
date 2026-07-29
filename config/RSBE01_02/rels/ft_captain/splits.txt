@@ -332,6 +332,9 @@ mo_stub/ft_captain/xm_fn_100_C994.c:
 mo_stub/ft_captain/xm_fn_100_C99C.c:
 	.text       start:0x0000C99C end:0x0000C9A4
 
+mo_stub/ft_captain/fs_fn_100_CC84.c:
+	.text       start:0x0000CC84 end:0x0000CC94
+
 mo_stub/ft_captain/fn_100_D028.c:
 	.text       start:0x0000D028 end:0x0000D02C
 

@@ -377,8 +377,14 @@ mo_stub/ft_sonic/gl_fn_123_10878.c:
 mo_stub/ft_sonic/gl_fn_123_10A24.c:
 	.text       start:0x00010A24 end:0x00010A34
 
+mo_stub/ft_sonic/fs_fn_123_12FF0.c:
+	.text       start:0x00012FF0 end:0x00013000
+
 mo_stub/ft_sonic/fn_123_13480.c:
 	.text       start:0x00013480 end:0x00013484
+
+mo_stub/ft_sonic/fs_fn_123_13A10.c:
+	.text       start:0x00013A10 end:0x00013A1C
 
 mo_stub/ft_sonic/fn_123_13D44.c:
 	.text       start:0x00013D44 end:0x00013D54

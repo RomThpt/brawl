@@ -389,6 +389,9 @@ mo_stub/ft_lucas/gl_fn_114_127F0.c:
 mo_stub/ft_lucas/gl_fn_114_129FC.c:
 	.text       start:0x000129FC end:0x00012A0C
 
+mo_stub/ft_lucas/fs_fn_114_12B94.c:
+	.text       start:0x00012B94 end:0x00012BA4
+
 mo_stub/ft_lucas/gl_fn_114_12D44.c:
 	.text       start:0x00012D44 end:0x00012D54
 
@@ -649,6 +652,9 @@ mo_stub/ft_lucas/gl_fn_114_16194.c:
 
 mo_stub/ft_lucas/gl_fn_114_163F8.c:
 	.text       start:0x000163F8 end:0x00016408
+
+mo_stub/ft_lucas/fs_fn_114_18C84.c:
+	.text       start:0x00018C84 end:0x00018C90
 
 mo_stub/ft_lucas/fn_114_19AB0.c:
 	.text       start:0x00019AB0 end:0x00019AB8
