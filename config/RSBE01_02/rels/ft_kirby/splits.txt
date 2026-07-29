@@ -461,6 +461,9 @@ mo_stub/ft_kirby/fn_96_15D64.c:
 mo_stub/ft_kirby/fn_96_15D68.c:
 	.text       start:0x00015D68 end:0x00015D6C
 
+mo_stub/ft_kirby/is_fn_96_16144.c:
+	.text       start:0x00016144 end:0x00016150
+
 mo_stub/ft_kirby/gl_fn_96_16150.c:
 	.text       start:0x00016150 end:0x00016160
 

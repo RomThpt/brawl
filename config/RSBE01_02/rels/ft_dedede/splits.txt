@@ -383,6 +383,9 @@ mo_stub/ft_dedede/gl_fn_117_F588.c:
 mo_stub/ft_dedede/gl_fn_117_1013C.c:
 	.text       start:0x0001013C end:0x0001014C
 
+mo_stub/ft_dedede/is_fn_117_10DC8.c:
+	.text       start:0x00010DC8 end:0x00010DD4
+
 mo_stub/ft_dedede/gl_fn_117_10DD4.c:
 	.text       start:0x00010DD4 end:0x00010DE4
 

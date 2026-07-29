@@ -140,6 +140,12 @@ mo_stub/st_halberd/fn_57_A470.c:
 mo_stub/st_halberd/fn_57_A4C0.c:
 	.text       start:0x0000A4C0 end:0x0000A4C4
 
+mo_stub/st_halberd/is_fn_57_A574.c:
+	.text       start:0x0000A574 end:0x0000A580
+
+mo_stub/st_halberd/is_fn_57_A580.c:
+	.text       start:0x0000A580 end:0x0000A58C
+
 mo_stub/st_halberd/pi_fn_57_A58C.c:
 	.text       start:0x0000A58C end:0x0000A59C
 
