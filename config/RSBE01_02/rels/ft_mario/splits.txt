@@ -359,6 +359,9 @@ mo_stub/ft_mario/fn_91_E0FC.c:
 mo_stub/ft_mario/fn_91_E150.c:
 	.text       start:0x0000E150 end:0x0000E158
 
+mo_stub/ft_mario/fs_fn_91_E60C.c:
+	.text       start:0x0000E60C end:0x0000E61C
+
 mo_stub/ft_mario/fn_91_FF8C.c:
 	.text       start:0x0000FF8C end:0x0000FF9C
 
@@ -550,6 +553,9 @@ mo_stub/ft_mario/fn_91_1428C.c:
 
 mo_stub/ft_mario/fn_91_142B4.c:
 	.text       start:0x000142B4 end:0x000142CC
+
+mo_stub/ft_mario/fs_fn_91_16908.c:
+	.text       start:0x00016908 end:0x00016914
 
 mo_stub/ft_mario/fn_91_16B14.c:
 	.text       start:0x00016B14 end:0x00016B2C

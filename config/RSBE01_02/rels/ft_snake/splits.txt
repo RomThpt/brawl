@@ -17,6 +17,9 @@ mo_stub/ft_snake/fn_122_ABB4.c:
 mo_stub/ft_snake/fn_122_D300.c:
 	.text       start:0x0000D300 end:0x0000D304
 
+mo_stub/ft_snake/fs_fn_122_D580.c:
+	.text       start:0x0000D580 end:0x0000D590
+
 mo_stub/ft_snake/fn_122_EFD0.c:
 	.text       start:0x0000EFD0 end:0x0000EFD4
 
@@ -388,6 +391,9 @@ mo_stub/ft_snake/fn_122_142B4.c:
 
 mo_stub/ft_snake/fn_122_142B8.c:
 	.text       start:0x000142B8 end:0x000142BC
+
+mo_stub/ft_snake/fs_fn_122_145AC.c:
+	.text       start:0x000145AC end:0x000145B8
 
 mo_stub/ft_snake/fn_122_18B68.c:
 	.text       start:0x00018B68 end:0x00018B70

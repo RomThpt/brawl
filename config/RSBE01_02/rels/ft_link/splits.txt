@@ -23,6 +23,9 @@ mo_stub/ft_link/fn_93_AA2C.c:
 mo_stub/ft_link/fn_93_AC04.c:
 	.text       start:0x0000AC04 end:0x0000AC0C
 
+mo_stub/ft_link/fs_fn_93_AC0C.c:
+	.text       start:0x0000AC0C end:0x0000AC1C
+
 mo_stub/ft_link/fn_93_AC1C.c:
 	.text       start:0x0000AC1C end:0x0000AC24
 
@@ -379,6 +382,9 @@ mo_stub/ft_link/fn_93_10F5C.c:
 
 mo_stub/ft_link/fn_93_10FE8.c:
 	.text       start:0x00010FE8 end:0x00010FEC
+
+mo_stub/ft_link/fs_fn_93_13DB8.c:
+	.text       start:0x00013DB8 end:0x00013DC4
 
 mo_stub/ft_link/fn_93_144B0.c:
 	.text       start:0x000144B0 end:0x000144B8

@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_diddy/fn_115_672C.c:
 	.text       start:0x0000672C end:0x00006734
 
+mo_stub/ft_diddy/fs_fn_115_8EF8.c:
+	.text       start:0x00008EF8 end:0x00008F08
+
 mo_stub/ft_diddy/fn_115_9A1C.c:
 	.text       start:0x00009A1C end:0x00009A20
 
@@ -397,6 +400,9 @@ mo_stub/ft_diddy/gl_fn_115_F9E0.c:
 
 mo_stub/ft_diddy/gl_fn_115_1072C.c:
 	.text       start:0x0001072C end:0x0001073C
+
+mo_stub/ft_diddy/fs_fn_115_109EC.c:
+	.text       start:0x000109EC end:0x000109F8
 
 mo_stub/ft_diddy/fn_115_10BA8.c:
 	.text       start:0x00010BA8 end:0x00010BAC

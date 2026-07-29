@@ -11,6 +11,12 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/sora_enemy/fs_fn_41_2354.c:
+	.text       start:0x00002354 end:0x00002360
+
+mo_stub/sora_enemy/fs_fn_41_5AC4.c:
+	.text       start:0x00005AC4 end:0x00005AD4
+
 mo_stub/sora_enemy/fn_41_A868.c:
 	.text       start:0x0000A868 end:0x0000A870
 
@@ -988,6 +994,9 @@ mo_enemy/sora_enemy/cataguard/em_cataguard_param_accesser.cpp:
 	.rodata     start:0x00000F70 end:0x00000F78
 	.data       start:0x0000E438 end:0x0000E4D8
 	.bss        start:0x00000458 end:0x00000470
+
+mo_stub/sora_enemy/fs_fn_41_441BC.c:
+	.text       start:0x000441BC end:0x000441C8
 
 mo_enemy/sora_enemy/wnem/wn_em_report.cpp:
 	.text       start:0x0004833C end:0x0004838C

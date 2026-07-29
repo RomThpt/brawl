@@ -98,6 +98,12 @@ mo_stub/st_dolpic/fn_46_488C.c:
 mo_stub/st_dolpic/dt_fn_46_61D8.c:
 	.text       start:0x000061D8 end:0x00006218
 
+mo_stub/st_dolpic/fs_fn_46_67E0.c:
+	.text       start:0x000067E0 end:0x000067F0
+
+mo_stub/st_dolpic/fs_fn_46_67F0.c:
+	.text       start:0x000067F0 end:0x00006800
+
 mo_stub/st_dolpic/fn_46_6800.c:
 	.text       start:0x00006800 end:0x00006804
 
@@ -109,6 +115,12 @@ mo_stub/st_dolpic/fn_46_6808.c:
 
 mo_stub/st_dolpic/dt_fn_46_6810.c:
 	.text       start:0x00006810 end:0x00006850
+
+mo_stub/st_dolpic/fs_fn_46_6D38.c:
+	.text       start:0x00006D38 end:0x00006D48
+
+mo_stub/st_dolpic/fs_fn_46_6D48.c:
+	.text       start:0x00006D48 end:0x00006D58
 
 mo_stage/mo_stage.cpp:
 	.text       start:0x00007088 end:0x00007124

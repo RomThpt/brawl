@@ -17,11 +17,17 @@ mo_stub/sora_adv_stage/fn_40_44C.c:
 mo_stub/sora_adv_stage/fn_40_45C.c:
 	.text       start:0x0000045C end:0x00000464
 
+mo_stub/sora_adv_stage/fs_fn_40_CF8.c:
+	.text       start:0x00000CF8 end:0x00000D08
+
 mo_stub/sora_adv_stage/fn_40_38B8.c:
 	.text       start:0x000038B8 end:0x000038C0
 
 mo_stub/sora_adv_stage/dt_fn_40_3EB0.c:
 	.text       start:0x00003EB0 end:0x00003EF0
+
+mo_stub/sora_adv_stage/fs_fn_40_3FB8.c:
+	.text       start:0x00003FB8 end:0x00003FC4
 
 mo_stub/sora_adv_stage/fn_40_4408.c:
 	.text       start:0x00004408 end:0x00004414
@@ -1036,6 +1042,9 @@ mo_stub/sora_adv_stage/fn_40_3383C.c:
 
 mo_stub/sora_adv_stage/fn_40_371B4.c:
 	.text       start:0x000371B4 end:0x000371BC
+
+mo_stub/sora_adv_stage/fs_fn_40_38CB4.c:
+	.text       start:0x00038CB4 end:0x00038CC4
 
 mo_stub/sora_adv_stage/pi_fn_40_38CC4.c:
 	.text       start:0x00038CC4 end:0x00038CD4

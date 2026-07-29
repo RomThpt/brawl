@@ -47,6 +47,9 @@ mo_stub/st_earth/fn_66_10BC.c:
 mo_stub/st_earth/fn_66_1804.c:
 	.text       start:0x00001804 end:0x0000180C
 
+mo_stub/st_earth/fs_fn_66_180C.c:
+	.text       start:0x0000180C end:0x0000181C
+
 mo_stub/st_earth/fn_66_29C8.c:
 	.text       start:0x000029C8 end:0x000029E4
 
