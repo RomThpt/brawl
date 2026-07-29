@@ -17,6 +17,9 @@ mo_stub/ft_snake/fn_122_ABB4.c:
 mo_stub/ft_snake/fn_122_D300.c:
 	.text       start:0x0000D300 end:0x0000D304
 
+mo_stub/ft_snake/fc_fn_122_D564.c:
+	.text       start:0x0000D564 end:0x0000D580
+
 mo_stub/ft_snake/fs_fn_122_D580.c:
 	.text       start:0x0000D580 end:0x0000D590
 
@@ -452,6 +455,9 @@ mo_stub/ft_snake/fn_122_18F0C.c:
 mo_stub/ft_snake/fn_122_18F34.c:
 	.text       start:0x00018F34 end:0x00018F4C
 
+mo_stub/ft_snake/bc_fn_122_18F4C.c:
+	.text       start:0x00018F4C end:0x00018F5C
+
 mo_stub/ft_snake/fn_122_18F5C.c:
 	.text       start:0x00018F5C end:0x00018F68
 
@@ -688,6 +694,9 @@ mo_stub/ft_snake/fn_122_2729C.c:
 
 mo_stub/ft_snake/fn_122_272C4.c:
 	.text       start:0x000272C4 end:0x000272CC
+
+mo_stub/ft_snake/fc_fn_122_27980.c:
+	.text       start:0x00027980 end:0x0002799C
 
 mo_fighter/mo_fighter.cpp:
 	.text       start:0x00027B24 end:0x00027BC0

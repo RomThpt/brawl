@@ -356,6 +356,9 @@ mo_stub/ft_toonlink/xm_fn_121_ECB4.c:
 mo_stub/ft_toonlink/xm_fn_121_ECBC.c:
 	.text       start:0x0000ECBC end:0x0000ECC4
 
+mo_stub/ft_toonlink/fc_fn_121_F12C.c:
+	.text       start:0x0000F12C end:0x0000F148
+
 mo_stub/ft_toonlink/fn_121_F224.c:
 	.text       start:0x0000F224 end:0x0000F240
 
@@ -433,6 +436,9 @@ mo_stub/ft_toonlink/fn_121_147F0.c:
 
 mo_stub/ft_toonlink/fn_121_14818.c:
 	.text       start:0x00014818 end:0x00014840
+
+mo_stub/ft_toonlink/bc_fn_121_14840.c:
+	.text       start:0x00014840 end:0x00014850
 
 mo_stub/ft_toonlink/fn_121_14850.c:
 	.text       start:0x00014850 end:0x00014868

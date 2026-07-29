@@ -443,6 +443,9 @@ mo_stub/ft_pit/fn_112_11540.c:
 mo_stub/ft_pit/fn_112_11568.c:
 	.text       start:0x00011568 end:0x00011588
 
+mo_stub/ft_pit/bc_fn_112_11588.c:
+	.text       start:0x00011588 end:0x00011598
+
 mo_stub/ft_pit/fn_112_11598.c:
 	.text       start:0x00011598 end:0x0001159C
 
@@ -616,6 +619,9 @@ mo_stub/ft_pit/xm_fn_112_12720.c:
 
 mo_stub/ft_pit/fn_112_12728.c:
 	.text       start:0x00012728 end:0x00012738
+
+mo_stub/ft_pit/fc_fn_112_12974.c:
+	.text       start:0x00012974 end:0x00012990
 
 mo_stub/ft_pit/fn_112_15EEC.c:
 	.text       start:0x00015EEC end:0x00015EF4

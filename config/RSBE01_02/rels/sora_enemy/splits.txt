@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/sora_enemy/fs_fn_41_2354.c:
 	.text       start:0x00002354 end:0x00002360
 
+mo_stub/sora_enemy/fc_fn_41_534C.c:
+	.text       start:0x0000534C end:0x00005368
+
 mo_stub/sora_enemy/fs_fn_41_5AC4.c:
 	.text       start:0x00005AC4 end:0x00005AD4
 
@@ -118,6 +121,9 @@ mo_stub/sora_enemy/fn_41_C3AC.c:
 
 mo_stub/sora_enemy/fn_41_C3D4.c:
 	.text       start:0x0000C3D4 end:0x0000C3FC
+
+mo_stub/sora_enemy/bc_fn_41_C3FC.c:
+	.text       start:0x0000C3FC end:0x0000C40C
 
 mo_stub/sora_enemy/fn_41_C40C.c:
 	.text       start:0x0000C40C end:0x0000C42C
@@ -353,6 +359,9 @@ mo_stub/sora_enemy/xm_fn_41_27778.c:
 
 mo_stub/sora_enemy/fn_41_27974.c:
 	.text       start:0x00027974 end:0x0002797C
+
+mo_stub/sora_enemy/fc_fn_41_2797C.c:
+	.text       start:0x0002797C end:0x000279A0
 
 mo_stub/sora_enemy/fn_41_279A0.c:
 	.text       start:0x000279A0 end:0x000279A8

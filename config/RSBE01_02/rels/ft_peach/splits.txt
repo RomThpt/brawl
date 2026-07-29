@@ -485,6 +485,9 @@ mo_stub/ft_peach/fn_103_133B0.c:
 mo_stub/ft_peach/fn_103_133D8.c:
 	.text       start:0x000133D8 end:0x000133F0
 
+mo_stub/ft_peach/bc_fn_103_133F0.c:
+	.text       start:0x000133F0 end:0x00013400
+
 mo_stub/ft_peach/fn_103_13400.c:
 	.text       start:0x00013400 end:0x0001340C
 

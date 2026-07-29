@@ -17,6 +17,9 @@ mo_stub/ft_diddy/fn_115_672C.c:
 mo_stub/ft_diddy/fs_fn_115_8EF8.c:
 	.text       start:0x00008EF8 end:0x00008F08
 
+mo_stub/ft_diddy/fc_fn_115_8F08.c:
+	.text       start:0x00008F08 end:0x00008F24
+
 mo_stub/ft_diddy/fn_115_9A1C.c:
 	.text       start:0x00009A1C end:0x00009A20
 
@@ -520,6 +523,9 @@ mo_stub/ft_diddy/fn_115_172FC.c:
 
 mo_stub/ft_diddy/fn_115_17324.c:
 	.text       start:0x00017324 end:0x00017334
+
+mo_stub/ft_diddy/bc_fn_115_17334.c:
+	.text       start:0x00017334 end:0x00017344
 
 mo_stub/ft_diddy/fn_115_17344.c:
 	.text       start:0x00017344 end:0x00017354

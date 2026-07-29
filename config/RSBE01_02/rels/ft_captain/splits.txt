@@ -374,6 +374,9 @@ mo_stub/ft_captain/gl_fn_100_DDA0.c:
 mo_stub/ft_captain/gl_fn_100_DF44.c:
 	.text       start:0x0000DF44 end:0x0000DF54
 
+mo_stub/ft_captain/fc_fn_100_E184.c:
+	.text       start:0x0000E184 end:0x0000E1A0
+
 mo_stub/ft_captain/gl_fn_100_F6CC.c:
 	.text       start:0x0000F6CC end:0x0000F6DC
 
@@ -466,6 +469,9 @@ mo_stub/ft_captain/fn_100_13454.c:
 
 mo_stub/ft_captain/fn_100_1347C.c:
 	.text       start:0x0001347C end:0x0001348C
+
+mo_stub/ft_captain/bc_fn_100_1348C.c:
+	.text       start:0x0001348C end:0x0001349C
 
 mo_stub/ft_captain/fn_100_1349C.c:
 	.text       start:0x0001349C end:0x000134AC

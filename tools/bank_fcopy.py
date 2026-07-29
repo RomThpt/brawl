@@ -44,15 +44,22 @@ def stfs_r3(x):   # stfs f0, off(r3)
 
 
 def classify(a, sz):
-    if sz != 20:
+    if sz < 12 or sz % 4:
         return None
-    w = struct.unpack('>5I', rel[textoff + a:textoff + a + 20])
-    if w[4] != 0x4E800020:
+    pairs = sz // 4 - 1
+    if pairs < 2 or pairs % 2:                      # body is N (lfs;stfs) pairs
         return None
-    if not (lfs_r4(w[0]) and stfs_r3(w[1]) and lfs_r4(w[2]) and stfs_r3(w[3])):
+    n = pairs // 2
+    w = struct.unpack(f'>{sz // 4}I', rel[textoff + a:textoff + a + sz])
+    if w[-1] != 0x4E800020:
         return None
-    return (sign16(w[0] & 0xFFFF), sign16(w[1] & 0xFFFF),
-            sign16(w[2] & 0xFFFF), sign16(w[3] & 0xFFFF))
+    copies = []
+    for i in range(n):
+        ld, st = w[2 * i], w[2 * i + 1]
+        if not (lfs_r4(ld) and stfs_r3(st)):
+            return None
+        copies.append((sign16(st & 0xFFFF), sign16(ld & 0xFFFF)))   # (dst_off, src_off)
+    return copies
 
 
 done = []
@@ -78,13 +85,12 @@ for line in open(os.path.join(ROOT, "config/RSBE01_02/rels", module, "symbols.tx
         continue
     if banked >= maxf:
         break
-    c = classify(a, sz)
-    if not c:
+    copies = classify(a, sz)
+    if not copies:
         continue
-    a0, b0, c0, d0 = c
-    src = (f"void {n}(void* dst, void* src) {{\n"
-           f"    *(float*)((char*)dst + {b0}) = *(float*)((char*)src + {a0});\n"
-           f"    *(float*)((char*)dst + {d0}) = *(float*)((char*)src + {c0});\n}}\n")
+    body = "".join(f"    *(float*)((char*)dst + {d}) = *(float*)((char*)src + {s});\n"
+                   for d, s in copies)
+    src = f"void {n}(void* dst, void* src) {{\n{body}}}\n"
     add_unit_rel.add(module, f"mo_stub/{module}/fc_{n}.c", a, a + sz, src)
     addrs.append(f"{module}:{a:08X}")
     banked += 1

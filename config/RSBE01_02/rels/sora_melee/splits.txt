@@ -852,6 +852,9 @@ mo_stub/sora_melee/fn_27_4EDB8.c:
 mo_stub/sora_melee/fn_27_4EDC0.c:
 	.text       start:0x0004EDC0 end:0x0004EDC8
 
+mo_stub/sora_melee/bc_fn_27_4FA80.c:
+	.text       start:0x0004FA80 end:0x0004FA8C
+
 mo_stub/sora_melee/fn_27_4FA8C.c:
 	.text       start:0x0004FA8C end:0x0004FA94
 
@@ -24500,6 +24503,9 @@ mo_stub/sora_melee/dt_fn_27_1E0D44.c:
 mo_stub/sora_melee/fd_fn_27_1E1EC4.c:
 	.text       start:0x001E1EC4 end:0x001E1ECC
 
+mo_stub/sora_melee/bc_fn_27_1E1F6C.c:
+	.text       start:0x001E1F6C end:0x001E1F7C
+
 mo_stub/sora_melee/fd_fn_27_1E1F7C.c:
 	.text       start:0x001E1F7C end:0x001E1F84
 
@@ -24911,6 +24917,9 @@ mo_stub/sora_melee/fd_entryLocalData__5StageFv.c:
 mo_stub/sora_melee/fd_getZoneLightSetIndex__5StageFv.c:
 	.text       start:0x002227E0 end:0x002227E8
 
+mo_stub/sora_melee/fc_fn_27_222A10.c:
+	.text       start:0x00222A10 end:0x00222A94
+
 mo_stub/sora_melee/fd_isReStartSamePoint__5StageFv.c:
 	.text       start:0x00223494 end:0x0022349C
 
@@ -24922,6 +24931,12 @@ mo_stub/sora_melee/fd_isEnd__5StageFv.c:
 
 mo_stub/sora_melee/fd_isEventEnd__5StageFiPiPi.c:
 	.text       start:0x00224884 end:0x0022488C
+
+mo_stub/sora_melee/fc_restoreMotionRatio__5StageFi.c:
+	.text       start:0x00224914 end:0x00224938
+
+mo_stub/sora_melee/fc_restoreMotionSubRatio__5StageFi.c:
+	.text       start:0x002249B4 end:0x002249D8
 
 mo_stub/sora_melee/fd_startAppear__5StageFv.c:
 	.text       start:0x00224B40 end:0x00224B48
@@ -25043,6 +25058,9 @@ mo_stub/sora_melee/fd_fn_27_2363F8.c:
 mo_melee/sora_melee/st/st_common_gimmick.cpp:
 	.text       start:0x00237C00 end:0x002381FC
 	.data       start:0x0004C748 end:0x0004C96C
+
+mo_stub/sora_melee/bc_fn_27_238DD8.c:
+	.text       start:0x00238DD8 end:0x00238DEC
 
 mo_stub/sora_melee/fd_checkChangeScene__7stMeleeFv.c:
 	.text       start:0x00239AE4 end:0x00239AEC

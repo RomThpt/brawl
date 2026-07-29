@@ -398,6 +398,9 @@ mo_stub/ft_luigi/fn_99_10A4C.c:
 mo_stub/ft_luigi/fn_99_10A74.c:
 	.text       start:0x00010A74 end:0x00010A7C
 
+mo_stub/ft_luigi/bc_fn_99_10A7C.c:
+	.text       start:0x00010A7C end:0x00010A8C
+
 mo_stub/ft_luigi/fn_99_10A8C.c:
 	.text       start:0x00010A8C end:0x00010AA0
 

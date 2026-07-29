@@ -449,6 +449,9 @@ mo_stub/ft_zelda/fn_104_12950.c:
 mo_stub/ft_zelda/fn_104_12978.c:
 	.text       start:0x00012978 end:0x00012990
 
+mo_stub/ft_zelda/bc_fn_104_12990.c:
+	.text       start:0x00012990 end:0x000129A0
+
 mo_stub/ft_zelda/fn_104_129A0.c:
 	.text       start:0x000129A0 end:0x000129AC
 
@@ -646,6 +649,9 @@ mo_stub/ft_zelda/fn_104_1D98C.c:
 
 mo_stub/ft_zelda/fn_104_1D9B4.c:
 	.text       start:0x0001D9B4 end:0x0001D9CC
+
+mo_stub/ft_zelda/fc_fn_104_1E33C.c:
+	.text       start:0x0001E33C end:0x0001E358
 
 mo_stub/ft_zelda/gl_fn_104_1E4C0.c:
 	.text       start:0x0001E4C0 end:0x0001E4D0
