@@ -62,6 +62,9 @@ mo_stub/st_dxonett/gl_fn_78_14A0.c:
 mo_stub/st_dxonett/gl_fn_78_14AC.c:
 	.text       start:0x000014AC end:0x000014B8
 
+mo_stub/st_dxonett/mc_fn_78_14C8.c:
+	.text       start:0x000014C8 end:0x000014DC
+
 mo_stub/st_dxonett/fn_78_14DC.c:
 	.text       start:0x000014DC end:0x000014F4
 

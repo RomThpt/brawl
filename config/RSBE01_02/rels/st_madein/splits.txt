@@ -32,6 +32,9 @@ mo_stub/st_madein/gl_fn_65_6924.c:
 mo_stub/st_madein/gl_fn_65_6930.c:
 	.text       start:0x00006930 end:0x0000693C
 
+mo_stub/st_madein/mc_fn_65_693C.c:
+	.text       start:0x0000693C end:0x00006950
+
 mo_stub/st_madein/fn_65_6950.c:
 	.text       start:0x00006950 end:0x00006970
 

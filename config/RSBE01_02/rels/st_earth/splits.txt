@@ -65,6 +65,9 @@ mo_stub/st_earth/gl_fn_66_2A10.c:
 mo_stub/st_earth/gl_fn_66_2A1C.c:
 	.text       start:0x00002A1C end:0x00002A28
 
+mo_stub/st_earth/mc_fn_66_2A38.c:
+	.text       start:0x00002A38 end:0x00002A4C
+
 mo_stub/st_earth/fn_66_2A4C.c:
 	.text       start:0x00002A4C end:0x00002A54
 

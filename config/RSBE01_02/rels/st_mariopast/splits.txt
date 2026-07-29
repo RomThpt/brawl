@@ -44,6 +44,9 @@ mo_stub/st_mariopast/gl_fn_48_1D58.c:
 mo_stub/st_mariopast/gl_fn_48_1D64.c:
 	.text       start:0x00001D64 end:0x00001D70
 
+mo_stub/st_mariopast/mc_fn_48_1D80.c:
+	.text       start:0x00001D80 end:0x00001D94
+
 mo_stub/st_mariopast/fn_48_1D94.c:
 	.text       start:0x00001D94 end:0x00001DB4
 

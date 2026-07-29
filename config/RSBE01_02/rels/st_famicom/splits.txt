@@ -62,6 +62,9 @@ mo_stub/st_famicom/gl_fn_68_21A0.c:
 mo_stub/st_famicom/gl_fn_68_21AC.c:
 	.text       start:0x000021AC end:0x000021B8
 
+mo_stub/st_famicom/mc_fn_68_21C8.c:
+	.text       start:0x000021C8 end:0x000021DC
+
 mo_stub/st_famicom/fn_68_21DC.c:
 	.text       start:0x000021DC end:0x00002204
 

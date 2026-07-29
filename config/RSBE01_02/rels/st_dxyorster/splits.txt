@@ -38,6 +38,9 @@ mo_stub/st_dxyorster/gl_fn_76_8C0.c:
 mo_stub/st_dxyorster/gl_fn_76_8CC.c:
 	.text       start:0x000008CC end:0x000008D8
 
+mo_stub/st_dxyorster/mc_fn_76_8E8.c:
+	.text       start:0x000008E8 end:0x000008FC
+
 mo_stub/st_dxyorster/fn_76_8FC.c:
 	.text       start:0x000008FC end:0x00000924
 

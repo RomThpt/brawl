@@ -56,6 +56,9 @@ mo_stub/st_croll/gl_fn_90_8354.c:
 mo_stub/st_croll/gl_fn_90_8360.c:
 	.text       start:0x00008360 end:0x0000836C
 
+mo_stub/st_croll/mc_fn_90_837C.c:
+	.text       start:0x0000837C end:0x00008390
+
 mo_stub/st_croll/fn_90_8390.c:
 	.text       start:0x00008390 end:0x000083A0
 

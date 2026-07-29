@@ -38,6 +38,9 @@ mo_stub/st_stadium/gl_fn_59_34A0.c:
 mo_stub/st_stadium/gl_fn_59_34AC.c:
 	.text       start:0x000034AC end:0x000034B8
 
+mo_stub/st_stadium/mc_fn_59_34C8.c:
+	.text       start:0x000034C8 end:0x000034DC
+
 mo_stub/st_stadium/fn_59_34DC.c:
 	.text       start:0x000034DC end:0x000034F4
 
