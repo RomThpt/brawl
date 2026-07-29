@@ -77,6 +77,9 @@ mo_stub/st_dxgreens/fn_79_1B0C.c:
 mo_stub/st_dxgreens/fn_79_1B20.c:
 	.text       start:0x00001B20 end:0x00001B24
 
+mo_stub/st_dxgreens/bg_fn_79_1B44.c:
+	.text       start:0x00001B44 end:0x00001B50
+
 mo_stub/st_dxgreens/fn_79_1B58.c:
 	.text       start:0x00001B58 end:0x00001B64
 

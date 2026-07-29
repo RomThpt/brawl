@@ -104,6 +104,9 @@ mo_stub/st_homerun/fn_88_4360.c:
 mo_stub/st_homerun/fn_88_4424.c:
 	.text       start:0x00004424 end:0x0000443C
 
+mo_stub/st_homerun/bg_fn_88_445C.c:
+	.text       start:0x0000445C end:0x00004468
+
 mo_stub/st_homerun/fn_88_4470.c:
 	.text       start:0x00004470 end:0x0000447C
 

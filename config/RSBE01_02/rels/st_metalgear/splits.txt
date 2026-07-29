@@ -107,6 +107,9 @@ mo_stub/st_metalgear/fn_71_2B44.c:
 mo_stub/st_metalgear/fn_71_2B4C.c:
 	.text       start:0x00002B4C end:0x00002B5C
 
+mo_stub/st_metalgear/bg_fn_71_2B6C.c:
+	.text       start:0x00002B6C end:0x00002B78
+
 mo_stub/st_metalgear/fn_71_2B80.c:
 	.text       start:0x00002B80 end:0x00002B8C
 

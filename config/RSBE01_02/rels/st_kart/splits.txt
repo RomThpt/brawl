@@ -86,6 +86,9 @@ mo_stub/st_kart/fn_49_13A8.c:
 mo_stub/st_kart/fn_49_18A8.c:
 	.text       start:0x000018A8 end:0x000018C0
 
+mo_stub/st_kart/bg_fn_49_18E0.c:
+	.text       start:0x000018E0 end:0x000018EC
+
 mo_stub/st_kart/fn_49_18F4.c:
 	.text       start:0x000018F4 end:0x00001900
 

@@ -68,6 +68,9 @@ mo_stub/st_dxgarden/fn_77_EE8.c:
 mo_stub/st_dxgarden/fn_77_FAC.c:
 	.text       start:0x00000FAC end:0x00000FC4
 
+mo_stub/st_dxgarden/bg_fn_77_FE4.c:
+	.text       start:0x00000FE4 end:0x00000FF0
+
 mo_stub/st_dxgarden/fn_77_FF8.c:
 	.text       start:0x00000FF8 end:0x00001004
 

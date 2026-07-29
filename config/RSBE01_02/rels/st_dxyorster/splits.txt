@@ -71,6 +71,9 @@ mo_stub/st_dxyorster/fn_76_BD8.c:
 mo_stub/st_dxyorster/fn_76_10B4.c:
 	.text       start:0x000010B4 end:0x000010CC
 
+mo_stub/st_dxyorster/bg_fn_76_10EC.c:
+	.text       start:0x000010EC end:0x000010F8
+
 mo_stub/st_dxyorster/fn_76_1100.c:
 	.text       start:0x00001100 end:0x0000110C
 

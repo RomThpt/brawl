@@ -20,6 +20,9 @@ mo_stub/st_tbreak/fn_89_F88.c:
 mo_stub/st_tbreak/fn_89_17A8.c:
 	.text       start:0x000017A8 end:0x000017BC
 
+mo_stub/st_tbreak/bg_fn_89_17DC.c:
+	.text       start:0x000017DC end:0x000017E8
+
 mo_stub/st_tbreak/fn_89_17F0.c:
 	.text       start:0x000017F0 end:0x000017FC
 

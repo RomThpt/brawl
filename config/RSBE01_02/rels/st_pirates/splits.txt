@@ -125,6 +125,9 @@ mo_stub/st_pirates/fn_52_35C8.c:
 mo_stub/st_pirates/fn_52_3694.c:
 	.text       start:0x00003694 end:0x000036AC
 
+mo_stub/st_pirates/bg_fn_52_36CC.c:
+	.text       start:0x000036CC end:0x000036D8
+
 mo_stub/st_pirates/fn_52_36E0.c:
 	.text       start:0x000036E0 end:0x000036EC
 

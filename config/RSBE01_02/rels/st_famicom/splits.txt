@@ -95,6 +95,9 @@ mo_stub/st_famicom/fn_68_2390.c:
 mo_stub/st_famicom/fn_68_2454.c:
 	.text       start:0x00002454 end:0x0000246C
 
+mo_stub/st_famicom/bg_fn_68_247C.c:
+	.text       start:0x0000247C end:0x00002488
+
 mo_stub/st_famicom/fn_68_2490.c:
 	.text       start:0x00002490 end:0x0000249C
 

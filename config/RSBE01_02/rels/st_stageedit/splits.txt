@@ -32,6 +32,9 @@ mo_stub/st_stageedit/fn_85_5178.c:
 mo_stub/st_stageedit/fn_85_5180.c:
 	.text       start:0x00005180 end:0x0000518C
 
+mo_stub/st_stageedit/bg_fn_85_51AC.c:
+	.text       start:0x000051AC end:0x000051B8
+
 mo_stub/st_stageedit/fn_85_51C0.c:
 	.text       start:0x000051C0 end:0x000051D4
 

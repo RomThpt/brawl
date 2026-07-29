@@ -25106,6 +25106,9 @@ mo_stub/sora_melee/fd_adventureEventGetItem__6GroundFiP13stTriggerData.c:
 mo_stub/sora_melee/fd_getInitializeInfo__6GroundFi.c:
 	.text       start:0x00231B78 end:0x00231B80
 
+mo_stub/sora_melee/bg_isEnableCalcCollision__6GroundFv.c:
+	.text       start:0x00231BA4 end:0x00231BB0
+
 mo_stub/sora_melee/fd_fn_27_231D00.c:
 	.text       start:0x00231D00 end:0x00231D08
 
@@ -25211,6 +25214,9 @@ mo_stub/sora_melee/fd_fn_27_256964.c:
 
 mo_stub/sora_melee/fd_fn_27_25696C.c:
 	.text       start:0x0025696C end:0x00256974
+
+mo_stub/sora_melee/bg_fn_27_257528.c:
+	.text       start:0x00257528 end:0x00257534
 
 mo_stub/sora_melee/fd_fn_27_25756C.c:
 	.text       start:0x0025756C end:0x00257574
