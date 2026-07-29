@@ -152,6 +152,9 @@ mo_stub/ft_peach/acc_fn_103_B3D0.c:
 mo_stub/ft_peach/fn_103_C138.c:
 	.text       start:0x0000C138 end:0x0000C13C
 
+mo_stub/ft_peach/fc_fn_103_C174.c:
+	.text       start:0x0000C174 end:0x0000C188
+
 mo_stub/ft_peach/ms_fn_103_C220.c:
 	.text       start:0x0000C220 end:0x0000C22C
 

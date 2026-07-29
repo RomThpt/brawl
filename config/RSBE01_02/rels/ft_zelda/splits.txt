@@ -155,6 +155,9 @@ mo_stub/ft_zelda/acc_fn_104_C020.c:
 mo_stub/ft_zelda/fn_104_CDA8.c:
 	.text       start:0x0000CDA8 end:0x0000CDAC
 
+mo_stub/ft_zelda/fc_fn_104_CDE4.c:
+	.text       start:0x0000CDE4 end:0x0000CDF8
+
 mo_stub/ft_zelda/ms_fn_104_CE90.c:
 	.text       start:0x0000CE90 end:0x0000CE9C
 

@@ -143,6 +143,9 @@ mo_stub/ft_koopa/gl_fn_102_A1DC.c:
 mo_stub/ft_koopa/fn_102_AFE8.c:
 	.text       start:0x0000AFE8 end:0x0000AFEC
 
+mo_stub/ft_koopa/fc_fn_102_B024.c:
+	.text       start:0x0000B024 end:0x0000B038
+
 mo_stub/ft_koopa/ms_fn_102_B0D0.c:
 	.text       start:0x0000B0D0 end:0x0000B0DC
 
@@ -427,6 +430,9 @@ mo_stub/ft_koopa/gl_fn_102_18790.c:
 
 mo_stub/ft_koopa/gl_fn_102_187A0.c:
 	.text       start:0x000187A0 end:0x000187B0
+
+mo_stub/ft_koopa/fc_fn_102_1B788.c:
+	.text       start:0x0001B788 end:0x0001B79C
 
 mo_stub/ft_koopa/fn_102_1BC90.c:
 	.text       start:0x0001BC90 end:0x0001BC98

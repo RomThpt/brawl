@@ -158,6 +158,9 @@ mo_stub/ft_poke/acc_fn_116_BD58.c:
 mo_stub/ft_poke/fn_116_CB00.c:
 	.text       start:0x0000CB00 end:0x0000CB04
 
+mo_stub/ft_poke/fc_fn_116_CB3C.c:
+	.text       start:0x0000CB3C end:0x0000CB50
+
 mo_stub/ft_poke/ms_fn_116_CBE8.c:
 	.text       start:0x0000CBE8 end:0x0000CBF4
 

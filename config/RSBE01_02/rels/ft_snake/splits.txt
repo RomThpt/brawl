@@ -179,6 +179,9 @@ mo_stub/ft_snake/acc_fn_122_11F7C.c:
 mo_stub/ft_snake/fn_122_12C88.c:
 	.text       start:0x00012C88 end:0x00012C8C
 
+mo_stub/ft_snake/fc_fn_122_12CC4.c:
+	.text       start:0x00012CC4 end:0x00012CD8
+
 mo_stub/ft_snake/ms_fn_122_12D70.c:
 	.text       start:0x00012D70 end:0x00012D7C
 

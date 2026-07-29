@@ -146,6 +146,9 @@ mo_stub/ft_donkey/acc_fn_92_AC68.c:
 mo_stub/ft_donkey/fn_92_B9D0.c:
 	.text       start:0x0000B9D0 end:0x0000B9D4
 
+mo_stub/ft_donkey/fc_fn_92_BA0C.c:
+	.text       start:0x0000BA0C end:0x0000BA20
+
 mo_stub/ft_donkey/ms_fn_92_BAB8.c:
 	.text       start:0x0000BAB8 end:0x0000BAC4
 

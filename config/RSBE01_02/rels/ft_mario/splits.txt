@@ -149,6 +149,9 @@ mo_stub/ft_mario/acc_fn_91_BE54.c:
 mo_stub/ft_mario/fn_91_CC18.c:
 	.text       start:0x0000CC18 end:0x0000CC1C
 
+mo_stub/ft_mario/fc_fn_91_CC54.c:
+	.text       start:0x0000CC54 end:0x0000CC68
+
 mo_stub/ft_mario/ms_fn_91_CD00.c:
 	.text       start:0x0000CD00 end:0x0000CD0C
 

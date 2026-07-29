@@ -140,6 +140,9 @@ mo_stub/ft_zako/gl_fn_126_7A5C.c:
 mo_stub/ft_zako/fn_126_87EC.c:
 	.text       start:0x000087EC end:0x000087F0
 
+mo_stub/ft_zako/fc_fn_126_8828.c:
+	.text       start:0x00008828 end:0x0000883C
+
 mo_stub/ft_zako/ms_fn_126_88D4.c:
 	.text       start:0x000088D4 end:0x000088E0
 
