@@ -32,6 +32,9 @@ mo_stub/st_battles/gl_fn_42_40C.c:
 mo_stub/st_battles/gl_fn_42_418.c:
 	.text       start:0x00000418 end:0x00000424
 
+mo_stub/st_battles/mc_fn_42_434.c:
+	.text       start:0x00000434 end:0x00000448
+
 mo_stub/st_battles/fn_42_448.c:
 	.text       start:0x00000448 end:0x00000470
 

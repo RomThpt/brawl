@@ -80,6 +80,9 @@ mo_stub/st_pictchat/gl_fn_73_2A78.c:
 mo_stub/st_pictchat/gl_fn_73_2A84.c:
 	.text       start:0x00002A84 end:0x00002A90
 
+mo_stub/st_pictchat/mc_fn_73_2AA0.c:
+	.text       start:0x00002AA0 end:0x00002AB4
+
 mo_stub/st_pictchat/fn_73_2AB4.c:
 	.text       start:0x00002AB4 end:0x00002ACC
 

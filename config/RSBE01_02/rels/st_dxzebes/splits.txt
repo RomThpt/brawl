@@ -29,6 +29,9 @@ mo_stub/st_dxzebes/gl_fn_84_3E0C.c:
 mo_stub/st_dxzebes/gl_fn_84_3E18.c:
 	.text       start:0x00003E18 end:0x00003E24
 
+mo_stub/st_dxzebes/mc_fn_84_3E34.c:
+	.text       start:0x00003E34 end:0x00003E48
+
 mo_stub/st_dxzebes/fn_84_3E48.c:
 	.text       start:0x00003E48 end:0x00003E50
 

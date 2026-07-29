@@ -53,6 +53,9 @@ mo_stub/st_kart/gl_fn_49_10EC.c:
 mo_stub/st_kart/gl_fn_49_10F8.c:
 	.text       start:0x000010F8 end:0x00001104
 
+mo_stub/st_kart/mc_fn_49_1114.c:
+	.text       start:0x00001114 end:0x00001128
+
 mo_stub/st_kart/fn_49_1128.c:
 	.text       start:0x00001128 end:0x00001150
 

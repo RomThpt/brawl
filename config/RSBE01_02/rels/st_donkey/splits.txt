@@ -56,6 +56,9 @@ mo_stub/st_donkey/gl_fn_50_1D80.c:
 mo_stub/st_donkey/gl_fn_50_1D8C.c:
 	.text       start:0x00001D8C end:0x00001D98
 
+mo_stub/st_donkey/mc_fn_50_1DA8.c:
+	.text       start:0x00001DA8 end:0x00001DBC
+
 mo_stub/st_donkey/fn_50_1DBC.c:
 	.text       start:0x00001DBC end:0x00001DCC
 

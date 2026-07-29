@@ -95,6 +95,9 @@ mo_stub/st_pirates/gl_fn_52_33EC.c:
 mo_stub/st_pirates/gl_fn_52_33F8.c:
 	.text       start:0x000033F8 end:0x00003404
 
+mo_stub/st_pirates/mc_fn_52_3414.c:
+	.text       start:0x00003414 end:0x00003428
+
 mo_stub/st_pirates/fn_52_3428.c:
 	.text       start:0x00003428 end:0x00003448
 

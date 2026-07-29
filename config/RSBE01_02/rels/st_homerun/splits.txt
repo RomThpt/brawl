@@ -68,6 +68,9 @@ mo_stub/st_homerun/gl_fn_88_4130.c:
 mo_stub/st_homerun/gl_fn_88_413C.c:
 	.text       start:0x0000413C end:0x00004148
 
+mo_stub/st_homerun/mc_fn_88_4158.c:
+	.text       start:0x00004158 end:0x0000416C
+
 mo_stub/st_homerun/fn_88_416C.c:
 	.text       start:0x0000416C end:0x0000417C
 
