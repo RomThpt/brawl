@@ -83,6 +83,9 @@ mo_stub/st_plankton/fn_74_2F2C.c:
 mo_stub/st_plankton/fn_74_2F40.c:
 	.text       start:0x00002F40 end:0x00002F44
 
+mo_stub/st_plankton/bg_fn_74_2F64.c:
+	.text       start:0x00002F64 end:0x00002F70
+
 mo_stub/st_plankton/fn_74_2F78.c:
 	.text       start:0x00002F78 end:0x00002F84
 

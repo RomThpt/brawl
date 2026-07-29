@@ -101,6 +101,9 @@ mo_stub/st_halberd/fn_57_3A44.c:
 mo_stub/st_halberd/fn_57_3A4C.c:
 	.text       start:0x00003A4C end:0x00003A5C
 
+mo_stub/st_halberd/bg_fn_57_3A7C.c:
+	.text       start:0x00003A7C end:0x00003A88
+
 mo_stub/st_halberd/fn_57_3A90.c:
 	.text       start:0x00003A90 end:0x00003A9C
 

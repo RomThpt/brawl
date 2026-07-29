@@ -101,6 +101,9 @@ mo_stub/st_mansion/fn_47_19D0.c:
 mo_stub/st_mansion/fn_47_19E0.c:
 	.text       start:0x000019E0 end:0x000019E8
 
+mo_stub/st_mansion/bg_fn_47_1A08.c:
+	.text       start:0x00001A08 end:0x00001A14
+
 mo_stub/st_mansion/fn_47_1A1C.c:
 	.text       start:0x00001A1C end:0x00001A28
 

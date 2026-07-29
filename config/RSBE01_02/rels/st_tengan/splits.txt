@@ -77,6 +77,9 @@ mo_stub/st_tengan/fn_60_6528.c:
 mo_stub/st_tengan/fn_60_6530.c:
 	.text       start:0x00006530 end:0x00006548
 
+mo_stub/st_tengan/bg_fn_60_6568.c:
+	.text       start:0x00006568 end:0x00006574
+
 mo_stub/st_tengan/fn_60_657C.c:
 	.text       start:0x0000657C end:0x00006580
 

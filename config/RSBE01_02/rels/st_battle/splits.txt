@@ -71,6 +71,9 @@ mo_stub/st_battle/fn_43_ADC.c:
 mo_stub/st_battle/fn_43_AF0.c:
 	.text       start:0x00000AF0 end:0x00000AF8
 
+mo_stub/st_battle/bg_fn_43_B18.c:
+	.text       start:0x00000B18 end:0x00000B24
+
 mo_stub/st_battle/fn_43_B2C.c:
 	.text       start:0x00000B2C end:0x00000B40
 

@@ -77,6 +77,9 @@ mo_stub/st_greenhill/fn_72_1128.c:
 mo_stub/st_greenhill/fn_72_1A40.c:
 	.text       start:0x00001A40 end:0x00001A58
 
+mo_stub/st_greenhill/bg_fn_72_1A78.c:
+	.text       start:0x00001A78 end:0x00001A84
+
 mo_stub/st_greenhill/fn_72_1A8C.c:
 	.text       start:0x00001A8C end:0x00001A98
 

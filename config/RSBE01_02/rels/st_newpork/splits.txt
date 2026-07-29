@@ -65,6 +65,9 @@ mo_stub/st_newpork/fn_69_2EDC.c:
 mo_stub/st_newpork/fn_69_2EF0.c:
 	.text       start:0x00002EF0 end:0x00002EF4
 
+mo_stub/st_newpork/bg_fn_69_2F14.c:
+	.text       start:0x00002F14 end:0x00002F20
+
 mo_stub/st_newpork/fn_69_2F28.c:
 	.text       start:0x00002F28 end:0x00002F34
 
