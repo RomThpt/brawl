@@ -395,6 +395,9 @@ mo_stub/ft_captain/gl_fn_100_F71C.c:
 mo_stub/ft_captain/gl_fn_100_F72C.c:
 	.text       start:0x0000F72C end:0x0000F73C
 
+mo_stub/ft_captain/is_fn_100_10D90.c:
+	.text       start:0x00010D90 end:0x00010D9C
+
 mo_stub/ft_captain/fn_100_130B0.c:
 	.text       start:0x000130B0 end:0x000130B8
 

@@ -665,6 +665,12 @@ mo_stub/st_gw/xm_fn_63_FBA8.c:
 mo_stub/st_gw/xm_fn_63_FBB0.c:
 	.text       start:0x0000FBB0 end:0x0000FBB8
 
+mo_stub/st_gw/is_fn_63_10A1C.c:
+	.text       start:0x00010A1C end:0x00010A28
+
+mo_stub/st_gw/is_fn_63_10A28.c:
+	.text       start:0x00010A28 end:0x00010A34
+
 mo_stub/st_gw/pi_fn_63_10A34.c:
 	.text       start:0x00010A34 end:0x00010A44
 

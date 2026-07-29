@@ -146,6 +146,12 @@ mo_stub/st_ice/fn_62_541C.c:
 mo_stub/st_ice/dt_fn_62_5420.c:
 	.text       start:0x00005420 end:0x00005460
 
+mo_stub/st_ice/is_fn_62_5510.c:
+	.text       start:0x00005510 end:0x0000551C
+
+mo_stub/st_ice/is_fn_62_551C.c:
+	.text       start:0x0000551C end:0x00005528
+
 mo_stub/st_ice/pi_fn_62_5528.c:
 	.text       start:0x00005528 end:0x00005538
 

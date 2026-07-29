@@ -152,6 +152,12 @@ mo_stub/st_dxonett/fn_78_4A8C.c:
 mo_stub/st_dxonett/dt_fn_78_4A90.c:
 	.text       start:0x00004A90 end:0x00004AD0
 
+mo_stub/st_dxonett/is_fn_78_4B80.c:
+	.text       start:0x00004B80 end:0x00004B8C
+
+mo_stub/st_dxonett/is_fn_78_4B8C.c:
+	.text       start:0x00004B8C end:0x00004B98
+
 mo_stub/st_dxonett/pi_fn_78_4B98.c:
 	.text       start:0x00004B98 end:0x00004BA8
 
