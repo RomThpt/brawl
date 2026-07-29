@@ -479,6 +479,9 @@ mo_stub/ft_donkey/fn_92_12B28.c:
 mo_stub/ft_donkey/fn_92_12B78.c:
 	.text       start:0x00012B78 end:0x00012B7C
 
+mo_stub/ft_donkey/ci_fn_92_12BBC.c:
+	.text       start:0x00012BBC end:0x00012BD4
+
 mo_stub/ft_donkey/fn_92_12C80.c:
 	.text       start:0x00012C80 end:0x00012C90
 
@@ -592,6 +595,9 @@ mo_stub/ft_donkey/fn_92_12DD8.c:
 
 mo_stub/ft_donkey/fn_92_15208.c:
 	.text       start:0x00015208 end:0x00015210
+
+mo_stub/ft_donkey/ci_fn_92_153E0.c:
+	.text       start:0x000153E0 end:0x000153F8
 
 mo_stub/ft_donkey/fn_92_154A4.c:
 	.text       start:0x000154A4 end:0x000154B4

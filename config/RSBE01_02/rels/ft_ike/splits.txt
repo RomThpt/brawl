@@ -461,6 +461,9 @@ mo_stub/ft_ike/fn_119_1365C.c:
 mo_stub/ft_ike/fn_119_136AC.c:
 	.text       start:0x000136AC end:0x000136B0
 
+mo_stub/ft_ike/ci_fn_119_136F0.c:
+	.text       start:0x000136F0 end:0x00013708
+
 mo_stub/ft_ike/fn_119_137B4.c:
 	.text       start:0x000137B4 end:0x000137BC
 

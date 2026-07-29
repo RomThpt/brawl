@@ -524,6 +524,9 @@ mo_stub/ft_ganon/fn_109_11A20.c:
 mo_stub/ft_ganon/fn_109_11A70.c:
 	.text       start:0x00011A70 end:0x00011A74
 
+mo_stub/ft_ganon/ci_fn_109_11AB4.c:
+	.text       start:0x00011AB4 end:0x00011ACC
+
 mo_stub/ft_ganon/fn_109_11B78.c:
 	.text       start:0x00011B78 end:0x00011B90
 
