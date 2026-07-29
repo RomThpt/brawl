@@ -155,6 +155,9 @@ mo_stub/ft_lucas/acc_fn_114_E918.c:
 mo_stub/ft_lucas/fn_114_F680.c:
 	.text       start:0x0000F680 end:0x0000F684
 
+mo_stub/ft_lucas/fc_fn_114_F6BC.c:
+	.text       start:0x0000F6BC end:0x0000F6D0
+
 mo_stub/ft_lucas/ms_fn_114_F768.c:
 	.text       start:0x0000F768 end:0x0000F774
 

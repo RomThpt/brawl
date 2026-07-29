@@ -161,6 +161,9 @@ mo_stub/ft_toonlink/acc_fn_121_CD44.c:
 mo_stub/ft_toonlink/fn_121_DAAC.c:
 	.text       start:0x0000DAAC end:0x0000DAB0
 
+mo_stub/ft_toonlink/fc_fn_121_DAE8.c:
+	.text       start:0x0000DAE8 end:0x0000DAFC
+
 mo_stub/ft_toonlink/ms_fn_121_DB94.c:
 	.text       start:0x0000DB94 end:0x0000DBA0
 

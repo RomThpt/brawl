@@ -28809,6 +28809,9 @@ mo_stub/sora_melee/gl_fn_27_3312B0.c:
 mo_stub/sora_melee/dt_fn_27_3312C0.c:
 	.text       start:0x003312C0 end:0x00331300
 
+mo_stub/sora_melee/fc_fn_27_331AF0.c:
+	.text       start:0x00331AF0 end:0x00331B04
+
 mo_stub/sora_melee/dt_fn_27_333E30.c:
 	.text       start:0x00333E30 end:0x00333E70
 

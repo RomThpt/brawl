@@ -152,6 +152,9 @@ mo_stub/ft_ness/acc_fn_101_F0B8.c:
 mo_stub/ft_ness/fn_101_FE20.c:
 	.text       start:0x0000FE20 end:0x0000FE24
 
+mo_stub/ft_ness/fc_fn_101_FE5C.c:
+	.text       start:0x0000FE5C end:0x0000FE70
+
 mo_stub/ft_ness/ms_fn_101_FF08.c:
 	.text       start:0x0000FF08 end:0x0000FF14
 
