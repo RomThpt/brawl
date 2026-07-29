@@ -425,6 +425,9 @@ mo_stub/ft_pikachu/fn_98_14B10.c:
 mo_stub/ft_pikachu/fn_98_14B18.c:
 	.text       start:0x00014B18 end:0x00014B20
 
+mo_stub/ft_pikachu/bb_fn_98_14B44.c:
+	.text       start:0x00014B44 end:0x00014B54
+
 mo_stub/ft_pikachu/fn_98_14B70.c:
 	.text       start:0x00014B70 end:0x00014B80
 

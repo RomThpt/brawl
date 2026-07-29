@@ -392,6 +392,9 @@ mo_stub/ft_sonic/fc_fn_123_13A1C.c:
 mo_stub/ft_sonic/fn_123_13D44.c:
 	.text       start:0x00013D44 end:0x00013D54
 
+mo_stub/ft_sonic/bb_fn_123_13D78.c:
+	.text       start:0x00013D78 end:0x00013D88
+
 mo_stub/ft_sonic/fn_123_13DA4.c:
 	.text       start:0x00013DA4 end:0x00013DB4
 

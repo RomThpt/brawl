@@ -494,6 +494,9 @@ mo_stub/ft_pikmin/fn_113_183C0.c:
 mo_stub/ft_pikmin/fn_113_1BBD8.c:
 	.text       start:0x0001BBD8 end:0x0001BBE8
 
+mo_stub/ft_pikmin/bb_fn_113_1BC0C.c:
+	.text       start:0x0001BC0C end:0x0001BC1C
+
 mo_stub/ft_pikmin/fn_113_1BC38.c:
 	.text       start:0x0001BC38 end:0x0001BC48
 

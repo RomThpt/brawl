@@ -404,6 +404,9 @@ mo_stub/ft_robot/fc_fn_120_13860.c:
 mo_stub/ft_robot/fn_120_13954.c:
 	.text       start:0x00013954 end:0x00013964
 
+mo_stub/ft_robot/bb_fn_120_13988.c:
+	.text       start:0x00013988 end:0x00013998
+
 mo_stub/ft_robot/fn_120_139B4.c:
 	.text       start:0x000139B4 end:0x000139C4
 

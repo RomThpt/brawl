@@ -401,6 +401,9 @@ mo_stub/ft_lucas/gl_fn_114_12D44.c:
 mo_stub/ft_lucas/fn_114_157D0.c:
 	.text       start:0x000157D0 end:0x000157D8
 
+mo_stub/ft_lucas/bb_fn_114_157FC.c:
+	.text       start:0x000157FC end:0x0001580C
+
 mo_stub/ft_lucas/fn_114_15828.c:
 	.text       start:0x00015828 end:0x00015838
 

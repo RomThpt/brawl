@@ -407,6 +407,9 @@ mo_stub/ft_captain/fn_100_130B0.c:
 mo_stub/ft_captain/fn_100_130B8.c:
 	.text       start:0x000130B8 end:0x000130C8
 
+mo_stub/ft_captain/bb_fn_100_130EC.c:
+	.text       start:0x000130EC end:0x000130FC
+
 mo_stub/ft_captain/fn_100_13118.c:
 	.text       start:0x00013118 end:0x00013128
 

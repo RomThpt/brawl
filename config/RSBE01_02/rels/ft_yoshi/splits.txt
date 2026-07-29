@@ -425,6 +425,9 @@ mo_stub/ft_yoshi/fs_fn_95_1473C.c:
 mo_stub/ft_yoshi/fn_95_172AC.c:
 	.text       start:0x000172AC end:0x000172BC
 
+mo_stub/ft_yoshi/bb_fn_95_172E0.c:
+	.text       start:0x000172E0 end:0x000172F0
+
 mo_stub/ft_yoshi/fn_95_172F0.c:
 	.text       start:0x000172F0 end:0x00017300
 
