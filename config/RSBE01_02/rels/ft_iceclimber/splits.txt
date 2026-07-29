@@ -419,6 +419,9 @@ mo_stub/ft_iceclimber/gl_fn_105_16174.c:
 mo_stub/ft_iceclimber/fn_105_18158.c:
 	.text       start:0x00018158 end:0x00018168
 
+mo_stub/ft_iceclimber/bb_fn_105_1818C.c:
+	.text       start:0x0001818C end:0x0001819C
+
 mo_stub/ft_iceclimber/fn_105_181B8.c:
 	.text       start:0x000181B8 end:0x000181C0
 

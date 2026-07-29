@@ -440,6 +440,9 @@ mo_stub/ft_wario/fn_110_10304.c:
 mo_stub/ft_wario/fn_110_128F8.c:
 	.text       start:0x000128F8 end:0x00012910
 
+mo_stub/ft_wario/bb_fn_110_12934.c:
+	.text       start:0x00012934 end:0x00012944
+
 mo_stub/ft_wario/fn_110_12960.c:
 	.text       start:0x00012960 end:0x00012968
 

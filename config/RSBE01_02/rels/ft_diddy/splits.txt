@@ -464,6 +464,9 @@ mo_stub/ft_diddy/fn_115_16AC4.c:
 mo_stub/ft_diddy/fn_115_16F80.c:
 	.text       start:0x00016F80 end:0x00016F90
 
+mo_stub/ft_diddy/bb_fn_115_16FB4.c:
+	.text       start:0x00016FB4 end:0x00016FC4
+
 mo_stub/ft_diddy/fn_115_16FE0.c:
 	.text       start:0x00016FE0 end:0x00016FE8
 

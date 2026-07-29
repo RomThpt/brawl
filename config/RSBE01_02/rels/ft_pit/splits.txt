@@ -365,6 +365,9 @@ mo_stub/ft_pit/fn_112_EF54.c:
 mo_stub/ft_pit/fn_112_110C0.c:
 	.text       start:0x000110C0 end:0x000110D0
 
+mo_stub/ft_pit/bb_fn_112_110F4.c:
+	.text       start:0x000110F4 end:0x00011104
+
 mo_stub/ft_pit/fn_112_11120.c:
 	.text       start:0x00011120 end:0x00011130
 

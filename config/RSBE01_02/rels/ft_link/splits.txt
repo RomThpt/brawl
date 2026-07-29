@@ -389,6 +389,9 @@ mo_stub/ft_link/fn_93_10FE8.c:
 mo_stub/ft_link/fs_fn_93_13DB8.c:
 	.text       start:0x00013DB8 end:0x00013DC4
 
+mo_stub/ft_link/bb_fn_93_144A0.c:
+	.text       start:0x000144A0 end:0x000144B0
+
 mo_stub/ft_link/fn_93_144B0.c:
 	.text       start:0x000144B0 end:0x000144B8
 

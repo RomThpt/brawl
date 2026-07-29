@@ -398,6 +398,9 @@ mo_stub/ft_ness/gl_fn_101_131EC.c:
 mo_stub/ft_ness/fn_101_15C78.c:
 	.text       start:0x00015C78 end:0x00015C88
 
+mo_stub/ft_ness/bb_fn_101_15CAC.c:
+	.text       start:0x00015CAC end:0x00015CBC
+
 mo_stub/ft_ness/fn_101_15CD8.c:
 	.text       start:0x00015CD8 end:0x00015CE8
 

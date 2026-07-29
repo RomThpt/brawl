@@ -422,6 +422,9 @@ mo_stub/ft_peach/gl_fn_103_1087C.c:
 mo_stub/ft_peach/fn_103_1301C.c:
 	.text       start:0x0001301C end:0x0001302C
 
+mo_stub/ft_peach/bb_fn_103_13050.c:
+	.text       start:0x00013050 end:0x00013060
+
 mo_stub/ft_peach/fn_103_1307C.c:
 	.text       start:0x0001307C end:0x0001308C
 

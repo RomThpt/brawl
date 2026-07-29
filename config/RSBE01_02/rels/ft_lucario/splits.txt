@@ -437,6 +437,9 @@ mo_stub/ft_lucario/gl_fn_118_1184C.c:
 mo_stub/ft_lucario/fn_118_139F0.c:
 	.text       start:0x000139F0 end:0x00013A00
 
+mo_stub/ft_lucario/bb_fn_118_13A24.c:
+	.text       start:0x00013A24 end:0x00013A34
+
 mo_stub/ft_lucario/fn_118_13A50.c:
 	.text       start:0x00013A50 end:0x00013A60
 
