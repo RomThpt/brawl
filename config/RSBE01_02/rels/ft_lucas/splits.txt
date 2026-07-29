@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_lucas/fn_114_8BC0.c:
 	.text       start:0x00008BC0 end:0x00008BC8
 
+mo_stub/ft_lucas/fc_fn_114_B6C0.c:
+	.text       start:0x0000B6C0 end:0x0000B6DC
+
 mo_stub/ft_lucas/fn_114_C6AC.c:
 	.text       start:0x0000C6AC end:0x0000C6B4
 
@@ -512,6 +515,9 @@ mo_stub/ft_lucas/fn_114_15C84.c:
 mo_stub/ft_lucas/fn_114_15CAC.c:
 	.text       start:0x00015CAC end:0x00015CB4
 
+mo_stub/ft_lucas/bc_fn_114_15CB4.c:
+	.text       start:0x00015CB4 end:0x00015CC4
+
 mo_stub/ft_lucas/fn_114_15CC4.c:
 	.text       start:0x00015CC4 end:0x00015CD8
 
@@ -676,6 +682,9 @@ mo_stub/ft_lucas/gl_fn_114_1A18C.c:
 
 mo_stub/ft_lucas/fn_114_1C0FC.c:
 	.text       start:0x0001C0FC end:0x0001C104
+
+mo_stub/ft_lucas/fc_fn_114_1C204.c:
+	.text       start:0x0001C204 end:0x0001C220
 
 mo_stub/ft_lucas/ci_fn_114_1C260.c:
 	.text       start:0x0001C260 end:0x0001C278

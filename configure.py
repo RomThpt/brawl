@@ -1107,6 +1107,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_captain/ci_fn_100_13568.c"),
             Object(Matching, "mo_stub/ft_captain/fs_fn_100_CC84.c"),
             Object(Matching, "mo_stub/ft_captain/is_fn_100_10D90.c"),
+            Object(Matching, "mo_stub/ft_captain/fc_fn_100_E184.c"),
+            Object(Matching, "mo_stub/ft_captain/bc_fn_100_1348C.c"),
         ],
     },
     {
@@ -1355,6 +1357,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_dedede/fs_fn_117_92AC.c"),
             Object(Matching, "mo_stub/ft_dedede/fs_fn_117_15158.c"),
             Object(Matching, "mo_stub/ft_dedede/is_fn_117_10DC8.c"),
+            Object(Matching, "mo_stub/ft_dedede/fc_fn_117_8E7C.c"),
+            Object(Matching, "mo_stub/ft_dedede/bc_fn_117_1A5E4.c"),
         ],
     },
     {
@@ -1609,6 +1613,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_diddy/fs_fn_115_8EF8.c"),
             Object(Matching, "mo_stub/ft_diddy/fs_fn_115_109EC.c"),
             Object(Matching, "mo_stub/ft_diddy/is_fn_115_E708.c"),
+            Object(Matching, "mo_stub/ft_diddy/fc_fn_115_8F08.c"),
+            Object(Matching, "mo_stub/ft_diddy/bc_fn_115_17334.c"),
         ],
     },
     {
@@ -1811,6 +1817,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_donkey/ci_fn_92_12BBC.c"),
             Object(Matching, "mo_stub/ft_donkey/ci_fn_92_153E0.c"),
             Object(Matching, "mo_stub/ft_donkey/fs_fn_92_D29C.c"),
+            Object(Matching, "mo_stub/ft_donkey/fc_fn_92_15384.c"),
+            Object(Matching, "mo_stub/ft_donkey/bc_fn_92_12AE0.c"),
         ],
     },
     {
@@ -1984,6 +1992,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_falco/fc_fn_108_D630.c"),
             Object(Matching, "mo_stub/ft_falco/ci_fn_108_10DB8.c"),
             Object(Matching, "mo_stub/ft_falco/fs_fn_108_AA84.c"),
+            Object(Matching, "mo_stub/ft_falco/fc_fn_108_A1C8.c"),
+            Object(Matching, "mo_stub/ft_falco/bc_fn_108_10CDC.c"),
         ],
     },
     {
@@ -2165,6 +2175,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_fox/ii_fn_97_B410.c"),
             Object(Matching, "mo_stub/ft_fox/fc_fn_97_D7C0.c"),
             Object(Matching, "mo_stub/ft_fox/ci_fn_97_10DC0.c"),
+            Object(Matching, "mo_stub/ft_fox/fc_fn_97_A308.c"),
+            Object(Matching, "mo_stub/ft_fox/bc_fn_97_10CE4.c"),
         ],
     },
     {
@@ -2371,6 +2383,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_gamewatch/ci_fn_107_1FA3C.c"),
             Object(Matching, "mo_stub/ft_gamewatch/fs_fn_107_B444.c"),
             Object(Matching, "mo_stub/ft_gamewatch/is_fn_107_FE3C.c"),
+            Object(Matching, "mo_stub/ft_gamewatch/fc_fn_107_B454.c"),
+            Object(Matching, "mo_stub/ft_gamewatch/fc_fn_107_1AE80.c"),
+            Object(Matching, "mo_stub/ft_gamewatch/bc_fn_107_168B4.c"),
         ],
     },
     {
@@ -2587,6 +2602,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_ganon/fc_fn_109_B180.c"),
             Object(Matching, "mo_stub/ft_ganon/ci_fn_109_11AB4.c"),
             Object(Matching, "mo_stub/ft_ganon/fs_fn_109_8B54.c"),
+            Object(Matching, "mo_stub/ft_ganon/bc_fn_109_119D4.c"),
         ],
     },
     {
@@ -2832,6 +2848,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_iceclimber/ci_fn_105_1EA54.c"),
             Object(Matching, "mo_stub/ft_iceclimber/fs_fn_105_BD70.c"),
             Object(Matching, "mo_stub/ft_iceclimber/fs_fn_105_C1C0.c"),
+            Object(Matching, "mo_stub/ft_iceclimber/bc_fn_105_1852C.c"),
         ],
     },
     {
@@ -3028,6 +3045,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_ike/ci_fn_119_136F0.c"),
             Object(Matching, "mo_stub/ft_ike/fs_fn_119_8F00.c"),
             Object(Matching, "mo_stub/ft_ike/is_fn_119_C604.c"),
+            Object(Matching, "mo_stub/ft_ike/fc_fn_119_7C40.c"),
+            Object(Matching, "mo_stub/ft_ike/bc_fn_119_13614.c"),
         ],
     },
     {
@@ -3333,6 +3352,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_kirby/ci_fn_96_2AE50.c"),
             Object(Matching, "mo_stub/ft_kirby/fs_fn_96_BC54.c"),
             Object(Matching, "mo_stub/ft_kirby/is_fn_96_16144.c"),
+            Object(Matching, "mo_stub/ft_kirby/fc_fn_96_14960.c"),
+            Object(Matching, "mo_stub/ft_kirby/bc_fn_96_23D84.c"),
         ],
     },
     {
@@ -3743,6 +3764,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_link/ci_fn_93_185B0.c"),
             Object(Matching, "mo_stub/ft_link/fs_fn_93_AC0C.c"),
             Object(Matching, "mo_stub/ft_link/fs_fn_93_13DB8.c"),
+            Object(Matching, "mo_stub/ft_link/fc_fn_93_F174.c"),
+            Object(Matching, "mo_stub/ft_link/bc_fn_93_147F4.c"),
         ],
     },
     {
@@ -3958,6 +3981,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_lucario/ci_fn_118_13E80.c"),
             Object(Matching, "mo_stub/ft_lucario/fs_fn_118_8DF0.c"),
             Object(Matching, "mo_stub/ft_lucario/fs_fn_118_DCAC.c"),
+            Object(Matching, "mo_stub/ft_lucario/fc_fn_118_933C.c"),
+            Object(Matching, "mo_stub/ft_lucario/bc_fn_118_13DA4.c"),
         ],
     },
     {
@@ -4194,6 +4219,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_lucas/ci_fn_114_20C40.c"),
             Object(Matching, "mo_stub/ft_lucas/fs_fn_114_12B94.c"),
             Object(Matching, "mo_stub/ft_lucas/fs_fn_114_18C84.c"),
+            Object(Matching, "mo_stub/ft_lucas/fc_fn_114_B6C0.c"),
+            Object(Matching, "mo_stub/ft_lucas/fc_fn_114_1C204.c"),
+            Object(Matching, "mo_stub/ft_lucas/bc_fn_114_15CB4.c"),
         ],
     },
     {
@@ -4368,6 +4396,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_luigi/fc_fn_99_AA80.c"),
             Object(Matching, "mo_stub/ft_luigi/ci_fn_99_10B58.c"),
             Object(Matching, "mo_stub/ft_luigi/fs_fn_99_C610.c"),
+            Object(Matching, "mo_stub/ft_luigi/bc_fn_99_10A7C.c"),
         ],
     },
     {
@@ -4562,6 +4591,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_mario/ci_fn_91_18F84.c"),
             Object(Matching, "mo_stub/ft_mario/fs_fn_91_E60C.c"),
             Object(Matching, "mo_stub/ft_mario/fs_fn_91_16908.c"),
+            Object(Matching, "mo_stub/ft_mario/fc_fn_91_169EC.c"),
+            Object(Matching, "mo_stub/ft_mario/bc_fn_91_10338.c"),
         ],
     },
     {
@@ -4842,6 +4873,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_metaknight/fc_fn_111_A628.c"),
             Object(Matching, "mo_stub/ft_metaknight/ci_fn_111_11080.c"),
             Object(Matching, "mo_stub/ft_metaknight/fs_fn_111_CB38.c"),
+            Object(Matching, "mo_stub/ft_metaknight/bc_fn_111_10FA4.c"),
         ],
     },
     {
@@ -5087,6 +5119,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_ness/ci_fn_101_23D2C.c"),
             Object(Matching, "mo_stub/ft_ness/fs_fn_101_1303C.c"),
             Object(Matching, "mo_stub/ft_ness/fs_fn_101_19134.c"),
+            Object(Matching, "mo_stub/ft_ness/fc_fn_101_BD60.c"),
+            Object(Matching, "mo_stub/ft_ness/fc_fn_101_1C628.c"),
+            Object(Matching, "mo_stub/ft_ness/bc_fn_101_16164.c"),
         ],
     },
     {
@@ -5288,6 +5323,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_peach/ci_fn_103_134CC.c"),
             Object(Matching, "mo_stub/ft_peach/fs_fn_103_9594.c"),
             Object(Matching, "mo_stub/ft_peach/is_fn_103_10870.c"),
+            Object(Matching, "mo_stub/ft_peach/bc_fn_103_133F0.c"),
         ],
     },
     {
@@ -5508,6 +5544,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikachu/fs_fn_98_F034.c"),
             Object(Matching, "mo_stub/ft_pikachu/fs_fn_98_F5B0.c"),
             Object(Matching, "mo_stub/ft_pikachu/fs_fn_98_F5C0.c"),
+            Object(Matching, "mo_stub/ft_pikachu/fc_fn_98_14584.c"),
+            Object(Matching, "mo_stub/ft_pikachu/bc_fn_98_14EE4.c"),
         ],
     },
     {
@@ -5807,6 +5845,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pikmin/ci_fn_113_2D560.c"),
             Object(Matching, "mo_stub/ft_pikmin/fs_fn_113_A1D0.c"),
             Object(Matching, "mo_stub/ft_pikmin/fs_fn_113_C30C.c"),
+            Object(Matching, "mo_stub/ft_pikmin/fc_fn_113_2D374.c"),
+            Object(Matching, "mo_stub/ft_pikmin/bc_fn_113_1C084.c"),
         ],
     },
     {
@@ -6019,6 +6059,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_pit/ci_fn_112_116C8.c"),
             Object(Matching, "mo_stub/ft_pit/ci_fn_112_16AFC.c"),
             Object(Matching, "mo_stub/ft_pit/fs_fn_112_9F54.c"),
+            Object(Matching, "mo_stub/ft_pit/fc_fn_112_12974.c"),
+            Object(Matching, "mo_stub/ft_pit/bc_fn_112_11588.c"),
         ],
     },
     {
@@ -6261,6 +6303,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_poke/ci_fn_116_26634.c"),
             Object(Matching, "mo_stub/ft_poke/fs_fn_116_971C.c"),
             Object(Matching, "mo_stub/ft_poke/fs_fn_116_13834.c"),
+            Object(Matching, "mo_stub/ft_poke/fc_fn_116_10A30.c"),
+            Object(Matching, "mo_stub/ft_poke/bc_fn_116_11518.c"),
         ],
     },
     {
@@ -6525,6 +6569,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_robot/fc_fn_120_BDBC.c"),
             Object(Matching, "mo_stub/ft_robot/fs_fn_120_8718.c"),
             Object(Matching, "mo_stub/ft_robot/is_fn_120_CCF4.c"),
+            Object(Matching, "mo_stub/ft_robot/fc_fn_120_13860.c"),
+            Object(Matching, "mo_stub/ft_robot/bc_fn_120_13D28.c"),
         ],
     },
     {
@@ -6731,6 +6777,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_samus/fs_fn_94_94E0.c"),
             Object(Matching, "mo_stub/ft_samus/fs_fn_94_F174.c"),
             Object(Matching, "mo_stub/ft_samus/is_fn_94_19BD8.c"),
+            Object(Matching, "mo_stub/ft_samus/bc_fn_94_1DAE0.c"),
         ],
     },
     {
@@ -6965,6 +7012,9 @@ config.libs = [
             Object(Matching, "mo_stub/ft_snake/ci_fn_122_20588.c"),
             Object(Matching, "mo_stub/ft_snake/fs_fn_122_D580.c"),
             Object(Matching, "mo_stub/ft_snake/fs_fn_122_145AC.c"),
+            Object(Matching, "mo_stub/ft_snake/fc_fn_122_D564.c"),
+            Object(Matching, "mo_stub/ft_snake/fc_fn_122_27980.c"),
+            Object(Matching, "mo_stub/ft_snake/bc_fn_122_18F4C.c"),
         ],
     },
     {
@@ -7179,6 +7229,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_sonic/ci_fn_123_171C0.c"),
             Object(Matching, "mo_stub/ft_sonic/fs_fn_123_12FF0.c"),
             Object(Matching, "mo_stub/ft_sonic/fs_fn_123_13A10.c"),
+            Object(Matching, "mo_stub/ft_sonic/fc_fn_123_13A1C.c"),
+            Object(Matching, "mo_stub/ft_sonic/bc_fn_123_14120.c"),
         ],
     },
     {
@@ -7378,6 +7430,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_toonlink/ci_fn_121_185FC.c"),
             Object(Matching, "mo_stub/ft_toonlink/fs_fn_121_AC08.c"),
             Object(Matching, "mo_stub/ft_toonlink/fs_fn_121_13E04.c"),
+            Object(Matching, "mo_stub/ft_toonlink/fc_fn_121_F12C.c"),
+            Object(Matching, "mo_stub/ft_toonlink/bc_fn_121_14840.c"),
         ],
     },
     {
@@ -7646,6 +7700,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_wario/ci_fn_110_1C934.c"),
             Object(Matching, "mo_stub/ft_wario/fs_fn_110_CC98.c"),
             Object(Matching, "mo_stub/ft_wario/is_fn_110_C79C.c"),
+            Object(Matching, "mo_stub/ft_wario/bc_fn_110_12CAC.c"),
         ],
     },
     {
@@ -7827,6 +7882,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_wolf/ii_fn_125_B328.c"),
             Object(Matching, "mo_stub/ft_wolf/fc_fn_125_D6D8.c"),
             Object(Matching, "mo_stub/ft_wolf/ci_fn_125_10CD8.c"),
+            Object(Matching, "mo_stub/ft_wolf/fc_fn_125_A220.c"),
+            Object(Matching, "mo_stub/ft_wolf/bc_fn_125_10BFC.c"),
         ],
     },
     {
@@ -8045,6 +8102,7 @@ config.libs = [
             Object(Matching, "mo_stub/ft_yoshi/ci_fn_95_1D8CC.c"),
             Object(Matching, "mo_stub/ft_yoshi/fs_fn_95_ABB4.c"),
             Object(Matching, "mo_stub/ft_yoshi/fs_fn_95_1473C.c"),
+            Object(Matching, "mo_stub/ft_yoshi/bc_fn_95_17664.c"),
         ],
     },
     {
@@ -8398,6 +8456,8 @@ config.libs = [
             Object(Matching, "mo_stub/ft_zelda/ci_fn_104_21C00.c"),
             Object(Matching, "mo_stub/ft_zelda/ci_fn_104_24390.c"),
             Object(Matching, "mo_stub/ft_zelda/fs_fn_104_121E8.c"),
+            Object(Matching, "mo_stub/ft_zelda/fc_fn_104_1E33C.c"),
+            Object(Matching, "mo_stub/ft_zelda/bc_fn_104_12990.c"),
         ],
     },
     {
@@ -9359,6 +9419,9 @@ config.libs = [
             Object(Matching, "mo_stub/sora_enemy/is_fn_41_C614.c"),
             Object(Matching, "mo_stub/sora_enemy/is_fn_41_2B31C.c"),
             Object(Matching, "mo_stub/sora_enemy/is_fn_41_34784.c"),
+            Object(Matching, "mo_stub/sora_enemy/fc_fn_41_534C.c"),
+            Object(Matching, "mo_stub/sora_enemy/fc_fn_41_2797C.c"),
+            Object(Matching, "mo_stub/sora_enemy/bc_fn_41_C3FC.c"),
         ],
     },
     {
@@ -19743,6 +19806,12 @@ config.libs = [
             Object(Matching, "mo_stub/sora_melee/is_fn_27_9FBC8.c"),
             Object(Matching, "mo_stub/sora_melee/is_fn_27_281AF8.c"),
             Object(Matching, "mo_stub/sora_melee/is_fn_27_364EA0.c"),
+            Object(Matching, "mo_stub/sora_melee/fc_fn_27_222A10.c"),
+            Object(Matching, "mo_stub/sora_melee/fc_restoreMotionRatio__5StageFi.c"),
+            Object(Matching, "mo_stub/sora_melee/fc_restoreMotionSubRatio__5StageFi.c"),
+            Object(Matching, "mo_stub/sora_melee/bc_fn_27_4FA80.c"),
+            Object(Matching, "mo_stub/sora_melee/bc_fn_27_1E1F6C.c"),
+            Object(Matching, "mo_stub/sora_melee/bc_fn_27_238DD8.c"),
         ],
     },
     {
@@ -24213,6 +24282,7 @@ config.libs = [
             Object(Matching, "mo_stub/st_palutena/fs_fn_67_147C.c"),
             Object(Matching, "mo_stub/st_palutena/fs_fn_67_1B70.c"),
             Object(Matching, "mo_stub/st_palutena/fs_fn_67_91A0.c"),
+            Object(Matching, "mo_stub/st_palutena/fc_fn_67_148C.c"),
         ],
     },
     {

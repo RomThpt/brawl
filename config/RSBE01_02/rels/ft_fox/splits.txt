@@ -14,6 +14,9 @@ global_destructor_chain.c:
 mo_stub/ft_fox/fn_97_8138.c:
 	.text       start:0x00008138 end:0x00008140
 
+mo_stub/ft_fox/fc_fn_97_A308.c:
+	.text       start:0x0000A308 end:0x0000A324
+
 mo_stub/ft_fox/fn_97_ABD4.c:
 	.text       start:0x0000ABD4 end:0x0000ABDC
 
@@ -415,6 +418,9 @@ mo_stub/ft_fox/fn_97_10CB4.c:
 
 mo_stub/ft_fox/fn_97_10CDC.c:
 	.text       start:0x00010CDC end:0x00010CE4
+
+mo_stub/ft_fox/bc_fn_97_10CE4.c:
+	.text       start:0x00010CE4 end:0x00010CF4
 
 mo_stub/ft_fox/fn_97_10CF4.c:
 	.text       start:0x00010CF4 end:0x00010D08

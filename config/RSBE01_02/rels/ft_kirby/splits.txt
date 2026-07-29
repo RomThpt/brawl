@@ -440,6 +440,9 @@ mo_stub/ft_kirby/fn_96_141A8.c:
 mo_stub/ft_kirby/gl_fn_96_14364.c:
 	.text       start:0x00014364 end:0x00014374
 
+mo_stub/ft_kirby/fc_fn_96_14960.c:
+	.text       start:0x00014960 end:0x0001497C
+
 mo_stub/ft_kirby/fn_96_14C00.c:
 	.text       start:0x00014C00 end:0x00014C04
 
@@ -703,6 +706,9 @@ mo_stub/ft_kirby/fn_96_23D34.c:
 
 mo_stub/ft_kirby/fn_96_23D5C.c:
 	.text       start:0x00023D5C end:0x00023D84
+
+mo_stub/ft_kirby/bc_fn_96_23D84.c:
+	.text       start:0x00023D84 end:0x00023D94
 
 mo_stub/ft_kirby/fn_96_23D94.c:
 	.text       start:0x00023D94 end:0x00023DAC
