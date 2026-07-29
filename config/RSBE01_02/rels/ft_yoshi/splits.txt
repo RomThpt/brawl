@@ -494,6 +494,9 @@ mo_stub/ft_yoshi/fn_95_176AC.c:
 mo_stub/ft_yoshi/fn_95_176FC.c:
 	.text       start:0x000176FC end:0x00017700
 
+mo_stub/ft_yoshi/ci_fn_95_17740.c:
+	.text       start:0x00017740 end:0x00017758
+
 mo_stub/ft_yoshi/fn_95_17804.c:
 	.text       start:0x00017804 end:0x0001780C
 
@@ -614,6 +617,9 @@ mo_stub/ft_yoshi/xm_fn_95_17964.c:
 mo_stub/ft_yoshi/fn_95_1796C.c:
 	.text       start:0x0001796C end:0x00017974
 
+mo_stub/ft_yoshi/ci_fn_95_1998C.c:
+	.text       start:0x0001998C end:0x000199A4
+
 mo_stub/ft_yoshi/fn_95_19A50.c:
 	.text       start:0x00019A50 end:0x00019A70
 
@@ -622,6 +628,9 @@ mo_stub/ft_yoshi/fn_95_19A70.c:
 
 mo_stub/ft_yoshi/fn_95_1B7EC.c:
 	.text       start:0x0001B7EC end:0x0001B7F4
+
+mo_stub/ft_yoshi/ci_fn_95_1B834.c:
+	.text       start:0x0001B834 end:0x0001B84C
 
 mo_stub/ft_yoshi/fn_95_1B8F8.c:
 	.text       start:0x0001B8F8 end:0x0001B908
@@ -634,6 +643,9 @@ mo_stub/ft_yoshi/fn_95_1B930.c:
 
 mo_stub/ft_yoshi/fn_95_1D884.c:
 	.text       start:0x0001D884 end:0x0001D88C
+
+mo_stub/ft_yoshi/ci_fn_95_1D8CC.c:
+	.text       start:0x0001D8CC end:0x0001D8E4
 
 mo_stub/ft_yoshi/fn_95_1D990.c:
 	.text       start:0x0001D990 end:0x0001D9B0

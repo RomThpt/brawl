@@ -449,6 +449,9 @@ mo_stub/ft_metaknight/fn_111_10FEC.c:
 mo_stub/ft_metaknight/fn_111_1103C.c:
 	.text       start:0x0001103C end:0x00011040
 
+mo_stub/ft_metaknight/ci_fn_111_11080.c:
+	.text       start:0x00011080 end:0x00011098
+
 mo_stub/ft_metaknight/fn_111_11144.c:
 	.text       start:0x00011144 end:0x0001116C
 

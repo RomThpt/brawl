@@ -503,6 +503,9 @@ mo_stub/ft_lucario/fn_118_13DEC.c:
 mo_stub/ft_lucario/fn_118_13E3C.c:
 	.text       start:0x00013E3C end:0x00013E40
 
+mo_stub/ft_lucario/ci_fn_118_13E80.c:
+	.text       start:0x00013E80 end:0x00013E98
+
 mo_stub/ft_lucario/fn_118_13F44.c:
 	.text       start:0x00013F44 end:0x00013F5C
 
