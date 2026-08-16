@@ -143,6 +143,9 @@ mo_stub/st_halberd/fn_57_A420.c:
 mo_stub/st_halberd/fn_57_A43C.c:
 	.text       start:0x0000A43C end:0x0000A450
 
+mo_stub/st_halberd/zs_fn_57_A450.c:
+	.text       start:0x0000A450 end:0x0000A470
+
 mo_stub/st_halberd/fn_57_A470.c:
 	.text       start:0x0000A470 end:0x0000A478
 

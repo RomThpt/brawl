@@ -167,6 +167,9 @@ mo_stub/st_plankton/fn_74_5B08.c:
 mo_stub/st_plankton/fn_74_5B30.c:
 	.text       start:0x00005B30 end:0x00005B44
 
+mo_stub/st_plankton/zs_fn_74_5B44.c:
+	.text       start:0x00005B44 end:0x00005B64
+
 mo_stub/st_plankton/fn_74_5B64.c:
 	.text       start:0x00005B64 end:0x00005B6C
 

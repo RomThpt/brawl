@@ -146,6 +146,9 @@ mo_stub/st_ice/fn_62_538C.c:
 mo_stub/st_ice/fn_62_53A4.c:
 	.text       start:0x000053A4 end:0x000053AC
 
+mo_stub/st_ice/zs_fn_62_53AC.c:
+	.text       start:0x000053AC end:0x000053CC
+
 mo_stub/st_ice/fn_62_53CC.c:
 	.text       start:0x000053CC end:0x000053D4
 

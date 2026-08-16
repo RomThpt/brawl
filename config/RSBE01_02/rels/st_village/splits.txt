@@ -173,6 +173,9 @@ mo_stub/st_village/fn_70_8774.c:
 mo_stub/st_village/fn_70_8790.c:
 	.text       start:0x00008790 end:0x00008798
 
+mo_stub/st_village/zs_fn_70_8798.c:
+	.text       start:0x00008798 end:0x000087B8
+
 mo_stub/st_village/fn_70_87B8.c:
 	.text       start:0x000087B8 end:0x000087C0
 

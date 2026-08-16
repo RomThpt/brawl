@@ -191,6 +191,9 @@ mo_stub/st_mansion/fn_47_3CBC.c:
 mo_stub/st_mansion/fn_47_3CD4.c:
 	.text       start:0x00003CD4 end:0x00003CD8
 
+mo_stub/st_mansion/zs_fn_47_3CD8.c:
+	.text       start:0x00003CD8 end:0x00003CF8
+
 mo_stub/st_mansion/fn_47_3CF8.c:
 	.text       start:0x00003CF8 end:0x00003D00
 

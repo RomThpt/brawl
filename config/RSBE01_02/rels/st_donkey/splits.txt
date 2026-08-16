@@ -131,6 +131,9 @@ mo_stub/st_donkey/fn_50_59FC.c:
 mo_stub/st_donkey/fn_50_5A14.c:
 	.text       start:0x00005A14 end:0x00005A18
 
+mo_stub/st_donkey/zs_fn_50_5A18.c:
+	.text       start:0x00005A18 end:0x00005A38
+
 mo_stub/st_donkey/fn_50_5A38.c:
 	.text       start:0x00005A38 end:0x00005A40
 

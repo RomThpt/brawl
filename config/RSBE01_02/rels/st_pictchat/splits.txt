@@ -176,6 +176,9 @@ mo_stub/st_pictchat/fn_73_96D0.c:
 mo_stub/st_pictchat/fn_73_96F0.c:
 	.text       start:0x000096F0 end:0x00009700
 
+mo_stub/st_pictchat/zs_fn_73_9700.c:
+	.text       start:0x00009700 end:0x00009720
+
 mo_stub/st_pictchat/fn_73_9720.c:
 	.text       start:0x00009720 end:0x00009728
 

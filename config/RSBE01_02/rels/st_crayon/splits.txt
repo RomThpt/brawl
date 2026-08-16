@@ -91,6 +91,9 @@ mo_stub/st_crayon/fn_56_545C.c:
 mo_stub/st_crayon/fn_56_5480.c:
 	.text       start:0x00005480 end:0x00005490
 
+mo_stub/st_crayon/zs_fn_56_5490.c:
+	.text       start:0x00005490 end:0x000054B0
+
 mo_stub/st_crayon/fn_56_54B0.c:
 	.text       start:0x000054B0 end:0x000054B8
 
