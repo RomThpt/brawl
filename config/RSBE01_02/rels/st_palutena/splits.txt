@@ -59,6 +59,9 @@ mo_stub/st_palutena/gl_fn_67_1D38.c:
 mo_stub/st_palutena/gl_fn_67_1D44.c:
 	.text       start:0x00001D44 end:0x00001D50
 
+mo_stub/st_palutena/sm_fn_67_1D50.c:
+	.text       start:0x00001D50 end:0x00001D60
+
 mo_stub/st_palutena/mc_fn_67_1D60.c:
 	.text       start:0x00001D60 end:0x00001D74
 

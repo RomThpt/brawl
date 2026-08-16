@@ -62,6 +62,9 @@ mo_stub/st_mansion/gl_fn_47_1480.c:
 mo_stub/st_mansion/gl_fn_47_148C.c:
 	.text       start:0x0000148C end:0x00001498
 
+mo_stub/st_mansion/sm_fn_47_1498.c:
+	.text       start:0x00001498 end:0x000014A8
+
 mo_stub/st_mansion/mc_fn_47_14A8.c:
 	.text       start:0x000014A8 end:0x000014BC
 

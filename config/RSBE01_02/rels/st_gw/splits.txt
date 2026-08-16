@@ -101,6 +101,9 @@ mo_stub/st_gw/gl_fn_63_28D8.c:
 mo_stub/st_gw/gl_fn_63_28E4.c:
 	.text       start:0x000028E4 end:0x000028F0
 
+mo_stub/st_gw/sm_fn_63_28F0.c:
+	.text       start:0x000028F0 end:0x00002900
+
 mo_stub/st_gw/mc_fn_63_2900.c:
 	.text       start:0x00002900 end:0x00002914
 

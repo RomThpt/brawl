@@ -80,6 +80,9 @@ mo_stub/st_fzero/gl_fn_61_2130.c:
 mo_stub/st_fzero/gl_fn_61_213C.c:
 	.text       start:0x0000213C end:0x00002148
 
+mo_stub/st_fzero/sm_fn_61_2148.c:
+	.text       start:0x00002148 end:0x00002158
+
 mo_stub/st_fzero/mc_fn_61_2158.c:
 	.text       start:0x00002158 end:0x0000216C
 

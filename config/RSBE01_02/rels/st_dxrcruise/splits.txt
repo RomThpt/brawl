@@ -32,6 +32,9 @@ mo_stub/st_dxrcruise/gl_fn_80_2970.c:
 mo_stub/st_dxrcruise/gl_fn_80_297C.c:
 	.text       start:0x0000297C end:0x00002988
 
+mo_stub/st_dxrcruise/sm_fn_80_2988.c:
+	.text       start:0x00002988 end:0x00002998
+
 mo_stub/st_dxrcruise/mc_fn_80_2998.c:
 	.text       start:0x00002998 end:0x000029AC
 

@@ -44,6 +44,9 @@ mo_stub/st_tengan/gl_fn_60_6158.c:
 mo_stub/st_tengan/gl_fn_60_6164.c:
 	.text       start:0x00006164 end:0x00006170
 
+mo_stub/st_tengan/sm_fn_60_6170.c:
+	.text       start:0x00006170 end:0x00006180
+
 mo_stub/st_tengan/mc_fn_60_6180.c:
 	.text       start:0x00006180 end:0x00006194
 
