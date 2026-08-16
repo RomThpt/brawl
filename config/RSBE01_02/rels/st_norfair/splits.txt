@@ -77,6 +77,9 @@ mo_stub/st_norfair/gl_fn_54_2A2C.c:
 mo_stub/st_norfair/gl_fn_54_2A38.c:
 	.text       start:0x00002A38 end:0x00002A44
 
+mo_stub/st_norfair/sm_fn_54_2A44.c:
+	.text       start:0x00002A44 end:0x00002A54
+
 mo_stub/st_norfair/mc_fn_54_2A54.c:
 	.text       start:0x00002A54 end:0x00002A68
 

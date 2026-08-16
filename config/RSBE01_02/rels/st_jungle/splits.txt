@@ -65,6 +65,9 @@ mo_stub/st_jungle/gl_fn_51_2668.c:
 mo_stub/st_jungle/gl_fn_51_2674.c:
 	.text       start:0x00002674 end:0x00002680
 
+mo_stub/st_jungle/sm_fn_51_2680.c:
+	.text       start:0x00002680 end:0x00002690
+
 mo_stub/st_jungle/mc_fn_51_2690.c:
 	.text       start:0x00002690 end:0x000026A4
 

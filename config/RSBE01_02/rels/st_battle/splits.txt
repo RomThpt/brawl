@@ -38,6 +38,9 @@ mo_stub/st_battle/gl_fn_43_8FC.c:
 mo_stub/st_battle/gl_fn_43_908.c:
 	.text       start:0x00000908 end:0x00000914
 
+mo_stub/st_battle/sm_fn_43_914.c:
+	.text       start:0x00000914 end:0x00000924
+
 mo_stub/st_battle/mc_fn_43_924.c:
 	.text       start:0x00000924 end:0x00000938
 

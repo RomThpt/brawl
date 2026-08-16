@@ -38,6 +38,9 @@ mo_stub/st_village/gl_fn_70_1D98.c:
 mo_stub/st_village/gl_fn_70_1DA4.c:
 	.text       start:0x00001DA4 end:0x00001DB0
 
+mo_stub/st_village/sm_fn_70_1DB0.c:
+	.text       start:0x00001DB0 end:0x00001DC0
+
 mo_stub/st_village/mc_fn_70_1DC0.c:
 	.text       start:0x00001DC0 end:0x00001DD4
 

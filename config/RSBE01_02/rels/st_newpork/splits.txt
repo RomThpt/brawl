@@ -32,6 +32,9 @@ mo_stub/st_newpork/gl_fn_69_2534.c:
 mo_stub/st_newpork/gl_fn_69_2540.c:
 	.text       start:0x00002540 end:0x0000254C
 
+mo_stub/st_newpork/sm_fn_69_254C.c:
+	.text       start:0x0000254C end:0x0000255C
+
 mo_stub/st_newpork/mc_fn_69_255C.c:
 	.text       start:0x0000255C end:0x00002570
 

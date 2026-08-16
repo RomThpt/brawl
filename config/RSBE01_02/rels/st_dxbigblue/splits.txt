@@ -53,6 +53,9 @@ mo_stub/st_dxbigblue/gl_fn_81_3F9C.c:
 mo_stub/st_dxbigblue/gl_fn_81_3FA8.c:
 	.text       start:0x00003FA8 end:0x00003FB4
 
+mo_stub/st_dxbigblue/sm_fn_81_3FB4.c:
+	.text       start:0x00003FB4 end:0x00003FC4
+
 mo_stub/st_dxbigblue/mc_fn_81_3FC4.c:
 	.text       start:0x00003FC4 end:0x00003FD8
 

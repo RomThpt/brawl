@@ -29,6 +29,9 @@ mo_stub/st_dxpstadium/gl_fn_83_2C38.c:
 mo_stub/st_dxpstadium/gl_fn_83_2C44.c:
 	.text       start:0x00002C44 end:0x00002C50
 
+mo_stub/st_dxpstadium/sm_fn_83_2C50.c:
+	.text       start:0x00002C50 end:0x00002C60
+
 mo_stub/st_dxpstadium/mc_fn_83_2C60.c:
 	.text       start:0x00002C60 end:0x00002C74
 

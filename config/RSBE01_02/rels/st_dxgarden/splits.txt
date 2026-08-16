@@ -38,6 +38,9 @@ mo_stub/st_dxgarden/gl_fn_77_BDC.c:
 mo_stub/st_dxgarden/gl_fn_77_BE8.c:
 	.text       start:0x00000BE8 end:0x00000BF4
 
+mo_stub/st_dxgarden/sm_fn_77_BF4.c:
+	.text       start:0x00000BF4 end:0x00000C04
+
 mo_stub/st_dxgarden/mc_fn_77_C04.c:
 	.text       start:0x00000C04 end:0x00000C18
 

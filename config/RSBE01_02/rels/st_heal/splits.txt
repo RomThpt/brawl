@@ -29,6 +29,9 @@ mo_stub/st_heal/gl_fn_87_D58.c:
 mo_stub/st_heal/gl_fn_87_D64.c:
 	.text       start:0x00000D64 end:0x00000D70
 
+mo_stub/st_heal/sm_fn_87_D70.c:
+	.text       start:0x00000D70 end:0x00000D80
+
 mo_stub/st_heal/mc_fn_87_D80.c:
 	.text       start:0x00000D80 end:0x00000D94
 

@@ -29,6 +29,9 @@ mo_stub/st_orpheon/gl_fn_55_22D4.c:
 mo_stub/st_orpheon/gl_fn_55_22E0.c:
 	.text       start:0x000022E0 end:0x000022EC
 
+mo_stub/st_orpheon/sm_fn_55_22EC.c:
+	.text       start:0x000022EC end:0x000022FC
+
 mo_stub/st_orpheon/mc_fn_55_22FC.c:
 	.text       start:0x000022FC end:0x00002310
 
