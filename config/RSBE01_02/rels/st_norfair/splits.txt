@@ -194,6 +194,9 @@ mo_stub/st_norfair/fn_54_5638.c:
 mo_stub/st_norfair/fn_54_565C.c:
 	.text       start:0x0000565C end:0x0000566C
 
+mo_stub/st_norfair/zs_fn_54_566C.c:
+	.text       start:0x0000566C end:0x0000568C
+
 mo_stub/st_norfair/fn_54_568C.c:
 	.text       start:0x0000568C end:0x00005694
 

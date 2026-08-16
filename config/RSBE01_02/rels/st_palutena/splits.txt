@@ -176,6 +176,9 @@ mo_stub/st_palutena/fn_67_46DC.c:
 mo_stub/st_palutena/fn_67_4704.c:
 	.text       start:0x00004704 end:0x00004718
 
+mo_stub/st_palutena/zs_fn_67_4718.c:
+	.text       start:0x00004718 end:0x00004738
+
 mo_stub/st_palutena/fn_67_4738.c:
 	.text       start:0x00004738 end:0x00004740
 

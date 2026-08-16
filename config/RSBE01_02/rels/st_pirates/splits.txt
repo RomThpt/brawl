@@ -161,6 +161,9 @@ mo_stub/st_pirates/fn_52_6C18.c:
 mo_stub/st_pirates/fn_52_6C38.c:
 	.text       start:0x00006C38 end:0x00006C48
 
+mo_stub/st_pirates/zs_fn_52_6C48.c:
+	.text       start:0x00006C48 end:0x00006C68
+
 mo_stub/st_pirates/fn_52_6C68.c:
 	.text       start:0x00006C68 end:0x00006C70
 

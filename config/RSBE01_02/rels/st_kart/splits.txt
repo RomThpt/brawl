@@ -179,6 +179,9 @@ mo_stub/st_kart/fn_49_5C60.c:
 mo_stub/st_kart/fn_49_5C88.c:
 	.text       start:0x00005C88 end:0x00005C9C
 
+mo_stub/st_kart/zs_fn_49_5C9C.c:
+	.text       start:0x00005C9C end:0x00005CBC
+
 mo_stub/st_kart/fn_49_5CBC.c:
 	.text       start:0x00005CBC end:0x00005CC4
 

@@ -104,6 +104,9 @@ mo_stub/st_dxgarden/fn_77_3310.c:
 mo_stub/st_dxgarden/fn_77_3330.c:
 	.text       start:0x00003330 end:0x00003340
 
+mo_stub/st_dxgarden/zs_fn_77_3340.c:
+	.text       start:0x00003340 end:0x00003360
+
 mo_stub/st_dxgarden/fn_77_3360.c:
 	.text       start:0x00003360 end:0x00003368
 

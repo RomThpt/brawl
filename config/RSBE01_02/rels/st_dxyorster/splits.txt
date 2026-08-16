@@ -146,6 +146,9 @@ mo_stub/st_dxyorster/fn_76_2F80.c:
 mo_stub/st_dxyorster/fn_76_2FA4.c:
 	.text       start:0x00002FA4 end:0x00002FB4
 
+mo_stub/st_dxyorster/zs_fn_76_2FB4.c:
+	.text       start:0x00002FB4 end:0x00002FD4
+
 mo_stub/st_dxyorster/fn_76_2FD4.c:
 	.text       start:0x00002FD4 end:0x00002FDC
 
