@@ -140,6 +140,15 @@ mo_stub/ft_gamewatch/fn_107_C6D0.c:
 mo_stub/ft_gamewatch/fn_107_DFFC.c:
 	.text       start:0x0000DFFC end:0x0000E004
 
+mo_stub/ft_gamewatch/lo_fn_107_E010.c:
+	.text       start:0x0000E010 end:0x0000E01C
+
+mo_stub/ft_gamewatch/lo_fn_107_E030.c:
+	.text       start:0x0000E030 end:0x0000E03C
+
+mo_stub/ft_gamewatch/lo_fn_107_E03C.c:
+	.text       start:0x0000E03C end:0x0000E048
+
 mo_stub/ft_gamewatch/acc_fn_107_E08C.c:
 	.text       start:0x0000E08C end:0x0000E0A4
 

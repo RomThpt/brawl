@@ -143,6 +143,15 @@ mo_stub/ft_link/fn_93_B3C4.c:
 mo_stub/ft_link/fn_93_CBB0.c:
 	.text       start:0x0000CBB0 end:0x0000CBB8
 
+mo_stub/ft_link/lo_fn_93_CBC4.c:
+	.text       start:0x0000CBC4 end:0x0000CBD0
+
+mo_stub/ft_link/lo_fn_93_CBE4.c:
+	.text       start:0x0000CBE4 end:0x0000CBF0
+
+mo_stub/ft_link/lo_fn_93_CBF0.c:
+	.text       start:0x0000CBF0 end:0x0000CBFC
+
 mo_stub/ft_link/acc_fn_93_CCA0.c:
 	.text       start:0x0000CCA0 end:0x0000CCB8
 

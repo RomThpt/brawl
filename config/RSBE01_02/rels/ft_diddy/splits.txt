@@ -455,8 +455,14 @@ mo_stub/ft_diddy/fn_115_13700.c:
 mo_stub/ft_diddy/gl_fn_115_138D0.c:
 	.text       start:0x000138D0 end:0x000138DC
 
+mo_stub/ft_diddy/dd_fn_115_138DC.c:
+	.text       start:0x000138DC end:0x000138E8
+
 mo_stub/ft_diddy/fn_115_138E8.c:
 	.text       start:0x000138E8 end:0x000138F0
+
+mo_stub/ft_diddy/dd_fn_115_138F0.c:
+	.text       start:0x000138F0 end:0x000138FC
 
 mo_stub/ft_diddy/fn_115_16AC4.c:
 	.text       start:0x00016AC4 end:0x00016AC8

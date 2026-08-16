@@ -128,6 +128,15 @@ mo_stub/ft_luigi/fn_99_8C20.c:
 mo_stub/ft_luigi/fn_99_9C28.c:
 	.text       start:0x00009C28 end:0x00009C38
 
+mo_stub/ft_luigi/lo_fn_99_9C38.c:
+	.text       start:0x00009C38 end:0x00009C44
+
+mo_stub/ft_luigi/lo_fn_99_9C58.c:
+	.text       start:0x00009C58 end:0x00009C64
+
+mo_stub/ft_luigi/lo_fn_99_9C64.c:
+	.text       start:0x00009C64 end:0x00009C70
+
 mo_stub/ft_luigi/acc_fn_99_9CB4.c:
 	.text       start:0x00009CB4 end:0x00009CCC
 

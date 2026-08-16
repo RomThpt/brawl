@@ -23,6 +23,9 @@ mo_stub/sora_adv_stage/fs_fn_40_CF8.c:
 mo_stub/sora_adv_stage/fn_40_38B8.c:
 	.text       start:0x000038B8 end:0x000038C0
 
+mo_stub/sora_adv_stage/dd_fn_40_3D3C.c:
+	.text       start:0x00003D3C end:0x00003D48
+
 mo_stub/sora_adv_stage/dt_fn_40_3EB0.c:
 	.text       start:0x00003EB0 end:0x00003EF0
 

@@ -81,6 +81,9 @@ mo_stub/sora_menu_main/fn_2_2B578.c:
 mo_stub/sora_menu_main/fn_2_30560.c:
 	.text       start:0x00030560 end:0x00030568
 
+mo_stub/sora_menu_main/dd_fn_2_36908.c:
+	.text       start:0x00036908 end:0x00036914
+
 mo_stub/sora_menu_main/ms_fn_2_36934.c:
 	.text       start:0x00036934 end:0x00036940
 

@@ -641,8 +641,17 @@ mo_stub/ft_dedede/gl_fn_117_1CD0C.c:
 mo_stub/ft_dedede/gl_fn_117_1CD18.c:
 	.text       start:0x0001CD18 end:0x0001CD24
 
+mo_stub/ft_dedede/dd_fn_117_1CD24.c:
+	.text       start:0x0001CD24 end:0x0001CD30
+
 mo_stub/ft_dedede/fn_117_1CD30.c:
 	.text       start:0x0001CD30 end:0x0001CD38
+
+mo_stub/ft_dedede/dd_fn_117_1CD38.c:
+	.text       start:0x0001CD38 end:0x0001CD44
+
+mo_stub/ft_dedede/dd_fn_117_1CD44.c:
+	.text       start:0x0001CD44 end:0x0001CD50
 
 mo_stub/ft_dedede/fn_117_1F750.c:
 	.text       start:0x0001F750 end:0x0001F754
