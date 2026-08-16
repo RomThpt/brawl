@@ -11,6 +11,9 @@ global_destructor_chain.c:
 	.dtors      start:0x00000000 end:0x00000008
 	.bss        start:0x00000000 end:0x00000004
 
+mo_stub/ft_pikmin/dd_fn_113_6860.c:
+	.text       start:0x00006860 end:0x0000686C
+
 mo_stub/ft_pikmin/fn_113_686C.c:
 	.text       start:0x0000686C end:0x00006874
 

@@ -134,6 +134,15 @@ mo_stub/ft_mario/fn_91_A920.c:
 mo_stub/ft_mario/fn_91_BD3C.c:
 	.text       start:0x0000BD3C end:0x0000BD44
 
+mo_stub/ft_mario/lo_fn_91_BD50.c:
+	.text       start:0x0000BD50 end:0x0000BD5C
+
+mo_stub/ft_mario/lo_fn_91_BD70.c:
+	.text       start:0x0000BD70 end:0x0000BD7C
+
+mo_stub/ft_mario/lo_fn_91_BD7C.c:
+	.text       start:0x0000BD7C end:0x0000BD88
+
 mo_stub/ft_mario/acc_fn_91_BDCC.c:
 	.text       start:0x0000BDCC end:0x0000BDE4
 

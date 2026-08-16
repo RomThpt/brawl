@@ -9,6 +9,9 @@ Sections:
 mo_stub/sora_menu_rule/fn_18_B30.c:
 	.text       start:0x00000B30 end:0x00000B38
 
+mo_stub/sora_menu_rule/dd_fn_18_B38.c:
+	.text       start:0x00000B38 end:0x00000B44
+
 mo_stub/sora_menu_rule/fn_18_B4C.c:
 	.text       start:0x00000B4C end:0x00000B54
 
