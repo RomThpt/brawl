@@ -341,6 +341,9 @@ sora/cm/cm_controller_default.cpp:
 stub/fn_800A5F6C.c:
 	.text       start:0x800A5F6C end:0x800A5F70
 
+sora/cm/cm_controller_anm.cpp:
+	.text       start:0x800A6348 end:0x800A63A0
+
 sora/cm/cm_controller_menu_fixed.cpp:
 	.text       start:0x800A68C0 end:0x800A6A78
 	.data       start:0x80454ED8 end:0x80454F10
