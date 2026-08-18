@@ -569,8 +569,8 @@ void stEmblem::updateScene00(float deltaFrame) {
         unkSnd728 = playSeBasic((SndID)(rand + snd_se_stage_Emblem_touseki_01),unk720);
         float fVar1 = (randf()*100.0f);
         float fVar2 = 50.0f - fVar1;
-        unk724 = 0.0;
         unk71C = fVar2 + 130.0f;
+        unk724 = 0.0;
     }
     unk720+=0.05f;
     if (unk720 >= 0.0f) {
