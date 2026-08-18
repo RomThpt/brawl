@@ -328,6 +328,9 @@ stub/fn_8009B324.c:
 stub/fn_8009BA28.c:
 	.text       start:0x8009BA28 end:0x8009BA2C
 
+sora/cm/cm_camera_controller.cpp:
+	.text       start:0x8009BE74 end:0x8009BE7C
+
 stub/fn_8009C618.c:
 	.text       start:0x8009C618 end:0x8009C61C
 
