@@ -868,6 +868,7 @@ config.libs = [
             Object(Matching, "sora/mv/mv_THPAudioDecode.cpp"),
             Object(Matching, "sora/mv/mv_THPRead.cpp"),
             Object(Matching, "sora/cm/cm_controller_default.cpp", extra_cflags=["-RTTI off"]),
+            Object(Matching, "sora/cm/cm_camera_controller.cpp"),
             Object(Matching, "sora/cm/cm_controller_anm.cpp"),
             Object(Matching, "sora/cm/cm_controller_photo.cpp"),
             Object(NonMatching, "sora/cm/cm_controller_menu_fixed.cpp"),
