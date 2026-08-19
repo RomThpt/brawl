@@ -846,6 +846,8 @@ config.libs = [
             Object(Matching, "sora/gf/gf_pad_thread.cpp", extra_cflags=["-RTTI off"]),
             Object(Matching, "sora/gf/gf_task.cpp"),
             Object(NonMatching, "sora/gf/gf_task_scheduler.cpp"),
+            Object(Matching, "sora/gf/gf_scene.cpp"),
+            Object(Matching, "sora/gf/gf_copyefb.cpp"),
             Object(Matching, "sora/gf/gf_thread.cpp"),
             Object(Matching, "sora/gf/gf_shutdown_manager.cpp"),
             Object(NonMatching, "sora/gf/gf_slow_manager.cpp"),

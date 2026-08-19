@@ -115,6 +115,9 @@ sora/gf/gf_pad_thread.cpp:
 	.data       start:0x80422E88 end:0x80422EA8
 	.sdata2     start:0x805A1550 end:0x805A1560
 
+sora/gf/gf_scene.cpp:
+	.text       start:0x8002D018 end:0x8002D020
+
 sora/gf/gf_task.cpp:
 	.text       start:0x8002D8B8 end:0x8002E09C
 	.data       start:0x80422EC8 end:0x80422F6C
@@ -126,6 +129,9 @@ sora/gf/gf_task_scheduler.cpp:
 
 sora/gf/gf_thread.cpp:
 	.text       start:0x8002F5B8 end:0x8002F6F4
+
+sora/gf/gf_copyefb.cpp:
+	.text       start:0x8002FE48 end:0x8002FE50
 
 sora/gf/gf_shutdown_manager.cpp:
 	.text       start:0x80030340 end:0x80030548
