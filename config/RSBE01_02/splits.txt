@@ -384,6 +384,9 @@ sora/ty/ty_fig_listmng.cpp:
 	.text       start:0x800AC9DC end:0x800AD808
 	.data       start:0x80455120 end:0x80455180
 
+sora/mu/menu.cpp:
+	.text       start:0x800AF80C end:0x800AF874
+
 stub/fn_800B0790.c:
 	.text       start:0x800B0790 end:0x800B0794
 
