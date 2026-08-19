@@ -285,6 +285,9 @@ stub/fn_8006EBC4.c:
 stub/fn_8006FE30.c:
 	.text       start:0x8006FE30 end:0x8006FE38
 
+sora/ms/ms_char_writer.cpp:
+	.text       start:0x8006FFB0 end:0x8007001C
+
 stub/fn_80070D64.c:
 	.text       start:0x80070D64 end:0x80070D7C
 
