@@ -25746,6 +25746,9 @@ mo_stub/sora_melee/xm_fn_27_268B08.c:
 mo_stub/sora_melee/xm_fn_27_268B10.c:
 	.text       start:0x00268B10 end:0x00268B18
 
+mo_melee/sora_melee/gr/gr_yakumono_punch_slider.cpp:
+	.text       start:0x00268BCC end:0x00268C24
+
 mo_stub/sora_melee/xm_fn_27_269C38.c:
 	.text       start:0x00269C38 end:0x00269C40
 
@@ -25809,6 +25812,12 @@ mo_stub/sora_melee/fd_fn_27_26F4F0.c:
 mo_stub/sora_melee/gl_fn_27_26F548.c:
 	.text       start:0x0026F548 end:0x0026F554
 
+mo_melee/sora_melee/gr/gr_gimmick_ladder.cpp:
+	.text       start:0x0026F734 end:0x0026F78C
+
+mo_melee/sora_melee/gr/gr_gimmick_spring.cpp:
+	.text       start:0x0026FCC8 end:0x0026FD20
+
 mo_stub/sora_melee/dt_fn_27_270EB4.c:
 	.text       start:0x00270EB4 end:0x00270EF4
 
@@ -25817,6 +25826,12 @@ mo_stub/sora_melee/dt_fn_27_271130.c:
 
 mo_stub/sora_melee/dt_fn_27_271708.c:
 	.text       start:0x00271708 end:0x00271748
+
+mo_melee/sora_melee/gr/gr_gimmick_warpzone.cpp:
+	.text       start:0x002740EC end:0x00274144
+
+mo_melee/sora_melee/gr/gr_gimmick_catapult.cpp:
+	.text       start:0x00274708 end:0x00274760
 
 mo_stub/sora_melee/fd_getTgtNode__8grMadeinFv.c:
 	.text       start:0x00278DC8 end:0x00278DD0
