@@ -25347,6 +25347,9 @@ mo_melee/sora_melee/st/st_common_gimmick.cpp:
 mo_stub/sora_melee/bc_fn_27_238DD8.c:
 	.text       start:0x00238DD8 end:0x00238DEC
 
+mo_melee/sora_melee/st/st_melee.cpp:
+	.text       start:0x00238DEC end:0x00238E90
+
 mo_stub/sora_melee/fd_checkChangeScene__7stMeleeFv.c:
 	.text       start:0x00239AE4 end:0x00239AEC
 
