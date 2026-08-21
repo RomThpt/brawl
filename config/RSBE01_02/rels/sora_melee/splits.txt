@@ -25836,6 +25836,9 @@ mo_melee/sora_melee/gr/gr_gimmick_warpzone.cpp:
 mo_melee/sora_melee/gr/gr_gimmick_catapult.cpp:
 	.text       start:0x00274708 end:0x00274760
 
+mo_melee/sora_melee/gr/gr_madein.cpp:
+	.text       start:0x00275928 end:0x002759D8
+
 mo_stub/sora_melee/fd_getTgtNode__8grMadeinFv.c:
 	.text       start:0x00278DC8 end:0x00278DD0
 
