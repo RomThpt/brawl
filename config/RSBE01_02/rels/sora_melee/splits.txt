@@ -25662,6 +25662,9 @@ mo_stub/sora_melee/xm_fn_27_264C70.c:
 mo_stub/sora_melee/xm_fn_27_264C78.c:
 	.text       start:0x00264C78 end:0x00264C80
 
+mo_melee/sora_melee/gr/gr_yakumono.cpp:
+	.text       start:0x00264CC4 end:0x00264D1C
+
 mo_stub/sora_melee/pi_fn_27_2655FC.c:
 	.text       start:0x002655FC end:0x0026560C
 

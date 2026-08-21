@@ -9551,6 +9551,7 @@ config.libs = [
             Object(Matching, "mo_melee/sora_melee/ft/ft_extend_param_accesser.cpp"),
             Object(Matching, "mo_melee/sora_melee/ft/ft_fighter_build_data.cpp"),
             Object(Matching, "mo_melee/sora_melee/st/st_common_gimmick.cpp"),
+            Object(Matching, "mo_melee/sora_melee/gr/gr_yakumono.cpp"),
             Object(Matching, "mo_melee/mo_melee.cpp"),
             Object(Matching, "mo_stub/sora_melee/fn_27_E54.c"),
             Object(Matching, "mo_stub/sora_melee/fn_27_3624.c"),
