@@ -25866,6 +25866,9 @@ mo_stub/sora_melee/xm_fn_27_27A8CC.c:
 mo_stub/sora_melee/xm_fn_27_27A8D4.c:
 	.text       start:0x0027A8D4 end:0x0027A8DC
 
+mo_melee/sora_melee/gr/gr_tengan_event.cpp:
+	.text       start:0x0027BD80 end:0x0027BDB8
+
 mo_stub/sora_melee/fd_fn_27_27F4D0.c:
 	.text       start:0x0027F4D0 end:0x0027F4D8
 
