@@ -849,6 +849,8 @@ config.libs = [
             Object(Matching, "sora/gf/gf_scene.cpp"),
             Object(Matching, "sora/gf/gf_copyefb.cpp"),
             Object(Matching, "sora/ms/ms_char_writer.cpp"),
+            Object(Matching, "sora/ms/ms_char_writer_scale.cpp"),
+            Object(Matching, "sora/ms/ms_char_writer_fixedwidth.cpp"),
             Object(Matching, "sora/mu/mu_msg.cpp"),
             Object(Matching, "sora/mu/menu.cpp"),
             Object(Matching, "sora/gf/gf_thread.cpp"),

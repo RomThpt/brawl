@@ -282,8 +282,14 @@ stub/fn_80065E60.c:
 stub/fn_8006EBC4.c:
 	.text       start:0x8006EBC4 end:0x8006EBCC
 
+sora/ms/ms_char_writer_scale.cpp:
+	.text       start:0x8006FC60 end:0x8006FC90
+
 stub/fn_8006FE30.c:
 	.text       start:0x8006FE30 end:0x8006FE38
+
+sora/ms/ms_char_writer_fixedwidth.cpp:
+	.text       start:0x8006FE38 end:0x8006FE50
 
 sora/ms/ms_char_writer.cpp:
 	.text       start:0x8006FFB0 end:0x8007001C
