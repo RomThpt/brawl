@@ -25752,6 +25752,9 @@ mo_stub/sora_melee/xm_fn_27_269C38.c:
 mo_stub/sora_melee/dt_fn_27_26A5A4.c:
 	.text       start:0x0026A5A4 end:0x0026A5E4
 
+mo_melee/sora_melee/gr/gr_gimmick_motion_path.cpp:
+	.text       start:0x0026E2A4 end:0x0026E2FC
+
 mo_stub/sora_melee/fd_getModelCount__19grGimmickMotionPathFv.c:
 	.text       start:0x0026F064 end:0x0026F06C
 
