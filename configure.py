@@ -20024,6 +20024,7 @@ config.libs = [
             Object(Matching, "mo_stub/sora_melee/zs_fn_27_6C34.c"),
             Object(Matching, "mo_melee/sora_melee/st/st_melee.cpp"),
             Object(Matching, "mo_melee/sora_melee/gr/gr_madein.cpp"),
+            Object(Matching, "mo_melee/sora_melee/gr/gr_tengan_event.cpp"),
         ],
     },
     {
