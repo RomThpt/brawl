@@ -25347,6 +25347,9 @@ mo_melee/sora_melee/st/st_common_gimmick.cpp:
 mo_stub/sora_melee/bc_fn_27_238DD8.c:
 	.text       start:0x00238DD8 end:0x00238DEC
 
+mo_melee/sora_melee/st/st_melee.cpp:
+	.text       start:0x00238DEC end:0x00238E90
+
 mo_stub/sora_melee/fd_checkChangeScene__7stMeleeFv.c:
 	.text       start:0x00239AE4 end:0x00239AEC
 
@@ -25832,6 +25835,9 @@ mo_melee/sora_melee/gr/gr_gimmick_warpzone.cpp:
 
 mo_melee/sora_melee/gr/gr_gimmick_catapult.cpp:
 	.text       start:0x00274708 end:0x00274760
+
+mo_melee/sora_melee/gr/gr_madein.cpp:
+	.text       start:0x00275928 end:0x002759D8
 
 mo_stub/sora_melee/fd_getTgtNode__8grMadeinFv.c:
 	.text       start:0x00278DC8 end:0x00278DD0
