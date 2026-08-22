@@ -858,6 +858,7 @@ config.libs = [
             Object(Matching, "sora/mu/menu_gm_char.cpp"),
             Object(Matching, "sora/mu/menu.cpp"),
             Object(Matching, "sora/mu/menu_voice_length.cpp"),
+            Object(Matching, "sora/mu/menu_sound.cpp"),
             Object(Matching, "sora/gf/gf_thread.cpp"),
             Object(Matching, "sora/gf/gf_shutdown_manager.cpp"),
             Object(NonMatching, "sora/gf/gf_slow_manager.cpp"),
