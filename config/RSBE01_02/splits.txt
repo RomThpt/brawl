@@ -282,6 +282,9 @@ stub/fn_80065E60.c:
 stub/fn_8006EBC4.c:
 	.text       start:0x8006EBC4 end:0x8006EBCC
 
+sora/ms/ms_char_writer_getfont.cpp:
+	.text       start:0x8006EEE4 end:0x8006EEEC
+
 sora/ms/ms_char_writer_scale.cpp:
 	.text       start:0x8006FC60 end:0x8006FC90
 
