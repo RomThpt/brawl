@@ -422,6 +422,9 @@ stub/fn_800B08A0.c:
 stub/fn_800B85AC.c:
 	.text       start:0x800B85AC end:0x800B85B0
 
+sora/mu/mu_msg_setters.cpp:
+	.text       start:0x800B938C end:0x800B93DC
+
 sora/mu/mu_msg.cpp:
 	.text       start:0x800B94A0 end:0x800B9504
 

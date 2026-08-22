@@ -854,6 +854,7 @@ config.libs = [
             Object(Matching, "sora/ms/ms_char_writer_getfont.cpp"),
             Object(Matching, "sora/ms/ms_char_writer_scale.cpp"),
             Object(Matching, "sora/ms/ms_char_writer_fixedwidth.cpp"),
+            Object(Matching, "sora/mu/mu_msg_setters.cpp"),
             Object(Matching, "sora/mu/mu_msg.cpp"),
             Object(Matching, "sora/mu/menu_gm_char.cpp"),
             Object(Matching, "sora/mu/menu.cpp"),
