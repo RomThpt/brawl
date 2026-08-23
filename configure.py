@@ -9567,6 +9567,7 @@ config.libs = [
             Object(Matching, "mo_melee/sora_melee/gr/gr_gimmick_warpzone.cpp"),
             Object(Matching, "mo_melee/sora_melee/gr/gr_gimmick_catapult.cpp"),
             Object(Matching, "mo_melee/sora_melee/gr/gr_gimmick_motion_path.cpp"),
+            Object(Matching, "mo_melee/sora_melee/gr/gr_gimmick_motion_path_frame.cpp"),
             Object(Matching, "mo_melee/mo_melee.cpp"),
             Object(Matching, "mo_stub/sora_melee/fn_27_E54.c"),
             Object(Matching, "mo_stub/sora_melee/fn_27_3624.c"),
