@@ -875,6 +875,7 @@ config.libs = [
             Object(NonMatching, "sora/ut/ut_relocate.cpp"),
             Object(Matching, "sora/ut/ut_list.cpp"),
             Object(Matching, "sora/ip/ip_human.cpp"),
+            Object(Matching, "sora/ip/ip_switch.cpp"),
             Object(NonMatching, "sora/ip/ip_network_producer.cpp"),
             Object(Matching, "sora/ef/ef_screen_handle.cpp"),
             Object(Matching, "sora/ec/ec_trace_mgr.cpp"),
