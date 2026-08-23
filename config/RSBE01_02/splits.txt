@@ -237,6 +237,8 @@ sora/ip/ip_human.cpp:
 
 sora/ip/ip_switch.cpp:
 	.text       start:0x8004A750 end:0x8004A798
+sora/ip/ip_padconfig.cpp:
+	.text       start:0x80048548 end:0x800485A4
 
 sora/ip/ip_network_producer.cpp:
 	.text       start:0x8004AE14 end:0x8004AFB4
