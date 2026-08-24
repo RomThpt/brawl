@@ -324,6 +324,9 @@ stub/fn_80070D64.c:
 stub/fn_80070D7C.c:
 	.text       start:0x80070D7C end:0x80070D84
 
+sora/snd/snd_system.cpp:
+	.text       start:0x80073D20 end:0x80073D24
+
 stub/fn_8007748C.c:
 	.text       start:0x8007748C end:0x80077490
 
