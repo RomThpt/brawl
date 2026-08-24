@@ -9098,6 +9098,8 @@ config.libs = [
         "objects": [
             Object(Matching, "mo_enemy/sora_enemy/em_info.cpp"),
             Object(Matching, "mo_enemy/sora_enemy/em_create.cpp"),
+            Object(Matching, "mo_enemy/sora_enemy/em_manager.cpp"),
+            Object(Matching, "mo_enemy/sora_enemy/em_weapon_manager.cpp"),
             Object(Matching, "mo_enemy/sora_enemy/resource/em_resource_module_impl.cpp"),
             Object(Matching, "mo_enemy/sora_enemy/stop/em_stop_module_impl.cpp"),
             Object(Matching, "mo_enemy/sora_enemy/em_extend_param_accesser.cpp"),

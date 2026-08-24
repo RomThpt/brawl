@@ -173,6 +173,9 @@ mo_stub/sora_enemy/fn_41_C660.c:
 mo_stub/sora_enemy/fn_41_C688.c:
 	.text       start:0x0000C688 end:0x0000C6B0
 
+mo_enemy/sora_enemy/em_manager.cpp:
+	.text       start:0x0000C804 end:0x0000C810
+
 mo_stub/sora_enemy/fn_41_DB84.c:
 	.text       start:0x0000DB84 end:0x0000DB8C
 
@@ -505,6 +508,9 @@ mo_stub/sora_enemy/xm_fn_41_2BDE4.c:
 
 mo_stub/sora_enemy/fn_41_2BDEC.c:
 	.text       start:0x0002BDEC end:0x0002BE04
+
+mo_enemy/sora_enemy/em_weapon_manager.cpp:
+	.text       start:0x0002BE58 end:0x0002BE64
 
 mo_stub/sora_enemy/fn_41_2C278.c:
 	.text       start:0x0002C278 end:0x0002C280
