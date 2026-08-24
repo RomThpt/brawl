@@ -410,6 +410,15 @@ sora/ty/ty_fig_listmng.cpp:
 	.text       start:0x800AC9DC end:0x800AD808
 	.data       start:0x80455120 end:0x80455180
 
+sora/mu/menu_char_kind.cpp:
+	.text       start:0x800AF148 end:0x800AF160
+
+sora/mu/menu_selchkind.cpp:
+	.text       start:0x800AF31C end:0x800AF350
+
+sora/mu/menu_stage_kind.cpp:
+	.text       start:0x800AF58C end:0x800AF5B4
+
 sora/mu/menu_gm_char.cpp:
 	.text       start:0x800AF600 end:0x800AF614
 
