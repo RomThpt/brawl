@@ -845,6 +845,7 @@ config.libs = [
             Object(Matching, "sora/gf/gf_keep_fb.cpp"),
             Object(Matching, "sora/gf/gf_memory_util.cpp"),
             Object(Matching, "sora/gf/gf_pad_queue.cpp"),
+            Object(Matching, "sora/gf/gf_pad_system.cpp"),
             Object(Matching, "sora/gf/gf_pad_thread.cpp", extra_cflags=["-RTTI off"]),
             Object(Matching, "sora/gf/gf_task.cpp"),
             Object(NonMatching, "sora/gf/gf_task_scheduler.cpp"),
